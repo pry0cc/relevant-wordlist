@@ -466,6 +466,7 @@ Baron
 Barrett
 Barriers
 Bars
+Bartali
 Baseball
 Based
 Baseless
@@ -965,6 +966,7 @@ Cookbook
 Cooked
 Coolers
 Cooper
+Coppi
 Cora
 Cordae
 Corden
@@ -2010,6 +2012,7 @@ Insurrection
 Intense
 Internal
 International
+Internazionale
 Internet
 Internment
 Interrupts
@@ -3451,6 +3454,7 @@ Session
 Set
 Seth
 Sets
+Settimana
 Seven
 Seven-year-old
 Several
@@ -4921,6 +4925,7 @@ detective
 detectives
 developer
 device
+di
 diabetes
 diagnosis
 diamond-encrusted
@@ -4998,6 +5003,7 @@ dunk
 during
 dying
 dysfunction
+e
 eBook
 earlier
 early
@@ -5932,6 +5938,7 @@ pleads
 pledge
 plunges
 podcast
+podcasts
 point
 polarised
 police
@@ -6467,6 +6474,7 @@ stuff
 stunning
 stupid
 subscriber
+subscription
 substantially
 suburban
 suburbs

@@ -549,6 +549,7 @@ barrage
 barrett
 barriers
 bars
+bartali
 base
 baseball
 based
@@ -1219,6 +1220,7 @@ cooler
 coolers
 cooper
 cop
+coppi
 cops
 cora
 cordae
@@ -1494,6 +1496,7 @@ developments
 device
 devices
 dfw
+di
 diabetes
 diagnosis
 diamond-encrusted
@@ -1667,6 +1670,7 @@ dying
 dyke
 dysfunction
 dyson
+e
 e-tron
 each
 eagles
@@ -2650,6 +2654,7 @@ intensive
 interest
 internal
 international
+internazionale
 internet
 internment
 interrupts
@@ -3819,6 +3824,7 @@ plus-up
 plymouth
 pm
 podcast
+podcasts
 podiatrist
 point
 points
@@ -4524,6 +4530,7 @@ session
 set
 seth
 sets
+settimana
 settle
 settlement
 seven
@@ -4889,6 +4896,7 @@ style
 styles
 subaru
 subscriber
+subscription
 substance
 substantially
 suburban
