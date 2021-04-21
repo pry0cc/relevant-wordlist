@@ -42,6 +42,7 @@
 147000
 149
 15
+15-year-old
 150
 155
 15M
@@ -269,6 +270,7 @@ Administration
 Admit
 Admitted
 Adolescents
+Adoption
 Adorable
 Adrian
 Ads
@@ -568,6 +570,7 @@ Becoming
 Bed
 Bee
 Been
+Beers
 Before
 Beggars
 Begin
@@ -595,6 +598,7 @@ Better
 Between
 Beverly
 Bevers
+Beware
 Bey
 Bezos
 Bibox
@@ -1240,8 +1244,10 @@ Debate
 Debut
 Deby
 Dec
+Decade
 Decision
 Decline
+Declines
 Decor
 Dee
 Deemed
@@ -1574,6 +1580,7 @@ Excel
 Exchange
 Excited
 Exclusive
+Executions
 Executive
 Exeter
 Exhibition
@@ -1969,6 +1976,7 @@ Gym
 HAAH
 HARDY
 HBOs
+HEAT
 HER
 HFPA
 HM
@@ -2048,6 +2056,7 @@ High
 High-momentum
 Highly
 Hiker
+Hiking
 Hill
 Hills
 Himself
@@ -2116,6 +2125,7 @@ Hulus
 Human
 Hundreds
 Hunger
+Hunky
 Hunter
 Hunting
 Hurdle
@@ -2325,6 +2335,7 @@ Jobs
 Jody
 Joe
 Joel
+Joes
 John
 Johnny
 Johnson
@@ -2515,6 +2526,7 @@ Less
 Let
 Lets
 Letters
+Level
 Levels
 Lewis
 Li
@@ -2920,6 +2932,7 @@ NYPD
 Nab
 Naked
 Name
+Names
 Nancy
 Naomi
 Naperville
@@ -3152,6 +3165,7 @@ Party
 Pass
 Passed
 Passenger
+Passion
 Passport
 Passwordless
 Past
@@ -3178,6 +3192,7 @@ Pedro
 Pelosi
 Peloton-Worthy
 Pembroke
+Penalty
 Penguins
 Peni
 Penn
@@ -3197,6 +3212,7 @@ Person
 Persona
 Peru
 Pesquet
+Pet
 Peter
 Peters
 Petition
@@ -3384,6 +3400,7 @@ Pulse
 Pulver
 Punch
 Punish
+Pup
 Purchase
 Purple
 Puscifers
@@ -3466,6 +3483,7 @@ Raudonikis
 Raul
 Re-Sign
 Re-release
+Reach
 React
 Reacted
 Reacting
@@ -3493,6 +3511,7 @@ Recent
 Recipe
 Recognized
 Record
+Recorded
 Records
 Recovering
 Recyclable
@@ -3841,6 +3860,7 @@ Shedd
 Sheffield
 Sheikha
 Shell
+Shelter
 Sheridan
 Sheriff
 Sheriffs
@@ -4259,6 +4279,7 @@ TikToks
 Tilburys
 Tiles
 Tim
+Timberwolves
 Time
 Timeline
 Times
@@ -4307,6 +4328,7 @@ Tracking
 Tracks
 Tractor
 Trade
+Trader
 Trading
 Trafficking
 Tragedy
@@ -4652,6 +4674,7 @@ Woodward
 Word
 Work
 Worked
+Worker
 Workers
 Working
 Workout
@@ -4674,6 +4697,7 @@ XMR
 XRP
 Xanadu
 Xcode
+Xi
 Xinjiang
 YIKES
 Yaku
@@ -4724,6 +4748,7 @@ Zuckerberg
 Zuma
 Zurich
 a
+abandoned
 abandons
 able
 abnormal
@@ -4745,6 +4770,7 @@ accurately
 accused
 across
 act
+action
 activates
 activists
 actor
@@ -4886,6 +4912,7 @@ attacks
 attempt
 attempted
 attempting
+attend
 attorney
 auction
 aunt
@@ -5015,6 +5042,7 @@ bonus
 book
 booking
 bookings
+booming
 boost
 booze
 border
@@ -5055,6 +5083,7 @@ buggered
 build
 building
 buildings
+bullets
 bullying
 bump
 bundle
@@ -5062,6 +5091,7 @@ buried
 burn
 burning
 bus
+business
 businesses
 busmaker
 but
@@ -5280,6 +5310,7 @@ conviction
 convinced
 convincing
 cooking
+cool
 cooler
 cooperation
 cop
@@ -5402,6 +5433,7 @@ delay
 delayed
 delays
 deliberations
+delicious
 deluge
 demand
 dementia
@@ -5676,6 +5708,7 @@ fatally
 father
 favorite
 fear
+fearful
 fears
 feature
 feds
@@ -5957,6 +5990,7 @@ hit
 hit-and-run
 hitmaker
 hits
+hitting
 hold
 holiday
 home
@@ -5985,6 +6019,7 @@ hotel
 hotels
 hours
 house
+housing
 how
 hub
 huge
@@ -6043,6 +6078,7 @@ infections
 infielder
 infirmed
 inflows
+info
 info-stealing
 information
 infrastructure
@@ -6255,6 +6291,7 @@ makes
 making
 male
 malicious
+malls
 malware
 mammoth
 man
@@ -7077,6 +7114,7 @@ smash
 smell
 smokers
 smoking
+snacks
 snag
 snake
 snap
@@ -7184,6 +7222,7 @@ storm
 story
 straight
 strategy
+stray
 streak
 stream
 streaming
@@ -7227,6 +7266,7 @@ suicidal
 suicides
 suit
 summer
+summit
 summit1g
 summon
 sunshine

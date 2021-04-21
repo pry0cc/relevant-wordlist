@@ -42,6 +42,7 @@
 147000
 149
 15
+15-year-old
 150
 155
 15m
@@ -276,6 +277,7 @@ admits
 admitted
 adolescents
 adopted
+adoption
 adorable
 adrian
 ads
@@ -679,6 +681,7 @@ beds
 bee
 beef
 been
+beers
 before
 befuddled
 began
@@ -718,6 +721,7 @@ better
 between
 beverly
 bevers
+beware
 bey
 bezos
 bibox
@@ -808,6 +812,7 @@ booking
 bookings
 books
 boom
+booming
 boomtown
 boost
 booze
@@ -925,6 +930,7 @@ buildings
 bulgarians
 bull
 bulldogs
+bullets
 bulls
 bullying
 bump
@@ -1369,6 +1375,7 @@ cook
 cookbook
 cooked
 cooking
+cool
 cooler
 coolers
 cooper
@@ -1588,6 +1595,7 @@ deciding
 decision
 deck
 decline
+declines
 decomposed
 decor
 decreased
@@ -1618,6 +1626,7 @@ delco
 delete
 delhi
 deliberations
+delicious
 deliver
 delroy
 delta
@@ -2080,6 +2089,7 @@ exclusive
 exec
 execution
 executioners
+executions
 executive
 exercise
 exeter
@@ -2197,6 +2207,7 @@ fbi
 fc
 fda
 fear
+fearful
 fearing
 fears
 feature
@@ -2729,6 +2740,7 @@ highlight
 highlights
 highly
 hiker
+hiking
 hill
 hills
 him
@@ -2746,6 +2758,7 @@ hit
 hit-and-run
 hitmaker
 hits
+hitting
 hm
 hoax
 hoc
@@ -2802,6 +2815,7 @@ house
 house-style
 houses
 housework
+housing
 houston
 houston-area
 how
@@ -2821,6 +2835,7 @@ humanity
 hundreds
 hunger
 hunger-striking
+hunky
 hunt
 hunter
 hunting
@@ -2930,6 +2945,7 @@ infielder
 infirmed
 inflows
 influencers
+info
 info-stealing
 information
 informer
@@ -3096,6 +3112,7 @@ jobs
 jody
 joe
 joel
+joes
 john
 johnny
 johnson
@@ -3488,6 +3505,7 @@ making
 malaysia
 male
 malicious
+malls
 malone
 malware
 mammoth
@@ -4114,6 +4132,7 @@ passed
 passenger
 passengers
 passes
+passion
 passport
 passports
 password
@@ -4155,6 +4174,7 @@ pedro
 pelosi
 peloton-worthy
 pembroke
+penalty
 penguins
 peni
 penn
@@ -4181,6 +4201,7 @@ person
 persona
 peru
 pesquet
+pet
 peter
 peters
 petition
@@ -4467,6 +4488,7 @@ punch
 punching
 punish
 punks
+pup
 purchase
 purple
 pursuit
@@ -4614,6 +4636,7 @@ recommendations
 reconsider
 record
 record-breaking
+recorded
 records
 recount
 recovering
@@ -5224,6 +5247,7 @@ smokers
 smoking
 smuggling
 snack
+snacks
 snag
 snake
 snap
@@ -5482,6 +5506,7 @@ suicides
 suisun
 suit
 summer
+summit
 summit1g
 summon
 sumo
@@ -5724,6 +5749,7 @@ tilburys
 tiles
 tim
 timber
+timberwolves
 time
 timeline
 times
@@ -5787,6 +5813,7 @@ tractor
 trade
 trade-off
 traded
+trader
 trading
 traffic
 trafficking
@@ -6267,6 +6294,7 @@ x
 xanadu
 xcode
 xdr
+xi
 xinjiang
 xmr
 xrp
