@@ -145,6 +145,7 @@
 112
 112-106
 112-96
+113-112
 113-91
 114-110
 115
@@ -188,6 +189,7 @@
 130
 13000
 132
+134-120
 134-129
 139-137
 13K
@@ -210,6 +212,7 @@
 15000
 150K
 155
+156
 159
 15M
 15th
@@ -295,6 +298,7 @@
 1978
 1979
 1980
+1980s
 1984
 1985
 1986
@@ -367,6 +371,7 @@
 2019
 2019s
 2020
+2020-2021
 202021
 2020s
 2021
@@ -690,6 +695,7 @@
 7000
 700000
 70106
+70K
 70M
 71
 72-year-old
@@ -711,6 +717,7 @@
 79
 793
 79K
+7m
 7th
 8
 8-Year-Old
@@ -755,6 +762,7 @@
 9000
 90000
 90K
+91
 911
 92
 93
@@ -1028,6 +1036,7 @@ Ages
 Agglomration
 Agglopolys
 Aggressive
+Agnelli
 Agnellis
 Ago
 Agraphia
@@ -1357,6 +1366,7 @@ Apex
 Apexs
 Apocalypse
 Apocryphal
+Apoel
 Apollo
 Apologize
 Apologizes
@@ -1372,6 +1382,7 @@ Apple
 Applebees
 Apples
 Appliance
+Appliances
 Applications
 Applied
 Apply
@@ -1806,6 +1817,7 @@ Bathroom
 Bathurst
 Batman
 Baton
+Batras
 Battalion
 Battery
 Battist
@@ -1964,6 +1976,7 @@ Bid
 Bidder
 Bidding
 Biden
+Biden-Harris
 Bidens
 Bieber
 Biebers
@@ -2039,6 +2052,7 @@ Blackout
 Blacks
 Blackston
 Blackstone
+Blacktop
 Blah
 Blair
 Blake
@@ -2138,6 +2152,7 @@ Boom
 Booming
 Boomtown
 Boone
+Boorowa
 Boos
 Boost
 Booster
@@ -2469,6 +2484,7 @@ CDA
 CDC
 CDPHE
 CDU
+CDUCSU
 CDUs
 CEO
 CEOs
@@ -2726,6 +2742,7 @@ Catalan
 Catalini
 Catalunya
 Catamorphosis
+Catcaller
 Catcher
 Caters
 Catfish
@@ -2822,6 +2839,7 @@ Champlin
 Chan
 Chance
 Chancellor
+Chancellors
 Chances
 Chandelle
 Chang
@@ -2952,6 +2970,7 @@ Chopra
 Chops
 Choreographer
 Chosen
+Chowder
 Chowdhury
 Chris
 Chrissy
@@ -3476,6 +3495,7 @@ Covid-19
 Covid-Positive
 Covid-Related
 Covid-free
+Covid-relief
 Covids
 Cowan
 Cowboys
@@ -3776,6 +3796,7 @@ Daywatch
 Daz
 Daz-Canel
 Daza
+Daze
 Dazeem
 Dbacks
 Dby
@@ -3874,6 +3895,7 @@ Del
 Delaware
 Delay
 Delayed
+Delays
 Delco
 Delegate
 Delete
@@ -4077,6 +4099,7 @@ Digital
 Dignity
 Dike
 Dikeledi
+Dilemma
 Dill
 Dilophospora
 Dim
@@ -4605,6 +4628,7 @@ Elmwood
 Eloise
 Elon
 Elordi
+Elote-Style
 Elphas
 Else
 Elsie
@@ -4696,6 +4720,7 @@ Enslaved
 Enten
 Enter
 Entering
+Enterprise
 Enters
 Entertainment
 Enthusiasts
@@ -4726,6 +4751,7 @@ Equipment
 Equity
 Equivalent
 Era
+Erdogan
 Erdogans
 Eres
 Eric
@@ -5096,6 +5122,7 @@ Feeders
 Feek
 Feel
 Feeling
+Feelings
 Feels
 Fees
 Feet
@@ -5113,6 +5140,7 @@ Female
 Feminism
 Feminist
 Fending
+Fengqi
 Fentanyl
 Fenton
 Fenway
@@ -5151,6 +5179,7 @@ Fifth-grade
 Fight
 Fighters
 Fighting
+Figueroa
 Figure
 Figures
 Fiji
@@ -5237,6 +5266,7 @@ Flames
 Flannigan
 Flash
 Flashback
+Flashpoint
 Flatiron
 Flavor
 Flavors
@@ -5300,6 +5330,7 @@ Folding
 Follow
 Followed
 Following
+Follows
 Fonda
 Fonseka
 Food
@@ -5650,6 +5681,7 @@ Gerasimov
 Gerber
 German
 GermanRussian
+Germans
 Germany
 Germanys
 Gerrit
@@ -5994,6 +6026,7 @@ HILO
 HIPAA
 HIRING
 HIV
+HK
 HM
 HMS
 HP
@@ -6164,6 +6197,7 @@ Heal
 Healdsburg
 Healing
 Health
+Healthcare
 Healthiest
 Healthy
 Healy
@@ -6192,6 +6226,7 @@ Heckles
 Hedgehog
 Heeded
 Heels
+Hegic
 Heidi
 Heights
 Heimbigner
@@ -6208,6 +6243,7 @@ Helguero
 Helicopter
 Helicopters
 Hell
+Hellman
 Helms
 Helmstatt
 Help
@@ -6217,6 +6253,7 @@ Helping
 Helps
 Hemingway
 Hemp
+Hempel
 Hempstead
 Hemsworth
 Henan
@@ -6237,6 +6274,7 @@ Herberstein
 Herbert
 Herbs
 Herd
+Herders
 Here
 Heres
 Heritage
@@ -6420,6 +6458,7 @@ Hosmer
 Hospital
 Hospitalizations
 Hospitalized
+Hospitals
 Host
 Hostage
 Hostess
@@ -6549,6 +6588,7 @@ I-76
 IBM
 ICBMs
 ICE
+ICO
 ICU
 ICUs
 ICYMI
@@ -7166,6 +7206,7 @@ Jumping
 Jumps
 Junction
 June
+Jungle
 Junhui
 Junior
 Jupiters
@@ -7178,6 +7219,7 @@ Justice
 Justices
 Justin
 Juvenile
+Juventus
 Juzang
 K
 K-8
@@ -7379,6 +7421,7 @@ Kirkconnell
 Kirnan
 Kirton
 Kish
+Kiss
 Kissed
 Kiszla
 Kitchen
@@ -7424,6 +7467,7 @@ Kokumai
 Kolar
 Kolin
 Kombat
+Kombats
 Komoroski
 Konare
 Kondo
@@ -7992,6 +8036,7 @@ Loyal
 Loyd
 Loyola
 Lt
+Ltd
 Ltoile
 Lubbock
 Lucas
@@ -8029,6 +8074,7 @@ Lux
 Luxe
 Luxurious
 Luxury
+Luzardo
 Luzardos
 Lyft
 Lying
@@ -8084,6 +8130,7 @@ MVP
 MVRN
 MYANMAR
 Ma
+MaKhia
 Mabel
 Mac
 MacBook
@@ -8180,6 +8227,7 @@ Mamnoon
 Man
 Manacles
 Manaea
+Manaeas
 Manage
 Managed
 Manager
@@ -8227,12 +8275,14 @@ Manufacturers
 Manuka
 Many
 Map
+Maple
 Mapping
 Maquina
 Mar
 Mar-a-Lago
 Mara
 Marathon
+Marcella
 March
 Marchand
 Marching
@@ -8651,6 +8701,7 @@ Minnesotas
 Minnetta
 Minor
 Minority
+Minority-Owned
 Minority-led
 Minors
 Minute
@@ -8748,6 +8799,7 @@ Monet
 Money
 Moneyist
 Mongolia
+Mongolian
 Monica
 Monitors
 Monk
@@ -9109,6 +9161,7 @@ Nemak
 Neo-Aramaic
 Neo-Nazi
 Nepal
+Nepotism
 Nerd
 NerdWallet
 Nerfed
@@ -9207,6 +9260,7 @@ Nocturne
 Nodes
 Nodus
 Noel
+Noida
 Noir
 Nola
 Nomadland
@@ -9235,6 +9289,7 @@ Normal
 Normandy
 Norrie
 Norris
+Norte
 North
 NorthPark
 Northampton
@@ -9551,6 +9606,7 @@ Oxford
 Oxfords
 Oxnard
 OxyContin
+Oxygen
 Oyarzn
 Oyelowo
 Oyeyemi
@@ -9800,6 +9856,7 @@ Peaky
 Pearce
 Pearl
 Pearland
+Pearson
 Peasy
 Peavy
 Pech
@@ -9861,6 +9918,7 @@ Period
 Periodically
 Periods
 Perkz
+Perlman
 Permit
 Permitless
 Permits
@@ -9889,6 +9947,7 @@ Peter
 Peters
 Peterson
 Petition
+Petitions
 Petko
 Petraea
 Petros
@@ -9969,6 +10028,7 @@ Pillow
 Pilot
 Pimping
 Pinellas
+Ping
 Pink
 Pino
 Pinot
@@ -10257,6 +10317,7 @@ Preseason
 Presence
 Present
 Presenters
+Presents
 Preservation
 Preserve
 Preserving
@@ -10408,6 +10469,7 @@ Publishing
 Puente
 Puerto
 Pugach
+Pujols
 Pull
 Pulled
 Pulling
@@ -10515,6 +10577,7 @@ RDs
 READ
 READERS
 REAL
+REALLY
 RECURSION
 REVEAL
 REVIEW
@@ -11012,6 +11075,7 @@ Ria
 Riado
 Ribs
 Ric
+Rica
 Riccabona
 Rice
 Rich
@@ -11561,6 +11625,7 @@ Scunthorpe
 Sea
 Seabra
 Seager
+Seagrams
 Seahawks
 Sean
 Search
@@ -11846,6 +11911,7 @@ Sidner
 Siege
 Siegemund
 Sieges
+Siempre
 Siena
 Sierra
 Sigh
@@ -12166,6 +12232,7 @@ Spinjitzu
 Spinning
 Spio
 Spirit
+Spiritism
 Spirituality
 Spitz
 Split
@@ -12296,6 +12363,7 @@ Steinitz
 Steinman
 Steinmeier
 Stellantis
+Stellar
 Stem
 Step
 Stepdad
@@ -12558,6 +12626,7 @@ Sustainability
 Sustainable
 Sustainment
 Sutherland
+Sutter
 Sutton
 Suzan-Lori
 Suzuki
@@ -12643,6 +12712,7 @@ THOMAS
 THOUGHTS
 THRICE
 TODAY
+TOP
 TP
 TP-Link
 TPGs
@@ -12754,6 +12824,7 @@ Tavern
 Tax
 Tax-Dodging
 Taxpayers
+Tay
 Taylor
 Taylor-Joy
 Taylors
@@ -12878,6 +12949,7 @@ Then
 Theodora
 Theoretical
 Theory
+Theosophical
 Therapist
 Therapy
 There
@@ -13187,6 +13259,7 @@ Tritt
 Triumph
 Triumphant
 Trivia
+Trivigno
 Troll
 Troop
 Trooper
@@ -13198,6 +13271,7 @@ Troubas
 Trouble
 Troubleshoot
 Troubleshooter
+Trout
 Trove
 Trubbish
 Truck
@@ -13261,6 +13335,7 @@ Tweet
 Tweets
 Twelfth
 Twenties
+Twice
 Twin
 Twins
 Twirlywoos
@@ -13271,6 +13346,7 @@ Twitch
 Twitter
 Two
 Two-Game
+Two-Lane
 Two-alarm
 Tx
 Tyke
@@ -13483,6 +13559,7 @@ Utley
 Uttar
 Utter
 Uyghurs
+Uytae
 Uzi
 Uzoka
 V
@@ -13498,7 +13575,9 @@ VET
 VH1s
 VICIS
 VIDEO
+VIDEOS
 VIRT
+VO
 VOD
 VORTECS
 VP
@@ -13698,6 +13777,7 @@ Vitamin
 Vitamix
 Viteazul
 Vittorio
+Viva
 Vivek
 Vivian
 Vividly
@@ -13735,6 +13815,7 @@ Vulnerabilities
 Vuori
 W
 WARNING
+WARPs
 WATCH
 WB
 WBZ-TV
@@ -13799,6 +13880,7 @@ Walters
 Walton
 Walygator
 Walz
+Wanda
 WandaVision
 Wanna
 Want
@@ -14137,6 +14219,7 @@ Wreath
 Wrestling
 Wright
 Wrights
+Wrigley
 Write
 Writer
 Writers
@@ -14293,6 +14376,7 @@ Zeneli
 Zephyr
 Zeppelin
 Zero
+Zero-Day
 Zeroing
 Zeta-Jones
 Zhang
@@ -14338,6 +14422,7 @@ able
 abnormal
 aboard
 abolish
+abolition
 about
 above
 abroad
@@ -14444,6 +14529,7 @@ admit
 admits
 admitting
 adopted
+adoption
 adoptive
 adorable
 adorably
@@ -14589,6 +14675,7 @@ amazing
 ambassador
 ambition
 ambulances
+amend
 amendment
 amid
 ammonia
@@ -14750,6 +14837,7 @@ ask
 asked
 asking
 asks
+asleep
 asparagus
 aspiring
 assassinations
@@ -14978,6 +15066,7 @@ belief
 believe
 believed
 believes
+belligerent
 beloved
 below
 benching
@@ -15114,6 +15203,7 @@ bod
 bodega
 bodies
 body
+body-cam
 body-slams
 bodycam
 boil
@@ -15558,6 +15648,7 @@ child
 child-sex
 childhood
 children
+childrens
 childs
 chill
 chills
@@ -15730,6 +15821,7 @@ comes
 comfort
 comfortable
 comic
+comics
 coming
 command
 commander
@@ -15946,6 +16038,7 @@ cordial
 corner
 cornerback
 corny
+coronasomnia
 coronavirus
 coronavirus-shaped
 coronavirusnow
@@ -16037,6 +16130,7 @@ creator
 creatures
 credentials
 credit
+credit-card
 credited
 credits
 cremated
@@ -16150,6 +16244,7 @@ cyberstalking
 cycle
 cycling
 cyclist
+cyclists
 czar
 dArvazzano
 dacha
@@ -16430,6 +16525,7 @@ digs
 dilemma
 dim
 diner
+diners
 dinghy
 dinner
 dino
@@ -16877,6 +16973,7 @@ equisetacea
 equities
 equity
 era
+eradicate
 erect
 erosion
 errant
@@ -16940,6 +17037,7 @@ ex-communications
 ex-cop
 ex-cops
 ex-girlfriend
+ex-husband
 ex-law
 ex-number
 ex-officer
@@ -16952,6 +17050,7 @@ ex-soldiers
 ex-vice
 ex-wife
 exacerbated
+exactly
 exaggerating
 exalts
 examiner
@@ -17396,6 +17495,7 @@ franchisees
 frantic
 frantically
 fraud
+fraudster
 freak
 freaked
 freaking
@@ -17602,6 +17702,7 @@ graceful
 grad
 grader
 grads
+gradual
 gradually
 graffiti
 grand
@@ -17753,6 +17854,7 @@ happens
 happiest
 happily
 happy
+harass
 harassed
 harassing
 harassment
@@ -18038,6 +18140,7 @@ ignite
 ignorance
 ignore
 ignored
+ignores
 ignoring
 ill
 illegal
@@ -18092,6 +18195,7 @@ in-court
 in-game
 in-person
 in-state
+inability
 inappropriate
 inaugural
 inauguration
@@ -18318,6 +18422,7 @@ jams
 janeirense
 jarring
 jazz
+jeans
 jeopardise
 jersey
 jet
@@ -18664,6 +18769,7 @@ long
 long-awaited
 long-haul
 long-held
+long-term
 longer
 longest
 longest-lasting
@@ -18989,6 +19095,7 @@ misspoke
 mistake
 mistaken
 mistakenly
+mistakes
 mistreated
 mistreating
 mistreatment
@@ -19521,6 +19628,7 @@ panned
 pans
 pantry
 pants
+paper
 papers
 paperwork
 papuensis
@@ -19681,6 +19789,7 @@ physique
 pick
 picks
 pickup
+pics
 picture
 pictured
 pictures
@@ -20153,6 +20262,7 @@ racialized
 racing
 racism
 racist
+racked
 radar
 radiant
 radical
@@ -20352,6 +20462,7 @@ refused
 refusers
 refuses
 refusing
+refutes
 regains
 regardless
 region
@@ -21194,6 +21305,7 @@ slaying
 sleep
 sleeper
 sleepers
+sleeping
 sleepless
 sleuth
 slew
@@ -21632,6 +21744,7 @@ sucks
 sudden
 suddenly
 sue
+sued
 sues
 suffer
 suffered
@@ -22023,6 +22136,7 @@ tobacco
 tobattleAmazonWalmart
 today
 todays
+toddler
 toddlers
 toe
 together
@@ -22342,6 +22456,7 @@ unofficial
 unprecedented
 unprotected
 unraveled
+unravels
 unregistered
 unrest
 unscientific
@@ -22545,6 +22660,7 @@ waits
 waive
 waivers
 wake
+waking
 walk
 walk-in
 walk-ins

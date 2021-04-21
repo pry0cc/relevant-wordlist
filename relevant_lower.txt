@@ -142,6 +142,7 @@
 112
 112-106
 112-96
+113-112
 113-91
 114-110
 115
@@ -183,6 +184,7 @@
 130
 13000
 132
+134-120
 134-129
 139-137
 13k
@@ -204,6 +206,7 @@
 15000
 150k
 155
+156
 159
 15m
 15th
@@ -287,6 +290,7 @@
 1978
 1979
 1980
+1980s
 1984
 1985
 1986
@@ -358,6 +362,7 @@
 2019
 2019s
 2020
+2020-2021
 202021
 2020s
 2021
@@ -670,6 +675,7 @@
 7000
 700000
 70106
+70k
 70m
 71
 72-year-old
@@ -691,6 +697,7 @@
 79
 793
 79k
+7m
 7th
 8
 8-day
@@ -732,6 +739,7 @@
 9000
 90000
 90k
+91
 911
 92
 93
@@ -795,6 +803,7 @@ abnormal
 aboard
 abolish
 abolishes
+abolition
 abolitionist
 abortion
 abortions
@@ -1053,6 +1062,7 @@ aggression
 aggressive
 aging
 agitated
+agnelli
 agnellis
 ago
 agony
@@ -1272,6 +1282,7 @@ ambitious
 ambulance
 ambulances
 amc
+amend
 amendment
 amenities
 amerbach
@@ -1459,6 +1470,7 @@ apexs
 apkpure
 apocalypse
 apocryphal
+apoel
 apollo
 apologises
 apologize
@@ -2019,6 +2031,7 @@ bathrooms
 bathurst
 batman
 baton
+batras
 bats
 battalion
 batten
@@ -2125,6 +2138,7 @@ believes
 believing
 bell
 bella
+belligerent
 bellinger
 beloved
 below
@@ -2218,6 +2232,7 @@ bid
 bidder
 bidding
 biden
+biden-harris
 bidens
 bids
 bieber
@@ -2315,6 +2330,7 @@ blackout
 blacks
 blackston
 blackstone
+blacktop
 blaesa
 blah
 blair
@@ -2418,6 +2434,7 @@ bod
 bodega
 bodies
 body
+body-cam
 body-machine
 body-slams
 bodyboss
@@ -2467,6 +2484,7 @@ booming
 booms
 boomtown
 boone
+boorowa
 boos
 boost
 boosted
@@ -3126,6 +3144,7 @@ catalyst
 catamorphosis
 catastrophe
 catastrophic
+catcaller
 catch
 catcher
 catches
@@ -3174,6 +3193,7 @@ cda
 cdc
 cdphe
 cdu
+cducsu
 cdus
 ceasefire
 ceaser
@@ -3269,6 +3289,7 @@ chan
 chance
 chancellery
 chancellor
+chancellors
 chances
 chandelle
 chang
@@ -3386,6 +3407,7 @@ child
 child-sex
 childhood
 children
+childrens
 childs
 chile
 chiles
@@ -3433,6 +3455,7 @@ chores
 chorus
 chose
 chosen
+chowder
 chowdhury
 chp
 chris
@@ -3772,6 +3795,7 @@ comes
 comfort
 comfortable
 comic
+comics
 coming
 command
 commander
@@ -4087,6 +4111,7 @@ corny
 cornyn
 corona
 coronapas
+coronasomnia
 coronavirus
 coronavirus-shaped
 coronavirusnow
@@ -4187,6 +4212,7 @@ covid-free
 covid-inspired
 covid-positive
 covid-related
+covid-relief
 covid19
 covids
 cowan
@@ -4240,6 +4266,7 @@ creators
 creatures
 credentials
 credit
+credit-card
 credited
 credits
 creek
@@ -4449,6 +4476,7 @@ cycle
 cyclicals
 cycling
 cyclist
+cyclists
 cyclone
 cynthia
 cyperus
@@ -4569,6 +4597,7 @@ daywatch
 daz
 daz-canel
 daza
+daze
 dazeem
 dazzles
 dazzling
@@ -5682,6 +5711,7 @@ elmwood
 eloise
 elon
 elordi
+elote-style
 elphas
 else
 elsewhere
@@ -5820,6 +5850,7 @@ ensuring
 enten
 enter
 entering
+enterprise
 enters
 entertainment
 enthusiasts
@@ -5873,6 +5904,8 @@ equities
 equity
 equivalent
 era
+eradicate
+erdogan
 erdogans
 erect
 eres
@@ -6023,6 +6056,7 @@ ex-girlfriend
 ex-gladiators
 ex-hfpa
 ex-hollywood
+ex-husband
 ex-inmate
 ex-jack
 ex-jets
@@ -6050,6 +6084,7 @@ ex-vice
 ex-wife
 exacerbated
 exact
+exactly
 exaggerating
 exalts
 exam
@@ -6380,6 +6415,7 @@ feeders
 feek
 feel
 feeling
+feelings
 feels
 fees
 feet
@@ -6404,6 +6440,7 @@ feminists
 fence
 fencing
 fending
+fengqi
 fentanyl
 fenton
 fenway
@@ -6452,6 +6489,7 @@ fight
 fighters
 fighting
 fights
+figueroa
 figure
 figures
 fiji
@@ -6791,6 +6829,7 @@ fraser
 fraternity
 frau
 fraud
+fraudster
 fraudsters
 fraudulent
 frazier
@@ -7088,6 +7127,7 @@ gerasimov
 gerber
 german
 germanrussian
+germans
 germany
 germanys
 gerrit
@@ -7298,6 +7338,7 @@ grad
 grade
 grader
 grads
+gradual
 gradually
 graduating
 graduation
@@ -7619,6 +7660,7 @@ happiest
 happily
 happiness
 happy
+harass
 harassed
 harassing
 harassment
@@ -7771,6 +7813,7 @@ hedgehog
 heeded
 heels
 hegemony
+hegic
 heidi
 heightened
 heights
@@ -7788,6 +7831,7 @@ helguero
 helicopter
 helicopters
 hell
+hellman
 helmets
 helms
 helmstatt
@@ -7798,6 +7842,7 @@ helping
 helps
 hemingway
 hemp
+hempel
 hempstead
 hemsworth
 henan
@@ -7819,6 +7864,7 @@ herberstein
 herbert
 herbs
 herd
+herders
 here
 heres
 heritage
@@ -7942,6 +7988,7 @@ hitter
 hitting
 hiv
 hiwinui
+hk
 hm
 hman
 hms
@@ -8223,6 +8270,7 @@ icedid
 iceland
 icicles
 icing
+ico
 icon
 iconic
 icons
@@ -8364,6 +8412,7 @@ in-game
 in-person
 in-state
 in-the-wild
+inability
 inad
 inappropriate
 inaugural
@@ -9023,6 +9072,7 @@ justices
 justified
 justin
 juvenile
+juventus
 juzang
 k
 k-8
@@ -9221,6 +9271,7 @@ kirkconnell
 kirnan
 kirton
 kish
+kiss
 kissed
 kiszla
 kit
@@ -9283,6 +9334,7 @@ kokumai
 kolar
 kolin
 kombat
+kombats
 komoroski
 konare
 kondo
@@ -10020,6 +10072,7 @@ lux
 luxe
 luxurious
 luxury
+luzardo
 luzardos
 lvarez
 lyft
@@ -10126,6 +10179,7 @@ makeshift
 makeup
 makhanda
 makhi
+makhia
 making
 makwayiba
 mal
@@ -10153,6 +10207,7 @@ man-baby
 man-to-man
 manacles
 manaea
+manaeas
 manage
 managed
 management
@@ -10209,6 +10264,7 @@ manufacturing
 manuka
 many
 map
+maple
 mapping
 maps
 maquina
@@ -10216,6 +10272,7 @@ mar
 mar-a-lago
 mara
 marathon
+marcella
 march
 marchand
 marching
@@ -10727,6 +10784,7 @@ minor
 minorities
 minority
 minority-led
+minority-owned
 minors
 minus
 minute
@@ -10861,6 +10919,7 @@ monetizing
 money
 moneyist
 mongolia
+mongolian
 monica
 monitor
 monitoring
@@ -11253,6 +11312,7 @@ neo-nazi
 neon
 nepal
 nephew
+nepotism
 nerd
 nerdwallet
 nerf
@@ -11399,6 +11459,7 @@ nodes
 nods
 nodus
 noel
+noida
 noir
 nola
 nolan
@@ -11445,6 +11506,7 @@ normalize
 normandy
 norrie
 norris
+norte
 north
 northampton
 northbound
@@ -12174,6 +12236,7 @@ peanut
 pearce
 pearl
 pearland
+pearson
 peasy
 peavy
 pech
@@ -12253,6 +12316,7 @@ peripherals
 perk
 perks
 perkz
+perlman
 permanent
 permanente
 permanently
@@ -12292,6 +12356,7 @@ peter
 peters
 peterson
 petition
+petitions
 petko
 petraea
 petroglyphs
@@ -12397,6 +12462,7 @@ pims
 pinata
 pinch
 pinellas
+ping
 pink
 pino
 pinot
@@ -12804,6 +12870,7 @@ preseason
 presence
 present
 presenters
+presents
 preservation
 preserve
 preserved
@@ -13048,6 +13115,7 @@ publishing
 puente
 puerto
 pugach
+pujols
 pull
 pulled
 pulling
@@ -13197,6 +13265,7 @@ racing
 racism
 racist
 rack
+racked
 raconteur
 ractliffes
 radar
@@ -13536,6 +13605,7 @@ refused
 refusers
 refuses
 refusing
+refutes
 regains
 regardless
 regenerative
@@ -13919,6 +13989,7 @@ riado
 rib
 ribs
 ric
+rica
 riccabona
 rice
 rich
@@ -14558,6 +14629,7 @@ sea
 seabra
 seafood
 seager
+seagrams
 seahawks
 seamaac
 sean
@@ -14954,6 +15026,7 @@ sidner
 siege
 siegemund
 sieges
+siempre
 siena
 sierra
 sigh
@@ -15425,6 +15498,7 @@ spinosus
 spins
 spio
 spirit
+spiritism
 spiritual
 spirituality
 spit
@@ -16013,6 +16087,7 @@ sustainable
 sustained
 sustainment
 sutherland
+sutter
 sutton
 suv
 suvs
@@ -16247,6 +16322,7 @@ tax-dodging
 taxes
 taxing
 taxpayers
+tay
 taylor
 taylor-joy
 taylors
@@ -16425,6 +16501,7 @@ theoretical
 theories
 theorist
 theory
+theosophical
 therapist
 therapy
 there
@@ -16872,6 +16949,7 @@ triumphant
 triumphs
 trivia
 trivializing
+trivigno
 troll
 trolls
 troop
@@ -16988,6 +17066,7 @@ two-alarm
 two-decade
 two-game
 two-homer
+two-lane
 two-stop
 two-year
 tx
@@ -17165,6 +17244,7 @@ unprecedented
 unprotected
 unpunishable
 unraveled
+unravels
 unregistered
 unreleased
 unrest
@@ -17281,6 +17361,7 @@ utter
 utv
 uw
 uyghurs
+uytae
 uzi
 uzoka
 v
@@ -17529,6 +17610,7 @@ vitamin
 vitamix
 viteazul
 vittorio
+viva
 vivek
 vivian
 vivid
@@ -17537,6 +17619,7 @@ vivona
 vizhu
 vladimir
 vlogger
+vo
 vocabulary
 vocals
 vod
@@ -17614,6 +17697,7 @@ waits
 waive
 waivers
 wake
+waking
 wal
 waldstatt
 walensky
@@ -17644,6 +17728,7 @@ walters
 walton
 walygator
 walz
+wanda
 wandavision
 wanna
 want
@@ -17677,6 +17762,7 @@ warnermedia
 warning
 warnings
 warns
+warps
 warrant
 warrants
 warren
@@ -18082,6 +18168,7 @@ wrecking
 wrestling
 wright
 wrights
+wrigley
 write
 writer
 writers
