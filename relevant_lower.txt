@@ -10352,6 +10352,7 @@ mccartney
 mccary
 mccauley
 mcclintock
+mccloskey
 mcconaughey
 mcconnell
 mccord
@@ -11387,6 +11388,7 @@ nora
 nord
 norder
 nordstrom
+norm
 normal
 normalise
 normalization
