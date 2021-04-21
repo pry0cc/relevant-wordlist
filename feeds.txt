@@ -10,6 +10,7 @@ https://www.abc.net.au/news/feed/2942460/rss.xml
 http://www.bolognapress.com/feed/
 https://www.france24.com/en/middle-east/rss
 https://nypost.com/feed/
+https://www.investing.com/rss/news_25.rss
 https://boston.cbslocal.com/feed/
 http://www.cmt.com/news/feed
 https://detroit.cbslocal.com/feed/

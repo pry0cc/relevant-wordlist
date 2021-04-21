@@ -3,6 +3,7 @@
 0
 0-day
 04
+075
 1
 1-0
 1-11
@@ -37,6 +38,7 @@
 13000
 14
 145
+1454
 147000
 149
 15
@@ -172,6 +174,7 @@
 70
 700-plus
 73
+737
 74
 750000
 77
@@ -275,6 +278,7 @@ advance
 adversity
 advise
 adviser
+advisors
 advocates
 aerie
 affairs
@@ -766,6 +770,7 @@ bobcat
 body
 body-machine
 bodycam
+boeing
 bolognese
 bomb
 bombers
@@ -780,6 +785,7 @@ books
 boom
 boomtown
 boost
+booze
 borat
 border
 borders
@@ -820,6 +826,7 @@ brata
 brave
 braves
 brazil
+brazils
 breach
 break
 breakaway
@@ -1327,6 +1334,7 @@ convincing
 cook
 cookbook
 cooked
+cooking
 cooler
 coolers
 cooper
@@ -1472,6 +1480,7 @@ cwd
 cyber
 cyberattack
 cybersecurity
+cyclicals
 cynthia
 czech
 d203
@@ -1585,6 +1594,7 @@ denies
 denmark
 denounced
 denouncing
+dent
 denton
 denver
 depart
@@ -1756,6 +1766,7 @@ doubts
 doug
 dover
 doves
+dow
 down
 downing
 downloaded
@@ -1808,12 +1819,14 @@ duke
 dumpster
 dungeon
 dunk
+dunking
 durbin
 during
 durk
 durrant
 dustin
 dutch
+dwindling
 dying
 dyke
 dysfunction
@@ -2072,6 +2085,7 @@ eyes
 ezio
 ezra
 f
+faa
 fabulous
 face
 facebook
@@ -2276,6 +2290,7 @@ four-alarm
 fourth
 fox
 foxconn
+foxconns
 fragile
 frame
 framework
@@ -2472,6 +2487,7 @@ graphs
 grapple
 grappler
 gray
+graybug
 great
 greater
 greatest
@@ -2897,6 +2913,7 @@ introduce
 introduces
 introducing
 intruder
+intuitive
 invade
 invaded
 invasion
@@ -3013,6 +3030,7 @@ joins
 joints
 joke
 jokes
+jokic
 jolt
 jonathan
 jones
@@ -3061,6 +3079,7 @@ kaplers
 karen
 kate
 kayden
+keeler
 keep
 keeper
 keeping
@@ -3260,6 +3279,7 @@ lights
 likable
 like
 likely
+liking
 lil
 lily
 limit
@@ -3343,6 +3363,7 @@ lovers
 low
 low-flying
 lowdown
+lower
 lowered
 lowest
 lowkey
@@ -3678,6 +3699,7 @@ musk
 musks
 muslims
 must
+mvp
 my
 myanmar
 mystery
@@ -3769,6 +3791,7 @@ night
 nightlife
 nights
 nike
+nikola
 nil-by-mouth
 nina
 ninja
@@ -3805,6 +3828,7 @@ nsa
 nsw
 nubes
 nuclear
+nuggets
 number
 numbers
 nursing
@@ -3885,6 +3909,7 @@ options
 opts
 or
 orange
+orbimed
 orbs
 orchestra
 orchestrating
@@ -4099,6 +4124,7 @@ pilots
 pinellas
 pink
 pinot
+pinpoint
 pioneer
 pioneering
 pipe
@@ -4496,6 +4522,7 @@ redesign
 redistricting
 redonda
 reduce
+reduced
 reduced-cost
 reducing
 reebok
@@ -4989,6 +5016,7 @@ showed
 showers
 shows
 shredders
+shrinks
 shtisel
 shut
 shutdowns
@@ -5034,6 +5062,7 @@ six-hitter
 sixers
 sixth
 ska
+skeptics
 skid
 skimming
 skin
@@ -5061,6 +5090,7 @@ slowly
 slows
 slump
 slumping
+slumps
 slur
 slurs
 slushy
@@ -5282,6 +5312,7 @@ strength
 strengthen
 stressful
 stretch
+stretching
 strickbine
 stricken
 strike
@@ -5369,6 +5400,7 @@ surfaces
 surfer
 surge
 surgery
+surgical
 surpass
 surprise
 surprisingly
@@ -5614,6 +5646,7 @@ tottenham
 touching
 tour
 tournament
+touted
 touts
 tow
 toward
@@ -5652,6 +5685,7 @@ transforming
 transgender
 transition
 transvaal
+trapped
 trauma
 traumatized
 travel
@@ -5758,6 +5792,7 @@ unemployment
 unequal
 unfamiliar
 unfortunately
+unground
 unicef
 union
 unions
@@ -6030,6 +6065,7 @@ williamsons
 wilson
 win
 win-loss
+wind
 wind-fueled
 window
 windows
@@ -6078,6 +6114,7 @@ works
 world
 worlds
 worldwide
+worries
 worse
 worship
 worst
