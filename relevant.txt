@@ -5587,6 +5587,7 @@ appellate
 applaud
 appoint
 appointment
+appointments
 appoints
 approval
 approvals
@@ -6424,6 +6425,7 @@ earns
 earthquake
 ease
 eased
+easily
 east
 easy
 eat
@@ -6672,6 +6674,7 @@ flashpoint
 flavors
 flavours
 flaws
+fled
 flee
 fleeing
 flees
@@ -7642,6 +7645,7 @@ pays
 peacefully
 peak
 pedestrian
+pedestrians
 pen
 penguins
 pensions
@@ -8834,6 +8838,7 @@ wait
 waiting
 waivers
 walk
+walk-in
 walked
 walkup
 wall

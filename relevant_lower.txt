@@ -2252,6 +2252,7 @@ earthquake
 ease
 eased
 easier
+easily
 east
 eastbound
 eastern
@@ -2704,6 +2705,7 @@ flaw
 flawless
 flaws
 flay
+fled
 flee
 fleeing
 flees
@@ -4851,6 +4853,7 @@ peak
 peaky
 pearl
 pedestrian
+pedestrians
 pedro
 pelicans
 pelosi
