@@ -200,6 +200,7 @@
 90000
 93
 968
+97
 97m
 99
 999
@@ -349,6 +350,7 @@ alexandria
 alexei
 alexi
 alfredo
+algeria
 aliens
 alive
 all
@@ -471,6 +473,7 @@ appoints
 approach
 approves
 apps
+apr
 april
 apt
 aquarium
@@ -614,6 +617,7 @@ ball
 ban
 band
 bandwagon
+bangladesh
 bank
 banking
 banks
@@ -644,11 +648,13 @@ basic
 basketball
 basking
 bat
+bata
 batman
 battery
 battle
 battlefield
 bay
+bazar
 bazarloader
 bbc
 be
@@ -1318,6 +1324,7 @@ confrontational
 confronted
 confuse
 confusing
+congo
 congratulating
 congress
 congressional
@@ -1422,6 +1429,7 @@ covid-19
 covid-19s
 covid-related
 cowboys
+coxs
 coyotes
 cpd
 cps
@@ -1512,6 +1520,7 @@ cyber-risks
 cyberattack
 cybersecurity
 cyclicals
+cyclone
 cynthia
 czech
 d203
@@ -1569,6 +1578,7 @@ debates
 debut
 debuts
 deby
+dec
 decade
 decades
 decades-long
@@ -1840,6 +1850,7 @@ driving
 drizzly
 drop
 dropped
+drought
 drove
 drowned
 drug
@@ -1888,6 +1899,7 @@ easttown
 easy
 eat
 eating
+ebola
 ebook
 echoes
 eckerts
@@ -1927,6 +1939,7 @@ elite
 elizabeth
 elles
 elmwood
+eloise
 elon
 else
 elsewhere
@@ -1993,6 +2006,7 @@ epicenter
 epidemiologist
 eplan
 equalities
+equatorial
 equinox
 equipment
 era
@@ -2102,6 +2116,7 @@ exploration
 explores
 exploring
 explosion
+explosions
 exposed
 exposure
 express
@@ -2185,6 +2200,7 @@ fear
 fearing
 fears
 feature
+feb
 fec
 feces
 federal
@@ -2263,6 +2279,7 @@ fix
 fixes
 flag
 flames
+flash
 flashpoint
 flavor
 flavors
@@ -2280,6 +2297,7 @@ float
 floats
 flood
 flooding
+floods
 flores
 florida
 flow
@@ -2405,6 +2423,7 @@ gains
 gait
 galaxy
 gallagher
+gallery
 gambit
 game
 games
@@ -2541,6 +2560,7 @@ greenes
 greenhouse
 greensill
 greg
+grenadines
 grieving
 grill
 grilling
@@ -2549,6 +2569,7 @@ gritty
 grizzly
 grocery
 grocery-store
+groen
 grohl
 grooming
 ground
@@ -2566,6 +2587,7 @@ guidance
 guide
 guild
 guilty
+guinea
 guitarist
 gun
 gunda
@@ -2595,6 +2617,7 @@ hadrian
 hail
 hair
 hairstylists
+haiti
 hakeem
 half
 half-brother
@@ -2893,6 +2916,7 @@ indians
 indias
 indicts
 indie
+indonesia
 indoor
 industrial
 industry
@@ -3033,6 +3057,7 @@ jaleel
 jamal
 james
 jamie
+jan
 january
 jared
 jarvis
@@ -3218,6 +3243,7 @@ land
 landings
 landlord
 lands
+landslides
 language
 languishing
 lapd
@@ -3459,6 +3485,7 @@ majors
 make
 makes
 making
+malaysia
 male
 malicious
 malone
@@ -3487,6 +3514,7 @@ manufacturing
 many
 map
 maps
+mar
 march
 mare
 maren
@@ -3683,6 +3711,7 @@ mondales
 monday
 monero
 money
+mongolia
 monitors
 monster
 montana
@@ -3716,6 +3745,7 @@ motocross
 motorcycle
 motors
 motorsport
+motorsports
 mound
 mountain
 mountains
@@ -3861,6 +3891,7 @@ no-no
 noah
 nobody
 noel
+nola
 nominated
 nomination
 nominations
@@ -3965,6 +3996,7 @@ opinion
 opinions
 opportunity
 opposition
+optima
 option
 options
 opts
@@ -4147,6 +4179,7 @@ persecuted
 persist
 person
 persona
+peru
 pesquet
 peter
 peters
@@ -4782,6 +4815,7 @@ river
 rivers
 riverside
 riz
+rj
 road
 roads
 roadway
@@ -4893,6 +4927,7 @@ samsungs
 san
 sanctions
 sanders
+sandstorm
 sandwich
 santa
 santan
@@ -5008,6 +5043,7 @@ separate
 series
 serious
 seriously
+seroja
 servant
 serve
 served
@@ -5691,6 +5727,7 @@ timber
 time
 timeline
 times
+timor-leste
 timothe
 tina
 tiny
@@ -5811,6 +5848,7 @@ triumphant
 triumphs
 trooper
 troops
+tropical
 troubled
 trove
 truck
@@ -6236,6 +6274,7 @@ yaku
 yale
 yankees
 yanks
+yasa
 yasiin
 yates
 year
@@ -6266,6 +6305,7 @@ yu-gi-oh
 yves
 zachary
 zalatoris
+zambia
 zarzas
 zealand
 zeneca
