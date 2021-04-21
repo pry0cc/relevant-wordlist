@@ -582,6 +582,7 @@ Borromeo
 Boseman
 Boston
 Both
+Bottini
 Boudin
 Boulder
 Boulevard
@@ -2149,6 +2150,7 @@ Kintsugi
 Kitsch
 Klinghoffer
 Klobuchar
+Kmart
 Knew
 Knicks
 Knife
@@ -3479,6 +3481,7 @@ Sicknick
 Side
 Sidelined
 Siege
+Siena
 Sigh
 Sight
 Sign
@@ -4087,6 +4090,7 @@ WB
 WFH
 WH
 WHO
+WOOD
 WSL
 WTFC
 WWF
@@ -4688,6 +4692,7 @@ code
 cold
 colleagues
 collect
+collection
 collective
 collector
 college
@@ -6030,6 +6035,7 @@ record
 record-breaking
 recovery
 recuse
+recycled
 red
 redesign
 redistricting
@@ -6731,6 +6737,7 @@ win-loss
 window
 winning
 wins
+winter
 with
 withdraw
 within
