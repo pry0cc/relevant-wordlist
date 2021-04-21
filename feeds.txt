@@ -7,6 +7,7 @@ https://www.france24.com/en/europe/rss
 https://www.france24.com/en/rss
 https://www.france24.com/en/americas/rss
 https://www.abc.net.au/news/feed/2942460/rss.xml
+http://www.bolognapress.com/feed/
 https://www.france24.com/en/middle-east/rss
 https://nypost.com/feed/
 https://boston.cbslocal.com/feed/

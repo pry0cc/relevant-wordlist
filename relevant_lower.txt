@@ -143,6 +143,7 @@
 50
 500
 5000
+50000
 50831
 52
 5259
@@ -501,6 +502,7 @@ ashamed
 asia
 asian
 asked
+asparagus
 assassinations
 assault
 assaulting
@@ -531,6 +533,7 @@ attacking
 attacks
 attempt
 attempted
+attempting
 attend
 attention
 attorney
@@ -763,6 +766,7 @@ bobcat
 body
 body-machine
 bodycam
+bolognese
 bomb
 bombers
 bond
@@ -784,6 +788,7 @@ borno
 borromeo
 boseman
 boss
+bosso
 boston
 both
 bottini
@@ -1124,6 +1129,7 @@ cicero
 cigar
 cincinnati
 cinco
+cinema
 cinemas
 cinerama
 cineramas
@@ -1290,6 +1296,7 @@ conservation
 consider
 considered
 considering
+consolidate
 consolidating
 conspiracies
 conspiracy
@@ -1328,6 +1335,7 @@ cop
 coppi
 cops
 cora
+corcos
 cordae
 corden
 corner
@@ -1532,6 +1540,7 @@ decline
 decomposed
 decor
 decreased
+decree
 dedicated
 dee
 deemed
@@ -1546,6 +1555,7 @@ defi
 defied
 define
 defining
+defund
 degrom
 dekalb
 delaware
@@ -1688,7 +1698,9 @@ displeasure
 disrupted
 distance
 distilling
+distribute
 district
+disturbance
 disturbing
 diversity
 dives
@@ -1711,6 +1723,7 @@ dog
 doge
 dogecoin
 dogs
+doisneau
 dollar
 dollars
 dome
@@ -1720,6 +1733,7 @@ dominate
 dominates
 don
 donated
+donates
 donations
 donbas
 done
@@ -1826,6 +1840,7 @@ eat
 eating
 ebook
 echoes
+eckerts
 eco
 eco-friendly
 eco-minded
@@ -1957,6 +1972,7 @@ eurekha
 europe
 european
 europes
+euros
 eurovision
 evacuate
 evacuated
@@ -2053,6 +2069,7 @@ exxon
 eye
 eyed
 eyes
+ezio
 ezra
 f
 fabulous
@@ -2413,6 +2430,7 @@ globes
 glowing
 gm
 go
+go-ahead
 goal
 goalless
 goals
@@ -2515,6 +2533,7 @@ hadrian
 hail
 hair
 hairstylists
+hakeem
 half
 half-brother
 hall
@@ -2544,6 +2563,7 @@ harbor
 hard
 hard-hit
 harder
+hardship
 hardware
 hardy
 harness
@@ -2551,6 +2571,7 @@ harold
 harriet
 harris
 harry
+harvest
 has
 hasnt
 hatch
@@ -2575,6 +2596,7 @@ heal
 healdsburg
 healing
 health
+healthcare
 healthy
 hear
 heard
@@ -2646,6 +2668,7 @@ hofdemel
 hold
 holdouts
 holiday
+holidays
 hollywood
 hollywoods
 holocaust
@@ -2877,6 +2900,7 @@ intruder
 invade
 invaded
 invasion
+invented
 invested
 investigate
 investigated
@@ -2920,6 +2944,7 @@ issue
 issued
 issues
 it
+italian
 italy
 italys
 items
@@ -2956,6 +2981,7 @@ jeanine
 jeep
 jeff
 jeffrey
+jeffries
 jenny
 jeopardy
 jeremiah
@@ -3042,6 +3068,7 @@ keilar
 keith
 kelly
 kenosha
+kent
 kentucky
 kenya
 kepler
@@ -3062,6 +3089,7 @@ killers
 killing
 killings
 kills
+kilo
 kim
 kincade
 kind
@@ -3478,6 +3506,7 @@ mens
 mental
 mentor
 menu
+meraville
 mercedes-benz
 mercer
 mercury
@@ -3487,6 +3516,7 @@ merkel
 merkels
 merrillville
 mesa
+mess
 message
 messiah
 metal
@@ -3501,6 +3531,7 @@ mexico
 meyers
 miami
 michael
+michel
 michelle
 michigan
 mickey
@@ -3530,6 +3561,7 @@ minds
 miners
 mining
 minister
+ministerial
 minn
 minneapolis
 minnesota
@@ -3640,6 +3672,7 @@ musgraves
 mushrooms
 music
 musical
+musician
 musicians
 musk
 musks
@@ -3798,6 +3831,7 @@ of
 off
 off-duty
 off-limits
+off-the-radar
 offense
 offer
 offered
@@ -3920,6 +3954,8 @@ painfully
 pakistan
 pakistani
 palace
+palazzo
+pallavicini
 palm
 palma
 palmdale
@@ -4016,6 +4052,7 @@ perimeter
 periods
 permit
 persecuted
+persist
 person
 persona
 pesquet
@@ -4178,6 +4215,7 @@ pranks
 pratchetts
 pray
 prayer
+pre-opening
 preachers
 precarious
 precaution
@@ -4472,6 +4510,7 @@ refugees
 refund
 refuse
 region
+regional
 regions
 register
 regulator
@@ -4635,6 +4674,7 @@ risk
 risks
 risky
 risotto
+ritratti
 rivals
 river
 rivers
@@ -4985,6 +5025,7 @@ singles
 singleton
 sinks
 sip
+sit
 site
 sites
 sitting
@@ -5060,6 +5101,7 @@ social
 socialist
 sock
 softer
+sogni
 solar
 solarwinds
 solarwinds-style
@@ -5381,6 +5423,7 @@ tackle
 taco
 tactical
 take
+takeaways
 taken
 takeout
 takes
@@ -5429,6 +5472,7 @@ tegnell
 teigens
 telekom
 tell
+telling
 tells
 tempe
 temperatures
@@ -5443,6 +5487,7 @@ tensions
 tequila
 terence
 term
+terrible
 terribly
 terrifying
 terrorist
@@ -5537,6 +5582,7 @@ tireless
 tishaura
 titles
 to
+toaster
 toby
 today
 todays
@@ -5806,6 +5852,7 @@ vertex
 verve
 very
 vessel
+veteran
 veterans
 veto
 vets
@@ -5846,6 +5893,7 @@ vision
 visionary
 visit
 visits
+vittorio
 vocabulary
 voice
 voices
