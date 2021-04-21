@@ -328,6 +328,7 @@ always
 alysha
 am
 amassing
+amaya
 amazing
 amazon
 amber
@@ -655,6 +656,7 @@ blame
 blamed
 blames
 blank
+blasio
 blessed
 blinders
 blindfolded
@@ -777,6 +779,7 @@ btc
 bubble
 buckhead
 bucks
+buddy
 budget
 budtender
 buffalo-palooza
@@ -1010,6 +1013,7 @@ chvrches
 ciara
 cicero
 cigar
+cincinnati
 cinco
 cinerama
 cineramas
@@ -1918,6 +1922,7 @@ father
 fault
 favorite
 fbi
+fc
 fda
 fear
 fearing
@@ -2065,6 +2070,7 @@ france
 francis
 francisco
 franciscos
+frankie
 franklin
 franois
 fraser
@@ -3824,6 +3830,7 @@ pranks
 pratchetts
 prayer
 preachers
+precarious
 precaution
 preckwinkle
 predictions
@@ -3907,6 +3914,7 @@ protectionist
 protections
 protest
 protesters
+protesting
 protests
 proudest
 provide
@@ -4436,6 +4444,7 @@ send
 sending
 sends
 senior
+sense
 sent
 sentence
 sentenced
@@ -4875,6 +4884,7 @@ surpass
 surprise
 surprisingly
 surreal
+surroundings
 surveillance
 survey
 survivor

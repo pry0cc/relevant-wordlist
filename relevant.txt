@@ -219,6 +219,7 @@ Added
 Additional
 Administered
 Administration
+Admit
 Admitted
 Adolescents
 Adorable
@@ -265,6 +266,7 @@ Aledo
 Aleo
 Alert
 Alex
+Alexandria
 Alexei
 Alexi
 Alfredo
@@ -286,6 +288,7 @@ Already
 Alternative
 Always
 Alysha
+Amaya
 Amazing
 Amazon
 Amber
@@ -539,6 +542,7 @@ Blackmon
 Blah
 Blame
 Blank
+Blasio
 Blessed
 Blinders
 Block
@@ -790,6 +794,7 @@ Cheers
 Chef
 Chelsea
 Chemical
+Chemical-Attack
 Cher
 Cherokee
 Chevelle
@@ -811,6 +816,7 @@ Chinese
 Chinese-Australian
 Chiron
 Choose-Your-Own-Adventure
+Choreographer
 Chosen
 Christian
 Chrome
@@ -823,6 +829,7 @@ Chvrches
 Ciara
 Cicero
 Cigar
+Cincinnati
 Cinco
 Cinerama
 Cineramas
@@ -1106,6 +1113,7 @@ Democratic
 Democrats
 Demonstrations
 Dems
+Deniers
 Denies
 Denmark
 Denounced
@@ -1408,9 +1416,11 @@ Extremely
 Extremists
 Exxon
 Eye
+Eyes
 Ezra
 F
 FBI
+FC
 FDA
 FEC
 FEMA
@@ -1564,6 +1574,7 @@ France
 Francis
 Francisco
 Franciscos
+Frankie
 Franklin
 Franois
 Fraser
@@ -1618,6 +1629,7 @@ Gap
 Garca
 Garcetti
 Garcettis
+Garmin
 Gary
 Gas
 Gasparilla-Style
@@ -1661,6 +1673,7 @@ Gipson
 Girl
 Girlfriend
 Girls
+Give
 Gives
 Glamorous
 Glazed
@@ -2015,6 +2028,7 @@ JaMal
 Jabari
 Jackson
 Jacksons
+Jacob
 Jail
 Jailed
 Jakobsbad
@@ -2091,6 +2105,7 @@ Kai
 Kale
 Kaley
 Kanga
+Kansas
 Kaplers
 Kate
 Kayden
@@ -2219,6 +2234,7 @@ Lets
 Levels
 Lewis
 Li
+Liam
 Liberal
 Liberty
 Libra
@@ -2418,6 +2434,7 @@ McCartney
 McCrory
 McDonalds
 McDowell
+McMaster
 McMullen
 Me
 Mean
@@ -2452,6 +2469,7 @@ Messiah
 Metal
 Metro
 Metrolink
+Mets
 Mexican
 Mexico
 Meyers
@@ -2481,6 +2499,7 @@ Minnesota
 Minnesotas
 Minority
 Mirage
+Misconduct
 Misinformation
 Miss
 Missing
@@ -2560,6 +2579,7 @@ Mythology
 Myths
 NAMEWRECK
 NASA
+NASAs
 NBA
 NCAA
 NFL
@@ -3265,6 +3285,7 @@ Ruth
 Ryan
 S
 SC
+SCs
 SEE
 SKA
 SOS
@@ -3313,6 +3334,7 @@ Say
 Saying
 Says
 Scanners
+Scarlett
 Scene
 Schedules
 School
@@ -4036,6 +4058,7 @@ Votes
 Voting
 Vs
 Vulnerabilities
+W
 WATCH
 WB
 WFH
@@ -4122,6 +4145,7 @@ Whole
 Whose
 Why
 Widespread
+WikiLeaks
 Wild
 Will
 Williams
@@ -4213,6 +4237,7 @@ ZIP
 Zachary
 Zalatoris
 Zarzas
+Zealand
 Zion
 Zippy
 Zollywood
@@ -4445,6 +4470,7 @@ blames
 blank
 blinders
 blindfolded
+block
 blockchain
 blocks
 blood
@@ -4484,11 +4510,13 @@ briefings
 brilliant
 bringing
 brings
+brother
 brought
 brush
 brutality
 brutally
 bubble
+buddy
 budget
 budtender
 bug
@@ -4502,6 +4530,7 @@ burn
 burning
 bus
 businesses
+busmaker
 but
 buzzkill
 by
@@ -4541,6 +4570,7 @@ cases
 cash
 castle
 cat
+caucus
 caused
 causes
 causing
@@ -4600,6 +4630,7 @@ claims
 clarifications
 clarity
 clashes
+clashing
 classic
 classrooms
 classy
@@ -4758,6 +4789,7 @@ dates
 daughter
 daughters
 day
+deGrom
 dead
 deadly
 deaf
@@ -4772,6 +4804,7 @@ debuts
 decade
 decades
 decades-long
+decide
 deciding
 decision
 deck
@@ -4783,6 +4816,7 @@ deepen
 deeply
 defeat
 defense
+defenses
 defining
 delay
 delayed
@@ -4829,6 +4863,7 @@ disabled
 disambiguation
 disappearance
 discovered
+discriminated
 discussions
 dismisses
 disparities
@@ -4848,6 +4883,7 @@ domestic
 dominance
 dominate
 donated
+donations
 done
 dont
 doors
@@ -4953,6 +4989,7 @@ event
 everyone
 everyones
 everything
+eviction
 evidence
 evolution
 ex-communications
@@ -4971,6 +5008,7 @@ exhibition
 exile
 existed
 expanded
+expanding
 expands
 expansion
 expect
@@ -4990,6 +5028,7 @@ extort
 extortion
 extra
 extraordinary
+eye
 eyed
 fabulous
 face
@@ -5050,6 +5089,7 @@ first
 first-place
 fish
 fishing
+five-month
 fix
 fixes
 flag
@@ -5222,6 +5262,7 @@ held
 helicopter
 hell
 help
+helped
 helping
 her
 herd
@@ -5293,6 +5334,7 @@ ideal
 identified
 if
 ignorance
+illegal
 illicit
 illness
 images
@@ -5373,6 +5415,7 @@ joyfully
 judge
 jumps
 jungle
+jurors
 jury
 just
 justice
@@ -5502,6 +5545,7 @@ managers
 mandate
 mans
 manslaughter
+manufacturing
 many
 maps
 march
@@ -5553,6 +5597,7 @@ minutes
 miracle
 misconduct
 missing
+mistrial
 mixed
 mobile
 modernize
@@ -5569,6 +5614,7 @@ more
 moreish
 most
 mother
+motion
 mountain
 mountains
 mouse
@@ -5691,6 +5737,7 @@ other
 others
 otter
 otters
+ought
 our
 out
 outbreak
@@ -5702,6 +5749,8 @@ outside
 over
 over-unders
 overlap
+override
+overturned
 overwhelms
 own
 owners
@@ -5811,6 +5860,7 @@ power
 practice
 praise
 preachers
+precarious
 predictions
 predicts
 premiere
@@ -5863,6 +5913,7 @@ prosecutors
 protections
 protest
 protesters
+protesting
 protests
 provide
 proxy
@@ -5875,6 +5926,7 @@ punks
 purple
 pursuit
 push
+pushed
 pushes
 put
 puts
@@ -5959,6 +6011,7 @@ relieved
 religious
 remain
 remake
+remarks
 reminders
 remixes
 remote
@@ -6047,6 +6100,7 @@ running
 rusher
 sacrificing
 saddened
+safe
 safely
 safety
 said
@@ -6067,6 +6121,7 @@ scenes
 school
 schools
 scientists
+scramble
 scrappy
 scraps
 script
@@ -6096,6 +6151,7 @@ senators
 send
 sending
 sends
+sense
 sent
 sentenced
 sentencing
@@ -6192,6 +6248,7 @@ snuffs
 so
 soccer
 social
+socialist
 softer
 sold
 solve
@@ -6297,6 +6354,7 @@ subscriber
 substantially
 suburban
 suburbs
+success
 successful
 successfully
 such
@@ -6320,6 +6378,7 @@ supporters
 surge
 surgery
 surprisingly
+surroundings
 surveillance
 survey
 survivors
@@ -6386,6 +6445,7 @@ the
 their
 them
 theme
+themselves
 then
 theorist
 theory
@@ -6395,10 +6455,12 @@ they
 theyre
 thing
 things
+think
 thinks
 third
 this
 those
+threatened
 threatens
 threats
 three
@@ -6425,6 +6487,7 @@ top
 total
 touching
 tour
+touts
 toward
 towards
 towns
@@ -6474,6 +6537,7 @@ two-decade
 type
 ultimate
 unclear
+uncomfortable
 under
 underdog
 underground
@@ -6523,8 +6587,10 @@ verdicts
 versions
 very
 vessel
+veto
 vets
 vice-chairman
+victim
 victims
 victory
 video
@@ -6599,6 +6665,7 @@ whether
 which
 while
 who
+whole
 whos
 why
 widely
