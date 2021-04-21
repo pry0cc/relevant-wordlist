@@ -4671,6 +4671,7 @@ define
 defined
 defining
 definitely
+deflating
 deflections
 defrauding
 defund
@@ -8191,6 +8192,7 @@ ideal
 ideas
 identification
 identified
+identifies
 identify
 identifying
 identities

@@ -3835,6 +3835,7 @@ Defied
 Define
 Defined
 Defining
+Deflating
 Defrauding
 Defund
 Degrassi
@@ -17885,6 +17886,7 @@ idea
 ideal
 identification
 identified
+identifies
 identifying
 identity
 ideological
