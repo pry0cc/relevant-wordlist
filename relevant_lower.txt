@@ -84,6 +84,7 @@
 0001857479
 0001857517
 001
+029
 04
 042021
 044
@@ -264,6 +265,7 @@
 1933
 1934
 1938
+1940
 1943
 194647
 194748
@@ -319,6 +321,7 @@
 2-ftse
 2-game
 2-metre
+2-night
 2-second
 2-uk
 2-year
@@ -374,6 +377,7 @@
 2024
 2025
 2026
+203
 2030
 2030-31
 2035
@@ -488,6 +492,7 @@
 32
 32000
 321-101
+32m
 33
 330
 3330480
@@ -570,6 +575,7 @@
 47
 47-year-old
 47506
+48
 48th
 49
 49ers
@@ -729,6 +735,7 @@
 88
 890000
 8955
+8dose
 8m
 8th
 9
@@ -739,6 +746,7 @@
 9-year-old
 90
 90-minute
+90-year
 900
 9000
 90000
@@ -787,6 +795,7 @@ abc
 abc13com
 abc13s
 abdallah
+abdinabiyeva
 abdominal
 abduct
 abducted
@@ -811,6 +820,8 @@ abolish
 abolishes
 abolition
 abolitionist
+abolitionists
+aborted
 abortion
 abortions
 about
@@ -994,6 +1005,7 @@ advanced
 advances
 advantage
 adventure
+adversaries
 adversity
 advertisers
 advertising
@@ -1156,6 +1168,7 @@ alcee
 alces
 alcmenor
 alcohol
+alcoraz
 aldean
 alden
 aldens
@@ -1540,6 +1553,7 @@ apt
 apteds
 aptos
 aquaman
+aquarela
 aquarium
 aquariums
 arab
@@ -1671,6 +1685,7 @@ asking
 askren
 asks
 asleep
+asml
 asparagus
 aspiring
 ass
@@ -2140,6 +2155,7 @@ beheadings
 behind
 behind-the-scenes
 beijing
+beijings
 being
 belarus
 belfort
@@ -2153,6 +2169,7 @@ believes
 believing
 bell
 bella
+bellerin
 belligerent
 bellinger
 beloved
@@ -2471,6 +2488,7 @@ bolliana
 bollytrendz
 bologna
 bolognese
+bolsonaro
 bolster
 bolton
 bolts
@@ -2578,6 +2596,7 @@ boy
 boycott
 boycotts
 boyfriend
+boyfriends
 boyko
 boys
 bp
@@ -2608,6 +2627,7 @@ branislav
 bransford
 branson
 brant
+brasil
 brass
 brasserie
 brata
@@ -2804,6 +2824,7 @@ builds
 buildup
 built
 built-in
+bukit
 bulgarians
 bulking
 bull
@@ -2841,6 +2862,7 @@ burial
 buried
 burke
 burks
+burl
 burleson
 burlington
 burn
@@ -3231,6 +3253,7 @@ cecilia
 ceclia
 ceice
 ceiling
+celaleddin
 celeb-loved
 celebrate
 celebrated
@@ -3324,6 +3347,7 @@ chang
 changcheng
 change
 changed
+changer
 changes
 changing
 changzheng
@@ -3512,6 +3536,7 @@ chuck
 chucks
 chugani
 chun
+chupke
 church
 churches
 churn
@@ -3941,6 +3966,7 @@ condition
 conditions
 condo
 condorelli
+condrieu
 conduct
 conducted
 conducting
@@ -4371,6 +4397,7 @@ crowded
 crowdfunding
 crowding
 crowds
+crowley
 crown
 crowned
 crowns
@@ -4769,6 +4796,7 @@ degrassi
 degree
 degrees
 degrom
+degroms
 dehumanizing
 deightoniella
 deion
@@ -4897,6 +4925,7 @@ dermatologists
 dermot
 dernei
 derrick
+dershowitz
 des
 desantis
 descend
@@ -5069,6 +5098,7 @@ dimi
 diminishing
 dimitry
 dimon
+dinan
 dinapoli
 dine
 dinelson
@@ -5148,6 +5178,7 @@ discovered
 discovers
 discovery
 discriminated
+discriminating
 discrimination
 discus
 discuss
@@ -5329,6 +5360,7 @@ dooming
 door
 doorbell
 doors
+doorstep
 dope
 doping
 doppelgngers
@@ -5527,6 +5559,7 @@ dupuis
 duquesne
 durable
 durant
+durants
 durarara
 durbin
 during
@@ -6015,6 +6048,7 @@ etiquette
 ettens
 eu
 eugene
+eul-bun
 euphoria
 eureka
 eurekha
@@ -6223,6 +6257,7 @@ explosion
 explosions
 explosive
 explosives
+export
 expose
 exposed
 exposes
@@ -7101,6 +7136,7 @@ gatos
 gauging
 gaurd
 gausman
+gautam
 gave
 gavin
 gay
@@ -7110,6 +7146,7 @@ gazaryan
 gaze
 gazes
 gazidis
+gaziza
 gbi
 gds
 gear
@@ -7265,6 +7302,7 @@ gleeson
 glen
 glenn
 glenview
+gleyber
 glimpse
 glitter
 glitzy
@@ -7298,6 +7336,7 @@ goalless
 goals
 goats
 god
+godsend
 goers
 goes
 goetschy
@@ -7416,6 +7455,7 @@ graphic
 graphs
 grapple
 grappler
+grapples
 grasping
 grasse
 grassley
@@ -7425,6 +7465,7 @@ gravel
 graveyard
 gray
 graybug
+grayna
 grealish
 great
 great-grandchildren
@@ -7752,6 +7793,7 @@ hartard
 hartford
 harvard
 harvest
+harvey
 harvin
 has
 hasenhuttls
@@ -8201,9 +8243,11 @@ hrefhttpsnewsskycomstoryscottish-election-2021-how-independence-and-brexit-are-s
 hrs
 hs
 hsbc
+hsien
 https
 hu
 huai
+huarong
 huawei
 hub
 hubert
@@ -8415,6 +8459,7 @@ imminent
 imminently
 immune
 immunity
+immunization
 immunize
 immunosuppressant
 imola
@@ -8677,6 +8722,7 @@ inter
 interaction
 interactions
 interagency
+intercounty
 interdependence
 interest
 interested
@@ -8713,6 +8759,7 @@ interview
 interviewing
 intimacy
 intimate
+intimidate
 intimidation
 into
 intoxicated
@@ -9045,6 +9092,7 @@ joked
 jokes
 jokic
 jokics
+jolanta
 jolt
 jon
 jonathan
@@ -9126,6 +9174,7 @@ justice
 justices
 justified
 justin
+juve
 juvenile
 juventus
 juzang
@@ -9201,6 +9250,7 @@ kawasemi
 kawhi
 kay
 kayak
+kayaker
 kayden
 kayla
 kazakhstan
@@ -9433,6 +9483,7 @@ kross
 kruger
 krvav
 ksaa
+kuan
 kudagodage
 kudravets
 kuiper
@@ -9723,6 +9774,7 @@ leisurely
 leisures
 leit
 leiter
+leja
 lela
 lemi
 lemon
@@ -9771,6 +9823,7 @@ levy
 lewis
 lexus
 leydy
+lfc
 lg
 lgbt
 lgbtq
@@ -9801,6 +9854,7 @@ lie
 lied
 liemert
 lies
+lifaka
 life
 life-changing
 life-threatening
@@ -9878,6 +9932,7 @@ lineman
 linemen
 lines
 lineup
+ling
 lingerie
 lingering
 lingers
@@ -10214,6 +10269,8 @@ mahathera
 mahendra
 mahinda
 mahmood
+mahmoud
+mahmud
 mahomes
 mail
 mailata
@@ -10751,6 +10808,7 @@ mickey
 micro-transit
 microbes
 microchip
+microplastics
 microsoft
 microsofts
 microwave
@@ -10961,6 +11019,7 @@ mokhsedul
 molalla
 molango
 molestation
+molested
 molester
 molly
 molotov
@@ -10991,6 +11050,7 @@ monitor
 monitoring
 monitors
 monja
+monjowa
 monk
 monocolored
 monologue
@@ -11302,6 +11362,7 @@ nation
 nation-state
 nation-ticketmaster
 national
+nationalism
 nationalist
 nationally
 nationals
@@ -11372,6 +11433,7 @@ neighbor
 neighborhood
 neighborhoods
 neighbors
+neighbours
 neil
 nel
 nelson
@@ -11490,6 +11552,7 @@ nightmares
 nights
 nihal
 nike
+nikkei
 nikki
 nikola
 nikolli
@@ -11614,6 +11677,7 @@ novelty
 november
 novikov
 now
+nowhere
 np
 npr
 nra
@@ -11761,6 +11825,7 @@ ohtanis
 oil
 oilers
 oils
+oinam
 oj
 ok
 okadaira
@@ -12036,6 +12101,7 @@ owe
 owens
 owings
 own
+owned
 owner
 owners
 ownership
@@ -12263,6 +12329,7 @@ patron
 patrons
 patrouille
 pattern
+patterson
 pattinson
 patty
 paul
@@ -13363,6 +13430,7 @@ rafael
 rage
 rages
 raging
+ragnarok
 rahm
 raid
 raided
@@ -13904,12 +13972,14 @@ researcher
 researchers
 reseda
 resemblance
+reservation
 reservations
 reserve
 reserves
 reservoir
 resettle
 reshaped
+reshuffle
 residence
 residency
 resident
@@ -14189,6 +14259,7 @@ roblox
 robot
 robots
 robs
+robson
 robust
 rocha
 rochdale
@@ -14291,6 +14362,7 @@ roseland
 roseman
 rosenberg
 rosenstock
+roses
 roseville
 rosewoods
 roshmila
@@ -14347,6 +14419,7 @@ rubble
 ruben
 rubin
 rudd
+rudely
 rudimentary
 rudin
 rudins
@@ -14513,6 +14586,7 @@ samsungs
 samuel
 san
 sanat
+sanchezs
 sanction
 sanctions
 sanctuary
@@ -14601,6 +14675,7 @@ scaled-back
 scales
 scalise
 scam
+scammers
 scams
 scandal
 scandals
@@ -14858,6 +14933,7 @@ seriously
 seriousness
 seroja
 serpent
+serum
 servant
 servants
 serve
@@ -15144,6 +15220,7 @@ signs
 sikandarpur
 sikh
 sikhs
+sikorska-kulesza
 silber
 silence
 silenced
@@ -15419,6 +15496,7 @@ sofaygo
 sofia
 soft
 softball
+softens
 softer
 softest
 software
@@ -15490,6 +15568,7 @@ soufan
 soufrire
 sought
 soul
+soul-sellers
 soumendu
 sound
 soundbar
@@ -15516,6 +15595,7 @@ southwest
 souza
 sov
 sox
+sp
 spa
 space
 spacecraft
@@ -15536,6 +15616,7 @@ sparked
 sparking
 sparks
 spartans
+spasx
 spat
 spatiale
 spawns
@@ -15610,6 +15691,7 @@ spoiler
 spoke
 spoken
 spokesman
+spokeswoman
 sponge
 spongebob
 sponsored
@@ -15790,6 +15872,7 @@ steamy
 steel
 steele
 steelers
+steenrijk
 steep
 steepest
 steers
@@ -16154,6 +16237,7 @@ surprising
 surprisingly
 surreal
 surrogate
+surrounded
 surrounding
 surroundings
 surullitos
@@ -16414,6 +16498,8 @@ taunton
 tauriga
 taurus
 tavern
+tavernier
+taviu
 tax
 tax-dodging
 taxes
@@ -16752,6 +16838,7 @@ tipp
 tipping
 tips
 tipster
+tirade
 tirana
 tired
 tireless
@@ -17130,6 +17217,7 @@ turbulence
 turbulent
 turf
 turkey
+turkeys
 turmoil
 turn
 turnaround
@@ -17329,6 +17417,7 @@ universities
 university
 unjustified
 unknown
+unlawful
 unlearn
 unleash
 unless
@@ -17357,6 +17446,7 @@ unscripted
 unseasonable
 unsecured
 unsettled
+unstable
 unstuck
 unsubstantiated
 unsuccessful
@@ -17639,6 +17729,7 @@ video
 videos
 vides
 vienna
+vienne
 viet
 vietnam
 vietnamese
@@ -17850,6 +17941,7 @@ warcraft
 ward
 wardrobe
 wardrobes
+wardroper
 wards
 warehouse
 warfare
@@ -17968,6 +18060,7 @@ weeknights
 weeks
 wegmans
 weho
+wei
 weibo
 weigh
 weighing
@@ -18283,11 +18376,13 @@ writer
 writers
 writing
 written
+wrocaw
 wrong
 wrong-way
 wrongdoing
 wrongly
 wrote
+wru
 wsj
 wsl
 wsus
@@ -18333,10 +18428,12 @@ yaku
 yale
 yamamoto
 yang
+yangs
 yankees
 yanks
 yannan
 yard
+yarmysh
 yasa
 yasas
 yasiin
@@ -18364,6 +18461,7 @@ yesterday
 yet
 yeun
 yeuns
+yews
 yiddish
 yield
 yields
