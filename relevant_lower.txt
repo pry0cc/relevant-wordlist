@@ -138,6 +138,7 @@
 56th
 5th
 6
+6-1
 6-4
 60k
 62406
@@ -832,6 +833,7 @@ camps
 campsite
 campus
 can
+canadian
 canal
 cancelled
 cancels
@@ -1044,6 +1046,7 @@ cleaning
 cleanups
 clear
 cleared
+clearly
 clears
 clerk
 cliff
@@ -1141,6 +1144,7 @@ condemn
 condition
 conditions
 conduct
+coney
 conference
 confident
 confirm
@@ -1560,6 +1564,7 @@ donations
 donbas
 done
 dont
+doobious
 door
 doors
 dope
@@ -1802,6 +1807,7 @@ ex-england
 ex-girlfriend
 ex-officer
 ex-soldiers
+ex-texas
 exam
 excel
 excessive
@@ -1996,6 +2002,7 @@ flay
 fleeing
 flees
 fleetwood
+flies
 flight
 float
 floats
@@ -2686,6 +2693,7 @@ javascript
 jay-zs
 jazz
 jb
+jeanine
 jeep
 jeff
 jeffrey
@@ -2864,6 +2872,7 @@ lays
 lazarus
 lbj
 lead
+leader
 leaders
 leadership
 leading
@@ -3424,6 +3433,7 @@ normal
 norrie
 north
 northeast
+northern
 not
 not-so-silent
 notes
@@ -3505,6 +3515,7 @@ operator
 opinion
 opinions
 opportunity
+opposition
 option
 options
 opts
@@ -3548,6 +3559,7 @@ outreach
 outside
 over
 over-unders
+overlap
 overnight
 override
 overturned
@@ -3707,6 +3719,7 @@ pioneering
 pipe
 pippen
 pirates
+pirro
 pisces
 pistol-whipped
 pistons
@@ -3961,6 +3974,7 @@ race
 rachel
 racial
 racing
+racism
 racist
 ractliffes
 radar
@@ -4049,6 +4063,7 @@ record-breaking
 records
 recovering
 recovery
+recuse
 recyclable
 recycle
 recycling
@@ -4210,6 +4225,7 @@ rights
 riley
 rina
 ring
+ripped
 rips
 rise
 rising
@@ -4807,6 +4823,8 @@ suburban
 suburbs
 subway
 success
+successful
+successfully
 such
 sucker
 sue
@@ -4842,6 +4860,7 @@ supplier
 supply
 supply-chain
 support
+supported
 supporters
 supporting
 supportive
@@ -4887,6 +4906,7 @@ syria
 syrias
 sysadmin
 system
+systemic
 systems
 t
 t-rex
@@ -5047,6 +5067,7 @@ today
 todays
 toddler
 together
+toke
 tokemak
 tokens
 tokyo
@@ -5284,6 +5305,7 @@ vanessa
 variant
 variants
 vasquez
+vaxxers
 vegan
 vegas
 vehicle
