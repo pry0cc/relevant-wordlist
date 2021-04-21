@@ -275,6 +275,7 @@ agriculture
 ahead
 ahmed
 aid
+ailing
 aims
 air
 airlines
@@ -388,6 +389,7 @@ any
 anyone
 anyones
 anyway
+aoc
 ap
 apartheid
 apartment
@@ -517,6 +519,7 @@ bachelor
 back
 backcountry
 backed
+backers
 backlash
 backs
 backyard
@@ -597,6 +600,7 @@ behind-the-scenes
 beijing
 being
 belief
+believe
 believed
 bell
 below
@@ -660,6 +664,7 @@ blamed
 blames
 blank
 blasio
+blasts
 blessed
 blinders
 blindfolded
@@ -756,6 +761,7 @@ bringing
 brings
 brink
 bristol
+britcoin
 british
 britons
 broderick
@@ -805,6 +811,7 @@ burney
 burning
 bus
 buschman
+buses
 bush
 business
 businesses
@@ -947,6 +954,7 @@ channels
 chant
 chants
 chaos
+chappaqua
 chappelle
 chapter
 character
@@ -1119,6 +1127,7 @@ comeback
 comedy
 comes
 comfort
+comfortable
 coming
 command
 comments
@@ -1181,6 +1190,7 @@ conspiracies
 conspiracy
 constitutional
 construction
+consultant
 contact
 contender
 content
@@ -1229,6 +1239,7 @@ costa
 costs
 cotillard
 could
+couldnt
 couldve
 council
 count
@@ -1294,6 +1305,7 @@ criticism
 criticized
 criticizing
 critics
+critter
 crossword
 crowd
 crowds
@@ -1719,6 +1731,7 @@ embracing
 emergency
 emilia
 emily
+emission
 emissions
 emoji
 emojis
@@ -1761,6 +1774,7 @@ entre
 entry
 environmental
 ep
+epa
 epicenter
 eplan
 equalities
@@ -1816,6 +1830,7 @@ ex-cop
 ex-england
 ex-girlfriend
 ex-officer
+ex-president
 ex-soldiers
 ex-texas
 exam
@@ -1964,6 +1979,7 @@ fifas
 fifth
 fight
 fighting
+figure
 file
 files
 filing
@@ -2118,6 +2134,7 @@ fund
 funding
 fundraiser
 fundraising
+funds
 funeral
 funny
 furniture
@@ -2133,6 +2150,7 @@ gains
 gait
 galaxy
 gallagher
+gambit
 game
 games
 gaming
@@ -2336,6 +2354,7 @@ hard-hit
 harder
 hardware
 hardy
+harness
 harold
 harriet
 harris
@@ -2392,7 +2411,9 @@ hero
 hersey
 hes
 hesitancy
+hesitant
 hetheringtons
+hfpa
 hide
 high
 high-momentum
@@ -2979,6 +3000,7 @@ linked
 linkedin
 links
 lion
+lions
 lipa
 liquidity
 liquor
@@ -3213,6 +3235,7 @@ mexico
 meyers
 miami
 michael
+michelle
 michigan
 mickey
 microsoft
@@ -3341,6 +3364,7 @@ mum
 mumia
 mundelein
 murder
+murdering
 musgraves
 mushrooms
 music
@@ -3382,6 +3406,7 @@ navalny
 navalnys
 navy
 nba
+nbc
 ncaa
 ndrangheta
 near
@@ -3587,6 +3612,7 @@ overzealous
 own
 owner
 owners
+ownership
 oxfords
 oxygen
 ozicks
@@ -3785,6 +3811,7 @@ podiatrist
 point
 points
 poker
+polarised
 police
 policies
 policing
@@ -3881,6 +3908,7 @@ prison
 prisoners
 pritzker
 privacy
+private
 private-public
 pro
 pro-democracy
@@ -3987,6 +4015,7 @@ quietly
 quin
 quit
 quite
+quits
 quitting
 quizzed
 r
@@ -4040,6 +4069,7 @@ rate
 rather
 rattled
 rce
+re-introduces
 re-release
 re-sign
 reach
@@ -4235,6 +4265,7 @@ rewards
 rework
 rex
 rfu
+rhetoric
 ribs
 rice
 rich
@@ -4864,6 +4895,7 @@ suicidal
 suisun
 summer
 summit1g
+summon
 sumo
 sun
 sunak
@@ -5070,6 +5102,7 @@ thursday
 tide
 tier
 tiger
+tigers
 tight
 tigray
 tiktok
