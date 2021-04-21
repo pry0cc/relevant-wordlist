@@ -317,6 +317,7 @@
 1B
 1M
 1Q
+1m
 1st
 2
 2-0
@@ -387,6 +388,8 @@
 2030-31
 2035
 203rd
+2050
+206
 20M
 20m
 20th-century
@@ -638,6 +641,7 @@
 5M
 5th
 6
+6-0
 6-1
 6-2
 6-3
@@ -697,6 +701,7 @@
 70106
 70K
 70M
+70mph
 71
 72-year-old
 7220
@@ -855,11 +860,13 @@ Abandoning
 Abbey
 Abbott
 Abby
+Abdallah
 Abdul
 Abdullah
 Abdurrahman
 Abel
 Abella
+Aberdeen
 Abernathy
 Abeywickrama
 Abilities
@@ -1211,6 +1218,7 @@ Ambassador
 Amber
 Ambitious
 Ambulance
+Amdur
 Amendment
 Amenities
 Amerbach
@@ -1541,6 +1549,7 @@ At
 At-Home
 At-Larbi
 Atacama
+Athanas
 Athertons
 Athlete
 Athletes
@@ -1707,12 +1716,14 @@ Baffert
 Bafferts
 Bag
 Baggage
+Baghdad
 Bags
 Bahamas
 Bahjeera
 Bahria
 Bail
 Bailey
+Bain
 Bainums
 Bajin
 Bake
@@ -1773,6 +1784,7 @@ Barker
 Barkers
 Barkley
 Barmore
+Barnabas
 Barnes
 Barnsley
 Baron
@@ -1894,6 +1906,7 @@ Belarus
 Belfort
 Belgian
 Belgium
+Belichick
 Believe
 Believed
 Believes
@@ -1986,6 +1999,7 @@ Big
 Bigfoot
 Bigfoot-Hunting
 Biggest
+Bigirimana
 Bijan
 Bike
 Biker
@@ -2049,12 +2063,14 @@ Blackburn
 Blackhawks
 Blackmon
 Blackout
+Blackpinks
 Blacks
 Blackston
 Blackstone
 Blacktop
 Blah
 Blair
+Blaise
 Blake
 Blame
 Blamed
@@ -2204,6 +2220,7 @@ Bowl
 Bowman
 Bowman-James
 Bowral
+Bowser
 Box
 Boxes
 Boxing
@@ -2311,6 +2328,7 @@ British
 Britney
 Britons
 Brits
+Britta
 Brive
 Broad
 Broadcast
@@ -2420,6 +2438,7 @@ Burks
 Burleson
 Burlington
 Burn
+Burnes
 Burney
 Burning
 Burnley
@@ -2541,6 +2560,7 @@ CWD
 Cabbagetown
 Cabos
 Cabrera
+Cadden
 Caddy
 Cadiz
 Caffeine-Free
@@ -2555,6 +2575,7 @@ Cake
 Cake-Flavored
 Cakes
 Cal
+Calculate
 Caldern
 Caleb
 Calhoun
@@ -2691,6 +2712,7 @@ Carpet
 Carpinteria
 Carragher
 Carranzas
+Carrefour
 Carrera
 Carrie
 Carrier
@@ -2759,6 +2781,8 @@ Cause
 Caused
 Causes
 Causing
+Caution
+Cautioned
 Cautious
 Cavalcante
 Cavaliers
@@ -3074,6 +3098,7 @@ Claw
 Clay
 Clayton
 Clean
+Cleaner
 Cleanest
 Cleaning
 Cleans
@@ -3691,6 +3716,7 @@ DFW
 DH
 DHS
 DIE
+DISTURBING
 DIY
 DJ
 DM
@@ -3723,6 +3749,7 @@ Dak
 Dakota
 Dal
 Dalabehera
+Dalai
 Dale
 Dallas
 Dallas-Fort
@@ -4038,6 +4065,7 @@ DiNapoli
 DiTrapano
 Dia
 Diabetes
+Diabetic
 Diabetics
 Diablo
 Diachea
@@ -4285,6 +4313,7 @@ Doppelgngers
 Dorchester
 Dorfman
 Dorian
+Doris
 Dorothy
 Dorset
 Dortmunds
@@ -4347,6 +4376,7 @@ Dream
 Dreaming
 Dreamlifter
 Dreams
+Dreke
 Dress
 Dressed
 Dresses
@@ -4882,6 +4912,7 @@ Excavation
 Excel
 Excellence
 Exception
+Excessive
 Exchange
 Exchanges
 Excited
@@ -5094,6 +5125,7 @@ Fault
 Faults
 Faure
 Faust
+Faux
 Fave
 Favor
 Favorite
@@ -5408,6 +5440,7 @@ Framework
 Franc
 France
 Francesco
+Franch
 Franchise
 Francis
 Francisco
@@ -5799,6 +5832,7 @@ Goldie
 Goldman
 Golf
 Golmud
+Golo
 Gomez
 Gomezs
 Gone
@@ -5869,6 +5903,7 @@ Grants
 Grappler
 Grasse
 Grassley
+Graveyard
 Gray
 Graybug
 Grealish
@@ -6150,6 +6185,7 @@ Harvin
 Has
 Hasenhuttls
 Hash
+Hasidic
 Hasnt
 Hastings
 Hatch
@@ -6188,6 +6224,7 @@ Head-On
 Head-Spinning
 Headed
 Heading
+Headland
 Headlines
 Headphones
 Headquarters
@@ -6411,6 +6448,7 @@ Homebound
 Homeless
 Homelessness
 Homemade
+Homer
 Homeroom
 Homers
 Homes
@@ -6454,6 +6492,7 @@ Horrors
 Horry
 Horse
 Horsetooth
+Horstmann
 Hosmer
 Hospital
 Hospitalizations
@@ -6558,6 +6597,7 @@ Husband
 Huskies
 Husky
 Husky-Voiced
+Hussein
 Hussey
 Hustle
 Huston
@@ -6788,6 +6828,7 @@ Informer
 Infrastructure
 Infusing
 Inga
+Inge
 Ingeborg
 Ingenuity
 Ingenuitys
@@ -6807,6 +6848,7 @@ Inn
 Inn-vitational
 Inner
 Inning
+Innings
 Innocent
 Innovation
 Inquiry
@@ -7046,6 +7088,7 @@ Jasso
 JavaScript
 Javier
 Javits
+Javu
 Jay
 Jay-Z
 Jay-Zs
@@ -7180,6 +7223,7 @@ Journey
 Joy
 Joyson
 Jr
+Jrns
 Jrs
 Juan
 Juanita
@@ -7301,6 +7345,7 @@ Kate
 Katelyn
 Kathleen
 Kathryn
+Kathy
 Katie
 Katy
 Kaunitz
@@ -7310,6 +7355,7 @@ Kay
 Kayden
 Kayla
 Kazakhstan
+Kazi
 Kbreau
 Keaney
 Keaton
@@ -7489,6 +7535,7 @@ Kosteks
 Kourtney
 Kragh
 Kraken
+Krasniqi
 Krejci
 Kreme
 Kremlin
@@ -7603,6 +7650,7 @@ Lakh
 Lakhon
 Lakmal
 Lala
+Lama
 Lamar
 Lambert
 Lambin
@@ -7633,6 +7681,7 @@ Langer
 Language
 Languishing
 Lanka
+Lannion-Trgor
 Lansing-Area
 Lantern
 Laporta
@@ -7896,6 +7945,7 @@ Lips
 Liquid
 Liquor
 Lisa
+Liseki
 Lisfranc
 Lisowski
 List
@@ -8206,6 +8256,7 @@ Makers
 Makes
 Makhanda
 Makhi
+Makhia
 Making
 Makwayiba
 Mal
@@ -8256,6 +8307,7 @@ Manitoba
 Mank
 Manmohan
 Mann
+Mannan
 Mannequin
 Manners
 Manohara
@@ -8462,6 +8514,7 @@ McNeese
 McRorys
 McSweeney
 McWilliams
+Mdamu
 Mde
 Mditerrane
 Me
@@ -8517,6 +8570,7 @@ Mehta
 Mei
 Meijer
 Meireles
+Meituan
 Meja
 Melania
 Melbourne
@@ -8745,6 +8799,7 @@ Mitch
 Mitchell
 Mitchells
 Mix
+Mixed
 Mixes
 Mixing
 Mizuho
@@ -8802,6 +8857,7 @@ Mongolia
 Mongolian
 Monica
 Monitors
+Monja
 Monk
 Monster
 Montana
@@ -9070,6 +9126,7 @@ Nadals
 Nadezhda
 Nagashima
 Nagelsmann
+Naheda
 Naif
 Naisbitt
 Nakamura
@@ -9129,6 +9186,7 @@ Navy
 Nazarov
 Nazi
 Nazis
+Ndikumana
 Ndrangheta
 Neagle
 Near
@@ -9149,6 +9207,7 @@ Needed
 Needs
 Nefarious
 Negative
+Negotiate
 Negotiations
 Negotiators
 Neighbor
@@ -9239,6 +9298,7 @@ Ninjago
 Nintendo
 Ninth
 Ninth-Inning
+Nirmala
 Niro
 Nirob
 Niros
@@ -9281,6 +9341,7 @@ Nonsense
 Noon
 Noor
 Noose
+Nope
 Nora
 Nord
 Norder
@@ -9368,6 +9429,7 @@ OTs
 Oak
 Oakbrook
 Oakland
+Oaklanders
 Oath
 Oatly
 Obama
@@ -9426,6 +9488,7 @@ Oh
 Ohio
 Ohios
 Ohtani
+Ohtanis
 Oil
 Oilers
 Oils
@@ -9583,6 +9646,7 @@ Overall
 Overcomes
 Overcoming
 Overdose
+Overhaul
 Overlap
 Overnight
 Overseas
@@ -9698,6 +9762,7 @@ Painfully
 Paint
 Pair
 Pairs
+Paisley
 Pakistan
 Pakistani
 Pakistani-American
@@ -9725,6 +9790,7 @@ Panama
 Panciera
 Panda
 Pandemic
+Pandemic-Style
 Paneer
 Panel
 Panettieres
@@ -9829,6 +9895,7 @@ Paul
 Paula
 Paulina
 Pauls
+Paulsen
 Pause
 Pauses
 Pauwels
@@ -10260,6 +10327,7 @@ Powerful
 Powerhouse
 Powerless
 Powers
+Prabhavalkar
 Practical
 Practically
 Practice
@@ -10508,6 +10576,7 @@ Putins
 Putney
 Puts
 Putting
+Puzzle
 PwC
 Pwn2Own
 Pynyashko
@@ -11012,6 +11081,7 @@ Resume
 Resumes
 Resuming
 Resurgent
+Retailer
 Retaliation
 Retina
 Retire
@@ -11199,6 +11269,7 @@ Roger
 Rogers
 Rogerss
 Rohingya
+Rohit
 Rojas
 Roku
 Roland
@@ -11345,6 +11416,7 @@ Ryan
 Ryder
 Ryuk
 S
+S12
 S2000s
 S8
 SALT
@@ -11381,6 +11453,7 @@ SLPS
 SLSL
 SLU
 SMG
+SML
 SNP
 SNPs
 SOL
@@ -11427,6 +11500,7 @@ Sage
 Saginaw
 Sahara
 Sahel
+Sahtout
 Said
 Sailing
 Sailors
@@ -11464,6 +11538,7 @@ Sam
 Samad
 Saman
 Samanera
+Samant
 Samaranayake
 Same
 Same-Sex
@@ -11525,6 +11600,7 @@ Sauce
 Sauces
 Saucy
 Saudi
+Saudis
 Saugus
 Sauk
 Sausalito
@@ -11658,6 +11734,7 @@ Security
 Sedan
 See
 SeeSaw
+Seeger
 Seeing
 Seek
 Seeking
@@ -11680,6 +11757,7 @@ Selleck
 Selling
 Selma
 Seltos
+Semi-Truck
 Semifinals
 Seminary
 Sen
@@ -11806,6 +11884,7 @@ Sheet
 Sheets
 Sheff
 Sheffield
+Shefqet
 Sheikha
 Sheila
 Shelia
@@ -11890,6 +11969,7 @@ Shuo
 Shut
 Shutdown
 Shutout
+Shuts
 Shutter
 Shutting
 Shuvam
@@ -11915,6 +11995,7 @@ Siempre
 Siena
 Sierra
 Sigh
+Sighs
 Sight
 Sightings
 Sigmund
@@ -11997,6 +12078,7 @@ Ska
 Skating
 Skatteen
 Skeleton
+Skepticism
 Skid
 Skiers
 Skiing
@@ -12041,6 +12123,7 @@ Slidebean
 Slider
 Slime
 Slingshots
+Sliver
 Slope
 Slow
 Slows
@@ -12067,6 +12150,7 @@ Smith
 Smiths
 Smoke
 Smoking
+Smolka
 Smooth
 Smoothie
 Smuggling
@@ -12316,6 +12400,7 @@ Star
 Star-Making
 Star-Studded
 StarDance
+Stara
 Starbucks
 Staria
 Stark
@@ -12611,6 +12696,7 @@ Survive
 Survived
 Surviving
 Survivor
+Survivors
 Susan
 Sushis
 Suspect
@@ -12895,6 +12981,7 @@ Terrible
 Terribly
 Terrier
 Terrifying
+Territorial
 Territory
 Terror
 Terrorism
@@ -12975,6 +13062,7 @@ Thitisan
 Thom
 Thomas
 Thompson
+Thorns
 Thorough
 Thoroughbred
 Thorpe
@@ -13008,6 +13096,7 @@ Throughout
 Throw
 Throwback
 Throwing
+Throws
 Thug
 Thump
 Thun
@@ -13027,6 +13116,7 @@ Tide
 Tied
 Tier
 Ties
+Tiffany
 Tig
 Tiger
 Tigers
@@ -13397,6 +13487,7 @@ US-Mexico
 US-backed
 US-based
 US-hosted
+US-led
 US30
 US32
 US814
@@ -13474,6 +13565,7 @@ Unions
 Uniqlo
 Unique
 Unirea
+Uniswap
 Uniswaps
 Unit
 United
@@ -13517,6 +13609,7 @@ Upgrade
 Upheld
 Uplift
 Upper
+Uprising
 Ups
 Upset
 Upstart
@@ -13530,6 +13623,7 @@ Uras
 Urban
 Urge
 Urgent
+Urges
 Urging
 Urias
 Urkle
@@ -13563,6 +13657,7 @@ Uytae
 Uzi
 Uzoka
 V
+V3
 VA
 VALORANT
 VAs
@@ -13703,6 +13798,7 @@ Vibes
 Vicarious
 Vice
 Vice-President
+Vicent
 Vicente
 Vicious
 Victim
@@ -13867,6 +13963,7 @@ Walgreens
 Walibi
 Walk
 Walk-In
+Walked
 Walker
 Walking
 Wall
@@ -14009,6 +14106,7 @@ Welsh
 Wembley
 Wen
 Wendi
+Wendy
 Went
 Wentz
 Wenzeslaus
@@ -14251,6 +14349,7 @@ Xi
 Xiangyun
 Xinjiang
 Xochitlicue
+Xperia
 Xtremewood
 Y6S13
 YIKES
@@ -14303,6 +14402,7 @@ Yobe
 Yocum
 Yodeler
 Yogi
+Yogimatha
 Yogurt
 Yolk
 Yom-Tob
@@ -14322,6 +14422,7 @@ Youll
 Youn
 Young
 Younger
+Youngs
 Youngstown
 Your
 YourBonus
@@ -14353,6 +14454,7 @@ Zach
 Zachary
 Zack
 Zagitovas
+Zagora
 Zagreb
 Zahns
 Zaire
@@ -14386,6 +14488,7 @@ Zhu
 Zidane
 Ziering
 Ziggy
+Zimbabwes
 Zina
 Zion
 Zippy
@@ -14428,6 +14531,7 @@ above
 abroad
 absence
 absolutely
+absorbs
 abundantly
 abuse
 abused
@@ -14970,6 +15074,7 @@ balance
 balanced
 balcony
 bald
+balk
 balks
 ball
 ballhawk
@@ -15016,6 +15121,7 @@ bathroom
 bathrooms
 baton
 bats
+batsmen
 batten
 battery
 battery-powered
@@ -15161,6 +15267,7 @@ blinders
 blindfolded
 blister
 blitz
+bln
 bloc
 block
 blockage
@@ -15402,6 +15509,7 @@ butter
 butterflies
 buy
 buy-on-board
+buyback
 buyer
 buying
 buys
@@ -15464,6 +15572,7 @@ canister
 cannabis
 cannons
 cannot
+canon
 cans
 cant
 cap
@@ -15478,6 +15587,7 @@ capsize
 capsized
 capsule
 capsules
+captain
 capture
 captured
 captures
@@ -15544,6 +15654,7 @@ cause
 caused
 causes
 causing
+caution
 cautionary
 cautious
 ceasefire
@@ -16349,6 +16460,7 @@ deemed
 deeming
 deep
 deepen
+deepens
 deeper
 deeply
 defamation
@@ -16402,6 +16514,7 @@ demanding
 demands
 dementia
 democracy
+demolished
 demonetises
 demonizing
 demons
@@ -16451,6 +16564,7 @@ described
 describes
 description
 desert
+deserve
 deserved
 deserves
 design
@@ -16704,6 +16818,7 @@ dozen
 dozens
 draconian
 draft
+draft-eligible
 drafting
 drafts
 drag
@@ -16782,6 +16897,7 @@ during
 dust
 duty
 dying
+dynasty
 dysfunction
 e
 eBook
@@ -17005,6 +17121,7 @@ evacuation
 evacuations
 evaluation
 evanida
+eve
 even
 evening
 event
@@ -17053,6 +17170,7 @@ exacerbated
 exactly
 exaggerating
 exalts
+examined
 examiner
 examines
 example
@@ -17117,6 +17235,7 @@ explaining
 explains
 explanation
 exploded
+exploding
 exploited
 exploits
 exploration
@@ -17197,6 +17316,7 @@ fallout
 falls
 false
 falsified
+falters
 famed
 familiar
 families
@@ -17392,6 +17512,7 @@ flights
 flings
 flipflop
 flipped
+flirted
 flirty
 float
 floats
@@ -17448,6 +17569,7 @@ forecast
 forecasters
 forefront
 foreign
+foreign-made
 foreigners
 foreman
 foresees
@@ -17540,6 +17662,7 @@ fuel
 fueled
 fueling
 fuelling
+fuels
 fugitive
 full
 full-time
@@ -17574,6 +17697,7 @@ galleries
 gallons
 gambit
 gamble
+gambling
 game
 games
 gaming
@@ -17716,6 +17840,7 @@ grant
 granted
 granting
 grants
+graphic
 graphs
 grapple
 grasping
@@ -18035,6 +18160,7 @@ honoring
 honors
 honour
 honoured
+honouring
 hoops
 hope
 hopeful
@@ -18430,6 +18556,7 @@ jets
 jewellery
 jewelry
 jewels
+jitters
 job
 jobless
 joblessness
@@ -18588,6 +18715,7 @@ launching
 laundering
 laundry
 laureate
+laureates
 law
 law-enforcement
 lawmaker
@@ -18829,6 +18957,7 @@ ludicrous
 luminaries
 lump
 lunch
+lunging
 lure
 luthier
 luxury
@@ -19302,6 +19431,7 @@ newsBoris
 newsCandidates
 newsIndia
 newsIndian
+newsNHS
 newspaper
 newsroom
 nexilis
@@ -19631,6 +19761,7 @@ pants
 paper
 papers
 paperwork
+papillopathy
 papuensis
 parachute
 parachuting
@@ -19771,6 +19902,7 @@ petroglyphs
 pets
 pharmacy
 phase
+phased
 philosophy
 phone
 phonics
@@ -20631,6 +20763,7 @@ resident
 residents
 resign
 resignation
+resignations
 resigned
 resigning
 resigns
@@ -21122,6 +21255,7 @@ shape
 shaped
 shaping
 share
+share-cycle
 shared
 shareholder
 shareholders
@@ -21870,6 +22004,7 @@ symbolism
 symbolize
 symbols
 symptoms
+syndicate
 syndrome
 syphilis
 system
@@ -22014,6 +22149,7 @@ testified
 testify
 testimony
 testing
+testnets
 tests
 text
 textile
@@ -22330,6 +22466,7 @@ truth
 try
 trying
 tryouts
+tsunami
 tub
 tuberosus
 tubs
@@ -22586,6 +22723,7 @@ victories
 victory
 video
 videos
+view
 viewers
 viewing
 views
@@ -22782,6 +22920,7 @@ where
 whether
 which
 whiffed
+whiffs
 while
 whining
 whip
