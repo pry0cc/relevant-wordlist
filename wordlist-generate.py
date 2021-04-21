@@ -49,14 +49,16 @@ while True:
         for item in feedparser.parse(feed)["entries"]:
             headline = item["title"]
             add_if_unique(headline, headlines)
-            words_from_headline_lower = convert_str_to_words(headline.lower())
-            words_from_headline = convert_str_to_words(headline)
 
-            for word in words_from_headline_lower:
-                add_if_unique(word, words_lower)
+    for headline in headlines:
+        words_from_headline_lower = convert_str_to_words(headline.lower())
+        words_from_headline = convert_str_to_words(headline)
 
-            for word in words_from_headline:
-                add_if_unique(word, words)
+        for word in words_from_headline_lower:
+            add_if_unique(word, words_lower)
+
+        for word in words_from_headline:
+            add_if_unique(word, words)
 
     print("Saving files...")
     save_file('headlines.txt', headlines)
