@@ -19,10 +19,12 @@
 108i
 109
 109-105
+109-97
 10B
 10s
 11
 111-97
+112-96
 1189
 12
 12-minute
@@ -101,10 +103,13 @@
 2nd
 2tn
 3
+3-1
+3-2
 3-year
 30
 30s
 30th
+33
 34
 340M
 3416113
@@ -113,6 +118,7 @@
 365
 38
 4
+4-1
 4-3
 4-Alarm
 40
@@ -126,6 +132,7 @@
 4M
 5
 5-2
+5-game
 50
 500
 5000
@@ -150,7 +157,9 @@
 675
 6pm
 7
+7-6
 7-year-old
+70
 700-plus
 73
 74
@@ -163,6 +172,7 @@
 8216Em
 85
 86
+8th
 9
 90-minute
 900
@@ -187,12 +197,14 @@ APT
 AU
 AUM
 Abandoned
+Abbott
 Abernathy
 Able
 Abolitionist
 About
 Above-Average
 Abrams
+Abreu
 Abu-Jamal
 Abused
 Abuses
@@ -229,6 +241,7 @@ Adolescents
 Adorable
 Adrian
 Ads
+Adulthood
 Adults
 Advise
 Aerie
@@ -311,6 +324,7 @@ An
 Analysis
 Analyst
 And
+Anders
 Anderson
 Andra
 Andrea
@@ -342,6 +356,7 @@ Anyones
 Anyway
 Apartments
 App
+Appeal
 Appearing
 Apple
 Applebees
@@ -390,6 +405,7 @@ Assets
 Assist
 Associate
 Association
+Astra
 AstraZeneca
 AstraZenecas
 Astrological
@@ -470,6 +486,7 @@ Bartali
 Baseball
 Based
 Baseless
+Bases-loaded
 Bashkortostan
 Basic
 Basketball
@@ -509,6 +526,7 @@ Bell
 Ben
 Benedict
 Benjamin
+Bennett
 Benson
 Bernard
 Bernice
@@ -728,6 +746,7 @@ Car
 Carbon
 Card
 Cardano
+Cardinals
 Care
 Career
 Carey
@@ -766,6 +785,7 @@ Celo
 Celtic
 Celtics
 Center
+Central
 Centuries
 Cereal
 Chad
@@ -1166,6 +1186,7 @@ Developed
 Developing
 Developments
 Devices
+Devils
 Diane
 Dianna
 Diaper
@@ -1296,6 +1317,7 @@ ESG
 ET
 EU
 EXCLUSIVE
+EXPLAINED
 EXPLAINER
 Each
 Eagles
@@ -1745,6 +1767,7 @@ Greek
 Green
 Greenes
 Greensill
+Greg
 Grieving
 Grilling
 Grills
@@ -1818,6 +1841,7 @@ Haunted
 Haunting
 Havana
 Have
+Hawks
 Hawleys
 He
 Head
@@ -1887,6 +1911,7 @@ Hood
 Hooks
 Hoping
 Hopkins
+Hornets
 Horowitz
 Horror
 Hospitalizations
@@ -1977,6 +2002,7 @@ India
 Indian
 Indiana
 Indianas
+Indians
 Indias
 Indie
 Indoor
@@ -2023,6 +2049,7 @@ Intoxicated
 Introducing
 Intruder
 Invade
+Invaded
 Invasion
 Invested
 Investigate
@@ -2057,6 +2084,7 @@ Items
 Its
 Itself
 Ivan
+Ive
 J
 J-Lo
 JB
@@ -2139,6 +2167,7 @@ Justin
 Juvenile
 Juzang
 K-9
+KEY
 KY
 Kacey
 Kai
@@ -2181,6 +2210,7 @@ Kmart
 Knew
 Knicks
 Knife
+Knight
 Knighton
 Know
 Knows
@@ -2472,6 +2502,7 @@ May
 Mayo
 Mayor
 Mazzucchi
+McCann
 McCarthy
 McCartney
 McCrory
@@ -2791,6 +2822,7 @@ Outreach
 Outside
 Over
 Overnight
+Overturned
 Overwhelmed
 Overzealous
 Own
@@ -2809,6 +2841,7 @@ PHOTOS
 PI
 PL
 PM
+POINTS
 PSA
 PSG
 PTSD
@@ -2891,6 +2924,7 @@ Peters
 Petition
 Pets
 Pfizer
+Phase
 Pheidippides
 Philabundance
 Philadelphia
@@ -3044,6 +3078,7 @@ Protected
 Protecting
 Protection
 Protectionist
+Protest
 Protesters
 Protests
 Proudest
@@ -3077,6 +3112,7 @@ Q4
 QAnon
 QAnon-style
 QBs
+QUIZ
 Quant
 Quarantine
 Quarantined
@@ -3092,6 +3128,8 @@ Quitting
 R
 RAT
 RCE
+READERS
+REVEAL
 REvil
 RFU
 Race
@@ -3138,6 +3176,7 @@ Reaction
 Reactions
 Reacts
 Read
+Reader
 Ready
 Real
 Reality
@@ -3193,6 +3232,7 @@ Religious
 Rely
 Remains
 Remaking
+Remarkable
 Rematch
 Remembering
 Reminded
@@ -3218,6 +3258,7 @@ Reported
 Reporter
 Reports
 Reprogram
+Reps
 Republican
 Republicans
 Repurpose
@@ -3293,6 +3334,7 @@ Rock
 Rockies
 Rocks
 RockyMore
+Rodn
 Rogers
 Rolling
 Rollout
@@ -3380,6 +3422,7 @@ Savage
 Save
 Saves
 Savior
+Saw
 Sawayamas
 Say
 Saying
@@ -3410,6 +3453,7 @@ Season
 Seasonal
 Seat
 Seattle
+Second
 Seconds
 Secret
 Secrets
@@ -3719,6 +3763,7 @@ Summer
 Sumo
 Sun
 Sunak
+Sundance
 Sunday
 Sunderland
 Sunny
@@ -3754,6 +3799,9 @@ Swamped
 Swann
 Sweaters
 Sweaty
+Sweden
+Swedens
+Swedish
 Sweetheart
 Symbiogenesis
 Symptoms
@@ -3801,6 +3849,7 @@ Tech
 Technology
 Teen
 Teenage
+Tegnell
 Teigens
 Telekom
 Tell
@@ -4270,6 +4319,7 @@ YIKES
 Yaku
 Yale
 Yankees
+Yanks
 Yasiin
 Yates
 Year
@@ -4301,6 +4351,7 @@ Zachary
 Zalatoris
 Zarzas
 Zealand
+Zeneca
 Zion
 Zippy
 Zollywood
@@ -4352,6 +4403,7 @@ advise
 adviser
 advocates
 affected
+affects
 affirming
 affordable
 aficionados
@@ -4427,6 +4479,7 @@ approves
 are
 area
 areas
+argue
 arguments
 arm
 around
@@ -4442,6 +4495,7 @@ assaulting
 assess
 assets
 at
+atop
 attached
 attack
 attacked
@@ -4450,6 +4504,7 @@ attempt
 attempted
 attorney
 auction
+aunt
 authorities
 authors
 autism
@@ -4636,6 +4691,7 @@ carbon
 card
 cards
 care
+carry
 carts
 case
 cases
@@ -4661,6 +4717,7 @@ center
 central
 century
 ceremony
+certain
 chain
 chair
 challenge
@@ -4776,6 +4833,7 @@ confirmed
 confiscated
 conflict
 confusing
+congressional
 consecutive
 consequences
 conservation
@@ -4830,6 +4888,7 @@ covering
 crack
 crash
 crashes
+cream
 creamery
 credit
 credited
@@ -4845,6 +4904,7 @@ criticises
 criticism
 critics
 crowd
+crunch
 crypto
 cryptocurrency
 cultural
@@ -4905,6 +4965,7 @@ delays
 deluge
 demand
 dementia
+demonstrations
 denied
 denies
 denouncing
@@ -4944,8 +5005,10 @@ director
 disabled
 disambiguation
 disappearance
+discard
 discovered
 discriminated
+discuss
 discussions
 dismisses
 disparities
@@ -4986,6 +5049,7 @@ dramatic
 draw
 draws
 dream
+dricks
 driver
 driverless
 drivers
@@ -5056,6 +5120,7 @@ enough
 enters
 enticement
 entry
+epidemiologist
 errant
 eruption
 erupts
@@ -5109,6 +5174,7 @@ exploration
 explores
 exposed
 extend
+extent
 extort
 extortion
 extra
@@ -5121,11 +5187,13 @@ faces
 facilities
 facility
 facing
+factor
 facts
 fair
 fairness
 faith
 fall
+falling
 falls
 false
 family
@@ -5155,6 +5223,7 @@ fifth
 fight
 fighting
 figure
+files
 filing
 filling
 film
@@ -5175,6 +5244,7 @@ first
 first-place
 fish
 fishing
+five
 five-game
 five-month
 fix
@@ -5182,6 +5252,7 @@ fixes
 flag
 flashpoint
 flavors
+flaws
 fleeing
 flees
 flies
@@ -5215,6 +5286,7 @@ fraud
 freaking
 free
 freebies
+freely
 freeze
 fried
 friend
@@ -5278,6 +5350,7 @@ goes
 going
 gold
 gone
+good
 gossip
 got
 gov
@@ -5289,6 +5362,7 @@ granting
 graphs
 grapple
 gray
+greater
 greed
 green
 greenhouse
@@ -5352,6 +5426,7 @@ hearing
 heart
 heartbroken
 heat
+heats
 hedge
 held
 helicopter
@@ -5425,6 +5500,7 @@ iPad
 iPads
 iPhone
 iPhones
+ice
 idea
 ideal
 identified
@@ -5444,6 +5520,7 @@ imports
 improve
 in
 in-court
+incidence
 include
 includes
 including
@@ -5493,6 +5570,7 @@ is
 island
 isnt
 isolated
+isolationist
 issuance
 issue
 it
@@ -5638,6 +5716,7 @@ majority
 make
 makes
 making
+male
 malicious
 malware
 man
@@ -5664,6 +5743,7 @@ me
 mean
 meaningful
 means
+measures
 medallions
 media
 medical
@@ -5682,10 +5762,12 @@ mental
 merger
 meth
 metrics
+mid-July
 mid-June
 might
 migrant
 migrants
+migration
 mild
 million
 millions
@@ -5748,6 +5830,7 @@ nation
 national
 nationally
 nations
+nativist
 natural
 near
 nearly
@@ -5773,6 +5856,7 @@ nice
 night
 ninth
 no
+no-no
 nominated
 nomination
 nominations
@@ -5857,6 +5941,7 @@ override
 overturned
 overwhelms
 own
+owner
 owners
 ownership
 oxygen
@@ -5874,6 +5959,7 @@ parallel
 park
 parking
 parks
+parliament
 parody
 part
 partially
@@ -5887,6 +5973,7 @@ passports
 past
 patch
 pathologist
+patients
 pause
 pay
 payment
@@ -5897,10 +5984,12 @@ pedestrian
 penguins
 people
 per
+percent
 perfect
 perform
 perimeter
 periods
+permit
 person
 phone
 photo
@@ -5917,6 +6006,7 @@ pieces
 pills
 pilot
 pipe
+pitch
 pivotal
 place
 placed
@@ -5998,6 +6088,7 @@ probable
 probe
 problem
 process
+processing
 producer
 product
 products
@@ -6042,9 +6133,11 @@ pushes
 put
 puts
 quake
+qualify
 quarantine
 quarantined
 quarter
+question
 questionable
 questions
 quickly
@@ -6111,7 +6204,9 @@ reflects
 reform
 reforming
 reforms
+refuse
 region
+regions
 register
 regulator
 regulatory
@@ -6199,6 +6294,7 @@ role
 roles
 roll
 romp
+rotations
 round
 round-up
 rounds
@@ -6227,6 +6323,7 @@ sandwich
 satellites
 sauce
 save
+saves
 saving
 say
 saying
@@ -6237,6 +6334,7 @@ scenes
 school
 schools
 scientists
+scores
 scramble
 scrappy
 scraps
@@ -6318,6 +6416,7 @@ showers
 shows
 shredders
 shutdowns
+shutout
 shuts
 shutting
 side
@@ -6365,6 +6464,7 @@ snow
 snowy
 snuffs
 so
+soar
 soccer
 social
 socialist
@@ -6424,6 +6524,7 @@ start
 starter
 starting
 state
+statehood
 statement
 states
 statewide
@@ -6450,6 +6551,7 @@ storm
 story
 straight
 strategy
+streak
 stream
 streaming
 streets
@@ -6487,6 +6589,7 @@ suffered
 suffering
 suffers
 suicidal
+suit
 summer
 summit1g
 summon
@@ -6586,6 +6689,7 @@ thinks
 third
 this
 those
+thousands
 threatened
 threatens
 threats
@@ -6593,6 +6697,7 @@ three
 through
 throw
 thrown
+tied
 tier
 tigers
 tight
@@ -6612,6 +6717,7 @@ too
 took
 tool
 top
+tops
 total
 touching
 tour
@@ -6625,6 +6731,7 @@ tracks
 trade
 traded
 trading
+traffic
 trailer
 train
 training
@@ -6706,6 +6813,7 @@ vaccine
 vaccine-eligible
 vaccines
 vacuum
+vans
 variant
 variants
 vehicle
@@ -6734,6 +6842,7 @@ vision
 visionary
 visit
 visits
+vocabulary
 voices
 volcano
 volumes
@@ -6748,6 +6857,7 @@ vulnerability
 wait
 waiting
 waivers
+walk
 walked
 walkup
 wall
@@ -6758,6 +6868,7 @@ war
 war-torn
 warm
 warming
+warn
 warning
 warns
 wars
@@ -6819,10 +6930,12 @@ withstand
 witness
 woman
 womans
+women
 won
 wonder
 wont
 woods
+word
 wordless
 work
 workers
@@ -6834,6 +6947,7 @@ worlds
 worst
 worth
 would
+wouldnt
 wounded
 wrong
 wrongly

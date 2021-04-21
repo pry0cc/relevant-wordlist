@@ -19,10 +19,12 @@
 108i
 109
 109-105
+109-97
 10b
 10s
 11
 111-97
+112-96
 1189
 12
 12-minute
@@ -100,10 +102,13 @@
 2nd
 2tn
 3
+3-1
+3-2
 3-year
 30
 30s
 30th
+33
 34
 340m
 3416113
@@ -112,6 +117,7 @@
 365
 38
 4
+4-1
 4-3
 4-alarm
 40
@@ -125,6 +131,7 @@
 4m
 5
 5-2
+5-game
 50
 500
 5000
@@ -149,7 +156,9 @@
 675
 6pm
 7
+7-6
 7-year-old
+70
 700-plus
 73
 74
@@ -162,6 +171,7 @@
 8216em
 85
 86
+8th
 9
 90-minute
 900
@@ -176,6 +186,7 @@ a-rod
 aap
 abandoned
 abandons
+abbott
 abernathy
 able
 abnormal
@@ -183,6 +194,7 @@ abolitionist
 about
 above-average
 abrams
+abreu
 abu-jamal
 abuse
 abused
@@ -241,6 +253,7 @@ adorable
 adrian
 ads
 adult
+adulthood
 adults
 advance
 adversity
@@ -251,6 +264,7 @@ aerie
 affairs
 affected
 affecting
+affects
 affirming
 affordable
 afghan
@@ -349,6 +363,7 @@ an
 analysis
 analyst
 and
+anders
 anderson
 andra
 andrea
@@ -425,6 +440,7 @@ are
 area
 areas
 argentinian
+argue
 arguments
 aries
 arihara
@@ -460,6 +476,7 @@ assets
 assist
 associate
 association
+astra
 astrazeneca
 astrazenecas
 astrological
@@ -469,6 +486,7 @@ atacama
 athlete
 atlantic
 atomic
+atop
 attached
 attack
 attacked
@@ -554,6 +572,7 @@ base
 baseball
 based
 baseless
+bases-loaded
 bashkortostan
 basic
 basketball
@@ -609,6 +628,7 @@ ben
 benedict
 benefit
 benjamin
+bennett
 benson
 bernard
 bernice
@@ -874,6 +894,7 @@ car
 carbon
 card
 cardano
+cardinals
 cards
 care
 career
@@ -937,6 +958,7 @@ century
 ceo
 cereal
 ceremony
+certain
 chad
 chadian
 chads
@@ -1179,6 +1201,7 @@ confuse
 confusing
 congratulating
 congress
+congressional
 conjunct
 conley
 connection
@@ -1317,6 +1340,7 @@ cruel
 cruise
 cruiser
 crump
+crunch
 cruze
 crying
 crypto
@@ -1495,6 +1519,7 @@ developing
 developments
 device
 devices
+devils
 dfw
 di
 diabetes
@@ -1536,6 +1561,7 @@ disambiguation
 disappearance
 disasters
 disbelief
+discard
 discord
 discourage
 discover
@@ -1543,6 +1569,7 @@ discovered
 discovers
 discovery
 discriminated
+discuss
 discussions
 disease
 dismissed
@@ -1633,6 +1660,7 @@ dreaming
 dressing
 drew
 drew-gooder
+dricks
 drill
 drink
 drive
@@ -1782,6 +1810,7 @@ environmental
 ep
 epa
 epicenter
+epidemiologist
 eplan
 equalities
 equinox
@@ -1876,6 +1905,7 @@ expert
 experts
 expiry
 explain
+explained
 explainer
 explains
 exploit
@@ -1890,6 +1920,7 @@ exposure
 express
 expressionist
 extend
+extent
 extort
 extortion
 extra
@@ -1915,6 +1946,7 @@ facilities
 facility
 facing
 fact
+factor
 factories
 facts
 fair
@@ -1926,6 +1958,7 @@ fairness
 faith
 fake
 fall
+falling
 falls
 false
 fame
@@ -2034,6 +2067,7 @@ flashpoint
 flavor
 flavors
 flawless
+flaws
 flay
 fleeing
 flees
@@ -2113,6 +2147,7 @@ freebies
 freedom
 freedoms
 freeform
+freely
 freeway
 freeze
 fremont
@@ -2278,6 +2313,7 @@ grapple
 grappler
 gray
 great
+greater
 greatest
 greed
 greek
@@ -2285,6 +2321,7 @@ green
 greenes
 greenhouse
 greensill
+greg
 grieving
 grill
 grilling
@@ -2382,6 +2419,7 @@ have
 haven
 havent
 having
+hawks
 hawleys
 hbos
 he
@@ -2401,6 +2439,7 @@ heart
 heartbroken
 hearty
 heat
+heats
 hedge
 heights
 heist
@@ -2484,6 +2523,7 @@ hope
 hopes
 hoping
 hopkins
+hornets
 horowitz
 horror
 hospital
@@ -2532,6 +2572,7 @@ i
 i-30
 i-69
 i-76
+ice
 icedid
 iceland
 icon
@@ -2589,6 +2630,7 @@ in-person
 in-the-wild
 inauguration
 inc
+incidence
 include
 includes
 including
@@ -2604,6 +2646,7 @@ india
 indian
 indiana
 indianas
+indians
 indias
 indicts
 indie
@@ -2670,6 +2713,7 @@ introduces
 introducing
 intruder
 invade
+invaded
 invasion
 invested
 investigate
@@ -2719,6 +2763,7 @@ items
 its
 itself
 ivan
+ive
 j
 j-lo
 jabari
@@ -2856,6 +2901,7 @@ kmart
 knew
 knicks
 knife
+knight
 knighton
 know
 knowledge
@@ -3119,6 +3165,7 @@ majors
 make
 makes
 making
+male
 malicious
 malone
 malware
@@ -3191,6 +3238,7 @@ mayor
 mayoral
 mazzucchi
 mcas
+mccann
 mccarthy
 mccartney
 mccrory
@@ -3203,6 +3251,7 @@ me
 mean
 meaningful
 means
+measures
 meat
 medallions
 media
@@ -3257,6 +3306,7 @@ mickey
 microsoft
 microsofts
 microwave
+mid-july
 mid-june
 middle
 midlands
@@ -3264,6 +3314,7 @@ midtown
 might
 migrant
 migrants
+migration
 mike
 mild
 milestone
@@ -3415,6 +3466,7 @@ nationally
 nationals
 nations
 nationwide
+nativist
 nats
 natural
 nature
@@ -3476,6 +3528,7 @@ nina
 ninja
 ninth
 no
+no-no
 noah
 nobody
 noel
@@ -3687,6 +3740,7 @@ pat
 patch
 path
 pathologist
+patients
 patrick
 patroclus
 patrol
@@ -3725,12 +3779,14 @@ people
 pepper
 peppers
 per
+percent
 perezs
 perfect
 perform
 performed
 perimeter
 periods
+permit
 persecuted
 person
 persona
@@ -3741,6 +3797,7 @@ pets
 pfizer
 pga
 pge
+phase
 pheidippides
 phi
 philabundance
@@ -3784,6 +3841,7 @@ pirro
 pisces
 pistol-whipped
 pistons
+pitch
 pitchfork
 pittsburgh
 pivotal
@@ -3938,6 +3996,7 @@ probe
 problem
 problems
 process
+processing
 producer
 producing
 product
@@ -4018,6 +4077,7 @@ qanon
 qanon-style
 qbs
 quake
+qualify
 quant
 quarantine
 quarantined
@@ -4036,6 +4096,7 @@ quit
 quite
 quits
 quitting
+quiz
 quizzed
 r
 race
@@ -4103,6 +4164,8 @@ reactions
 reactor
 reacts
 read
+reader
+readers
 reads
 ready
 real
@@ -4154,7 +4217,9 @@ reforming
 reforms
 refresh
 refund
+refuse
 region
+regions
 register
 regulator
 regulatory
@@ -4184,6 +4249,7 @@ remain
 remains
 remake
 remaking
+remarkable
 remarks
 rematch
 remembering
@@ -4217,6 +4283,7 @@ reporter
 reporting
 reports
 reprogram
+reps
 republican
 republicans
 repurpose
@@ -4330,6 +4397,7 @@ rockfall
 rockies
 rocks
 rockymore
+rodn
 rogers
 role
 roles
@@ -4351,6 +4419,7 @@ rose
 roseman
 rosenstock
 roseville
+rotations
 roth
 round
 round-up
@@ -4430,6 +4499,7 @@ save
 saves
 saving
 savior
+saw
 sawayamas
 say
 saying
@@ -4447,6 +4517,7 @@ schools
 schumer
 scientists
 score
+scores
 scott
 scottie
 scottish
@@ -4696,6 +4767,7 @@ snowy
 snuffs
 snyder
 so
+soar
 soccer
 social
 socialist
@@ -4814,6 +4886,7 @@ starter
 starting
 starts
 state
+statehood
 statement
 statements
 states
@@ -4862,6 +4935,7 @@ straight
 strain-specific
 strategy
 stray
+streak
 stream
 streamed
 streaming
@@ -4917,12 +4991,14 @@ suffers
 sufficient
 suicidal
 suisun
+suit
 summer
 summit1g
 summon
 sumo
 sun
 sunak
+sundance
 sunday
 sunderland
 sunny
@@ -4975,6 +5051,9 @@ swann
 swaps
 sweaters
 sweaty
+sweden
+swedens
+swedish
 sweep
 sweetheart
 swings
@@ -5043,6 +5122,7 @@ teenage
 teenager
 teens
 teeth
+tegnell
 teigens
 telekom
 tell
@@ -5124,6 +5204,7 @@ thundercat
 thunderstorm
 thursday
 tide
+tied
 tier
 tiger
 tigers
@@ -5193,6 +5274,7 @@ tractor
 trade
 traded
 trading
+traffic
 trafficking
 tragedy
 tragicomic
@@ -5385,6 +5467,7 @@ values
 van
 vandals
 vanessa
+vans
 variant
 variants
 vasquez
@@ -5442,6 +5525,7 @@ vision
 visionary
 visit
 visits
+vocabulary
 voice
 voices
 volcano
@@ -5483,6 +5567,7 @@ warehouse
 warm
 warming
 warminster
+warn
 warned
 warning
 warns
@@ -5622,6 +5707,7 @@ worship
 worst
 worth
 would
+wouldnt
 wound
 wounded
 wow
@@ -5643,6 +5729,7 @@ xrp
 yaku
 yale
 yankees
+yanks
 yasiin
 yates
 year
@@ -5675,6 +5762,7 @@ zachary
 zalatoris
 zarzas
 zealand
+zeneca
 zero-day
 zero-days
 zion
