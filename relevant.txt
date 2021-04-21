@@ -168,6 +168,7 @@
 74
 750000
 77
+793
 8
 80
 800
@@ -255,6 +256,7 @@ Afghan
 Afghanistan
 Africa
 African
+Africas
 After
 Again
 Against
@@ -610,6 +612,7 @@ Borat
 Border
 Borders
 Borgata
+Borno
 Borromeo
 Boseman
 Boston
@@ -719,6 +722,7 @@ CTA
 CTU
 CWD
 Cahill
+Cairo
 Cakes
 Calif
 California
@@ -1142,6 +1146,7 @@ Death
 Deaths
 Debate
 Debut
+Deby
 Decision
 Decline
 Decor
@@ -1361,6 +1366,7 @@ Editor
 Edwards
 Effective
 Eftpos
+Egypt
 Elderly
 Election
 Elections
@@ -2089,6 +2095,7 @@ Irving
 Is
 Isabelle
 Isdera
+Islamist
 Island
 Islanders
 Isnt
@@ -2491,6 +2498,7 @@ Maren
 Margin
 Margo
 Mariana
+Marib
 Marijuana
 Marin
 Mariners
@@ -2668,6 +2676,7 @@ Movie
 Movies
 Moving
 Mozambique
+Mozambiques
 Mr
 Mt
 Much
@@ -2746,6 +2755,7 @@ Newsom
 Newspapers
 Newton
 Next
+Niger
 Nigerian
 Nigerias
 Night
@@ -2889,6 +2899,7 @@ Pages
 Paid
 Pakistan
 Pakistani
+Palma
 Palmdale
 Pamela
 Pan
@@ -3250,6 +3261,7 @@ Reducing
 Reebok
 Reform
 Refresh
+Refugees
 Refund
 Regulator
 Reignited
@@ -3433,6 +3445,7 @@ Sacred
 Safe
 Safely
 Safety
+Sahel
 Said
 Saint
 Sakura
@@ -3479,6 +3492,7 @@ Schools
 Schumer
 Scientists
 Score
+Scores
 Scott
 Scottie
 Scottish
@@ -3520,6 +3534,7 @@ Seminary
 Sen
 Send
 Sends
+Senegals
 Senior
 Sent
 Sentence
@@ -3900,6 +3915,7 @@ Tempe
 Temperatures
 Temporarily
 Tenerife
+Tens
 Tequila
 Terence
 Terribly
@@ -4305,6 +4321,7 @@ Widespread
 WikiLeaks
 Wild
 Will
+William
 Williams
 Williamson
 Williamsons
@@ -4480,6 +4497,8 @@ allegedly
 alleges
 alleging
 allowed
+ally
+almost
 alone
 along
 already
@@ -4532,6 +4551,7 @@ areas
 argue
 arguments
 arm
+armed
 around
 arrest
 arrested
@@ -4576,6 +4596,7 @@ backlash
 backs
 backyard
 bad
+badly
 bags
 bail
 baker
@@ -4593,6 +4614,7 @@ based
 basic
 basketball
 battery
+battle
 battlefield
 be
 beach
@@ -4649,6 +4671,7 @@ blamed
 blames
 blank
 blasts
+blaze
 blinders
 blindfolded
 block
@@ -4695,6 +4718,7 @@ brings
 brother
 brought
 brush
+brutal
 brutality
 brutally
 bubble
@@ -4704,6 +4728,7 @@ budtender
 bug
 build
 building
+buildings
 bullying
 bump
 bundle
@@ -4812,6 +4837,7 @@ cited
 cities
 city
 civil
+civilians
 claim
 claims
 clarifications
@@ -4903,11 +4929,13 @@ constitutional
 construction
 consultant
 contact
+contain
 contest
 continue
 continues
 contractors
 contracts
+control
 controversial
 controversy
 convention
@@ -4981,6 +5009,7 @@ cyberattack
 cybersecurity
 daily
 damage
+damages
 dance
 danger
 dangerous
@@ -5035,6 +5064,7 @@ deplorable
 deploys
 depression
 deputy
+derailment
 description
 desert
 desk
@@ -5187,6 +5217,7 @@ enticement
 entry
 envoys
 epidemiologist
+equipment
 errant
 erupt
 eruption
@@ -5197,6 +5228,7 @@ estate
 estimates
 estranged
 ethics
+evacuate
 evacuated
 evacuations
 evaluation
@@ -5323,6 +5355,7 @@ flag
 flashpoint
 flavors
 flaws
+flee
 fleeing
 flees
 flies
@@ -5364,6 +5397,7 @@ friend
 friends
 from
 front
+frontline
 frost
 fueled
 fuelling
@@ -5502,6 +5536,7 @@ heart
 heartbroken
 heat
 heats
+heavy
 hedge
 held
 helicopter
@@ -5548,6 +5583,7 @@ honest
 honors
 hope
 hopes
+horse
 hospital
 hospitality
 hospitalizations
@@ -5625,6 +5661,7 @@ inside
 inspections
 institutions
 insurance
+insurgents
 intensive
 interest
 international
@@ -5778,6 +5815,7 @@ locks
 loneliest
 long
 longer
+longstanding
 look
 looking
 looks
@@ -6235,9 +6273,11 @@ quitting
 quizzed
 race
 racial
+racing
 racism
 racist
 rage
+raid
 railway
 raise
 raises
@@ -6251,6 +6291,7 @@ rapidly
 rare
 rate
 rather
+re-elected
 re-introduces
 reach
 reached
@@ -6279,6 +6320,7 @@ recession
 recommendations
 record
 record-breaking
+recount
 recovery
 recuse
 recycled
@@ -6395,6 +6437,7 @@ routes
 row
 ruin
 ruins
+rule
 ruling
 rumors
 run
@@ -6524,6 +6567,7 @@ site
 sites
 six
 six-hitter
+sixth
 skid
 skimming
 skipping
@@ -6761,6 +6805,7 @@ temporarily
 temporary
 tempted
 tense
+term
 test
 testing
 than
@@ -6794,6 +6839,7 @@ threatened
 threatens
 threats
 three
+three-decade
 through
 throw
 thrown
@@ -6857,6 +6903,7 @@ tripled
 trippy
 triumphs
 troops
+troubled
 truly
 trust
 try
@@ -6883,6 +6930,7 @@ unemployment
 unequal
 unions
 unit
+university
 unprecedented
 unraveled
 unregistered
@@ -6935,6 +6983,7 @@ video
 videos
 views
 vigil
+village
 violence
 virga
 virtual
@@ -6998,6 +7047,7 @@ welcomes
 well
 went
 were
+west
 whale
 what
 whats

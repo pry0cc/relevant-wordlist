@@ -3,6 +3,8 @@ https://www.whats-on-netflix.com/feed/
 https://feeds.thelocal.com/rss/se
 https://www.france24.com/en/france/rss
 https://www.france24.com/en/africa/rss
+https://www.france24.com/en/europe/rss
+https://www.france24.com/en/rss
 https://nypost.com/feed/
 https://boston.cbslocal.com/feed/
 http://www.cmt.com/news/feed

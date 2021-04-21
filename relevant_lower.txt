@@ -167,6 +167,7 @@
 74
 750000
 77
+793
 8
 80
 800
@@ -276,6 +277,7 @@ aficionados
 afraid
 africa
 african
+africas
 after
 ag
 again
@@ -336,6 +338,8 @@ allergies
 alliance
 allow
 allowed
+ally
+almost
 alone
 along
 already
@@ -457,6 +461,7 @@ arizona
 arkansas
 arlo
 arm
+armed
 armored
 army
 around
@@ -555,6 +560,7 @@ backs
 backyard
 bad
 baden
+badly
 bags
 bail
 bailey
@@ -702,6 +708,7 @@ blames
 blank
 blasio
 blasts
+blaze
 blessed
 blinders
 blindfolded
@@ -742,6 +749,7 @@ borat
 border
 borders
 borgata
+borno
 borromeo
 boseman
 boss
@@ -819,6 +827,7 @@ bruce
 bruces
 bruins
 brush
+brutal
 brutality
 brutally
 bryans
@@ -836,6 +845,7 @@ bug
 bugs
 build
 building
+buildings
 bulgarians
 bull
 bulls
@@ -866,6 +876,7 @@ by
 by-election
 bygone
 cahill
+cairo
 cakes
 calif
 california
@@ -1085,6 +1096,7 @@ city-run
 citys
 civil
 civilian
+civilians
 claim
 claiming
 claims
@@ -1240,6 +1252,7 @@ constitutional
 construction
 consultant
 contact
+contain
 contender
 content
 contest
@@ -1248,6 +1261,7 @@ continues
 contract
 contractors
 contracts
+control
 controversial
 controversy
 convention
@@ -1405,6 +1419,7 @@ dad
 daily
 dallas
 damage
+damages
 dan
 dance
 danced
@@ -1450,6 +1465,7 @@ debate
 debates
 debut
 debuts
+deby
 decade
 decades
 decades-long
@@ -1514,6 +1530,7 @@ depression
 deputies
 deputy
 derailed
+derailment
 derby
 derby-oaks
 derek
@@ -1766,6 +1783,7 @@ effective
 effort
 efforts
 eftpos
+egypt
 elated
 elderly
 eldest
@@ -1844,6 +1862,7 @@ epidemiologist
 eplan
 equalities
 equinox
+equipment
 era
 eres
 eroding
@@ -1872,6 +1891,7 @@ europe
 european
 europes
 eurovision
+evacuate
 evacuated
 evacuations
 evaluation
@@ -2103,6 +2123,7 @@ flavors
 flawless
 flaws
 flay
+flee
 fleeing
 flees
 fleetwood
@@ -2199,6 +2220,7 @@ from
 front
 front-row
 frontier
+frontline
 frost
 frustrating
 fsg
@@ -2477,6 +2499,7 @@ heartbroken
 hearty
 heat
 heats
+heavy
 hedge
 heights
 heist
@@ -2564,6 +2587,7 @@ hopkins
 hornets
 horowitz
 horror
+horse
 hospital
 hospitality
 hospitalizations
@@ -2733,6 +2757,7 @@ instead
 institutional
 institutions
 insurance
+insurgents
 insurrection
 intense
 intensive
@@ -2788,6 +2813,7 @@ is
 isabelle
 isd
 isdera
+islamist
 island
 islanders
 isnt
@@ -3148,6 +3174,7 @@ loneliest
 long
 longer
 longest
+longstanding
 longtime
 look
 looked
@@ -3247,6 +3274,7 @@ maren
 margin
 margo
 mariana
+marib
 marijuana
 marin
 mariners
@@ -3470,6 +3498,7 @@ movie
 movies
 moving
 mozambique
+mozambiques
 mpd
 mps
 mr
@@ -3571,6 +3600,7 @@ ngavedr
 nhl
 nhtsa
 nice
+niger
 nigerian
 nigerias
 night
@@ -3754,6 +3784,7 @@ painfully
 pakistan
 pakistani
 palm
+palma
 palmdale
 pamela
 pan
@@ -4175,6 +4206,7 @@ radio
 rafael
 rage
 rages
+raid
 raiders
 railroad
 railway
@@ -4213,6 +4245,7 @@ rate
 rather
 rattled
 rce
+re-elected
 re-introduces
 re-release
 re-sign
@@ -4257,6 +4290,7 @@ recommendations
 record
 record-breaking
 records
+recount
 recovering
 recovery
 recuse
@@ -4280,6 +4314,7 @@ reform
 reforming
 reforms
 refresh
+refugees
 refund
 refuse
 region
@@ -4532,6 +4567,7 @@ saddened
 safe
 safely
 safety
+sahel
 said
 saint
 sakura
@@ -4648,6 +4684,7 @@ senators
 send
 sending
 sends
+senegals
 senior
 sense
 sent
@@ -4780,6 +4817,7 @@ sites
 six
 six-hitter
 sixers
+sixth
 ska
 skid
 skimming
@@ -5209,9 +5247,11 @@ temporarily
 temporary
 tempted
 tenerife
+tens
 tense
 tequila
 terence
+term
 terribly
 terrifying
 terrorist
@@ -5269,6 +5309,7 @@ threatened
 threatens
 threats
 three
+three-decade
 thriving
 thrones
 through
@@ -5406,6 +5447,7 @@ triumphant
 triumphs
 trooper
 troops
+troubled
 trove
 truck
 trucks
@@ -5585,6 +5627,7 @@ vigil
 vikings
 vile
 villa
+village
 villanueva
 villaraigosa
 vin
@@ -5728,6 +5771,7 @@ wild
 wildfire
 wildfires
 will
+william
 williams
 williamson
 williamsons
