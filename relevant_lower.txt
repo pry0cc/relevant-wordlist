@@ -17145,6 +17145,7 @@ uruguays
 us
 us-based
 us-canada
+us-hosted
 us-japan
 us-mexico
 us30

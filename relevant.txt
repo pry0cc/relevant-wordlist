@@ -13238,6 +13238,7 @@ US-Canada
 US-Japan
 US-Mexico
 US-based
+US-hosted
 US30
 US32
 US814
