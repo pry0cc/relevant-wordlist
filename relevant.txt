@@ -739,6 +739,7 @@ Carry
 Carrying
 Cars
 Carson
+Carter
 Case
 Cases
 Casino
@@ -1404,6 +1405,7 @@ Ex-Boston
 Ex-England
 Ex-Girlfriend
 Ex-Texas
+Ex-Vice
 Ex-cop
 Ex-officer
 Exam
@@ -1543,6 +1545,7 @@ Flay
 Fleeing
 Flees
 Fleetwood
+Flight
 Float
 Flooding
 Flores
@@ -1827,6 +1830,7 @@ Hearty
 Heights
 Heist
 Helen
+Helicopter
 Hell
 Help
 Helped
@@ -1982,6 +1986,7 @@ Influencers
 Information
 Informer
 Ingeborg
+Ingenuitys
 Injured
 Injuries
 Injuring
@@ -2085,6 +2090,7 @@ Jesus
 Jets
 Jill
 Jim
+Jimmy
 Jingles
 Jo
 Joaquin
@@ -2803,6 +2809,7 @@ Package
 Packets
 Packing
 Padres
+Pageau
 Pages
 Paid
 Pakistani
@@ -5949,6 +5956,7 @@ poverty
 power
 practice
 praise
+praises
 preachers
 precarious
 predictions
@@ -6183,6 +6191,7 @@ round
 round-up
 rounds
 roundup
+rout
 routes
 row
 ruin
