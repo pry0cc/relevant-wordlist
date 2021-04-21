@@ -67,3 +67,4 @@ https://www.bleepingcomputer.com/feed/
 http://feeds.bbci.co.uk/news/rss.xml?edition=int
 https://www.spiegel.de/international/index.rss
 https://www.dnaindia.com/feeds/india.xml
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=&company=&dateb=&owner=include&start=0&count=100&output
