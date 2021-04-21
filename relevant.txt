@@ -16,6 +16,7 @@
 1000-Mile
 10000
 100000
+106
 108i
 109
 109-105
@@ -342,6 +343,8 @@ Angourie
 Animal
 Animals
 Anime
+Anne
+Annette
 Annie
 Announce
 Announced
@@ -376,6 +379,7 @@ Archaeological
 Arctic
 Are
 Area
+Argentina
 Argentinian
 Aries
 Arihara
@@ -480,6 +484,7 @@ Barbara
 Barcelona
 Barclays
 Barclayss
+Barista
 Baron
 Barrett
 Barriers
@@ -850,6 +855,7 @@ Chicken
 Chief
 Child
 Children
+Chile
 Chiles
 China
 Chinas
@@ -1527,6 +1533,7 @@ Fatally
 Fate
 Father
 Fault
+Faure
 Favorite
 Fearing
 Feature
@@ -1944,6 +1951,7 @@ Houston-area
 How
 Howard
 Howie
+Hubert
 Huge
 Hulbert
 Hull
@@ -2124,6 +2132,7 @@ Jason
 JavaScript
 Jay-Zs
 Jazz
+Jean-Philippe
 Jeanine
 Jeep
 Jeff
@@ -2135,6 +2144,7 @@ Jersey
 Jessie
 Jesus
 Jets
+Jewish
 Jill
 Jim
 Jimmy
@@ -2215,6 +2225,7 @@ Kim
 Kincade
 Kind
 King
+Kings
 Kingsmens
 Kintsugi
 Kitsch
@@ -2259,6 +2270,7 @@ Lab
 Label
 Labor
 Labour
+Lacaton
 Lady
 Lagging
 Lake
@@ -2438,6 +2450,7 @@ MPs
 MSI
 MTV
 Mac
+Macron
 Macs
 Mad
 Made
@@ -2753,6 +2766,7 @@ Non-Emergencies
 Nonprofits
 Nordstrom
 Normal
+Normandy
 Norrie
 North
 Northeast
@@ -2873,6 +2887,7 @@ Padres
 Pageau
 Pages
 Paid
+Pakistan
 Pakistani
 Palmdale
 Pamela
@@ -2910,6 +2925,7 @@ Patch
 Patrick
 Patroclus
 Patrol
+Patrouille
 Pattinson
 Paul
 Pauses
@@ -2940,6 +2956,7 @@ Performed
 Persecuted
 Person
 Persona
+Pesquet
 Peter
 Peters
 Petition
@@ -3073,6 +3090,7 @@ Prison
 Prisoners
 Pritzker
 Privacy
+Prize
 Pro
 Pro-Democracy
 Pro-Touring
@@ -3160,6 +3178,7 @@ Racial
 Racing
 Ractliffes
 Radar
+Radical
 Radio
 Rafael
 Rages
@@ -3398,6 +3417,7 @@ Russia
 Russian
 Russias
 Ruth
+Rwandan
 Ryan
 S
 SC
@@ -4141,6 +4161,7 @@ Vanessa
 Variant
 Variants
 Vasquez
+Vassal
 Vaxxers
 Vegan
 Vegas
@@ -4201,6 +4222,7 @@ WOOD
 WSL
 WTFC
 WWF
+WWII
 Wait
 Waiting
 Wake
@@ -4438,6 +4460,7 @@ against
 aged
 agencies
 agency
+agenda
 agent
 ago
 ahead
@@ -4486,6 +4509,7 @@ another
 answers
 anti-Asian
 anti-BLM
+anti-France
 anti-poverty
 antitrust
 any
@@ -4501,6 +4525,7 @@ appellate
 applaud
 appointment
 approves
+architects
 are
 area
 areas
@@ -4510,6 +4535,7 @@ arm
 around
 arrest
 arrested
+arrivals
 art
 artist
 as
@@ -4519,7 +4545,9 @@ assault
 assaulting
 assess
 assets
+astronaut
 at
+atParis
 atop
 attached
 attack
@@ -4779,6 +4807,7 @@ chilly
 chip
 chops
 church
+cinemas
 cited
 cities
 city
@@ -4833,6 +4862,7 @@ comedy
 comes
 comfortable
 coming
+commando
 comments
 commission
 commissioner
@@ -4864,6 +4894,7 @@ congressional
 consecutive
 consequences
 conservation
+consider
 considered
 considering
 conspiracies
@@ -4923,6 +4954,7 @@ credits
 cremation
 crimes
 criminal
+criminally
 crisis
 critic
 critical
@@ -4958,6 +4990,7 @@ dates
 daughter
 daughters
 day
+de
 deGrom
 dead
 deadly
@@ -4981,6 +5014,7 @@ decline
 decomposed
 decreased
 dedicated
+deemed
 deepen
 deeply
 defeat
@@ -5040,6 +5074,7 @@ discriminated
 discuss
 discussions
 dismisses
+disorders
 disparities
 dispensary
 distance
@@ -5142,6 +5177,7 @@ encounter
 encourages
 end
 ending
+endless
 ends
 enforcement
 enlists
@@ -5149,6 +5185,7 @@ enough
 enters
 enticement
 entry
+envoys
 epidemiologist
 errant
 erupt
@@ -5204,6 +5241,7 @@ exploited
 exploration
 explores
 exposed
+expulsion
 extend
 extent
 extort
@@ -5231,6 +5269,7 @@ family
 fans
 fantasy
 far
+farmers
 farmworkers
 fat
 fatal
@@ -5318,12 +5357,14 @@ freaking
 free
 freebies
 freely
+frees
 freeze
 fried
 friend
 friends
 from
 front
+frost
 fueled
 fuelling
 full
@@ -5355,6 +5396,7 @@ geeky
 gender
 generations
 genius
+genocide
 genuinely
 get
 gets
@@ -5472,6 +5514,7 @@ herd
 here
 heres
 hero
+heroes
 hes
 hesitancy
 hesitant
@@ -5510,6 +5553,7 @@ hospitality
 hospitalizations
 hospitals
 host
+hostages
 hosting
 hosts
 hot
@@ -5550,6 +5594,7 @@ immunity
 immunize
 impetus
 imports
+impose
 improve
 in
 in-court
@@ -5583,6 +5628,7 @@ insurance
 intensive
 interest
 international
+interns
 intersection
 intervene
 interview
@@ -5639,6 +5685,7 @@ kidnapping
 kids
 kill
 killed
+killer
 killing
 killings
 kills
@@ -5650,6 +5697,7 @@ labor
 lack
 lady
 laid
+landings
 lands
 largest
 last
@@ -5695,6 +5743,7 @@ levels
 libraries
 license
 licenses
+lie
 lies
 life
 lifes
@@ -6039,6 +6088,7 @@ pictures
 pieces
 pills
 pilot
+pilots
 pipe
 pitch
 pivotal
@@ -6055,11 +6105,13 @@ play-off
 play-offs
 player
 players
+playing
 playoff
 playoffs
 plays
 pleads
 pledge
+pledges
 plunges
 podcast
 podcasts
@@ -6085,6 +6137,7 @@ positivity
 possible
 post
 post-Covid
+posters
 potential
 potentially
 pour
@@ -6263,6 +6316,7 @@ reopen
 reopening
 reopenings
 reopens
+reparations
 report
 reported
 reportedly
@@ -6284,6 +6338,7 @@ resorts
 respond
 responds
 response
+responsibility
 responsible
 rest
 restaurants
@@ -6472,10 +6527,12 @@ six-hitter
 skid
 skimming
 skipping
+sky
 slam
 slammed
 slams
 slashes
+slave
 sleep
 sleuth
 slew
@@ -6515,6 +6572,7 @@ son
 song
 soon
 sorry
+sound
 sour
 sources
 south
@@ -6558,6 +6616,7 @@ standby
 standing
 stands
 star
+starring
 stars
 start
 starter
@@ -6628,6 +6687,7 @@ suffered
 suffering
 suffers
 suicidal
+suicides
 suit
 summer
 summit1g
@@ -6821,6 +6881,7 @@ underway
 unearthed
 unemployment
 unequal
+unions
 unit
 unprecedented
 unraveled
@@ -6960,6 +7021,7 @@ will
 win
 win-loss
 window
+winemakers
 winning
 wins
 winter
