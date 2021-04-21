@@ -12,7 +12,10 @@ def file_to_list(filename):
 
     return lines
 
-def save_file(filename, lines):
+def save_file(filename, lines, sort=False):
+    if sort:
+        lines.sort()
+    print(f'Saving {filename}, sort={sort}')
     with open(filename, 'w') as f:
         f.write("\n".join(lines))
 
@@ -24,17 +27,18 @@ def add_if_unique(line, array):
     return array
  
 def convert_str_to_words(string):
-    words = re.sub('[^A-Za-z0-9-\ ]+', '', string).lower().split(' ')
+    words = re.sub('[^A-Za-z0-9-\ ]+', '', string).split(' ')
     return words
 
 def commit_and_push():
-    files = ["headlines.txt", "feeds.txt", "relevant.txt"]
+    files = ["headlines.txt", "feeds.txt", "relevant.txt", "relevant_lower.txt"]
     for f in files:
         os.system(f'git add {f}')
 
     os.system('git commit -m "Updated wordlist..."')
     os.system('git push')
 
+words_lower = file_to_list('relevant_lower.txt')
 words = file_to_list('relevant.txt')
 headlines = file_to_list('headlines.txt')
 
@@ -45,13 +49,19 @@ while True:
         for item in feedparser.parse(feed)["entries"]:
             headline = item["title"]
             add_if_unique(headline, headlines)
+            words_from_headline_lower = convert_str_to_words(headline.lower())
             words_from_headline = convert_str_to_words(headline)
+
+            for word in words_from_headline_lower:
+                add_if_unique(word, words_lower)
+
             for word in words_from_headline:
                 add_if_unique(word, words)
 
     print("Saving files...")
     save_file('headlines.txt', headlines)
-    save_file('relevant.txt', words)
+    save_file('relevant.txt', words, sort=True)
+    save_file('relevant_lower.txt', words_lower, sort=True)
     commit_and_push()
     print("Files saved! Waiting 150 seconds until next search...")
-    time.sleep(120)
+    time.sleep(15)
