@@ -184,6 +184,7 @@ AP
 APD
 APT
 AU
+AUM
 Abandoned
 Abernathy
 Able
@@ -1982,6 +1983,7 @@ Inspired
 Instagram
 Instant
 Instead
+Institutional
 Insurrection
 Intense
 Internal
@@ -4221,6 +4223,7 @@ Wrong
 X
 XDR
 XMR
+XRP
 Xanadu
 Xcode
 Xinjiang
@@ -4919,6 +4922,7 @@ dose
 doses
 doubled
 doubleheader
+doubles
 doubts
 down
 downs
@@ -5392,6 +5396,7 @@ industry
 inequities
 infections
 infirmed
+inflows
 info-stealing
 information
 infrastructure
