@@ -3666,6 +3666,7 @@ DOGE
 DOJ
 DOT
 DPC
+DPS
 DR
 DREAM
 DREAMa
@@ -7302,6 +7303,7 @@ Khatme
 Khazar
 Khloe
 Khmer
+Khoshnur
 Kia
 Kianna
 Kiara

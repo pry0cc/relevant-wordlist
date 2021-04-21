@@ -5300,6 +5300,7 @@ doyle
 dozen
 dozens
 dpc
+dps
 dr
 drachenritt
 dracnie
@@ -9140,6 +9141,7 @@ khatme
 khazar
 khloe
 khmer
+khoshnur
 kia
 kianna
 kiara
