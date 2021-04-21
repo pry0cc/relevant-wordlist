@@ -5,6 +5,7 @@
 -held
 -highlight
 -sharpton
+-sources
 0
 0-0
 0-day
@@ -104,6 +105,7 @@
 10-mans
 10-month
 10-year
+10-year-old
 100
 1000
 1000-horsepower
@@ -541,6 +543,7 @@
 4-year-old
 40
 400
+400-mile
 40000
 400k
 400m
@@ -602,6 +605,7 @@
 50831
 50b
 50k
+50s
 51
 51st
 52
@@ -643,6 +647,7 @@
 60000
 600k
 60k
+60s
 61
 61327
 62406
@@ -701,6 +706,7 @@
 76
 76ers
 77
+777x
 78
 78-year-old
 787
@@ -759,6 +765,7 @@
 95
 95-59
 950m
+95th
 968
 97
 97m
@@ -1057,6 +1064,7 @@ african
 african-american
 africans
 africas
+afro-cubans
 after
 afterlife
 aftermath
@@ -1107,6 +1115,7 @@ ai
 aid
 aide
 aides
+aiims
 ailing
 aim
 aimed
@@ -1298,6 +1307,7 @@ amazons
 ambassador
 amber
 ambition
+ambitions
 ambitious
 ambulance
 ambulances
@@ -1398,6 +1408,7 @@ anistons
 anjum
 anker
 ankle
+ann-kathrin
 anna
 annalena
 annalynne
@@ -1462,10 +1473,12 @@ antiquities
 antitrust
 antiviral
 anton
+antonia
 antonio
 antonovich
 antron
 antrons
+anu
 anxiety
 anxious
 any
@@ -1564,10 +1577,12 @@ arashi
 arcade
 archaeological
 archaeologists
+archbishop
 archdeacon
 archelaus
 archeologists
 archetypes
+archibald
 architect
 architects
 architecture
@@ -1914,6 +1929,7 @@ baden
 badge
 badly
 badoy
+baeksang
 baerbock
 baffert
 bafferts
@@ -2064,6 +2080,7 @@ bats
 batsmen
 battalion
 batten
+batteries
 battery
 battery-powered
 battist
@@ -2114,6 +2131,7 @@ beauty
 beauvillier
 became
 because
+beck
 beckham
 beckon
 beckys
@@ -2279,6 +2297,7 @@ biggest
 bigirimana
 bigotry
 bigs
+bihar
 bijan
 bike
 biker
@@ -2317,6 +2336,7 @@ biographer
 biography
 bioluminescence
 biomarin
+biontech
 biopic
 bipartisan
 biracial
@@ -2526,6 +2546,7 @@ boos
 boost
 boosted
 booster
+boosts
 boot
 booted
 booth
@@ -2717,6 +2738,7 @@ brisbane
 bristol
 bristowe
 britain
+britains
 britcoin
 british
 britney
@@ -2989,6 +3011,7 @@ came
 cameos
 camera
 cameras
+camerawoman
 cameron
 camerupt
 camille
@@ -3247,6 +3270,7 @@ cducsu
 cdus
 ceasefire
 ceaser
+cebu
 cece
 cecil
 cecilia
@@ -3301,8 +3325,10 @@ certificate
 certificates
 certified
 cerus
+cesare
 cev
 cf
+cfo
 cfpb
 chad
 chadian
@@ -3478,6 +3504,7 @@ chinese-australian
 chinese-language
 chip
 chipamaunga
+chipmaker
 chipotle
 chips
 chiron
@@ -3545,6 +3572,7 @@ chute
 chvrches
 chyna
 cia
+ciani
 ciara
 cicadas
 cicely
@@ -3751,6 +3779,7 @@ code
 codecov
 codes
 cody
+coe
 coel
 coffee
 coffee-buying
@@ -3898,6 +3927,7 @@ compares
 comparing
 comparison
 compatibility
+compensate
 compensation
 compete
 competing
@@ -4085,6 +4115,7 @@ contractor
 contractors
 contracts
 contradict
+contradicting
 contradiction
 contradicts
 contrast
@@ -4338,6 +4369,7 @@ crew-2
 crewe
 crews
 cribripennis
+cricket
 cricketer
 cried
 cries
@@ -4941,6 +4973,7 @@ deserve
 deserved
 deserves
 deshaun
+deshmukh
 deshuan
 design
 designate
@@ -5235,6 +5268,7 @@ disputed
 disputes
 disquiet
 disregard
+disrespect
 disrupted
 disruptions
 dissent
@@ -5267,6 +5301,7 @@ dive
 divers
 diverse
 diversity
+diverted
 dives
 divest
 divided
@@ -5408,6 +5443,7 @@ downs
 downstream
 downton
 downtown
+downturn
 dows
 doxa
 doyle
@@ -5561,6 +5597,7 @@ durable
 durant
 durants
 durarara
+duration
 durbin
 during
 durk
@@ -5732,6 +5769,7 @@ electiona
 elections
 electoral
 electric
+electric-vehicle
 electrical
 electrified
 electrifies
@@ -5743,6 +5781,7 @@ elegy
 elementary
 elements
 elephant
+elephantina
 elephantis
 elephants
 elevate
@@ -5815,6 +5854,7 @@ emily
 eminent
 emir
 emirate
+emirates
 emirhan
 emission
 emissions
@@ -6063,6 +6103,7 @@ euros
 eurostars
 eurovision
 eurylochus
+euryn
 eutelsat
 ev
 ev1
@@ -6134,6 +6175,7 @@ ex-law
 ex-lawyer
 ex-liverpool
 ex-mayor
+ex-met
 ex-number
 ex-officer
 ex-officers
@@ -6309,6 +6351,7 @@ f-bomb
 f5
 fa
 faa
+fabiola
 fabric
 fabulous
 face
@@ -6523,6 +6566,7 @@ feock
 fermn
 fernanda
 fernandes
+fernandez
 ferrari
 ferraro
 ferrell
@@ -6819,6 +6863,7 @@ forever
 forge
 forget
 forgetting
+forgive
 forgiveness
 forgot
 forgotten
@@ -7090,6 +7135,7 @@ gang
 ganging
 ganni
 ganpati
+ganzin
 gao
 gap
 gaps
@@ -7147,6 +7193,7 @@ gaze
 gazes
 gazidis
 gaziza
+gb
 gbi
 gds
 gear
@@ -7312,6 +7359,7 @@ globes
 gloria
 glories
 glorious
+glory
 glove
 gloves
 glow
@@ -8005,6 +8053,7 @@ higgins
 high
 high-fidelity
 high-momentum
+high-powered
 high-profile
 high-protein
 high-quality
@@ -8035,6 +8084,7 @@ hilarious
 hilariously
 hilary
 hilda
+hilidream
 hilinski
 hill
 hill-ivanhoe
@@ -8226,6 +8276,7 @@ houston
 houston-area
 houstonians
 houstons
+hover
 hovering
 how
 howard
@@ -8343,6 +8394,7 @@ hyundais
 i
 i-25
 i-30
+i-35
 i-35w
 i-44
 i-45
@@ -8451,6 +8503,7 @@ imf
 img
 immediate
 immediately
+immense
 immersive
 immigrant
 immigrants
@@ -8591,6 +8644,7 @@ inez
 infamous
 infant
 infantino
+infected
 infecting
 infection
 infections
@@ -8699,6 +8753,7 @@ instructions
 instructors
 instructs
 instrumental
+insulted
 insulting
 insurance
 insured
@@ -8843,6 +8898,7 @@ isa
 isaac
 isabella
 isabelle
+isaya
 isd
 isdera
 isidoro
@@ -9319,6 +9375,7 @@ kfc
 kg
 khaal
 khai
+khairy
 khais
 khaja
 khamis
@@ -9398,6 +9455,7 @@ klan
 klinghoffer
 klisurov
 klobuchar
+klonie
 klopp
 klum
 kmart
@@ -9601,6 +9659,7 @@ langer
 language
 languishing
 lanka
+lankan
 lannion-trgor
 lansing-area
 lantern
@@ -9767,6 +9826,7 @@ lehigh
 leicester
 leicesters
 leifa-steads
+leighton
 leimert
 leipzig
 leishman
@@ -9920,6 +9980,7 @@ lindell
 lindells
 linden
 lindenhurst
+lindner
 lindo
 lindsay
 lindsey
@@ -9942,6 +10003,7 @@ linked
 linkedin
 links
 linshui
+lintao
 lion
 lionel
 lions
@@ -10126,6 +10188,7 @@ low
 low-fat
 low-flying
 low-income
+low-key
 low-scoring
 low-sugar
 lowdown
@@ -10202,6 +10265,7 @@ lynching
 lynda
 lynn
 lynne
+lyon-smith
 lyric
 lyrics
 lyrid
@@ -10217,6 +10281,7 @@ mac
 macaroni
 macbook
 macbooks
+macdonald
 mace
 macedonia
 machine
@@ -10264,6 +10329,7 @@ magnitude-60
 magnum
 magnus
 mahabirsingh
+mahamat
 maharashtra
 mahathera
 mahendra
@@ -10434,6 +10500,7 @@ marketplaces
 markets
 marketwatch
 markey
+marking
 markjohnstonii
 markle
 markles
@@ -10624,6 +10691,7 @@ medallions
 medals
 meddling
 media
+mediacorp
 mediation
 medic
 medicaid
@@ -11046,6 +11114,7 @@ moneyist
 mongolia
 mongolian
 monica
+monika
 monitor
 monitoring
 monitors
@@ -11270,6 +11339,7 @@ must
 must-have
 must-see
 mustache
+mustafayeva
 mustang
 mustapha
 mustard
@@ -11330,10 +11400,12 @@ namesand
 namewreck
 namibian
 naming
+namjoo
 nanchong
 nancy
 nandapal
 nanjiani
+nanping
 naomi
 naperville
 narcotics
@@ -11581,6 +11653,7 @@ nketiah
 nkomonde
 no
 no-brainer
+no-exam
 no-knock
 no-no
 no-nonsense
@@ -11677,6 +11750,7 @@ novelty
 november
 novikov
 now
+nowakowska
 nowhere
 np
 npr
@@ -12218,6 +12292,7 @@ paper
 papers
 paperwork
 papillopathy
+papua
 papuensis
 parachute
 parachuting
@@ -12313,6 +12388,7 @@ patient
 patients
 patio
 patmore
+patna
 paton
 patri
 patriarchs
@@ -12768,6 +12844,7 @@ podcasts
 podiatrist
 podium
 poem
+poetry
 poets
 pohlman
 point
@@ -12977,8 +13054,10 @@ preachers
 precarious
 precaution
 precautionary
+precedent
 precinct
 precious
+precision
 preckwinkle
 predator
 predators
@@ -13001,6 +13080,7 @@ premiere
 premieres
 premiership
 premium
+premiums
 preorders
 prep
 preparations
@@ -13054,6 +13134,7 @@ prevented
 preventing
 preview
 previews
+previous
 previously
 prew
 preyed
@@ -13119,12 +13200,14 @@ problem
 problems
 procedure
 procedures
+proceed
 proceeds
 process
 processed
 processing
 procession
 prochzka
+procurement
 prodigal
 prodigy
 produce
@@ -13266,6 +13349,7 @@ puerto
 pugach
 pujols
 pull
+pull-out
 pulled
 pulling
 pullman
@@ -13359,6 +13443,7 @@ quarries
 quart
 quarter
 quarterback
+quarterly
 quartet
 quay
 quebec
@@ -13917,6 +14002,7 @@ repaired
 repairs
 reparations
 repatriate
+repaying
 repeal
 repeals
 repeated
@@ -14101,6 +14187,7 @@ revisits
 revitalization
 revival
 revive
+revives
 reviving
 revocation
 revoke
@@ -14582,6 +14669,7 @@ sampath
 sampson
 sams
 samson
+samsung
 samsungs
 samuel
 san
@@ -14633,6 +14721,7 @@ satisfactory
 satisfy
 satisfying
 satishs
+sato
 saturation
 saturday
 saturday-morning
@@ -14709,6 +14798,7 @@ scherzinger
 schleicher
 schlesinger
 schmick
+schmidt-gertenbach
 schmitt
 schnitzel
 schnucks
@@ -14763,6 +14853,7 @@ scouting
 scouts
 scramble
 scrambling
+scranton
 scrap
 scraping
 scrapping
@@ -14899,6 +14990,7 @@ sensational
 sense
 senseless
 senses
+sensharma
 sensitive
 sent
 sentence
@@ -14912,6 +15004,7 @@ separata
 separate
 separated
 sephora
+seppl
 sepsoides
 sept
 septa
@@ -15088,6 +15181,7 @@ ships
 shipwreck
 shipwrecks
 shirley
+shirt
 shirtless
 shirts
 shivaji
@@ -15231,6 +15325,7 @@ silkiest
 sillanp
 silly
 silver
+silverado
 silverman
 silvermine
 silverthorne
@@ -15536,6 +15631,7 @@ somerville
 something
 sometimes
 son
+sona
 sonderman
 song
 songbird
@@ -15615,6 +15711,7 @@ spark
 sparked
 sparking
 sparks
+spars
 spartans
 spasx
 spat
@@ -15638,6 +15735,7 @@ specs
 spectacle
 spectators
 spectrum
+speculation
 speech
 speeches
 speed
@@ -15794,6 +15892,7 @@ stamps
 stan
 stance
 stand
+stand-off
 standard
 standards
 standby
@@ -15986,6 +16085,7 @@ strength
 strengthen
 strengthened
 strengthens
+strengths-based
 stress
 stress-free
 stressed
@@ -16023,6 +16123,7 @@ strong
 stronger
 strongly
 strongly-worded
+strongman
 struck
 structure
 structures
@@ -16922,6 +17023,7 @@ torches
 tories
 tornado
 torontos
+torpedoed
 torres
 torture
 tory
@@ -17087,6 +17189,7 @@ trend
 trendiest
 trends
 trendy
+trespasser
 trevor
 trey
 tri-cities
@@ -17126,6 +17229,7 @@ triple-fatal
 triple-shooting
 triple-slay
 tripled
+triples
 triplex
 tripling
 trippy
@@ -17281,6 +17385,7 @@ u2s
 uae
 uber
 ubisoft
+ubs
 ubuntu
 uc
 ucbi
@@ -17401,6 +17506,7 @@ unincorporated
 unintentional
 union
 union-backed
+union-style
 unions
 uniqlo
 unique
@@ -17468,6 +17574,7 @@ up
 upbeat
 upby
 upcoming
+upcycling
 update
 updated
 updates
@@ -17761,6 +17868,7 @@ vincents
 vincit
 vine
 vini
+vinifera
 vinoodh
 vinson
 vintage
@@ -17775,6 +17883,7 @@ viper
 viral
 virga
 virgile
+virgin
 virginia
 virginias
 virgo
@@ -17790,6 +17899,7 @@ visas
 viscum
 vishuddhi
 vishwanath
+visibility
 vision
 visionary
 visit
@@ -17807,6 +17917,7 @@ vitaliy
 vitamin
 vitamix
 viteazul
+vitis
 vittorio
 viva
 vivek
@@ -17833,6 +17944,7 @@ volcanic
 volcanica
 volcano
 volcanoes
+volker
 volkswagens
 volleyball
 volume
@@ -17996,6 +18108,7 @@ waterfall
 waterfalls
 waterfront
 watering
+watermelon
 waters
 waterss
 watford
@@ -18010,6 +18123,7 @@ waving
 way
 wayne
 ways
+wayward
 wb
 wbz-tv
 wcco
@@ -18394,6 +18508,7 @@ wwe
 wwes
 wwf
 wwii
+wwii-era
 wwll-era
 wyatt
 wyn
@@ -18429,6 +18544,7 @@ yale
 yamamoto
 yang
 yangs
+yankee
 yankees
 yanks
 yannan
@@ -18486,6 +18602,7 @@ yorkers
 yosemite
 yoshihide
 yosuke
+yota
 you
 youll
 youn
@@ -18518,6 +18635,7 @@ yukon
 yukti
 yun
 yung-soo
+yunge
 yvan
 yves
 z

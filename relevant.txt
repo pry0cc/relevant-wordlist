@@ -5,6 +5,7 @@
 -finance
 -held
 -highlight
+-sources
 0
 0-0
 0-Day
@@ -102,6 +103,7 @@
 10-3
 10-7
 10-Year
+10-Year-Old
 10-day
 10-man
 10-mans
@@ -559,6 +561,7 @@
 4-year
 40
 400
+400-mile
 40000
 400K
 400M
@@ -621,6 +624,7 @@
 50B
 50K
 50k
+50s
 51
 51st
 52
@@ -663,6 +667,7 @@
 60000
 600K
 60K
+60s
 61
 61327
 62406
@@ -722,12 +727,14 @@
 76
 76ers
 77
+777x
 78
 78-year-old
 787
 79
 793
 79K
+7M
 7m
 7th
 8
@@ -783,6 +790,7 @@
 95
 95-59
 950M
+95th
 968
 97
 97M
@@ -823,6 +831,7 @@ AFLW
 AFLWs
 AG
 AI
+AIIMS
 AJ
 AK-47
 AK47
@@ -849,6 +858,7 @@ ARAM
 ARMY
 ASAP
 ASC
+ASEAN
 ASIA
 ASIC
 ASML
@@ -1039,6 +1049,7 @@ African
 African-American
 Africans
 Africas
+Afro-Cubans
 After
 Aftermath
 Afternoon
@@ -1313,6 +1324,7 @@ Aniston
 Anistons
 Anjum
 Anker
+Ann-Kathrin
 Anna
 AnnaLynne
 Annalena
@@ -1364,10 +1376,12 @@ Antiquities
 Antitrust
 Antiviral
 Anton
+Antonia
 Antonio
 Antonovich
 Antron
 Antrons
+Anu
 Anxiety
 Anxious
 Any
@@ -1433,6 +1447,7 @@ Archaeologists
 Archdeacon
 Archelaus
 Archetypes
+Archibald
 Architect
 Architecture
 Archives
@@ -1723,6 +1738,7 @@ Baddourah
 Baden
 Badly
 Badoy
+Baeksang
 Baerbock
 Baffert
 Bafferts
@@ -1882,6 +1898,7 @@ Beauty
 Beauvillier
 Became
 Because
+Beck
 Beckham
 Beckys
 Become
@@ -2014,6 +2031,7 @@ Bigfoot
 Bigfoot-Hunting
 Biggest
 Bigirimana
+Bihar
 Bijan
 Bike
 Biker
@@ -2041,6 +2059,7 @@ Bind
 Bindi
 Bingham
 Bingoal
+BioNTech
 Biography
 Bioluminescence
 Biopic
@@ -2339,6 +2358,7 @@ Brisbane
 Bristol
 Bristowe
 Britain
+Britains
 Britcoin
 British
 Britney
@@ -2528,6 +2548,7 @@ CEOs
 CERUS
 CEV
 CF
+CFO
 CFPB
 CHARGES
 CHAUVIN
@@ -2548,6 +2569,7 @@ CNNs
 CO
 CO2
 COBRA
+COE
 COIN
 COINVESTMENTS
 COLOR
@@ -2558,6 +2580,7 @@ COVID-19
 COVID-19s
 COVID-inspired
 COVID-related
+COVID-relief
 COVID19
 CPD
 CPS
@@ -2813,6 +2836,7 @@ Cavs
 Caylee
 CeCe
 Ceaser
+Cebu
 Cecil
 Cecilia
 Ceclia
@@ -2852,6 +2876,7 @@ Cerebral
 Ceremonies
 Ceremony
 Certified
+Cesare
 Chad
 Chadian
 Chads
@@ -3046,6 +3071,7 @@ Churro
 Chute
 Chvrches
 Chyna
+Ciani
 Ciara
 Cicadas
 Cicely
@@ -4037,6 +4063,7 @@ Desensitized
 Deserve
 Deserves
 Deshaun
+Deshmukh
 Deshuan
 Design
 Designate
@@ -4051,6 +4078,7 @@ Despair
 Desperate
 Despite
 Desserts
+Destinations
 Destined
 Destiny
 Destroy
@@ -4480,6 +4508,7 @@ Duquesne
 Durant
 Durants
 Durarara
+Duration
 Durbin
 During
 Durk
@@ -4709,6 +4738,7 @@ Emily
 Eminent
 Emir
 Emirate
+Emirates
 Emirhan
 Emission
 Emissions
@@ -4855,6 +4885,7 @@ Ethel
 EtherNetIP
 Ethereum
 Ethical
+Ethics
 Ethiopias
 Etiquette
 Ettens
@@ -4873,6 +4904,7 @@ Euros
 Eurostars
 Eurovision
 Eurylochus
+Euryn
 Eva
 Evacuated
 Evacuations
@@ -4919,6 +4951,7 @@ Ex-Hollywood
 Ex-Jack
 Ex-Jets
 Ex-Mayor
+Ex-Met
 Ex-Officer
 Ex-PBOC
 Ex-President
@@ -5057,6 +5090,7 @@ FSIS
 FTT
 FWWU
 FX
+Fabiola
 Fabulous
 Face
 Facebook
@@ -5209,6 +5243,7 @@ Feock
 Fermn
 Fernanda
 Fernandes
+Fernandez
 Ferrari
 Ferraro
 Ferrell
@@ -5591,6 +5626,7 @@ GAM
 GAO
 GAP
 GARCIA
+GB
 GBI
 GDS
 GEI
@@ -5646,6 +5682,7 @@ Ganassi
 Gang
 Ganni
 Ganpati
+Ganzin
 Gap
 Gaps
 Garage
@@ -5833,6 +5870,7 @@ Glimpse
 Global
 Globes
 Gloria
+Glory
 Glove
 Glow
 Gloweth
@@ -6392,6 +6430,7 @@ High-Quality
 High-Risk
 High-Speed
 High-momentum
+High-powered
 High-ranking
 High-speed
 Higher
@@ -6411,6 +6450,7 @@ Hilarious
 Hilariously
 Hilary
 Hilda
+Hilidream
 Hilinski
 Hill
 Hill-Ivanhoe
@@ -6653,6 +6693,7 @@ Hyundais
 I
 I-25
 I-30
+I-35
 I-35W
 I-44
 I-45
@@ -6852,11 +6893,13 @@ Inefficient
 Inez
 Infamous
 Infantino
+Infected
 Infection
 Infections
 Infectious
 Inferno
 Inflection
+Influence
 Influencers
 Influential
 Inform
@@ -7000,6 +7043,7 @@ Is
 Isaac
 Isabella
 Isabelle
+Isaya
 Isdera
 Isidoro
 Islamic
@@ -7317,6 +7361,7 @@ KFC
 KKK
 KKKs
 KKR
+KLonie
 KN95
 KOBIL
 KPK
@@ -7452,6 +7497,7 @@ Keynes
 Keys
 Khaal
 Khai
+Khairy
 Khais
 Khaja
 Khamis
@@ -7722,6 +7768,7 @@ Langer
 Language
 Languishing
 Lanka
+Lankan
 Lannion-Trgor
 Lansing-Area
 Lantern
@@ -7850,6 +7897,7 @@ Lehigh
 Leicester
 Leicesters
 Leifa-steads
+Leighton
 Leimert
 Leipzig
 Leishman
@@ -7967,6 +8015,7 @@ Lindell
 Lindells
 Linden
 Lindenhurst
+Lindner
 Lindo
 Lindsay
 Lindsey
@@ -7980,6 +8029,7 @@ Linked
 LinkedIn
 Links
 Linshui
+Lintao
 Lion
 Lionel
 Lions
@@ -8179,6 +8229,7 @@ Lynching
 Lynda
 Lynn
 Lynne
+Lyon-Smith
 Lyrics
 Lyrid
 M
@@ -8230,6 +8281,7 @@ Mac
 MacBook
 MacBooks
 MacLean
+Macdonald
 Mace
 Macedonia
 Machine
@@ -8271,6 +8323,7 @@ Magnitude
 Magnitude-60
 Magnum
 Mahabirsingh
+Mahamat
 Maharashtra
 Mahathera
 Mahendra
@@ -8579,6 +8632,7 @@ Medal
 Medals
 Meddling
 Media
+Mediacorp
 Mediation
 Medicaid
 Medical
@@ -8902,6 +8956,7 @@ Moneyist
 Mongolia
 Mongolian
 Monica
+Monika
 Monitors
 Monja
 Monjowa
@@ -9074,6 +9129,7 @@ Must
 Must-Have
 Must-See
 Mustache
+Mustafayeva
 Mustang
 Musto
 Mutual
@@ -9186,10 +9242,12 @@ Name
 Named
 Names
 Namibian
+Namjoo
 Nanchong
 Nancy
 Nandapal
 Nanjiani
+Nanping
 Naomi
 Naperville
 Narcotics
@@ -9427,6 +9485,7 @@ Novelty
 November
 Novikov
 Now
+Nowakowska
 Nubes
 Nuclear
 Nugent
@@ -9853,6 +9912,7 @@ Pantsuit
 Paola
 Papageorgakopoulou
 Paper
+Papua
 Parachute
 Parade
 Paradise
@@ -9929,6 +9989,7 @@ Patient
 Patients
 Patio
 Patmore
+Patna
 Paton
 Patri
 Patriarchs
@@ -10262,6 +10323,7 @@ Podcast
 Podcasts
 Podiatrist
 Poem
+Poetry
 Poets
 Pohlman
 Point
@@ -10404,6 +10466,7 @@ Precaution
 Precautionary
 Precinct
 Precious
+Precision
 Preckwinkle
 Predator
 Predators
@@ -11170,6 +11233,7 @@ Reviewing
 Revitalization
 Revival
 Revive
+Revives
 Revocation
 Revoked
 Revokes
@@ -11607,6 +11671,7 @@ Sampath
 Sampson
 Sams
 Samson
+Samsung
 Samsungs
 Samuel
 San
@@ -11649,6 +11714,7 @@ Satan
 Satellite
 Satisfying
 Satishs
+Sato
 Saturation
 Saturday
 Saturday-Morning
@@ -11706,6 +11772,7 @@ Scherzinger
 Schleicher
 Schlesinger
 Schmick
+Schmidt-Gertenbach
 Schmitt
 Schnitzel
 Schnucks
@@ -11744,6 +11811,7 @@ Scotts
 Scottsdale
 Scouts
 Scrambling
+Scranton
 Scrapping
 Scraps
 Scream
@@ -11829,6 +11897,7 @@ Senegals
 Senior
 Senior-level
 Senseless
+Sensharma
 Sensitive
 Sent
 Sentence
@@ -11840,6 +11909,7 @@ Seoul
 Separate
 Separated
 Sephora
+Seppl
 Sept
 September
 Septic
@@ -12032,6 +12102,7 @@ Shutout
 Shuts
 Shutter
 Shutting
+Shuttle
 Shuvam
 Shyamalans
 Sialkot
@@ -12080,6 +12151,7 @@ Silkiest
 Sillanp
 Silly
 Silver
+Silverado
 Silverman
 Silvermine
 Silverthorne
@@ -12282,6 +12354,7 @@ Somerville
 Something
 Sometimes
 Son
+Sona
 Song
 Songbirds
 Songs
@@ -12353,6 +12426,7 @@ Spears
 Special
 Species
 Specific
+Spectrum
 Speech
 Speeches
 Speed
@@ -12582,6 +12656,7 @@ Streets
 Strength
 Strengthen
 Strengthens
+Strengths-Based
 Stress-Free
 Stressed
 Stressful
@@ -13303,6 +13378,7 @@ Tow
 Toward
 Towards
 Towelie
+Tower
 Towers
 Town
 Towns
@@ -13388,6 +13464,7 @@ Trek
 Trend
 Trendiest
 Trends
+Trespasser
 Trevor
 Trey
 Tri-Cities
@@ -13522,6 +13599,7 @@ U-23
 U-turn
 U2s
 UAE
+UBS
 UC
 UCBI
 UCL
@@ -13628,6 +13706,7 @@ Uniforms
 Unify
 Unincorporated
 Union
+Union-style
 Unions
 Uniqlo
 Unique
@@ -13637,6 +13716,7 @@ Uniswaps
 Unit
 United
 Units
+Unity
 Universe
 Universities
 University
@@ -13667,6 +13747,7 @@ Unveils
 Up
 Upby
 Upcoming
+Upcycling
 Update
 Updated
 Updates
@@ -13917,6 +13998,7 @@ Violent
 Viper
 Viral
 Virgile
+Virgin
 Virginia
 Virginias
 Virgo
@@ -13940,6 +14022,7 @@ Vitaliy
 Vitamin
 Vitamix
 Viteazul
+Vitis
 Vittorio
 Viva
 Vivek
@@ -13954,6 +14037,7 @@ Voice-y
 Voices
 Vol
 Volcano
+Volker
 Volkswagens
 Volume
 Voluntary
@@ -14008,6 +14092,7 @@ WWE
 WWEs
 WWF
 WWII
+WWII-era
 WWll-era
 Waco
 Waddle
@@ -14103,6 +14188,7 @@ Water
 Waterfall
 Waterfalls
 Watering
+Watermelon
 Waters
 Waterss
 Watford
@@ -14435,6 +14521,7 @@ Yale
 Yamamoto
 Yang
 Yangs
+Yankee
 Yankees
 Yanks
 Yannan
@@ -14489,6 +14576,7 @@ Yorkers
 Yosemite
 Yoshihide
 Yosuke
+Yota
 You
 YouTube
 YouTuber
@@ -14518,6 +14606,7 @@ Yukon
 Yukti
 Yun
 Yung-soo
+Yunge
 Yvan
 Yves
 Z
@@ -14856,6 +14945,7 @@ amazement
 amazing
 ambassador
 ambition
+ambitions
 ambulances
 amend
 amendment
@@ -14969,6 +15059,7 @@ approves
 approximately
 apps
 archaeologists
+archbishop
 archeologists
 architect
 architects
@@ -15041,6 +15132,7 @@ assistant
 assists
 associate
 associated
+associates
 association
 assures
 asteroid
@@ -15202,6 +15294,7 @@ baton
 bats
 batsmen
 batten
+batteries
 battery
 battery-powered
 battle
@@ -15420,6 +15513,7 @@ booms
 boost
 boosted
 booster
+boosts
 boot
 booted
 booth
@@ -15624,6 +15718,7 @@ came
 cameos
 camera
 cameras
+camerawoman
 camp
 campaign
 campiglossina
@@ -15684,6 +15779,7 @@ career
 careers
 careful
 caretaker
+cargo
 caricature
 carjacked
 carjacker
@@ -15847,6 +15943,7 @@ chill
 chills
 chilly
 chip
+chipmaker
 chips
 chocolate
 choice
@@ -16054,6 +16151,7 @@ compared
 compares
 comparing
 comparison
+compensate
 compensation
 compete
 competing
@@ -16184,6 +16282,7 @@ contractor
 contractors
 contracts
 contradict
+contradicting
 contradicts
 contrast
 contrasts
@@ -16333,6 +16432,7 @@ cremations
 crest
 crew
 cribripennis
+cricket
 cricketer
 cried
 cries
@@ -16812,6 +16912,7 @@ disputed
 disputes
 disquiet
 disregard
+disrespect
 disrupted
 disruptions
 dissent
@@ -16835,6 +16936,7 @@ ditched
 ditches
 diverse
 diversity
+diverted
 dives
 divest
 divided
@@ -16899,6 +17001,7 @@ downgrades
 downplays
 downs
 downtown
+downturn
 dozen
 dozens
 draconian
@@ -17055,10 +17158,12 @@ electiona
 elections
 electoral
 electric
+electric-vehicle
 electronic
 elegant
 elementary
 elephant
+elephantina
 elephants
 elevating
 elevator
@@ -17665,6 +17770,7 @@ forever
 forge
 forget
 forgetting
+forgive
 forgiveness
 forgot
 fork
@@ -17936,6 +18042,7 @@ grasping
 grateful
 grave
 gravel
+graveyard
 gray
 great
 great-grandchildren
@@ -18286,6 +18393,7 @@ house
 house-price
 household
 housing
+hover
 hovering
 how
 hrefhttpsnewsskycomstoryelliot-page-hollywood-star-brands-us-transgender-bills-upsetting-cruel-and-exhausting-12278011Upsetting
@@ -18369,6 +18477,7 @@ images
 imbalance
 immediate
 immediately
+immense
 immigrant
 immigrants
 immigration
@@ -18464,6 +18573,7 @@ inertia
 inevitable
 inexpensive
 infant
+infected
 infecting
 infection
 infections
@@ -18534,8 +18644,10 @@ instruction
 instructions
 instructors
 instrumental
+insulted
 insulting
 insurance
+insurers
 insurgents
 insurrection
 integration
@@ -19032,6 +19144,7 @@ loving
 low
 low-fat
 low-income
+low-key
 low-scoring
 low-sugar
 lowdown
@@ -19042,6 +19155,7 @@ lowest
 loyal
 loyalty
 lt
+ltd
 ltimo
 luck
 lucky
@@ -19128,6 +19242,7 @@ marketing
 marketplace
 marketplaces
 markets
+marking
 markjohnstonii
 marks
 marksman
@@ -19547,6 +19662,7 @@ nights
 nine
 ninth
 no
+no-exam
 no-knock
 no-no
 nobody
@@ -20222,6 +20338,7 @@ pre-register
 pre-show
 preachers
 precarious
+precedent
 precinct
 predators
 predictable
@@ -20236,6 +20353,7 @@ premier
 premiere
 premieres
 premium
+premiums
 preorders
 prep
 prepare
@@ -20271,6 +20389,7 @@ prevented
 preventing
 preview
 previews
+previous
 previously
 preyed
 prez
@@ -20317,10 +20436,12 @@ probing
 problem
 problems
 procedures
+proceed
 proceeds
 process
 processing
 procession
+procurement
 prodigal
 prodigy
 produce
@@ -20421,6 +20542,7 @@ publicly
 publics
 publish
 pull
+pull-out
 pulled
 pulling
 pullout
@@ -20471,6 +20593,7 @@ quarantined
 quarries
 quarter
 quarterback
+quarterly
 queen
 queer
 quest
@@ -20513,6 +20636,7 @@ rail
 railroad
 railroads
 railway
+rain
 raise
 raised
 raises
@@ -20814,6 +20938,7 @@ repaired
 repairs
 reparations
 repatriate
+repaying
 repeal
 repeals
 repeated
@@ -21396,6 +21521,7 @@ shippin
 ships
 shipwreck
 shipwrecks
+shirt
 shirtless
 shock
 shocked
@@ -21689,6 +21815,7 @@ spark
 sparked
 sparking
 sparks
+spars
 spat
 spawns
 speak
@@ -21706,6 +21833,7 @@ specs
 spectacle
 spectators
 spectrum
+speculation
 speech
 speeches
 speed
@@ -21799,6 +21927,7 @@ stamp
 stamps
 stance
 stand
+stand-off
 standard
 standby
 standing
@@ -21834,6 +21963,7 @@ stations
 statistical
 stats
 statue
+status
 stay
 stay-at-home
 stay-home
@@ -21937,6 +22067,7 @@ strokes
 strong
 stronger
 strongly
+strongman
 struck
 structure
 structures
@@ -22265,6 +22396,7 @@ testnets
 tests
 text
 textile
+texts
 than
 thank
 thank-you
@@ -22414,6 +22546,7 @@ topless
 topple
 tops
 tornado
+torpedoed
 torture
 toss
 tossed
@@ -22556,6 +22689,7 @@ triple-fatal
 triple-shooting
 triple-slay
 tripled
+triples
 triplex
 trippy
 trips
@@ -22847,6 +22981,7 @@ vigorously
 village
 villages
 villains
+vinifera
 vintage
 violations
 violence
@@ -22860,6 +22995,7 @@ virus
 virus-hit
 viruses
 visas
+visibility
 vision
 visionary
 visit
@@ -22947,6 +23083,7 @@ warns
 warrant
 warrants
 warrior
+warriors
 wars
 warships
 wary
@@ -22972,6 +23109,7 @@ waters
 wave
 way
 ways
+wayward
 we
 weak
 weaken
@@ -23011,8 +23149,10 @@ weird
 weirdest
 welcome
 welcomes
+welcoming
 welding
 well
+wellness
 wendlandiana
 went
 were
