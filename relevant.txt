@@ -233,6 +233,7 @@
 16
 16
 16
+16-year-old
 160
 16000
 160000
@@ -1056,6 +1057,7 @@ Added
 Additional
 Administered
 Administration
+Admit
 Admitted
 Adolescents
 Adorable
@@ -1104,6 +1106,7 @@ Aleo
 Alert
 Alex
 Alexandria
+Alexei
 Alexi
 Alfredo
 Aliens
@@ -1502,6 +1505,7 @@ CD
 CDC
 CDPHE
 CEO
+CNN
 COIN
 COVID
 COVID-19
@@ -1579,6 +1583,7 @@ Celebrate
 Celebrated
 Celebrating
 Celebration
+Celebrities
 Celebrity
 Celine
 Celo
@@ -1627,6 +1632,7 @@ Cheers
 Chef
 Chelsea
 Chemical
+Chemical-Attack
 Cher
 Cherokee
 Chevelle
@@ -1780,10 +1786,12 @@ Cook
 Cookbook
 Cooked
 Coolers
+Cooper
 Cora
 Cordae
 Corden
 Cornerback
+Cornyn
 Coronapas
 Coronavirus
 Corp
@@ -1944,6 +1952,7 @@ Democratic
 Democrats
 Demonstrations
 Dems
+Deniers
 Denies
 Denmark
 Denounced
@@ -2000,6 +2009,7 @@ Diplomats
 Directed
 Disasters
 Disbelief
+Discord
 Discourage
 Discover
 Discovers
@@ -2250,6 +2260,7 @@ Ezra
 F
 FBI
 FDA
+FEC
 FEMA
 FIFA
 FIFAs
@@ -2480,6 +2491,7 @@ Gentrification
 George
 Georgetown
 Georgia
+Georgias
 Germany
 Gestapo
 Get
@@ -2580,6 +2592,7 @@ HBOs
 HER
 HM
 HRs
+HS
 Habit
 Hack
 Hackers
@@ -2977,6 +2990,7 @@ Kohls
 Kokumai
 Kong
 Korean
+Kremlin
 Kristin
 Kurt
 Kushner
@@ -3147,6 +3161,7 @@ Lotus
 Loud
 Louie
 Louis
+Louisiana
 Love
 Lovebug
 Lovers
@@ -3437,6 +3452,7 @@ Nationwide
 Nats
 Natural
 Nature
+Navalny
 Navalnys
 Navy
 Ndrangheta
@@ -4537,6 +4553,7 @@ Swings
 Symbiogenesis
 Symptoms
 Syndrome
+Syria
 Syrias
 SysAdmin
 System
@@ -4791,6 +4808,7 @@ Underway
 Unemployment
 Unfamiliar
 Unfortunately
+Union
 Unions
 Uniswaps
 United
@@ -4897,6 +4915,7 @@ Votes
 Voting
 Vs
 Vulnerabilities
+W
 WATCH
 WB
 WFH
@@ -4983,6 +5002,7 @@ Whole
 Whose
 Why
 Widespread
+WikiLeaks
 Wild
 Will
 Williams
@@ -5045,6 +5065,7 @@ Yaku
 Yale
 Yankees
 Yasiin
+Yates
 Year
 Year-Old
 Yearbook
@@ -5825,6 +5846,7 @@ altior
 altria
 altright
 alum
+alumni
 alums
 alvarado
 always
@@ -10014,6 +10036,7 @@ countersuit
 countess
 counties
 counting
+countless
 countries
 countries
 countries
@@ -21359,6 +21382,7 @@ overnight
 overnight
 overnight
 overpaid
+override
 overruled
 overseas
 overseeing
@@ -30717,6 +30741,7 @@ zion
 zion
 zip
 zip
+zip-tied
 zippy
 ziptied
 zodiac

@@ -40,6 +40,7 @@
 155
 15m
 16
+16-year-old
 16326m
 1637m
 17
@@ -196,6 +197,7 @@ acclaimed
 accord
 according
 accountability
+accountable
 accounts
 accurately
 accused
@@ -229,6 +231,7 @@ adds
 administered
 administration
 administrator
+admit
 admits
 admitted
 adolescents
@@ -263,6 +266,7 @@ age
 aged
 agencies
 agency
+agent
 agents
 aggressive
 ago
@@ -292,6 +296,7 @@ aleo
 alert
 alex
 alexandria
+alexei
 alexi
 alfredo
 aliens
@@ -317,6 +322,7 @@ already
 also
 altercation
 alternative
+alumni
 always
 alysha
 am
@@ -441,6 +447,7 @@ asbury
 ashamed
 asia
 asian
+asked
 assault
 assaulting
 assess
@@ -874,6 +881,7 @@ castle
 castro
 cat
 cats
+caucus
 caught
 caused
 causes
@@ -960,6 +968,7 @@ cheers
 chef
 chelsea
 chemical
+chemical-attack
 cher
 cherokee
 chevelle
@@ -1056,6 +1065,7 @@ clubs
 clues
 clusters
 clutter
+cnn
 co
 co-founder
 co-host
@@ -1170,6 +1180,7 @@ controversial
 controversy
 convention
 conversation
+conversations
 convict
 convicted
 conviction
@@ -1180,6 +1191,7 @@ cookbook
 cooked
 cooler
 coolers
+cooper
 cop
 cops
 cora
@@ -1187,6 +1199,7 @@ cordae
 corden
 corner
 cornerback
+cornyn
 coronapas
 coronavirus
 corp
@@ -1208,6 +1221,7 @@ count
 countdown
 counted
 counties
+countless
 countries
 country
 countrys
@@ -1258,6 +1272,7 @@ crime
 crimes
 criminal
 crisis
+critic
 critical
 critically
 criticises
@@ -1402,6 +1417,7 @@ democrats
 demonstrations
 dems
 denied
+deniers
 denies
 denmark
 denounced
@@ -1489,11 +1505,13 @@ disambiguation
 disappearance
 disasters
 disbelief
+discord
 discourage
 discover
 discovered
 discovers
 discovery
+discriminated
 discussions
 disease
 dismissed
@@ -1537,6 +1555,7 @@ dominance
 dominate
 dominates
 don
+donated
 donations
 donbas
 done
@@ -1724,6 +1743,7 @@ enters
 enticement
 entire
 entre
+entry
 environmental
 ep
 epicenter
@@ -1771,6 +1791,7 @@ every
 everyone
 everyones
 everything
+eviction
 evidence
 evolution
 evolving
@@ -1896,6 +1917,7 @@ fear
 fearing
 fears
 feature
+fec
 feces
 federal
 fedex
@@ -1927,6 +1949,7 @@ fight
 fighting
 file
 files
+filing
 fill
 filled
 filling
@@ -2131,6 +2154,7 @@ genuinely
 george
 georgetown
 georgia
+georgias
 germany
 gestapo
 get
@@ -2266,6 +2290,7 @@ hair
 hairstylists
 half
 hall
+halt
 halts
 halving
 hamilton
@@ -2330,6 +2355,7 @@ heat
 hedge
 heights
 heist
+held
 helen
 helicopter
 hell
@@ -2432,6 +2458,7 @@ how
 howard
 howie
 hrs
+hs
 hub
 huge
 hulbert
@@ -2748,6 +2775,7 @@ kicked
 kicks
 kidnapping
 kids
+kill
 killed
 killer
 killers
@@ -2777,6 +2805,7 @@ kohls
 kokumai
 kong
 korean
+kremlin
 kristin
 kurt
 kushner
@@ -2978,6 +3007,7 @@ lotus
 loud
 louie
 louis
+louisiana
 love
 lovebug
 loved
@@ -3321,6 +3351,7 @@ nationwide
 nats
 natural
 nature
+navalny
 navalnys
 navy
 nba
@@ -3518,6 +3549,7 @@ outside
 over
 over-unders
 overnight
+override
 overturned
 overwhelmed
 overwhelms
@@ -4332,6 +4364,7 @@ scottie
 scottish
 scottsdale
 scouts
+scramble
 scrambling
 scrappy
 scraps
@@ -4463,6 +4496,7 @@ shore
 short
 shortage
 shorthanded
+shortly
 shot
 shotgun
 shots
@@ -4612,8 +4646,10 @@ southland
 sox
 space
 spanish
+spar
 sparking
 sparks
+speak
 speaks
 special
 specialty
@@ -4639,6 +4675,7 @@ sportback
 sports
 sportscenter
 spotify
+spotlight
 spots
 sprays
 spread
@@ -4846,6 +4883,7 @@ symbiogenesis
 symbols
 symptoms
 syndrome
+syria
 syrias
 sysadmin
 system
@@ -4946,6 +4984,7 @@ theis
 them
 theme
 themed
+themselves
 then
 theorist
 theory
@@ -4957,6 +4996,7 @@ they
 theyre
 thing
 things
+think
 thinks
 third
 this
@@ -5170,6 +5210,7 @@ unequal
 unfamiliar
 unfortunately
 unicef
+union
 unions
 uniswaps
 unit
@@ -5258,6 +5299,7 @@ verve
 very
 vessel
 veterans
+veto
 vets
 vh1s
 via
@@ -5303,6 +5345,7 @@ voluntary
 von
 vorontsov
 vote
+voter
 votes
 voting
 vow
@@ -5311,6 +5354,7 @@ vpn
 vs
 vulnerabilities
 vulnerability
+w
 wait
 waiting
 waivers
@@ -5410,6 +5454,7 @@ wider
 widespread
 wife
 wifes
+wikileaks
 wild
 wildfire
 wildfires
@@ -5491,6 +5536,7 @@ yaku
 yale
 yankees
 yasiin
+yates
 year
 year-old
 yearbook
@@ -5525,6 +5571,7 @@ zero-day
 zero-days
 zion
 zip
+zip-tied
 zippy
 zollywood
 zone
