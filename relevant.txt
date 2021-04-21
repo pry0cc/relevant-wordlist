@@ -99,6 +99,7 @@
 1-year-old
 10
 10-3
+10-7
 10-Year
 10-day
 10-man
@@ -187,6 +188,7 @@
 130
 13000
 132
+134-129
 139-137
 13K
 13th
@@ -468,6 +470,7 @@
 3-decade
 3-point
 3-row
+3-run
 3-year
 30
 30-Day
@@ -668,6 +671,7 @@
 7-0
 7-3
 7-4
+7-5
 7-6
 7-Game
 7-Year-Old
@@ -2065,6 +2069,7 @@ Bluebike
 Blues
 Blunts
 Bo
+BoSox
 Board
 Boarded-Up
 Boarding
@@ -2092,6 +2097,7 @@ Bodycam
 Bodyweight
 Boehner
 Boeing
+Bogaerts
 Bogany
 Boggs
 Boise
@@ -3502,6 +3508,7 @@ Crew
 Crew-2
 Crewe
 Crews
+Cried
 Cries
 Crime
 Crime-Fighting
@@ -4423,6 +4430,7 @@ EOS
 EP
 EPA
 EPLs
+EPOS
 EQB
 EQS
 ERNEST
@@ -5505,6 +5513,7 @@ Gallery
 Gallman
 Gallo
 Galveston
+Galvis
 Gambit
 Game
 GameStop
@@ -5939,6 +5948,7 @@ Gym
 Gymnastics
 H
 H-E-B
+H3
 HAAH
 HARDY
 HBO
@@ -6469,6 +6479,7 @@ Hurdle
 Hurling
 Hurricane
 Hurricanes
+Hurst
 Hurt
 Hurtful
 Hurts
@@ -8102,6 +8113,7 @@ Majors
 Make
 Make-A-Wish
 Maker
+MakerDAO
 Makerere
 Makers
 Makes
@@ -8137,6 +8149,7 @@ Manam
 Manayunk
 Manchester
 Manchin
+Mancini
 Mandate
 Mandates
 Mandatory
@@ -11045,6 +11058,7 @@ Rodalies
 Rodgers
 Rodn
 Rodney
+Rodrguez
 Rodriguez
 Roeber
 Roem
@@ -11290,6 +11304,7 @@ Saints
 Sajak
 Sake
 Sakkari
+Sakubei
 Sakura
 Salad
 Salads
@@ -12632,6 +12647,7 @@ Target
 Targeting
 Targets
 Taroko
+Tarrant
 Tarrytown
 Tartu
 Tarver
@@ -12689,6 +12705,7 @@ Techs
 Ted
 Teen
 Teenage
+Teenager
 Teenagers
 Teens
 Tegan
@@ -13220,6 +13237,7 @@ US-Japan
 US-Mexico
 US-based
 US30
+US32
 US814
 USA
 USC
@@ -13284,6 +13302,7 @@ Unfamiliar
 Unforgettable
 Unfortunately
 Unhealthy
+Unhoused
 Unicorns
 Uniforms
 Unify
@@ -13948,6 +13967,7 @@ Wisconsin
 Wisdom
 Wish
 Wishes
+Wishmas
 Witch
 With
 Withdraw
@@ -14067,6 +14087,7 @@ Yaeger
 Yahya
 Yaku
 Yale
+Yamamoto
 Yang
 Yankees
 Yanks
@@ -15459,6 +15480,7 @@ chose
 chronic
 chucks
 church
+churches
 churn
 cicadas
 cigarette
@@ -15576,6 +15598,7 @@ coli
 collaboration
 collapse
 collar
+collateral
 colleagues
 collect
 collection
@@ -17671,6 +17694,7 @@ headlines
 headphones
 headquarters
 heads
+headset
 heal
 healing
 health
@@ -17786,6 +17810,7 @@ homeless
 homelessness
 homemade
 homeowner
+homer
 homers
 homes
 homework
@@ -18481,6 +18506,7 @@ lion
 lions
 liquid
 liquidating
+liquidation
 liquidity
 lisabeth
 list
@@ -19057,6 +19083,7 @@ newspaper
 newsroom
 nexilis
 next
+next-gen
 ng
 nice
 nicer
@@ -19491,6 +19518,7 @@ perils
 perimeter
 period
 periods
+peripherals
 perk
 perks
 permanent
@@ -20907,6 +20935,7 @@ shopping
 shore
 shoreline
 short
+short-handed
 shortage
 shortages
 shortcakes
@@ -22334,6 +22363,7 @@ visitors
 visits
 visuals
 vital
+vivid
 vizhu
 vocabulary
 vodka
@@ -22541,6 +22571,7 @@ wins
 winter
 wintry
 wipe
+wired
 wireless
 wisdom
 wish
