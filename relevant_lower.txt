@@ -31,6 +31,7 @@
 12-year-old
 120
 1200
+122
 13
 13000
 14
@@ -89,6 +90,7 @@
 24-million
 25
 250
+250k
 2587
 25b
 26
@@ -622,6 +624,7 @@ being
 belief
 believe
 believed
+believes
 bell
 below
 ben
@@ -666,6 +669,7 @@ binance
 bingham
 bingoal
 biofuel
+biographer
 bipartisan
 biracial
 bird
@@ -680,6 +684,7 @@ blackburn
 blackhawks
 blackmon
 blah
+blake
 blame
 blamed
 blames
@@ -749,6 +754,7 @@ boycott
 boys
 braces
 brady
+brain
 brainwashed
 braman
 brand
@@ -942,6 +948,7 @@ celebrated
 celebrates
 celebrating
 celebration
+celebrations
 celebrities
 celebrity
 celebs
@@ -1091,6 +1098,7 @@ cleared
 clearly
 clears
 clerk
+cleveland
 cliff
 climate
 clinic
@@ -1349,10 +1357,12 @@ csx
 cta
 ctu
 cuba
+cubas
 cucamonga
 culprit
 cult
 cultural
+culture
 cumberbatch
 cuoco
 cuomo
@@ -1361,6 +1371,7 @@ curb
 curing
 currency
 curry
+custis
 custody
 customer
 customers
@@ -1504,6 +1515,7 @@ destinations
 destroyed
 destroys
 destruction
+details
 detain
 detecting
 detective
@@ -1818,6 +1830,7 @@ era
 eres
 eroding
 errant
+erupt
 erupted
 eruption
 erupts
@@ -2331,6 +2344,7 @@ grizzly
 grocery
 grocery-store
 grohl
+grooming
 ground
 group
 groups
@@ -2659,6 +2673,7 @@ infantino
 infection
 infections
 infectious
+infielder
 infirmed
 inflows
 influencers
@@ -2802,6 +2817,7 @@ jill
 jim
 jimmy
 jingles
+jj
 jo
 joaquin
 job
@@ -3002,6 +3018,7 @@ legislation
 legislators
 legislature
 lehigh
+leimert
 leisurely
 leisures
 lennon
@@ -3487,6 +3504,7 @@ needle
 needs
 negative
 neighborhood
+neil
 nel
 nemak
 neo-nazi
@@ -3498,6 +3516,7 @@ netflixs
 network
 networks
 neurological
+nevada
 never
 new
 new-vehicle
@@ -3944,6 +3963,7 @@ praise
 praises
 pranks
 pratchetts
+pray
 prayer
 preachers
 precarious
@@ -4328,6 +4348,7 @@ resuming
 retailer
 retaliation
 retired
+retirement
 retro
 retrospective
 return
@@ -4448,6 +4469,7 @@ runoff
 rural
 rush
 rusher
+russas
 russell
 russia
 russian
@@ -4563,6 +4585,7 @@ seen
 sees
 seize
 seizing
+seizures
 selby
 select
 selection
@@ -4606,6 +4629,7 @@ settle
 settlement
 seven
 seven-year-old
+seventh
 several
 severe
 sex
@@ -4695,6 +4719,7 @@ simkhai
 simmons
 simone
 simplify
+simply
 simpsons
 since
 singer
@@ -5183,6 +5208,7 @@ thinks
 third
 this
 thomas
+thorn
 thoroughbred
 those
 thou
@@ -5552,6 +5578,7 @@ wake
 walk
 walk-in
 walked
+walker
 walkup
 wall
 walnut

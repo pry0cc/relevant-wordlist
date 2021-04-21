@@ -31,6 +31,7 @@
 12-year-old
 120
 1200
+122
 13
 13000
 14
@@ -90,6 +91,7 @@
 24-million
 25
 250
+250K
 2587
 25B
 26
@@ -501,6 +503,7 @@ Bean
 Bear
 Bears
 Beat
+Beats
 Beautiful
 Beauvillier
 Became
@@ -522,6 +525,7 @@ Behind-the-Scenes
 Beijing
 Being
 Believed
+Believes
 Bell
 Ben
 Benedict
@@ -567,6 +571,7 @@ Blackburn
 Blackhawks
 Blackmon
 Blah
+Blake
 Blame
 Blank
 Blasio
@@ -778,6 +783,7 @@ Celebrate
 Celebrated
 Celebrating
 Celebration
+Celebrations
 Celebrities
 Celebrity
 Celine
@@ -894,6 +900,7 @@ Cleanups
 Cleared
 Clears
 Clerk
+Cleveland
 Climate
 Clinics
 Clippers
@@ -1064,6 +1071,7 @@ Crying
 Crypto
 Cryptocurrency
 Cuba
+Cubas
 Cucamonga
 Culprit
 Cult
@@ -1072,6 +1080,7 @@ Cuoco
 Cuomo
 Curb
 Curry
+Custis
 Cut
 Cutty
 Cyber
@@ -1888,6 +1897,7 @@ Historically
 History
 Hit
 Hit-And-Run
+Hits
 Hoax
 Hoc
 Hockey
@@ -1901,6 +1911,7 @@ Holy
 Home
 Homeless
 Homelessness
+Homers
 Homesite
 Homicide
 Honestly
@@ -2088,6 +2099,7 @@ Ive
 J
 J-Lo
 JB
+JJ
 JPMorgan
 JaMal
 Jabari
@@ -2297,6 +2309,7 @@ Legendary
 Legislation
 Legislature
 Lehigh
+Leimert
 Leisures
 Lennon
 Leon
@@ -2372,6 +2385,7 @@ Lone
 Long
 Longer
 Longest
+Longtime
 Look
 Looked
 Looking
@@ -2560,6 +2574,7 @@ Midlands
 Midtown
 Might
 Mike
+Mild
 Milestone
 Military
 Million
@@ -2695,12 +2710,14 @@ Need
 Needs
 Negative
 Neighborhood
+Neil
 Nel
 Nemak
 Neo-Nazi
 Netflix
 Netflixs
 Neurological
+Nevada
 Never
 New
 Newark
@@ -2724,6 +2741,7 @@ Nina
 Ninja
 Ninth
 No
+No-No
 Noah
 Nobody
 Noel
@@ -3370,6 +3388,7 @@ Running
 Runoff
 Rural
 Rush
+Russas
 Russell
 Russia
 Russian
@@ -4183,6 +4202,7 @@ Waiting
 Wake
 Walk
 Walk-In
+Walker
 Wall
 Walnut
 Walter
@@ -4421,6 +4441,7 @@ aid
 ailing
 aims
 air
+alarm
 album
 alive
 all
@@ -4584,6 +4605,7 @@ billed
 billion
 bills
 biofuel
+biographer
 bipartisan
 biracial
 birds
@@ -4625,6 +4647,7 @@ bounty
 boutique
 boxes
 braces
+brain
 brand
 breach
 break
@@ -4908,6 +4931,7 @@ crunch
 crypto
 cryptocurrency
 cultural
+culture
 cup
 curing
 currency
@@ -4981,6 +5005,7 @@ despite
 destinations
 destroyed
 destruction
+details
 detain
 detective
 detectives
@@ -5122,6 +5147,7 @@ enticement
 entry
 epidemiologist
 errant
+erupt
 eruption
 erupts
 essay
@@ -5135,6 +5161,7 @@ evacuations
 evaluation
 even
 event
+every
 everyone
 everyones
 everything
@@ -5369,6 +5396,7 @@ greenhouse
 grill
 grocery
 grocery-store
+grooming
 group
 groups
 grow
@@ -5409,6 +5437,7 @@ harness
 has
 hasnt
 haunt
+haunted
 have
 haven
 havent
@@ -5532,6 +5561,7 @@ indicts
 industry
 inequities
 infections
+infielder
 infirmed
 inflows
 info-stealing
@@ -6059,6 +6089,7 @@ power
 practice
 praise
 praises
+pray
 preachers
 precarious
 predictions
@@ -6256,6 +6287,7 @@ restoring
 restrictions
 results
 retailer
+retirement
 return
 returning
 returns
@@ -6359,6 +6391,7 @@ seems
 seen
 sees
 seizing
+seizures
 sell
 semitruck
 senator
@@ -6377,6 +6410,7 @@ set
 sets
 settle
 settlement
+seventh
 several
 sex
 sexual
@@ -6423,6 +6457,7 @@ side
 signaling
 significant
 signs
+simply
 since
 single
 sinks
@@ -6688,6 +6723,7 @@ think
 thinks
 third
 this
+thorn
 those
 thousands
 threatened
@@ -6843,6 +6879,7 @@ visionary
 visit
 visits
 vocabulary
+voice
 voices
 volcano
 volumes
