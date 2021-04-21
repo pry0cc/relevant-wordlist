@@ -183,6 +183,7 @@ ANALYSIS
 AP
 APD
 APT
+AU
 Abandoned
 Abernathy
 Able
@@ -349,6 +350,7 @@ Apps
 April
 Aquarium
 Aquariums
+Arab
 Arabia
 ArcLight
 Archaeological
@@ -2091,6 +2093,7 @@ Journalism
 Journalists
 Journey
 Joy
+Juan
 Judas
 Judge
 Julia
@@ -2193,6 +2196,7 @@ Language
 Languishing
 Las
 Last
+Last-place
 Late
 Latest
 Latifa
@@ -2611,6 +2615,7 @@ Nasa
 Nasdaq
 Nashville
 National
+Nationals
 Nationwide
 Nats
 Natural
@@ -4592,6 +4597,7 @@ cash
 castle
 cat
 caucus
+cause
 caused
 causes
 causing
@@ -5134,7 +5140,9 @@ football
 for
 force
 forced
+forces
 forecasters
+foreign
 forest
 forget
 former
@@ -5421,9 +5429,11 @@ island
 isnt
 isolated
 issuance
+issue
 it
 items
 its
+jail
 jailed
 job
 jobless
@@ -5839,6 +5849,7 @@ pills
 pilot
 pipe
 pivotal
+place
 placed
 places
 plan
@@ -6221,6 +6232,7 @@ shot
 shotgun
 shots
 should
+shoulder
 shouting
 show
 showed
@@ -6311,6 +6323,7 @@ spots
 sprays
 spread
 spring
+spur
 square-foot
 stabbed
 stabbing
