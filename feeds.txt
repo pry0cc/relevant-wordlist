@@ -17,6 +17,8 @@ https://www.theguardian.com/technology/data-computer-security/rss
 https://reliefweb.int/disasters/rss.xml
 https://www.asiasentinel.com/feed/
 https://www.channelnewsasia.com/rssfeeds/8395986
+https://www.rt.com/rss/
+https://meduza.io/rss2/en/all
 http://www.cmt.com/news/feed
 https://detroit.cbslocal.com/feed/
 https://dfw.cbslocal.com/feed/
