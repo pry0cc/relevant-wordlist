@@ -188,6 +188,8 @@
 13k
 13th
 14
+14-7
+14-year-old
 142
 142nd
 145
@@ -349,6 +351,7 @@
 2014
 2015
 2015-16
+2016
 2017
 201718
 2018
@@ -538,6 +541,7 @@
 40s
 40th
 416
+417
 418
 419
 41921
@@ -612,6 +616,7 @@
 5th
 6
 6-1
+6-2
 6-3
 6-4
 6-5
@@ -770,6 +775,7 @@ abc
 abc13com
 abc13s
 abdominal
+abduct
 abducted
 abduction
 abdul
@@ -778,6 +784,7 @@ abdurrahman
 abel
 abella
 abernathy
+abeywickrama
 abhorrent
 abilities
 ability
@@ -1458,6 +1465,7 @@ apologize
 apologizes
 apologizing
 apology
+aponileus
 apos
 app
 appalling
@@ -1586,6 +1594,7 @@ arranged
 arrest
 arrested
 arrests
+arrieta
 arrival
 arrivals
 arrive
@@ -1733,6 +1742,7 @@ attorneys
 attract
 attractions
 attracts
+attributes
 au
 aubrey
 auburn
@@ -1900,6 +1910,7 @@ ballerini
 ballet
 ballhawk
 ballot
+ballplayer
 ballwin
 baltimore
 bam
@@ -2336,6 +2347,7 @@ blind
 blinders
 blindfolded
 blinken
+blister
 blitz
 blizzard
 blm
@@ -2807,6 +2819,7 @@ burst
 burt
 burton
 bus
+busan
 busch
 buschman
 buschs
@@ -3348,6 +3361,7 @@ cherokee
 cherry
 cheryl
 chesapeake
+chest
 chester
 chet
 chevelle
@@ -4121,6 +4135,7 @@ countdown
 counted
 counter
 counter-suit
+counterfeit
 counters
 countersues
 countess
@@ -4280,6 +4295,7 @@ croc
 crocker
 crocodile
 cromer
+crons
 cronyism
 crop
 cross
@@ -4312,6 +4328,7 @@ cruelty
 cruise
 cruiser
 cruises
+crumble
 crumbs
 crump
 crunch
@@ -4498,6 +4515,7 @@ danish
 dank
 danny
 danui
+danville
 dapper
 dare
 daring
@@ -4554,6 +4572,7 @@ daza
 dazeem
 dazzles
 dazzling
+dbacks
 dbs
 dby
 dc
@@ -4994,6 +5013,7 @@ dine
 dinelson
 diner
 diners
+dinesvaran
 ding
 dinghy
 dining
@@ -5887,6 +5907,7 @@ escapes
 escaping
 escazu
 esg
+eskman
 esl
 especially
 espinosa
@@ -6030,6 +6051,7 @@ ex-wife
 exacerbated
 exact
 exaggerating
+exalts
 exam
 examiner
 examines
@@ -6561,6 +6583,7 @@ flee
 fleeing
 flees
 fleet
+fleeting
 fleetwood
 fleming
 fles
@@ -6821,6 +6844,7 @@ friendships
 fries
 frightened
 frightening
+frigid
 frith
 frittata
 fritz
@@ -6840,6 +6864,7 @@ frustrated
 frustrating
 frustration
 fryer
+frying
 fsa
 fsb
 fsg
@@ -7003,6 +7028,7 @@ gaze
 gazes
 gazidis
 gbi
+gds
 gear
 gearing
 gears
@@ -7108,6 +7134,7 @@ gigi
 gil
 gilberti
 gilchrist
+gildas
 gilgamesh
 gilgameshs
 gills
@@ -7535,6 +7562,7 @@ hallelujah
 halloween
 hallowell
 halls
+halston
 halt
 halted
 halts
@@ -7683,6 +7711,7 @@ hazards
 hazy
 hbo
 hbos
+hcso
 hd
 he
 head
@@ -7776,6 +7805,7 @@ henchy
 henderson
 hendricks
 hennessey
+hennrich
 henri
 henrique
 henriques
@@ -8157,6 +8187,7 @@ hwy
 hyalineata
 hybrid
 hydriastele
+hydrogen
 hyo-won
 hype
 hypocrisy
@@ -8655,6 +8686,7 @@ irrational
 irrigation
 irs
 irsem
+irv
 irving
 irwins
 is
@@ -9042,6 +9074,7 @@ karl
 karlrecords
 karlsson
 karma
+karnataka
 karol
 karota
 karrion
@@ -9279,6 +9312,7 @@ kremlin
 kremlins
 krents
 kris
+krishnan
 krispy
 kristaps
 kristen
@@ -9294,6 +9328,7 @@ kudravets
 kuiper
 kulynychi
 kumail
+kumar
 kumbh
 kuni
 kunin
@@ -9509,6 +9544,7 @@ leaked
 leaking
 leaks
 leandro
+leann
 learn
 learned
 learning
@@ -9940,6 +9976,7 @@ lsa-powered
 lt
 ltc
 ltd
+ltimo
 ltoile
 lubbock
 lucas
@@ -10189,6 +10226,7 @@ mares
 margaret
 margareta
 margin
+margit
 margo
 maria
 mariah
@@ -10240,6 +10278,7 @@ marsh
 marshall
 marshals
 marshawn
+mart
 marte
 martha
 martial-guillaume-marie
@@ -10329,6 +10368,7 @@ may
 maya
 mayabeque
 maybe
+mayer
 mayes
 mayfair
 mayhem
@@ -10351,6 +10391,7 @@ mccarthys
 mccartney
 mccary
 mccauley
+mcclains
 mcclintock
 mccloskey
 mcconaughey
@@ -10385,7 +10426,9 @@ mdh
 mditerrane
 me
 meadow
+meadows
 meal
+meal-prepping
 meals
 mean
 meaningful
@@ -10441,6 +10484,7 @@ megxit
 mehlville
 mehmento
 mehmet
+mehrez
 mehta
 mei
 meijer
@@ -10490,6 +10534,7 @@ mens
 mensah
 menswear
 mental
+mentally
 menthol
 mention
 mentor
@@ -10535,6 +10580,7 @@ metabolism
 metal
 metals
 metaphors
+metaverse
 meteor
 meteorologist
 meter
@@ -10748,6 +10794,7 @@ mlb
 mlbpa
 mlbtv
 mls
+mma
 mmo
 mmorial
 mn
@@ -10943,6 +10990,7 @@ mps
 mr
 mrfelt
 mrittunjoy
+mrna
 mrquez
 ms
 msf
@@ -11356,6 +11404,7 @@ nola
 nolan
 nomadic
 nomadland
+nomads
 nominate
 nominated
 nominates
@@ -11548,6 +11597,7 @@ offensive
 offer
 offered
 offering
+offerings
 offers
 office
 officer
@@ -11570,6 +11620,7 @@ ohare
 ohio
 ohios
 ohne
+ohtani
 oil
 oilers
 oils
@@ -11644,6 +11695,7 @@ only
 onpolitics
 ons
 onscreen
+onshore
 onside
 onslaught
 ontario
@@ -11680,6 +11732,7 @@ opposes
 opposing
 opposite
 opposition
+oppression
 oprah
 oprahs
 ops
@@ -11742,6 +11795,7 @@ oscar
 oscar-nominated
 oscars
 oscillator
+oskar
 osn
 ospreys
 oswald
@@ -11789,6 +11843,7 @@ outlives
 outlook
 outpacing
 outperforming
+outpouring
 output
 outrage
 outrageous
@@ -11820,6 +11875,7 @@ overnight
 overpaid
 override
 overruled
+overrun
 overseas
 overseeing
 overshadow
@@ -11832,6 +11888,7 @@ overturn
 overturned
 overturning
 overwatch
+overwatchs
 overwhelmed
 overwhelming
 overwhelmingly
@@ -12475,6 +12532,7 @@ plug
 plugs
 plummet
 plummeting
+plunge
 plunges
 plurality
 plus
@@ -12533,6 +12591,7 @@ polk
 polkadot
 poll
 polls
+polluted
 pollution
 polnyi
 polo
@@ -12604,6 +12663,7 @@ positively
 positives
 positivity
 possession
+possibility
 possible
 possibly
 post
@@ -12696,6 +12756,7 @@ pre-k
 pre-market
 pre-opening
 pre-ordering
+pre-register
 pre-show
 preachers
 precarious
@@ -13159,6 +13220,7 @@ raids
 rail
 railroad
 railroads
+rails
 railway
 railways
 rain
@@ -13229,6 +13291,7 @@ rapinoe
 rapper
 raptors
 rare
+rarri
 rashawn
 rashida
 rasika
@@ -13262,6 +13325,7 @@ razer
 rb
 rbc
 rbi
+rbis
 rce
 rds
 re-adjusting
@@ -13412,6 +13476,7 @@ redistribution
 redistricting
 redlining
 redman
+redmans
 redmayne
 redmissing
 redmond
@@ -13715,6 +13780,7 @@ resources
 respect
 respectful
 respects
+respirators
 respond
 responder
 responders
@@ -13748,6 +13814,7 @@ results
 resume
 resumes
 resuming
+resurgent
 resurrection
 retail
 retailer
@@ -13785,6 +13852,7 @@ reusing
 reuss
 reuter
 reutericyclin
+rev
 revamp
 reveal
 revealed
@@ -13795,6 +13863,7 @@ revenue
 reverberates
 revere
 reverend
+reversal
 reverse
 reverses
 reversing
@@ -13889,6 +13958,7 @@ rihannas
 rik
 riley
 rim-sn
+rimes
 rina
 rinaldo
 ring
@@ -13915,6 +13985,7 @@ risk
 risks
 risky
 risotto
+ritchie
 rite
 ritratti
 rittenhouse
@@ -13999,6 +14070,7 @@ rogers
 rogerss
 rohingya
 roi
+rojas
 roku
 roland
 role
@@ -14209,6 +14281,7 @@ sadhanananda
 sadie
 sadkw
 sadler
+sadness
 safari
 safe
 safely
@@ -14271,6 +14344,7 @@ samaranayake
 same
 same-sex
 sami
+samiya
 sammi
 samoan
 sampath
@@ -14438,6 +14512,7 @@ scorchin
 scorching-hot
 score
 scorecard
+scoreless
 scores
 scoring
 scotia
@@ -14784,6 +14859,7 @@ shockingly
 shoe
 shoes
 shoeshine
+shohei
 shook
 shoot
 shooter
@@ -14837,6 +14913,7 @@ shrank
 shredders
 shreds
 shreveport
+shrine
 shrinks
 shrout
 shtisel
@@ -14880,6 +14957,7 @@ sieges
 siena
 sierra
 sigh
+sighs
 sight
 sightings
 sigmund
@@ -14971,6 +15049,7 @@ situation
 sitvast
 siwa
 six
+six-
 six-hitter
 sixers
 sixth
@@ -15001,6 +15080,7 @@ skincare
 skins
 skip
 skipping
+skips
 skokie
 skripal
 skripal-poisoners
@@ -15421,6 +15501,7 @@ sri
 srinivasan
 ss
 sserwadda
+sslc
 st
 stabbed
 stabbing
@@ -15539,6 +15620,7 @@ steamy
 steel
 steele
 steelers
+steep
 steepest
 steers
 stefan
@@ -15546,6 +15628,7 @@ stefanie
 stefanski
 stegosaur
 stein
+steinitz
 steinman
 steinmeier
 stellantis
@@ -15874,6 +15957,7 @@ supremo
 supriyo
 sure
 suren
+suresh
 surez
 surf
 surface
@@ -16042,6 +16126,7 @@ tacsat-6
 tactical
 tactics
 tag
+taijuan
 taillon
 tailors
 taiwan
@@ -16230,6 +16315,7 @@ tells
 tempe
 temperature
 temperatures
+tempers
 template
 temple
 temples
@@ -16461,6 +16547,7 @@ tiktok
 tiktoks
 tilburys
 tiles
+till
 tills
 tim
 timber
@@ -16495,6 +16582,7 @@ tishaura
 tiskarny
 tissue
 titan
+titanics
 title
 titles
 tlaib
@@ -16607,6 +16695,7 @@ toward
 towards
 towel
 towelie
+towels
 tower
 towers
 town
@@ -16616,6 +16705,7 @@ toxic
 toy
 toyota
 toyotas
+toyotasave
 toys
 tp
 tp-link
@@ -16897,6 +16987,7 @@ two
 two-alarm
 two-decade
 two-game
+two-homer
 two-stop
 two-year
 tx
@@ -16957,6 +17048,7 @@ ulysses
 umass
 umberto
 umg
+umphang
 un
 un-american
 unable
@@ -17107,6 +17199,7 @@ update
 updated
 updates
 updating
+upended
 upgrade
 upgraded
 upgrades
@@ -17145,6 +17238,7 @@ urnsch
 uruguay
 uruguays
 us
+us-backed
 us-based
 us-canada
 us-hosted
@@ -17323,6 +17417,7 @@ vertex
 vertical
 verve
 very
+verzuz
 vesna
 vessel
 vest
@@ -17414,6 +17509,7 @@ virus-hit
 viruses
 visas
 viscum
+vishuddhi
 vishwanath
 vision
 visionary
@@ -17499,6 +17595,7 @@ waddle
 wade
 wades
 wadigi
+wading
 wafers
 waffling
 wage
@@ -17632,6 +17729,7 @@ wb
 wbz-tv
 wcco
 we
+weak
 weaken
 weakened
 weakening
@@ -18043,7 +18141,9 @@ yanks
 yannan
 yard
 yasa
+yasas
 yasiin
+yasukuni
 yates
 yavuz
 yazidi
@@ -18109,6 +18209,7 @@ youtube
 youtuber
 youtubes
 youve
+ysn
 yu
 yu-gi-oh
 yuan

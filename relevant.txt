@@ -193,6 +193,8 @@
 13K
 13th
 14
+14-7
+14-Year-Old
 142
 142nd
 145
@@ -358,6 +360,7 @@
 2014
 2015
 2015-16
+2016
 2017
 201718
 2018
@@ -462,6 +465,7 @@
 3-2
 3-Game
 3-Month-Old
+3-Run
 3-Week-Old
 3-Year
 3-Year-Old
@@ -554,6 +558,7 @@
 40s
 40th
 416
+417
 418
 419
 41921
@@ -629,6 +634,7 @@
 5th
 6
 6-1
+6-2
 6-3
 6-4
 6-5
@@ -847,6 +853,7 @@ Abdurrahman
 Abel
 Abella
 Abernathy
+Abeywickrama
 Abilities
 Abington
 Able
@@ -877,6 +884,7 @@ Acceptance
 Accepts
 Access
 Accessories
+Accessory
 Accident
 Accidently
 Acclaimed
@@ -1131,6 +1139,7 @@ All
 All-Electric
 All-In-One
 All-Stars
+All-in-One
 Allahr
 Allahu
 Allan-Blitz
@@ -1352,6 +1361,7 @@ Apollo
 Apologize
 Apologizes
 Apology
+Aponileus
 App
 Apparent
 Appeal
@@ -1445,6 +1455,7 @@ Arraigned
 Arrest
 Arrested
 Arrests
+Arrieta
 Arrival
 Arrived
 ArrivedThese
@@ -1708,6 +1719,7 @@ Ball
 Ballerini
 Ballet
 Ballot
+Ballplayer
 Ballwin
 Baltimore
 Bam
@@ -2403,6 +2415,7 @@ Burrows
 Burt
 Burton
 Bus
+Busan
 Busch
 Buschman
 Buschs
@@ -2438,6 +2451,7 @@ C-suites
 C1
 C10
 CA
+CANCELLATION
 CARVANA
 CAS
 CAUSES
@@ -3447,6 +3461,7 @@ Courtney
 Courtois
 Courtroom
 Courts
+Cousin
 Cousins
 Couto
 Covarrubias
@@ -3535,6 +3550,7 @@ Croc
 Crocker
 Crocodile
 Cromer
+Crons
 Crop
 Cross
 Crossings
@@ -3715,6 +3731,7 @@ Daniels
 Danish
 Danny
 Danui
+Danville
 Dapper
 Darius
 Dark
@@ -3760,6 +3777,7 @@ Daz
 Daz-Canel
 Daza
 Dazeem
+Dbacks
 Dby
 Dcor
 Dcoste
@@ -3774,6 +3792,7 @@ DeSantis
 DeSorbo
 DeWitt
 Dead
+Deadline
 Deadly
 Deadpan
 Deadstock
@@ -3913,6 +3932,7 @@ Deodorants
 Depart
 Departing
 Department
+Departments
 Depleted
 Deployed
 Deployment
@@ -4068,6 +4088,7 @@ Dimon
 Dine
 Dinelson
 Diners
+Dinesvaran
 Ding
 Dining
 Dinner
@@ -4124,6 +4145,7 @@ Dish
 Dishes
 Disick
 Disinfecting
+Dismantle
 Dismemberment-Murder
 Dismissed
 Disney
@@ -4615,6 +4637,7 @@ Emmett
 Emmitt
 Emmy
 Emoji
+Emotion
 Emotional
 Emotions
 Emperors
@@ -4727,6 +4750,7 @@ Escaped
 Escapes
 Escaping
 Escazu
+Eskman
 Especially
 Espinosa
 Esplanade
@@ -5055,6 +5079,7 @@ Fearing
 Fears
 Feature
 Featured
+Features
 Featuring
 Feb
 February
@@ -5423,6 +5448,7 @@ Frozen
 Fruit
 Frustrating
 Fryer
+Frying
 Fsjnoadxjnoadnocno
 Ft
 Fuel
@@ -5472,6 +5498,7 @@ GAO
 GAP
 GARCIA
 GBI
+GDS
 GEI
 GEICO
 GENERAL
@@ -5666,6 +5693,7 @@ Gigaset
 Gigi
 Gil
 Gilchrist
+Gildas
 Gilgamesh
 Gilgameshs
 Gills
@@ -5954,6 +5982,7 @@ HAAH
 HARDY
 HBO
 HBOs
+HCSO
 HD
 HEAT
 HELICOPTER
@@ -6014,6 +6043,7 @@ Hallelujah
 Halloween
 Hallowell
 Halls
+Halston
 Halt
 Ham
 Hamilton
@@ -6194,6 +6224,7 @@ Henchy
 Henderson
 Hendricks
 Hennessey
+Hennrich
 Henri
 Henrique
 Henriques
@@ -6723,6 +6754,7 @@ Ingenuitys
 Inglewood
 Inglis
 Ingredient
+Initial
 Initially
 Injured
 Injuries
@@ -6842,6 +6874,7 @@ Irish
 Iron
 Irons
 Irrational
+Irv
 Irving
 Irwins
 Is
@@ -7212,6 +7245,7 @@ Karl
 Karlrecords
 Karlsson
 Karma
+Karnataka
 Karol
 Karota
 Karrion
@@ -7417,6 +7451,7 @@ Kremlin
 Kremlins
 Krents
 Kris
+Krishnan
 Krispy
 Kristaps
 Kristen
@@ -7431,6 +7466,7 @@ Kudravets
 Kuiper
 Kulynychi
 Kumail
+Kumar
 Kumbh
 Kuni
 Kunin
@@ -7614,6 +7650,7 @@ Lazarus
 Lbs
 Lcia
 Le
+LeAnn
 LeBron
 LeCroy
 Lead
@@ -8023,6 +8060,7 @@ MLB
 MLBPA
 MLBTV
 MLS
+MMA
 MMO
 MN
 MOCA
@@ -8205,6 +8243,7 @@ Mares
 Margaret
 Margareta
 Margin
+Margit
 Margo
 Maria
 Mariah
@@ -8249,6 +8288,7 @@ Marsh
 Marshall
 Marshals
 Marshawn
+Mart
 Marte
 Martha
 Martial-Guillaume-Marie
@@ -8321,6 +8361,7 @@ May
 Maya
 Mayabeque
 Maybe
+Mayer
 Mayes
 Mayfair
 Mayo
@@ -8341,6 +8382,7 @@ McCarthys
 McCartney
 McCary
 McCauley
+McClains
 McClintock
 McCloskey
 McConaughey
@@ -8374,7 +8416,9 @@ Mde
 Mditerrane
 Me
 Meadow
+Meadows
 Meal
+Meal-Prepping
 Meals
 Mean
 Meaningful
@@ -8418,6 +8462,7 @@ Megxit
 Mehlville
 Mehmento
 Mehmet
+Mehrez
 Mehta
 Mei
 Meijer
@@ -8496,6 +8541,7 @@ Metal
 Metals
 Meteorologist
 Meter
+Method
 Methodical
 Methodist
 Methods
@@ -8585,6 +8631,7 @@ Mind-Boggled
 Mind-Boggling
 Minds
 Mine
+Minecraft
 Miners
 Minersville
 Mini
@@ -9323,6 +9370,7 @@ Ogilvie
 Oh
 Ohio
 Ohios
+Ohtani
 Oil
 Oilers
 Oils
@@ -9396,6 +9444,7 @@ Opportunity
 Opposed
 Opposes
 Opposing
+Oppression
 Oprah
 Oprahs
 Ops
@@ -9420,6 +9469,7 @@ Oregon
 Oreo
 Organization
 Organizations
+Organize
 Organized
 Organizing
 Origin
@@ -9439,6 +9489,7 @@ Oscar
 Oscar-nominated
 Oscars
 Oscillator
+Oskar
 Ospreys
 Oswald
 Other
@@ -9466,6 +9517,7 @@ Outlives
 Outlook
 Outpacing
 Outperforming
+Outpouring
 Outrage
 Outreach
 Outside
@@ -9485,6 +9537,7 @@ Overtakes
 Overtime
 Overturned
 Overwatch
+Overwatchs
 Overwhelmed
 Overwhelmingly
 Overzealous
@@ -10456,6 +10509,7 @@ RAT
 RB
 RBC
 RBI
+RBIs
 RCE
 RDs
 READ
@@ -10511,6 +10565,7 @@ Rages
 Rahm
 Raiders
 Railroad
+Rails
 Railway
 Railways
 Rain
@@ -10524,6 +10579,7 @@ Raising
 Rajasthan
 Rajovi
 Rakayo
+Rake
 Rakuten
 Ral
 Raleigh
@@ -10573,6 +10629,7 @@ Rapinoe
 Rapper
 Raptors
 Rare
+Rarri
 Rashawn
 Rashida
 Rasika
@@ -10686,6 +10743,7 @@ Redemption
 Redistribution
 Redlining
 Redman
+Redmans
 Redmayne
 Redmond
 Redo
@@ -10890,6 +10948,7 @@ Results
 Resume
 Resumes
 Resuming
+Resurgent
 Retaliation
 Retina
 Retire
@@ -10909,6 +10968,7 @@ Reuse
 Reuss
 Reuter
 Reutericyclin
+Rev
 Reveal
 Revealed
 Reveals
@@ -10916,6 +10976,7 @@ Revenue
 Reverberates
 Revere
 Reverend
+Reversal
 Reverse
 Review
 Reviewed
@@ -10982,6 +11043,7 @@ Rihannas
 Rik
 Riley
 Rim-Sn
+Rimes
 Rina
 Rinaldo
 Ring
@@ -11001,6 +11063,7 @@ Rising
 Risk
 Risks
 Risky
+Ritchie
 Rite
 Ritratti
 Rittenhouse
@@ -11072,6 +11135,7 @@ Roger
 Rogers
 Rogerss
 Rohingya
+Rojas
 Roku
 Roland
 Role
@@ -11262,6 +11326,7 @@ SOV
 SPV
 SRINIVASAN
 SS
+SSLC
 STL
 STREAMING
 STU
@@ -11339,6 +11404,7 @@ Samaranayake
 Same
 Same-Sex
 Sami
+Samiya
 Sammi
 Samoan
 Sampath
@@ -11713,6 +11779,7 @@ Shockingly
 Shoe
 Shoes
 Shoeshine
+Shohei
 Shook
 Shoot
 Shooter
@@ -11722,6 +11789,7 @@ Shootout
 Shoots
 Shop
 Shopper
+Shoppers
 Shopping
 Shops
 Shore
@@ -12219,10 +12287,12 @@ Steals
 Steel
 Steele
 Steelers
+Steep
 Stefan
 Stefanie
 Stefanski
 Stein
+Steinitz
 Steinman
 Steinmeier
 Stellantis
@@ -12447,6 +12517,7 @@ Supremacist
 Supreme
 Supriyo
 Suren
+Suresh
 Surez
 Surf
 Surfaces
@@ -12552,6 +12623,7 @@ Syrians
 Syrias
 SysAdmin
 System
+Systemic
 Systems
 T
 T-Rex
@@ -12593,6 +12665,7 @@ Tacomas
 Tacos
 Tactical
 Tactics
+Taijuan
 Taillon
 Taiwan
 Taiwanese
@@ -12609,6 +12682,7 @@ Takes
 Taking
 Taksim
 Talbot
+Tale
 Talented
 Tales
 Talib
@@ -12841,6 +12915,7 @@ Thoughts
 Thousands
 Threapleton
 Threat
+Threaten
 Threatened
 Threatening
 Threatens
@@ -12893,11 +12968,13 @@ TikTok
 TikToks
 Tilburys
 Tiles
+Till
 Tills
 Tim
 Timberlake
 Timberwolves
 Time
+Time-Saving
 Timelapse
 Timeline
 Times
@@ -12918,6 +12995,7 @@ Tireless
 Tishaura
 Tiskarny
 Tissue
+Titanics
 Title
 Tlaib
 Tlaibs
@@ -13005,6 +13083,7 @@ Township
 Toxic
 Toy
 Toyota
+ToyotaSave
 Toyotas
 Toys
 Tracey
@@ -13052,6 +13131,7 @@ Transitional
 Translator
 Transport
 Transvaal
+Trap
 Trapped
 Trappeniers
 Trashman
@@ -13238,6 +13318,7 @@ US
 US-Canada
 US-Japan
 US-Mexico
+US-backed
 US-based
 US-hosted
 US30
@@ -13273,6 +13354,7 @@ Ultimately
 Ultra-Nationalists
 Ulysses
 Umberto
+Umphang
 Un
 Unaccompanied
 Unanimous
@@ -13354,6 +13436,7 @@ Update
 Updated
 Updates
 Updating
+Upended
 Upgrade
 Upheld
 Uplift
@@ -13410,6 +13493,7 @@ VCS
 VCT
 VERDE
 VERDICT
+VERZUZ
 VET
 VH1s
 VICIS
@@ -13599,6 +13683,7 @@ Virtual-only
 Virus
 Viruses
 Viscum
+Vishuddhi
 Vishwanath
 Vision
 Visit
@@ -13649,6 +13734,7 @@ Vucevic
 Vulnerabilities
 Vuori
 W
+WARNING
 WATCH
 WB
 WBZ-TV
@@ -14085,6 +14171,7 @@ Xochitlicue
 Xtremewood
 Y6S13
 YIKES
+YSN
 Ya
 Yacht
 Yaeger
@@ -14098,7 +14185,9 @@ Yanks
 Yannan
 Yard
 Yasa
+Yasas
 Yasiin
+Yasukuni
 Yates
 Yavuz
 Yazidi
@@ -14239,6 +14328,7 @@ abandoned
 abandoning
 abandons
 abdominal
+abduct
 abducted
 abduction
 abhorrent
@@ -14589,6 +14679,7 @@ applicants
 application
 applications
 applies
+apply
 appoint
 appointed
 appointment
@@ -14714,6 +14805,7 @@ attorney
 attorneys
 attractions
 attracts
+attributes
 auction
 audio
 audio-only
@@ -14978,6 +15070,7 @@ blew
 blind
 blinders
 blindfolded
+blister
 blitz
 bloc
 block
@@ -15091,6 +15184,7 @@ bracket
 bragged
 brain
 brainpower
+branches
 brand
 branded
 brandishing
@@ -15137,6 +15231,7 @@ brings
 brink
 broad
 broadcast
+broadcaster
 broadcasters
 broke
 broken
@@ -15454,6 +15549,7 @@ chemical
 chemistry
 chemists
 cherry
+chest
 chicken
 chiding
 chief
@@ -15795,6 +15891,7 @@ context
 continual
 continue
 continues
+continuing
 contortions
 contract
 contractor
@@ -15882,6 +15979,7 @@ counselor
 count
 counted
 counter
+counterfeit
 counters
 countersues
 counties
@@ -15989,6 +16087,7 @@ crude
 cruel
 cruise
 cruises
+crumble
 crunch
 crusade
 crushed
@@ -16571,6 +16670,7 @@ dubia
 dubious
 due
 duel
+duet
 duffel
 duke
 dulitensis
@@ -16695,6 +16795,7 @@ emissions
 emojis
 emotion
 emotional
+emotions
 emphasised
 emphasizes
 emphasizing
@@ -16852,6 +16953,7 @@ ex-vice
 ex-wife
 exacerbated
 exaggerating
+exalts
 examiner
 examines
 example
@@ -16879,6 +16981,7 @@ exile
 exiles
 existed
 existing
+exists
 exit
 exits
 expand
@@ -17179,6 +17282,7 @@ flee
 fleeing
 flees
 fleet
+fleeting
 flew
 flex
 flexible
@@ -17317,6 +17421,7 @@ friends
 friendship
 fries
 frightening
+frigid
 frittata
 fro-yo
 from
@@ -17817,6 +17922,7 @@ homeowner
 homer
 homers
 homes
+hometown
 homework
 homicide
 homicides
@@ -17899,6 +18005,7 @@ hurts
 husband
 hyalineata
 hybrid
+hydrogen
 hype
 hypocrisy
 hypocrite
@@ -18608,6 +18715,7 @@ lowest
 loyal
 loyalty
 lt
+ltimo
 luck
 lucky
 lucrative
@@ -18623,6 +18731,7 @@ lying
 lynching
 lyric
 lyrics
+mRNA
 macaroni
 machines
 macrolepis
@@ -18783,6 +18892,7 @@ men
 mend
 mens
 mental
+mentally
 menthol
 mention
 mentor
@@ -18799,6 +18909,7 @@ messy
 met
 metal
 metaphors
+metaverse
 meteor
 meth
 method
@@ -18849,6 +18960,7 @@ minicamp
 minidress
 minimum
 mining
+miniseries
 minister
 ministers
 ministry
@@ -19108,6 +19220,7 @@ nod
 nods
 nolan
 nomadic
+nomads
 nominate
 nominated
 nominates
@@ -19189,6 +19302,7 @@ offensive
 offer
 offered
 offering
+offerings
 offers
 office
 officer
@@ -19234,6 +19348,7 @@ onion
 online
 onlookers
 only
+onshore
 onside
 onto
 op-ed
@@ -19349,6 +19464,7 @@ overnight
 overpaid
 override
 overruled
+overrun
 overseeing
 overshadow
 overshadows
@@ -19641,6 +19757,7 @@ ploy
 plugs
 plummet
 plummeting
+plunge
 plunges
 plus
 plus-size
@@ -19671,6 +19788,7 @@ politicians
 politics
 poll
 polls
+polluted
 polo
 pols
 pond
@@ -19704,6 +19822,7 @@ positive
 positives
 positivity
 possession
+possibility
 possible
 possibly
 post
@@ -19758,6 +19877,7 @@ prays
 pre-COVID-19
 pre-draft
 pre-opening
+pre-register
 pre-show
 preachers
 precarious
@@ -20115,6 +20235,7 @@ readjusting
 reads
 ready
 real
+real-life
 realignment
 realistic
 realities
@@ -20414,6 +20535,7 @@ resources
 respect
 respectful
 respects
+respirators
 respond
 responder
 responders
@@ -20654,6 +20776,7 @@ sacrificed
 sacrificing
 saddened
 saddest
+sadness
 safari
 safe
 safely
@@ -20734,6 +20857,7 @@ scion
 scope
 score
 scorecard
+scoreless
 scores
 scoring
 scouting
@@ -20745,6 +20869,7 @@ scraps
 scratch
 screen
 screening
+screens
 script
 scrubbing
 scrum-half
@@ -20970,6 +21095,7 @@ showtime
 shrank
 shredders
 shreds
+shrine
 shrinks
 shun
 shut
@@ -20991,6 +21117,7 @@ sides
 sideshows
 sidewalks
 siege
+sighs
 sight
 sign
 sign-up
@@ -21030,6 +21157,7 @@ sits
 sitting
 situation
 six
+six-
 six-hitter
 sixth
 size
@@ -21049,6 +21177,7 @@ skincare
 skins
 skip
 skipping
+skips
 skulls
 sky
 skyrocket
@@ -21736,6 +21865,7 @@ telling
 tells
 temperature
 temperatures
+tempers
 template
 temple
 temples
@@ -21950,6 +22080,7 @@ touts
 toward
 towards
 towel
+towels
 tower
 town
 towns
@@ -22119,6 +22250,7 @@ twisted
 twister
 two
 two-decade
+two-homer
 two-stop
 two-year
 tycoon
@@ -22129,6 +22261,7 @@ typically
 tyrannosaurs
 tyranny
 uglier
+ugly
 ultimate
 ultimatum
 ultra-popular
@@ -22400,6 +22533,7 @@ vulnerability
 vulnerable
 vultures
 wade
+wading
 waffling
 wage
 waging
@@ -22471,6 +22605,7 @@ wave
 way
 ways
 we
+weak
 weaken
 weakening
 weaker
