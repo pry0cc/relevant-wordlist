@@ -1794,6 +1794,7 @@ Hamilton
 Hammers
 Handcuffed
 Handcuffing
+Handed
 Hands
 Hannity
 Happens
@@ -2104,6 +2105,7 @@ Johnny
 Johnson
 Join
 Joins
+Joints
 Joke
 Jokes
 Jonathan

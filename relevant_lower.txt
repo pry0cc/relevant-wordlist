@@ -2343,6 +2343,7 @@ hand
 handcuffed
 handcuffing
 handcuffs
+handed
 handing
 handle
 hands
@@ -2766,6 +2767,7 @@ johnson
 join
 joining
 joins
+joints
 joke
 jokes
 jolt
