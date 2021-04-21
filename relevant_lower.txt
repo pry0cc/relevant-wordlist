@@ -71,9 +71,11 @@
 19th
 2
 2-0
+2-metre
 20
 20-year-old
 2000
+20000
 200000
 200405
 2008
@@ -163,6 +165,7 @@
 675
 6pm
 7
+7-0
 7-6
 7-year-old
 70
@@ -191,6 +194,7 @@
 97m
 99
 a
+a-league
 a-rod
 aap
 abandoned
@@ -215,6 +219,7 @@ accept
 accepts
 access
 accessory
+accident
 accidental
 acclaimed
 accord
@@ -280,6 +285,9 @@ affordable
 afghan
 afghanistan
 aficionados
+afl
+aflw
+aflws
 afraid
 africa
 african
@@ -587,6 +595,7 @@ bank
 banking
 banks
 banned
+bans
 bar
 barack
 barbara
@@ -597,6 +606,7 @@ barista
 baron
 barrage
 barrett
+barrier
 barriers
 bars
 bartali
@@ -754,12 +764,14 @@ body
 body-machine
 bodycam
 bomb
+bombers
 bond
 bone
 bonnie
 bonus
 book
 booking
+bookings
 books
 boom
 boomtown
@@ -783,6 +795,7 @@ bounce
 bounty
 boutique
 bow
+bowers
 bowl
 box
 boxes
@@ -812,8 +825,10 @@ breakthrough
 breathe
 breeds
 brentwood
+brestanica
 brewing
 brian
+brianna
 bribery
 brice
 brick-and-mortar
@@ -827,10 +842,12 @@ bring
 bringing
 brings
 brink
+brisbane
 bristol
 britcoin
 british
 britons
+broadcasters
 broderick
 brokerage
 broncos
@@ -862,12 +879,14 @@ budget
 budtender
 buffalo-palooza
 bug
+buggered
 bugs
 build
 building
 buildings
 bulgarians
 bull
+bulldogs
 bulls
 bullying
 bump
@@ -1019,6 +1038,7 @@ challenge
 challenges
 champ
 champion
+champions
 championship
 chancellor
 change
@@ -1194,6 +1214,7 @@ collective
 collector
 college
 colleges
+collingwood
 collision
 colonial
 color
@@ -1357,6 +1378,7 @@ covid
 covid-19
 covid-19s
 covid-related
+cowboys
 coyotes
 cpd
 cps
@@ -1401,11 +1423,13 @@ critter
 crossword
 crowd
 crowds
+crows
 cruel
 cruise
 cruiser
 crump
 crunch
+crushing
 cruze
 crying
 crypto
@@ -1470,6 +1494,7 @@ daughter
 daughters
 daunte
 dave
+davey
 david
 davids
 dax
@@ -1541,6 +1566,7 @@ demings
 democracy
 democratic
 democrats
+demons
 demonstrations
 dems
 denied
@@ -1575,6 +1601,7 @@ desktop
 desperate
 despite
 destinations
+destiny
 destroyed
 destroys
 destruction
@@ -1812,6 +1839,7 @@ edinburgh
 edition
 editor
 edwards
+eels
 effect
 effective
 effort
@@ -1830,6 +1858,7 @@ elephant
 eligibility
 eligible
 elimination
+elite
 elizabeth
 elles
 elmwood
@@ -2062,6 +2091,8 @@ fans
 fantasy
 far
 far-right
+farewell
+farewelled
 farm
 farmer
 farmers
@@ -2138,6 +2169,7 @@ fincen
 find
 finding
 finds
+fines
 finish
 finished
 fire
@@ -2237,9 +2269,11 @@ franciscos
 frankie
 franklin
 franois
+frantic
 fraser
 fraud
 fraudulent
+freak
 freaking
 free
 freebies
@@ -2388,6 +2422,7 @@ gofundme
 going
 gold
 golden
+golden-point
 gone
 good
 goods
@@ -2405,6 +2440,7 @@ governments
 governor
 govt
 gps
+grab
 grain
 grand
 granddaughter
@@ -2572,6 +2608,7 @@ hersey
 hes
 hesitancy
 hesitant
+hetherington
 hetheringtons
 hezbollah
 hfpa
@@ -2681,6 +2718,7 @@ hurdle
 hurls
 hurt
 hurtful
+hurting
 hurts
 husband
 husky-voiced
@@ -2792,12 +2830,14 @@ initial
 injured
 injuries
 injuring
+injury
 injustice
 ink
 inmate
 innovation
 inoculated
 inquiry
+insane
 inside
 insider
 inspections
@@ -2890,6 +2930,7 @@ ive
 j
 j-lo
 jabari
+jack
 jackson
 jacksons
 jacob
@@ -2965,6 +3006,8 @@ jpmorgan
 juan
 judas
 judge
+judiciary
+juggling
 julia
 julius
 jumping
@@ -2986,6 +3029,7 @@ kai
 kale
 kaley
 kanga
+kangaroos
 kansas
 kaplers
 karen
@@ -3006,6 +3050,7 @@ key
 khaal
 khashoggi
 kia
+kiara
 kicked
 kicks
 kidnapping
@@ -3029,6 +3074,7 @@ kitsch
 klinghoffer
 klobuchar
 kmart
+knee
 knew
 knicks
 knife
@@ -3070,6 +3116,7 @@ lakers
 lakeway
 lamet
 lancaster
+lance
 land
 landings
 landlord
@@ -3088,6 +3135,7 @@ later
 latest
 latifa
 latinos
+latrell
 launch
 launched
 launchers
@@ -3249,6 +3297,7 @@ looms
 lopez
 lori
 los
+lose
 losing
 loss
 lost
@@ -3272,6 +3321,7 @@ lowkey
 lsa-powered
 lt
 lucinda
+lucky
 luis
 luke
 lunch
@@ -3300,6 +3350,7 @@ mahomes
 mail
 mailata
 main
+maintain
 maison
 major
 majority
@@ -3311,6 +3362,7 @@ male
 malicious
 malone
 malware
+mammoth
 man
 manaea
 manage
@@ -3322,6 +3374,7 @@ manchester
 mandate
 mandates
 mandatory
+manifest
 manifested
 mann
 mannequin
@@ -3386,6 +3439,7 @@ mccann
 mccarthy
 mccartney
 mccrory
+mcdermott
 mcdonalds
 mcdowell
 mcmaster
@@ -3410,6 +3464,7 @@ megadrought
 megan
 meghan
 mei
+melbourne
 melt
 member
 members
@@ -3549,6 +3604,7 @@ mosuls
 mother
 mothers
 motion
+motocross
 motorcycle
 motors
 motorsport
@@ -3672,6 +3728,7 @@ ngavedr
 nhl
 nhtsa
 nice
+nicola
 niger
 nigerian
 nigerias
@@ -3696,6 +3753,7 @@ nominees
 non-emergencies
 nonprofit
 nonprofits
+norder
 nordstrom
 normal
 normandy
@@ -3709,7 +3767,9 @@ notes
 nothing
 now
 npr
+nrl
 nsa
+nsw
 nubes
 nuclear
 number
@@ -3797,6 +3857,7 @@ orchestrating
 order
 orders
 ordinariness
+organisers
 organizational
 organized
 organizing
@@ -3909,6 +3970,7 @@ patients
 patrick
 patroclus
 patrol
+patron
 patrouille
 pattinson
 paul
@@ -4180,6 +4242,7 @@ profit
 program
 programme
 progress
+progressbut
 project
 projectile
 projections
@@ -4187,6 +4250,7 @@ projects
 proliferate
 prominent
 promise
+promisesto
 promotes
 promotion
 prompts
@@ -4259,6 +4323,7 @@ quarantined
 quarter
 quebec
 queen
+queensland
 question
 questionable
 questioned
@@ -4274,6 +4339,7 @@ quitting
 quiz
 quizzed
 r
+rabbitohs
 race
 rachel
 racial
@@ -4327,6 +4393,7 @@ rat
 rate
 rather
 rattled
+raudonikis
 raul
 rce
 re-elected
@@ -4355,6 +4422,7 @@ really
 reasons
 reassess
 rebecca
+rebel
 rebels
 rebound
 rebounds
@@ -4372,6 +4440,7 @@ recession
 recipe
 recognized
 recommendations
+reconsider
 record
 record-breaking
 records
@@ -4436,6 +4505,7 @@ remaking
 remarkable
 remarks
 rematch
+remembered
 remembering
 reminded
 reminder
@@ -4548,6 +4618,7 @@ ribs
 rice
 rich
 rico
+rider
 rife
 right
 right-wing
@@ -4625,6 +4696,7 @@ royal
 rsf
 rudimentary
 rudin
+rugby
 ruin
 ruining
 ruins
@@ -4710,6 +4782,7 @@ scary
 scene
 scenes
 sceptical
+scg
 schedules
 school
 schools
@@ -4832,6 +4905,7 @@ she
 shed
 shedd
 sheet
+sheffield
 sheikha
 shell
 shelter
@@ -4840,6 +4914,7 @@ sheriff
 sheriffs
 sherod
 shes
+shield
 shifts
 ships
 shirley
@@ -4912,6 +4987,7 @@ sinks
 sip
 site
 sites
+sitting
 six
 six-hitter
 sixers
@@ -4967,6 +5043,7 @@ snake
 snap
 snapchat
 snarls
+sneak
 sneakers
 sneaky
 sniff
@@ -4991,6 +5068,7 @@ soldiers
 soliciting
 solve
 some
+someone
 sometimes
 son
 song
@@ -5270,6 +5348,7 @@ suvs
 swag
 swamped
 swann
+swans
 swaps
 sweaters
 sweaty
@@ -5281,6 +5360,7 @@ sweetheart
 swings
 sworn-in
 sxsw
+sydney
 symbiogenesis
 symbols
 symptoms
@@ -5311,6 +5391,7 @@ talib
 talk
 talking
 talks
+tame
 tampa
 tangled
 tango
@@ -5398,6 +5479,7 @@ theory
 therapist
 therapy
 there
+thermal
 these
 they
 theyre
@@ -5414,6 +5496,7 @@ those
 thou
 thought
 thousands
+thrashing
 threat
 threatened
 threatens
@@ -5431,6 +5514,7 @@ thundercat
 thunderstorm
 thursday
 tide
+tie
 tied
 tier
 tiger
@@ -5499,6 +5583,7 @@ tracking
 tracks
 tractor
 trade
+trade-off
 traded
 trading
 traffic
@@ -5515,6 +5600,7 @@ transactions
 transcript
 transfer
 transferred
+transform
 transformed
 transforming
 transgender
@@ -5856,6 +5942,7 @@ were
 west
 western
 westside
+wet
 wework
 wfh
 wh
@@ -5915,6 +6002,7 @@ within
 without
 withstand
 witness
+woes
 wolf
 woman
 woman-owned

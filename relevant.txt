@@ -72,9 +72,11 @@
 19th
 2
 2-0
+2-metre
 20
 20-Year-Old
 2000
+20000
 200000
 200405
 2008
@@ -164,6 +166,7 @@
 675
 6pm
 7
+7-0
 7-6
 7-year-old
 70
@@ -192,10 +195,14 @@
 97M
 99
 A
+A-League
 A-Rod
 AAP
 ACM
 ACMs
+AFL
+AFLW
+AFLWs
 AG
 AJ
 ANALYSIS
@@ -349,6 +356,7 @@ Angels
 Anger
 Angers
 Angourie
+Angry
 Animal
 Animals
 Anime
@@ -608,6 +616,7 @@ Body
 Body-Machine
 Bodycam
 Bomb
+Bombers
 Bond
 Bone
 Bonnie
@@ -631,6 +640,7 @@ Boudin
 Boulder
 Boulevard
 Bow
+Bowers
 Bowl
 Box
 Boxing
@@ -654,8 +664,10 @@ Breaks
 Breathe
 Breeds
 Brentwood
+Brestanica
 Brewing
 Brian
+Brianna
 Brice
 Brick-and-Mortar
 Briefing
@@ -667,6 +679,7 @@ Bring
 Bringing
 Brings
 Brink
+Brisbane
 Bristol
 Britcoin
 British
@@ -697,6 +710,7 @@ Bugs
 Building
 Bulgarians
 Bull
+Bulldogs
 Bulls
 Bunch
 Bureau
@@ -953,6 +967,7 @@ Coladas
 Cold
 Collapse
 Collective
+Collingwood
 Collision
 Colorado
 Colorful
@@ -1057,6 +1072,7 @@ Covered
 Covid
 Covid-19
 Covid-Related
+Cowboys
 Coyotes
 Crab
 Crack
@@ -1088,6 +1104,7 @@ Critter
 Crossword
 Crowd
 Crowds
+Crows
 Cruel
 Cruise
 Cruiser
@@ -1143,6 +1160,7 @@ Date
 Dating
 Daunte
 Dave
+Davey
 David
 Davids
 Dax
@@ -1189,6 +1207,7 @@ Demings
 Democracy
 Democratic
 Democrats
+Demons
 Demonstrations
 Dems
 Deniers
@@ -1383,6 +1402,7 @@ Edinburgh
 Edition
 Editor
 Edwards
+Eels
 Effective
 Eftpos
 Egypt
@@ -1920,6 +1940,7 @@ Here
 Heres
 Hersey
 Hes
+Hetherington
 Hetheringtons
 Hezbollah
 High
@@ -2149,6 +2170,7 @@ JJ
 JPMorgan
 JaMal
 Jabari
+Jack
 Jackson
 Jacksons
 Jacob
@@ -2235,6 +2257,7 @@ Kai
 Kale
 Kaley
 Kanga
+Kangaroos
 Kansas
 Kaplers
 Karen
@@ -2254,6 +2277,7 @@ Key
 Khaal
 Khashoggi
 Kia
+Kiara
 Kids
 Killed
 Killer
@@ -2316,6 +2340,7 @@ Lakers
 Lakeway
 Lamet
 Lancaster
+Lance
 Landlord
 Language
 Languishing
@@ -2327,6 +2352,7 @@ Late
 Latest
 Latifa
 Latinos
+Latrell
 Launch
 Launchers
 Launches
@@ -2416,6 +2442,7 @@ Lines
 Linked
 LinkedIn
 Links
+Lions
 Lipa
 Liquor
 List
@@ -2578,6 +2605,7 @@ McCann
 McCarthy
 McCartney
 McCrory
+McDermott
 McDonalds
 McDowell
 McMaster
@@ -2595,6 +2623,7 @@ Megadonors
 Megan
 Meghan
 Mei
+Melbourne
 Members
 Memoir
 Memorial
@@ -2747,7 +2776,9 @@ NHL
 NHTSA
 NO
 NPR
+NRL
 NSA
+NSW
 NYC
 NYDIG
 NYPD
@@ -2798,6 +2829,7 @@ Newsom
 Newspapers
 Newton
 Next
+Nicola
 Niger
 Nigerian
 Nigerias
@@ -2817,6 +2849,7 @@ Noel
 Nomination
 Non-Emergencies
 Nonprofits
+Norder
 Nordstrom
 Normal
 Normandy
@@ -2999,6 +3032,7 @@ Pedro
 Pelosi
 Peloton-Worthy
 Pembroke
+Penguins
 Peni
 Penn
 Penns
@@ -3217,6 +3251,7 @@ Quarantine
 Quarantined
 Quebec
 Queen
+Queensland
 Question
 Questioned
 Quiet
@@ -3232,6 +3267,7 @@ REVEAL
 REvil
 RFU
 RSF
+Rabbitohs
 Race
 Rachel
 Racial
@@ -3270,6 +3306,7 @@ Rask
 Raspberry
 Rate
 Rattled
+Raudonikis
 Raul
 Re-Sign
 Re-release
@@ -3489,6 +3526,7 @@ Rwandan
 Ryan
 S
 SC
+SCG
 SCs
 SEE
 SKA
@@ -3633,6 +3671,7 @@ Sharpton
 She
 Shed
 Shedd
+Sheffield
 Sheikha
 Shell
 Sheridan
@@ -3640,6 +3679,7 @@ Sheriff
 Sheriffs
 Sherod
 Shes
+Shield
 Shifts
 Ships
 Shirley
@@ -3914,12 +3954,14 @@ Sustainability
 Sutherland
 Swamped
 Swann
+Swans
 Sweaters
 Sweaty
 Sweden
 Swedens
 Swedish
 Sweetheart
+Sydney
 Symbiogenesis
 Symptoms
 Syndrome
@@ -4004,6 +4046,7 @@ Then
 Therapist
 Therapy
 There
+Thermal
 These
 They
 Theyre
@@ -4497,6 +4540,7 @@ accept
 accepts
 access
 accessory
+accident
 accidental
 according
 accountability
@@ -4510,6 +4554,7 @@ activists
 actor
 ad
 adapt
+add
 added
 addict
 addiction
@@ -4583,6 +4628,7 @@ angry
 animal
 animated
 announce
+announced
 announcement
 announces
 annual
@@ -4673,8 +4719,10 @@ ban
 bandwagon
 bank
 banned
+bans
 bar
 barrage
+barrier
 base
 baseball
 based
@@ -4695,6 +4743,7 @@ beautiful
 beauty
 became
 become
+becomes
 beds
 beef
 been
@@ -4765,6 +4814,7 @@ bond
 bonus
 book
 booking
+bookings
 boost
 border
 boss
@@ -4788,6 +4838,7 @@ briefings
 brilliant
 bringing
 brings
+broadcasters
 brother
 brought
 brush
@@ -4799,6 +4850,7 @@ buddy
 budget
 budtender
 bug
+buggered
 build
 building
 buildings
@@ -4876,6 +4928,7 @@ chair
 challenge
 challenges
 champion
+champions
 change
 changes
 changing
@@ -4917,6 +4970,7 @@ clarifications
 clarity
 clashes
 clashing
+class
 classic
 classrooms
 classy
@@ -5071,6 +5125,7 @@ criticism
 critics
 crowd
 crunch
+crushing
 crypto
 cryptocurrency
 cultural
@@ -5153,6 +5208,7 @@ desk
 desperate
 despite
 destinations
+destiny
 destroyed
 destruction
 details
@@ -5276,6 +5332,7 @@ elephant
 eligibility
 eligible
 elimination
+elite
 else
 elsewhere
 email
@@ -5390,6 +5447,8 @@ family
 fans
 fantasy
 far
+farewell
+farewelled
 farmers
 farmworkers
 fat
@@ -5426,6 +5485,7 @@ finance
 financial
 find
 finds
+fines
 finish
 finished
 fire
@@ -5476,7 +5536,9 @@ found
 founder
 fourth
 frame
+frantic
 fraud
+freak
 freaking
 free
 freebies
@@ -5549,6 +5611,7 @@ goals
 goes
 going
 gold
+golden-point
 gone
 good
 gossip
@@ -5558,6 +5621,8 @@ government
 government-backed
 governor
 govt
+grab
+grand
 granting
 graphs
 grapple
@@ -5703,6 +5768,7 @@ hunt
 hurls
 hurt
 hurtful
+hurting
 iGaming
 iMac
 iMacs
@@ -5754,9 +5820,11 @@ infrastructure
 inhospitable
 initial
 injured
+injury
 inmate
 inoculated
 inquiry
+insane
 inside
 inspections
 institutions
@@ -5790,6 +5858,7 @@ isolated
 isolationist
 issuance
 issue
+issues
 it
 items
 its
@@ -5808,6 +5877,8 @@ journey
 joy
 joyfully
 judge
+judiciary
+juggling
 jumps
 jungle
 junta
@@ -5830,6 +5901,7 @@ killings
 kills
 kind
 kindness
+knee
 know
 knowing
 knowledge
@@ -5865,6 +5937,7 @@ leaders
 leadership
 leading
 leads
+leagues
 learned
 learning
 least
@@ -5926,6 +5999,7 @@ look
 looking
 looks
 looms
+lose
 losing
 loss
 lost
@@ -5935,9 +6009,11 @@ loved
 lowdown
 lowered
 lowest
+lucky
 luxury
 made
 mafia
+maintain
 major
 majority
 make
@@ -5946,10 +6022,12 @@ making
 male
 malicious
 malware
+mammoth
 man
 manager
 managers
 mandate
+manifest
 mans
 manslaughter
 manufacturing
@@ -5962,6 +6040,7 @@ market
 mass
 match
 matter
+mattered
 mauled
 may
 mayor
@@ -6028,6 +6107,7 @@ moreish
 most
 mother
 motion
+motocross
 mountain
 mountains
 mouse
@@ -6149,6 +6229,7 @@ orchestrating
 order
 orders
 ordinariness
+organisers
 organizational
 orgs
 origins
@@ -6210,6 +6291,7 @@ past
 patch
 pathologist
 patients
+patron
 pause
 pay
 payment
@@ -6341,12 +6423,14 @@ professor
 profit
 program
 progress
+progressbut
 project
 projectile
 projections
 proliferate
 prominent
 promise
+promisesto
 promotes
 promotion
 prompts
@@ -6367,6 +6451,7 @@ proxy
 pub
 public
 publicity
+pull
 pulled
 punching
 punks
@@ -6426,6 +6511,7 @@ reads
 ready
 real
 really
+rebel
 rebels
 rebound
 rebounds
@@ -6438,6 +6524,7 @@ recent
 recently
 recession
 recommendations
+reconsider
 record
 record-breaking
 recount
@@ -6469,8 +6556,10 @@ relief
 relieved
 religious
 remain
+remains
 remake
 remarks
+remembered
 reminders
 remixes
 remote
@@ -6526,6 +6615,7 @@ reviews
 revoked
 rex
 rhetoric
+rider
 right
 right-wing
 rights
@@ -6559,6 +6649,7 @@ roundup
 rout
 routes
 row
+rugby
 ruin
 ruins
 rule
@@ -6575,6 +6666,7 @@ safe
 safely
 safety
 said
+saint
 sale
 sales
 same
@@ -6697,6 +6789,7 @@ single
 sinks
 site
 sites
+sitting
 six
 six-hitter
 sixth
@@ -6732,6 +6825,7 @@ snag
 snake
 snap
 snarls
+sneak
 sniff
 snow
 snowy
@@ -6746,6 +6840,7 @@ sold
 soldiers
 solve
 some
+someone
 son
 song
 soon
@@ -6918,6 +7013,7 @@ taking
 talent
 talk
 talks
+tame
 tangled
 tango
 tanning
@@ -6978,6 +7074,7 @@ this
 thorn
 those
 thousands
+thrashing
 threatened
 threatens
 threats
@@ -6986,6 +7083,7 @@ three-decade
 through
 throw
 thrown
+tie
 tied
 tier
 tigers
@@ -7019,6 +7117,7 @@ track
 tracker
 tracks
 trade
+trade-off
 traded
 trading
 traffic
@@ -7029,6 +7128,7 @@ trans
 transactions
 transfer
 transferred
+transform
 transformed
 trauma
 travel
@@ -7198,6 +7298,7 @@ well
 went
 were
 west
+wet
 whale
 what
 whats
@@ -7231,6 +7332,7 @@ within
 without
 withstand
 witness
+woes
 woman
 womans
 women
