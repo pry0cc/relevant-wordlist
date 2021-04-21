@@ -63,5 +63,5 @@ while True:
     save_file('relevant.txt', words, sort=True)
     save_file('relevant_lower.txt', words_lower, sort=True)
     commit_and_push()
-    print("Files saved! Waiting 1 hour until next search...")
-    time.sleep(3600)
+    print("Files saved! Waiting 100 seconds until next search...")
+    time.sleep(100)
