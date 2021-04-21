@@ -5,6 +5,8 @@ https://www.france24.com/en/france/rss
 https://www.france24.com/en/africa/rss
 https://www.france24.com/en/europe/rss
 https://www.france24.com/en/rss
+https://www.france24.com/en/americas/rss
+https://www.france24.com/en/middle-east/rss
 https://nypost.com/feed/
 https://boston.cbslocal.com/feed/
 http://www.cmt.com/news/feed

@@ -62,6 +62,7 @@
 195859
 1959
 1966
+1972
 1977
 199
 1991
@@ -79,6 +80,7 @@
 2009
 200k
 2012
+2018
 2019
 2020
 2021
@@ -151,6 +153,7 @@
 6
 6-1
 6-4
+60
 60k
 62406
 64
@@ -192,6 +195,7 @@ aap
 abandoned
 abandons
 abbott
+abdullah
 abernathy
 able
 abnormal
@@ -345,6 +349,7 @@ alone
 along
 already
 also
+altan
 altercation
 alternative
 alumni
@@ -501,6 +506,7 @@ astrazenecas
 astrological
 astrology
 astronaut
+astronauts
 at
 atacama
 athlete
@@ -545,6 +551,7 @@ available
 avenge
 avenue
 average
+await
 awaiting
 awaits
 award
@@ -564,6 +571,7 @@ backs
 backyard
 bad
 baden
+badge
 badly
 bags
 bail
@@ -637,6 +645,7 @@ begin
 beginners
 beginning
 begins
+begun
 behavior
 behind
 behind-the-scenes
@@ -662,6 +671,7 @@ best-before
 bet
 bethlehem
 betrayal
+betrayed
 better
 between
 beverly
@@ -705,6 +715,7 @@ bitfarms
 black
 blackburn
 blackhawks
+blacklisted
 blackmon
 blah
 blake
@@ -783,6 +794,7 @@ brady
 brain
 brainwashed
 braman
+branches
 brand
 brasserie
 brata
@@ -1139,6 +1151,7 @@ clinics
 clippers
 close
 closed
+closely
 closer
 closes
 closing
@@ -1287,6 +1300,7 @@ cooked
 cooler
 coolers
 cooper
+cooperation
 cop
 coppi
 cops
@@ -1298,6 +1312,7 @@ cornerback
 cornyn
 coronapas
 coronavirus
+coroner
 corp
 corporate
 corps
@@ -1371,6 +1386,7 @@ crimes
 criminal
 criminally
 crisis
+crisis-hit
 critic
 critical
 critically
@@ -1860,6 +1876,8 @@ enjoy
 enjoying
 enlists
 enough
+enriching
+enrichment
 enrique
 enrquez
 ensemble
@@ -1947,6 +1965,7 @@ exchanges
 excited
 exclusive
 exec
+execution
 executioners
 executive
 exercise
@@ -2124,6 +2143,7 @@ firm
 firms
 first
 first-dose
+first-graders
 first-place
 fish
 fishing
@@ -2239,6 +2259,7 @@ front
 front-row
 frontier
 frontline
+fronts
 frost
 frustrating
 fsg
@@ -2452,6 +2473,7 @@ hail
 hair
 hairstylists
 half
+half-brother
 hall
 halt
 halts
@@ -2544,6 +2566,7 @@ hes
 hesitancy
 hesitant
 hetheringtons
+hezbollah
 hfpa
 hide
 high
@@ -2766,6 +2789,7 @@ injustice
 ink
 inmate
 innovation
+inoculated
 inquiry
 inside
 insider
@@ -2919,11 +2943,13 @@ jolt
 jonathan
 jones
 jordan
+jordans
 jorja
 jose
 josh
 joshua
 journalism
+journalist
 journalists
 journey
 joy
@@ -3036,6 +3062,7 @@ lakers
 lakeway
 lamet
 lancaster
+land
 landings
 landlord
 lands
@@ -3089,6 +3116,8 @@ least
 leave
 leaves
 leaving
+lebanon
+lebanon-syria
 led
 left
 lefty
@@ -3279,6 +3308,7 @@ manaea
 manage
 manager
 managers
+managing
 manayunk
 manchester
 mandate
@@ -3400,6 +3430,7 @@ metal
 meth
 metrics
 metro
+metro-detroit
 metrolink
 mets
 mexican
@@ -3547,6 +3578,8 @@ music
 musical
 musicians
 musk
+musks
+muslims
 must
 my
 myanmar
@@ -3554,6 +3587,7 @@ mystery
 mythic
 mythology
 myths
+naacp
 nab
 naked
 name
@@ -3569,6 +3603,7 @@ nasal
 nasas
 nasdaq
 nashville
+natanz
 nation
 national
 nationally
@@ -3581,6 +3616,7 @@ natural
 nature
 navalny
 navalnys
+navigate
 navy
 nba
 nbc
@@ -3812,6 +3848,7 @@ pain
 painfully
 pakistan
 pakistani
+palace
 palm
 palma
 palmdale
@@ -4200,6 +4237,7 @@ qanon
 qanon-style
 qbs
 quake
+qualified
 qualify
 quant
 quarantine
@@ -4246,6 +4284,7 @@ raises
 raising
 ralfy
 ralston
+ramadan
 ramen
 ramp
 rampant
@@ -4443,6 +4482,7 @@ resigns
 resolution
 resolve
 resorts
+resources
 respond
 responding
 responds
@@ -4499,6 +4539,7 @@ rights
 riley
 rina
 ring
+riot
 ripped
 rips
 rise
@@ -4575,6 +4616,7 @@ rule
 ruler
 rules
 ruling
+rumi
 rumors
 run
 run-up
@@ -4797,6 +4839,7 @@ shootings
 shootout
 shop
 shopper
+shoppers
 shopping
 shore
 short
@@ -4826,6 +4869,7 @@ sick
 sicknick
 side
 sidelined
+sides
 siege
 siena
 sigh
@@ -4959,6 +5003,7 @@ southern
 southland
 sox
 space
+spacex
 spanish
 spar
 sparking
@@ -5094,6 +5139,7 @@ streaming
 street
 streets
 strength
+strengthen
 stressful
 stretch
 strickbine
@@ -5164,6 +5210,7 @@ super-popular
 superchic
 superhero
 supermarket
+supermarkets
 superstar
 supervisors
 supes
@@ -5194,6 +5241,7 @@ survivors
 suspect
 suspected
 suspects
+suspends
 suspension
 sustainability
 sustainable
@@ -5459,6 +5507,7 @@ travelers
 travelling
 travesty
 travis
+treason
 treasury
 treat
 treatment
@@ -5593,6 +5642,7 @@ upholds
 ups
 upstox
 uptown
+uranium
 uras
 urban
 urge
