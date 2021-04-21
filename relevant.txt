@@ -62,6 +62,7 @@
 19
 19-Year-Old
 19-year-old
+190
 1917
 1943
 195859
@@ -82,6 +83,7 @@
 20
 20-Year-Old
 200
+200-300
 2000
 20000
 200000
@@ -121,6 +123,7 @@
 2700km
 27500
 28
+28-day
 28M
 29
 29155
@@ -206,12 +209,14 @@
 793
 8
 8-Year-Old
+8-day
 8-year-olds
 80
 800
 81963
 8216Boat
 8216Em
+845
 85
 86
 8th
@@ -427,6 +432,7 @@ Announces
 Another
 Anthony
 Anti-Corruption
+Antigen
 Antiquated
 Antiquities
 Antitrust
@@ -489,6 +495,7 @@ Asia
 Asian
 Asians
 Asks
+Assam
 Assault
 Assaulting
 Assets
@@ -546,6 +553,7 @@ Ax
 Axe
 BA
 BBC
+BIG
 BIRDS
 BLM
 BMP
@@ -842,9 +850,11 @@ CDUs
 CEO
 CHARGES
 CINEMA
+CM
 CNN
 CO2
 COIN
+COVAXs
 COVID
 COVID-19
 COVID-19s
@@ -941,12 +951,14 @@ Celtic
 Celtics
 Center
 Central
+Centres
 Centuries
 Cereal
 Chad
 Chadian
 Chads
 Chalamet
+Chalks
 Challenge
 Challenges
 Champ
@@ -1171,6 +1183,7 @@ Corden
 Corner
 Cornerback
 Cornyn
+Corona
 Coronapas
 Coronavirus
 Coroner
@@ -1333,6 +1346,7 @@ Deal
 Deals
 Death
 Deaths
+Debacle
 Debate
 Debates
 Debut
@@ -1340,6 +1354,7 @@ Deby
 Dec
 Decade
 Decision
+Declares
 Decline
 Declines
 Decor
@@ -1394,8 +1409,10 @@ Designed
 Designer
 Desk
 Desktop
+Desperate
 Despite
 Destroys
+Details
 Detecting
 Detention
 Detoured
@@ -1420,6 +1437,7 @@ Dies
 Diesel
 Difference
 Differently
+Digital
 Diminishing
 Dimon
 Dine
@@ -1428,8 +1446,11 @@ Dining
 Dinosaurs
 Dion
 Dip
+Diplomacy
 Diplomats
 Directed
+Disagreement
+Disaster
 Disasters
 Disbelief
 Disclosure
@@ -1450,12 +1471,14 @@ Distance
 Distilling
 District
 Disturbing
+Dithering
 Dive
 Diversity
 Dives
 Dividing
 Division
 Dixon
+Djibouti
 Djokovic
 Do
 Doctor
@@ -1469,6 +1492,7 @@ Does
 Dog
 Dogecoin
 Dogs
+Doing
 Doisneau
 Dollars
 Dome
@@ -1548,6 +1572,7 @@ Dying
 Dyke
 Dyson
 E-Tron
+EAM
 ECB
 ELLEs
 EMA
@@ -1585,6 +1610,7 @@ Edibles
 Edinburgh
 Edition
 Editor
+Education
 Edwards
 Eels
 Effective
@@ -1647,6 +1673,7 @@ Equalities
 Equatorial
 Equinox
 Era
+Erdogans
 Eres
 Eroding
 Erupted
@@ -1683,6 +1710,7 @@ Ex-Boston
 Ex-Boyfriend
 Ex-England
 Ex-Girlfriend
+Ex-President
 Ex-Texas
 Ex-Vice
 Ex-cop
@@ -1753,6 +1781,7 @@ Fact
 Factories
 Facts
 Fades
+Failure
 Fairfax
 Fairfield
 Fairhill
@@ -1830,6 +1859,7 @@ Fire
 Firefighters
 Firefox
 Firm
+Firmly
 First
 First-Dose
 First-graders
@@ -1982,6 +2012,8 @@ Gasparilla-Style
 Gatherings
 Gave
 Gazidis
+Gear
+Geary
 Geico
 Geim
 Gem
@@ -2055,6 +2087,7 @@ Government
 Governments
 Governor
 Govt
+Goyal
 Grace
 Grain
 Grand
@@ -2077,6 +2110,7 @@ Grenadines
 Grieving
 Grilling
 Grills
+Grip
 Gritty
 Grizzly
 Grocery
@@ -2139,6 +2173,7 @@ Handed
 Hands
 Hannity
 Happens
+Happy
 Harassed
 Harbor
 Hard
@@ -2157,11 +2192,13 @@ Haunted
 Haunting
 Havana
 Have
+Havens
 Hawks
 Hawleys
 Hayden
 He
 Head
+Headlines
 Heads
 Healdsburg
 Healing
@@ -2185,6 +2222,7 @@ Henry
 Her
 Here
 Heres
+Hero
 Hersey
 Hes
 Hetherington
@@ -2311,7 +2349,9 @@ Ilhan
 Illarionovich
 Illegal
 Illinois
+Illness
 Illume
+Illusion
 Im
 Imagine
 Imagined
@@ -2326,6 +2366,8 @@ Imperator
 Important
 Impossible
 Impostor
+Impressive
+Imran
 In
 In-Person
 In-the-Wild
@@ -2350,6 +2392,7 @@ Indonesian
 Indoor
 Industrial
 Industry
+Inefficient
 Inez
 Infantino
 Infection
@@ -2367,6 +2410,7 @@ Injustice
 Ink
 Innovation
 Inquiry
+Insensitive
 Inside
 Insider
 Inspectors
@@ -2451,11 +2495,13 @@ Jacob
 Jaffa
 Jail
 Jailed
+Jaishankar
 Jakobsbad
 Jaleel
 Jamal
 James
 Jamie
+Jammu
 Jan
 January
 Japan
@@ -2483,6 +2529,7 @@ Jessie
 Jesus
 Jets
 Jewish
+Jharkhand
 Jiabaos
 Jihad
 Jill
@@ -2550,6 +2597,7 @@ Kangaroos
 Kansas
 Kaplers
 Karen
+Kashmir
 Kate
 Kayden
 Keeler
@@ -2558,6 +2606,7 @@ Keeping
 Keilar
 Keiser
 Keith
+Kejriwal
 Kelly
 Kendrick
 Kenosha
@@ -2568,9 +2617,12 @@ Kepler
 Kevin
 Key
 Khaal
+Khan
 Khashoggi
+Khat
 Kia
 Kiara
+Kicks
 Kids
 Killed
 Killer
@@ -2617,6 +2669,7 @@ Kyle
 L1
 L2
 LA
+LAC
 LAPD
 LAUSD
 LAX
@@ -2768,6 +2821,7 @@ Lobbied
 Local
 Location
 Locations
+Lockdown
 Lockdowns
 Lodi
 Logan
@@ -2810,6 +2864,7 @@ Lucinda
 Lucky
 Luis
 Luke
+Lula
 Lunch
 Lung
 Lurie
@@ -2849,6 +2904,7 @@ Magic
 Magnitude
 Magnitude-60
 Magnum
+Maharashtra
 Mahomes
 Mail
 Mailata
@@ -2859,9 +2915,11 @@ Major
 Majors
 Make
 Makes
+Makhanda
 Making
 Malaysia
 Malone
+Malta
 Malware
 Man
 Manaea
@@ -2873,6 +2931,7 @@ Mandates
 Mandatory
 Mandiant
 Manifested
+Manmohan
 Mann
 Mannequin
 Manson
@@ -3013,6 +3072,7 @@ Minneapolis
 Minnesota
 Minnesotas
 Minority
+Miracle
 Mirage
 Misconduct
 Misinformation
@@ -3057,6 +3117,7 @@ More
 Morejon
 Moreland
 Moreno
+Moria
 Morphs
 Morris
 Morrissey
@@ -3078,6 +3139,7 @@ Motorsport
 Motorsports
 Mound
 Mountain
+Mounts
 Mourinho
 Move
 Movement
@@ -3232,6 +3294,7 @@ O-lineman
 OC
 OFF
 OSA
+OTHER
 Oakland
 Obama
 Obamas
@@ -3331,6 +3394,7 @@ PGA
 PGE
 PHOTOS
 PI
+PIMS
 PKR
 PL
 PM
@@ -3344,6 +3408,7 @@ Pacinos
 Package
 Packets
 Packing
+Pact
 Padlock
 Padres
 Pageau
@@ -3415,6 +3480,7 @@ Peloton
 Peloton-Worthy
 Pembroke
 Penalty
+Pence
 Penguins
 Peni
 Penn
@@ -3480,6 +3546,7 @@ Pistol-Whipped
 Pistons
 Pitchfork
 Pittsburgh
+Piyush
 Place
 Places
 Plague
@@ -3643,6 +3710,7 @@ Purple
 Puscifers
 Push
 Pushes
+Pushing
 Pussys
 Put
 Putin
@@ -3696,9 +3764,11 @@ Rages
 Raiders
 Railroad
 Railway
+Railways
 Rain
 Raise
 Raising
+Rajasthan
 Ralfy
 Ralston
 Ramadan
@@ -3716,6 +3786,7 @@ Rangers
 Ranked
 Ransomware
 Rap
+Rapid
 Rapids
 Rapinoe
 Rapper
@@ -3901,6 +3972,7 @@ Robberies
 Robert
 Robertson
 Robertsons
+Robin
 Robot
 Robots
 Rock
@@ -3947,6 +4019,7 @@ Run-Up
 Running
 Runoff
 Rural
+Rusesabagina
 Rush
 Russas
 Russell
@@ -3955,6 +4028,7 @@ Russian
 Russians
 Russias
 Ruth
+Rwanda
 Rwandan
 Ryan
 S
@@ -4025,6 +4099,7 @@ Scenes
 Schalke
 Schedules
 School
+Schoolchildren
 Schools
 Schumer
 Scientists
@@ -4077,6 +4152,7 @@ Send
 Sends
 Senegals
 Senior
+Sensitive
 Sent
 Sentence
 Sentenced
@@ -4186,6 +4262,7 @@ Singapore
 Singaporeans
 Singapores
 Singer
+Singh
 Singles
 Singleton
 Sinovac
@@ -4337,6 +4414,7 @@ Status
 Steak
 Steal
 Steals
+Steel
 Steinman
 Stellantis
 Stem
@@ -4363,6 +4441,7 @@ Storefronts
 Stories
 Story
 Strain-Specific
+Strategy
 Stray
 Streak
 Stream
@@ -4389,6 +4468,7 @@ Subaru
 Subscriber
 Substance
 Subway
+Success
 Successes
 Sucker
 Sue
@@ -4419,6 +4499,7 @@ Supporters
 Supporting
 Supportive
 Supports
+Supposed
 Supremacist
 Supreme
 Surfaces
@@ -4426,6 +4507,7 @@ Surfer
 Surgical
 Surpass
 Surprise
+Surprising
 Surreal
 Survey
 Surviving
@@ -4488,8 +4570,10 @@ Tarver
 Tashaun
 Task
 Tasmania
+Tata
 Tattoo
 Taught
+Tax
 Taylor
 Teacher
 Teahouse
@@ -4522,8 +4606,10 @@ Teslas
 Test
 Testament
 Testing
+Tests
 Texas
 Tezos
+Thackeray
 Thai
 Thailand
 Thailand8217s
@@ -4546,6 +4632,7 @@ Thermal
 These
 They
 Theyre
+Thicke
 Thing
 Things
 Thinks
@@ -4559,6 +4646,7 @@ Thought
 Thousands
 Threat
 Threatened
+Threatens
 Threats
 Three
 Thriving
@@ -4572,6 +4660,7 @@ Thursday
 Tide
 Tier
 Tiger
+Tightens
 Tigray
 TikTok
 TikToks
@@ -4667,6 +4756,7 @@ Tribune
 Tribute
 Trick
 Tricky
+Triggered
 Trip
 TripAdvisors
 Trisha
@@ -4718,6 +4808,7 @@ UMass
 UN
 UNICEF
 UNT
+UP
 US
 US30
 US814
@@ -4727,11 +4818,14 @@ USGS
 USUK
 Uber
 Ubisoft
+Uddhav
 Ugandan
+UiPath
 Ukraine
 Ukrainian
 Ultimate
 Ultimately
+Ultra-Nationalists
 Unaccompanied
 Unanimous
 Unblocked
@@ -4739,6 +4833,7 @@ Unclear
 Unconventional
 Uncut
 Under
+Underage
 Underdog
 Underground
 Underwater
@@ -4759,6 +4854,7 @@ Unload
 Unpatched
 Unpleasant
 Unpopular
+Unscented
 Unstuck
 Until
 Untold
@@ -4774,6 +4870,7 @@ Uptown
 Uras
 Urban
 Urkle
+Uruguays
 Us
 Use
 Used
@@ -4900,6 +4997,7 @@ War8217s
 Warehouse
 Warming
 Warminster
+Warn
 Warned
 Warning
 Warns
@@ -4907,6 +5005,7 @@ Warrants
 Warriors
 Wars
 Was
+Washes
 Washington
 Watch
 Watching
@@ -4914,6 +5013,7 @@ Water
 Watering
 Waters
 Watford
+Wave
 Waves
 Waving
 Way
@@ -4991,9 +5091,11 @@ Without
 Witness
 WoW
 Wolf
+Wolves
 Woman
 Woman-Owned
 Women
+Womens
 Womxn
 Won
 Wonder
@@ -5173,6 +5275,7 @@ alerts
 alien
 alive
 all
+all-black
 all-inclusive
 all-time
 allegations
@@ -5341,6 +5444,7 @@ baseball
 based
 basic
 basically
+basis
 basketball
 batten
 battery
@@ -5519,6 +5623,7 @@ buzzkill
 by
 by-election
 bygone
+cabinet
 call
 called
 calling
@@ -5532,6 +5637,7 @@ campsite
 campus
 can
 cancel
+canceling
 cancelled
 candidate
 candlelight
@@ -5743,6 +5849,7 @@ consequences
 conservation
 conservative
 consider
+considerable
 considered
 considering
 consolidate
@@ -5851,6 +5958,7 @@ cultural
 culture
 cultures
 cup
+curfew
 curing
 currency
 cursing
@@ -5999,6 +6107,7 @@ disregard
 distance
 distribute
 district
+districts
 disturbance
 diversity
 dives
@@ -6269,6 +6378,7 @@ felt
 feminist
 fencing
 festival
+few
 field
 fiercely
 fiery
@@ -6322,6 +6432,7 @@ float
 floats
 flood
 flourishes
+flowing
 fly
 focus
 folks
@@ -6362,6 +6473,7 @@ freedom
 freely
 frees
 freeze
+fresh
 fried
 friend
 friendly
@@ -6963,6 +7075,7 @@ mass
 massive
 match
 matching
+material
 matter
 mattered
 mauled
@@ -7208,6 +7321,7 @@ outbreak
 outcry
 outdoor
 outer
+outfits
 outlaw
 outlawing
 outrageous
@@ -7229,9 +7343,11 @@ owners
 ownership
 oxygen
 pace
+packages
 packets
 packing
 pages
+paid
 pain
 painfully
 palace
@@ -7336,6 +7452,7 @@ pledge
 pledges
 plots
 plunges
+pm
 podcast
 podcasts
 point
@@ -7404,6 +7521,7 @@ prices
 prime
 printer
 prior
+priority
 prison
 prisoners
 privacy
@@ -7443,6 +7561,7 @@ proposed
 prosecuted
 prosecutor
 prosecutors
+protect
 protections
 protest
 protesters
@@ -7509,6 +7628,7 @@ rare
 rate
 rates
 rather
+raw
 re-elected
 re-introduces
 reach
@@ -7784,6 +7904,7 @@ selector
 selects
 self-sufficient
 sell
+sellers
 semi-finals
 semitruck
 senator
@@ -7854,6 +7975,7 @@ shows
 shredders
 shrinks
 shun
+shut
 shutdowns
 shutout
 shuts
@@ -7876,6 +7998,7 @@ sit
 site
 sites
 sitting
+situation
 six
 six-hitter
 sixth
@@ -7931,6 +8054,7 @@ soccer
 social
 socialist
 softer
+software
 sold
 soldiers
 solidarity
@@ -7959,6 +8083,7 @@ species
 spectators
 speech
 speed
+speedy
 spell
 spend
 spending
@@ -7975,6 +8100,7 @@ spotlight
 spots
 sprays
 spread
+spreading
 spring
 spur
 spy
@@ -8033,6 +8159,7 @@ stories
 storm
 story
 straight
+strain
 strategies
 strategy
 stray
@@ -8095,6 +8222,7 @@ supermarkets
 supplied
 supply
 supply-chain
+supplying
 support
 supported
 supporters
@@ -8242,6 +8370,7 @@ told
 tomorrows
 tone
 tonight
+tons
 too
 took
 tool
@@ -8271,6 +8400,7 @@ traffic
 trailer
 train
 training
+trains
 trampling
 trans
 transactions
@@ -8392,6 +8522,7 @@ vans
 variant
 variant-fueled
 variants
+vegetable
 vehicle
 vehicles
 veiled
@@ -8524,6 +8655,7 @@ winemakers
 winning
 wins
 winter
+wishes
 with
 withdraw
 withdrawing
@@ -8532,6 +8664,7 @@ without
 withstand
 witness
 woes
+woke
 woman
 womans
 women
@@ -8571,6 +8704,7 @@ yet
 you
 young
 your
+yourself
 youth
 zero-day
 zero-days

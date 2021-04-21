@@ -65,3 +65,5 @@ https://www.yahoo.com/news/rss
 https://www.latimes.com/local/rss2.0.xml
 https://www.bleepingcomputer.com/feed/
 http://feeds.bbci.co.uk/news/rss.xml?edition=int
+https://www.spiegel.de/international/index.rss
+https://www.dnaindia.com/feeds/india.xml

@@ -61,6 +61,7 @@
 18th
 19
 19-year-old
+190
 1917
 1943
 195859
@@ -81,6 +82,7 @@
 20
 20-year-old
 200
+200-300
 2000
 20000
 200000
@@ -120,6 +122,7 @@
 2700km
 27500
 28
+28-day
 28m
 29
 29155
@@ -204,6 +207,7 @@
 78
 793
 8
+8-day
 8-year-old
 8-year-olds
 80
@@ -211,6 +215,7 @@
 81963
 8216boat
 8216em
+845
 85
 86
 8th
@@ -400,6 +405,7 @@ aliens
 alina
 alive
 all
+all-black
 all-in-one
 all-inclusive
 all-time
@@ -494,6 +500,7 @@ anti-corruption
 anti-france
 anti-police
 anti-poverty
+antigen
 antiquated
 antiquities
 antitrust
@@ -594,6 +601,7 @@ asked
 asking
 asks
 asparagus
+assam
 assassinations
 assault
 assaulting
@@ -724,6 +732,7 @@ bases-loaded
 bashkortostan
 basic
 basically
+basis
 basketball
 basking
 bat
@@ -1067,6 +1076,7 @@ buzzkill
 by
 by-election
 bygone
+cabinet
 cahill
 cairo
 cakes
@@ -1093,6 +1103,7 @@ can
 canadian
 canal
 cancel
+canceling
 cancelled
 cancels
 cancer
@@ -1188,6 +1199,7 @@ censors
 censure
 center
 central
+centres
 centuries
 century
 ceo
@@ -1203,6 +1215,7 @@ chain
 chair
 chairman
 chalamet
+chalks
 challenge
 challenges
 champ
@@ -1370,6 +1383,7 @@ clues
 cluster
 clusters
 clutter
+cm
 cnn
 co
 co-founder
@@ -1493,6 +1507,7 @@ consequences
 conservation
 conservative
 consider
+considerable
 considered
 considering
 consolidate
@@ -1550,6 +1565,7 @@ corden
 corner
 cornerback
 cornyn
+corona
 coronapas
 coronavirus
 coronavirusnow
@@ -1589,6 +1605,7 @@ course
 court
 courtroom
 cousins
+covaxs
 cover
 coverage
 covered
@@ -1679,6 +1696,7 @@ cuoco
 cuomo
 cup
 curb
+curfew
 curing
 currency
 curry
@@ -1761,6 +1779,7 @@ dealerships
 deals
 death
 deaths
+debacle
 debate
 debates
 debut
@@ -1775,6 +1794,7 @@ decides
 deciding
 decision
 deck
+declares
 decline
 declines
 decomposed
@@ -1935,8 +1955,10 @@ direction
 director
 dirty
 disabled
+disagreement
 disambiguation
 disappearance
+disaster
 disasters
 disbelief
 discard
@@ -1968,8 +1990,10 @@ distance
 distilling
 distribute
 district
+districts
 disturbance
 disturbing
+dithering
 dive
 diversity
 dives
@@ -1977,6 +2001,7 @@ dividing
 division
 dixon
 dj
+djibouti
 djokovic
 dmx
 dna
@@ -2107,6 +2132,7 @@ e
 e-tron
 each
 eagles
+eam
 eanes
 earlier
 early
@@ -2146,6 +2172,7 @@ edinburgh
 edition
 editor
 editor-in-chief
+education
 edwards
 eels
 effect
@@ -2254,6 +2281,7 @@ equatorial
 equinox
 equipment
 era
+erdogans
 erect
 eres
 eroding
@@ -2413,6 +2441,7 @@ factor
 factories
 facts
 fades
+failure
 fair
 fairfax
 fairfield
@@ -2532,6 +2561,7 @@ firefighters
 firefox
 fires
 firm
+firmly
 firms
 first
 first-dose
@@ -2576,6 +2606,7 @@ flourishes
 flow
 flower
 flowers
+flowing
 floyd
 floyd-related
 floyds
@@ -2733,6 +2764,8 @@ gay
 gaze
 gazidis
 gbi
+gear
+geary
 geeky
 geico
 geim
@@ -2824,6 +2857,7 @@ government-backed
 governments
 governor
 govt
+goyal
 gps
 grab
 grace
@@ -2859,6 +2893,7 @@ grieving
 grill
 grilling
 grills
+grip
 gritty
 grizzly
 grocery
@@ -2974,6 +3009,7 @@ haunting
 havana
 have
 haven
+havens
 havent
 having
 hawks
@@ -2984,6 +3020,7 @@ he
 head
 head-first
 heading
+headlines
 heads
 heal
 healdsburg
@@ -3192,6 +3229,7 @@ illicit
 illinois
 illness
 illume
+illusion
 im
 imac
 imacs
@@ -3216,7 +3254,9 @@ imports
 impose
 impossible
 impostor
+impressive
 improve
+imran
 in
 in-court
 in-person
@@ -3255,6 +3295,7 @@ indonesian
 indoor
 industrial
 industry
+inefficient
 inequities
 inez
 infantino
@@ -3290,6 +3331,7 @@ inoculated
 inoculation
 inquiry
 insane
+insensitive
 inside
 insider
 insists
@@ -3411,11 +3453,13 @@ jacob
 jaffa
 jail
 jailed
+jaishankar
 jakobsbad
 jaleel
 jamal
 james
 jamie
+jammu
 jan
 january
 japan
@@ -3444,6 +3488,7 @@ jessie
 jesus
 jets
 jewish
+jharkhand
 jiabaos
 jihad
 jill
@@ -3520,6 +3565,7 @@ kangaroos
 kansas
 kaplers
 karen
+kashmir
 kate
 kayden
 keeler
@@ -3529,6 +3575,7 @@ keeping
 keilar
 keiser
 keith
+kejriwal
 kelly
 kendrick
 kenosha
@@ -3540,7 +3587,9 @@ kevin
 key
 kfc
 khaal
+khan
 khashoggi
+khat
 kia
 kiara
 kicked
@@ -3605,6 +3654,7 @@ lab
 label
 labor
 labour
+lac
 lacaton
 lack
 lady
@@ -3847,6 +3897,7 @@ lucky
 ludicrous
 luis
 luke
+lula
 luminaries
 lunch
 lung
@@ -3874,6 +3925,7 @@ magic
 magnitude
 magnitude-60
 magnum
+maharashtra
 mahomes
 mail
 mailata
@@ -3886,12 +3938,14 @@ majority
 majors
 make
 makes
+makhanda
 making
 malaysia
 male
 malicious
 malls
 malone
+malta
 malware
 mammoth
 man
@@ -3910,6 +3964,7 @@ manhunt
 manifest
 manifested
 mankind
+manmohan
 mann
 mannequin
 manpower
@@ -3960,6 +4015,7 @@ masterson
 match
 matching
 mateo
+material
 materials
 matter
 mattered
@@ -4152,6 +4208,7 @@ moreish
 morejon
 moreland
 moreno
+moria
 morphs
 morris
 morrissey
@@ -4176,6 +4233,7 @@ motorsports
 mound
 mountain
 mountains
+mounts
 mourinho
 mouse
 move
@@ -4495,6 +4553,7 @@ outcome
 outcry
 outdoor
 outer
+outfits
 outing
 outlaw
 outlawing
@@ -4526,8 +4585,10 @@ p
 pace
 pacinos
 package
+packages
 packets
 packing
+pact
 padlock
 padres
 pageau
@@ -4629,6 +4690,7 @@ peloton-worthy
 pembroke
 pen
 penalty
+pence
 penguins
 peni
 penn
@@ -4705,6 +4767,7 @@ pillow
 pills
 pilot
 pilots
+pims
 pinellas
 pink
 pinot
@@ -4724,6 +4787,7 @@ pitchfork
 pits
 pittsburgh
 pivotal
+piyush
 pkr
 pl
 place
@@ -4883,6 +4947,7 @@ prince
 princess
 printer
 prior
+priority
 prison
 prisoners
 pritzker
@@ -4983,6 +5048,7 @@ puscifers
 push
 pushed
 pushes
+pushing
 pussys
 put
 putin
@@ -5040,11 +5106,13 @@ raided
 raiders
 railroad
 railway
+railways
 rain
 raineys
 raise
 raises
 raising
+rajasthan
 ralfy
 rallies
 ralston
@@ -5067,6 +5135,7 @@ ranks
 ransomware
 rap
 rape
+rapid
 rapidly
 rapids
 rapinoe
@@ -5082,6 +5151,7 @@ rather
 rattled
 raudonikis
 raul
+raw
 rce
 re-elected
 re-introduces
@@ -5375,6 +5445,7 @@ robberies
 robert
 robertson
 robertsons
+robin
 robot
 robots
 rock
@@ -5442,6 +5513,7 @@ running
 runoff
 runs
 rural
+rusesabagina
 rush
 rusher
 russas
@@ -5451,6 +5523,7 @@ russian
 russians
 russias
 ruth
+rwanda
 rwandan
 ryan
 s
@@ -5527,6 +5600,7 @@ scg
 schalke
 schedules
 school
+schoolchildren
 schools
 schumer
 scientist
@@ -5591,6 +5665,7 @@ selector
 selects
 self-sufficient
 sell
+sellers
 selling
 seltos
 semi-finals
@@ -5606,6 +5681,7 @@ sends
 senegals
 senior
 sense
+sensitive
 sent
 sentence
 sentenced
@@ -5749,6 +5825,7 @@ singapore
 singaporeans
 singapores
 singer
+singh
 single
 singles
 singleton
@@ -5759,6 +5836,7 @@ sit
 site
 sites
 sitting
+situation
 six
 six-hitter
 sixers
@@ -5843,6 +5921,7 @@ socialist
 sock
 soeder
 softer
+software
 sogni
 solar
 solarwinds
@@ -5903,6 +5982,7 @@ spectators
 speech
 speed
 speedway
+speedy
 spell
 spelling
 spells
@@ -5997,6 +6077,7 @@ steal
 stealing
 steals
 steam
+steel
 steinman
 stellantis
 stem
@@ -6029,6 +6110,7 @@ stories
 storm
 story
 straight
+strain
 strain-specific
 strategies
 strategy
@@ -6128,6 +6210,7 @@ supplied
 supplier
 supply
 supply-chain
+supplying
 support
 supported
 supporters
@@ -6145,6 +6228,7 @@ surgery
 surgical
 surpass
 surprise
+surprising
 surprisingly
 surreal
 surroundings
@@ -6235,6 +6319,7 @@ tashaun
 task
 taskbar
 tasmania
+tata
 tattoo
 taught
 tax
@@ -6291,8 +6376,10 @@ test
 test-and-trace
 testament
 testing
+tests
 texas
 tezos
+thackeray
 thai
 thailand
 thailand8217s
@@ -6323,6 +6410,7 @@ thermal
 these
 they
 theyre
+thicke
 thing
 things
 think
@@ -6410,6 +6498,7 @@ tomorrows
 tone
 tonga
 tonight
+tons
 tony
 too
 took
@@ -6456,6 +6545,7 @@ trailer
 trails
 train
 training
+trains
 trampling
 tranmere
 trans
@@ -6502,6 +6592,7 @@ tricks
 tricky
 tries
 trigger
+triggered
 trigonignathum
 trillion
 trip
@@ -6564,15 +6655,18 @@ uae
 uber
 ubisoft
 ucla
+uddhav
 uefa
 ufc
 ugandan
+uipath
 uk
 ukraine
 ukrainian
 uks
 ultimate
 ultimately
+ultra-nationalists
 umass
 umg
 un
@@ -6623,6 +6717,7 @@ unprecedented
 unraveled
 unregistered
 unrest
+unscented
 unseasonable
 unsecured
 unstuck
@@ -6651,6 +6746,7 @@ urge
 urged
 urges
 urkle
+uruguays
 us
 us30
 us814
@@ -6697,6 +6793,7 @@ vassal
 vaxxers
 vegan
 vegas
+vegetable
 vehicle
 vehicles
 veiled
@@ -6812,6 +6909,7 @@ warriors
 wars
 warships
 was
+washes
 washington
 wasnt
 waste
@@ -6920,6 +7018,7 @@ winter
 wintrust
 wisconsin
 wish
+wishes
 with
 withdraw
 withdrawing
@@ -6928,11 +7027,14 @@ without
 withstand
 witness
 woes
+woke
 wolf
+wolves
 woman
 woman-owned
 womans
 women
+womens
 womxn
 won
 wonder
@@ -7017,6 +7119,7 @@ young
 younger
 your
 youre
+yourself
 youth
 youtube
 yu-gi-oh
