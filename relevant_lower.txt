@@ -91,8 +91,10 @@
 2021-
 2022
 2030
+20m
 21
 22
+23andme
 24
 24-million
 25
@@ -116,6 +118,8 @@
 3-2
 3-year
 30
+30-day
+30000
 30s
 30th
 33
@@ -126,6 +130,7 @@
 35-year-old
 365
 38
+3bn
 4
 4-1
 4-3
@@ -197,6 +202,7 @@
 968
 97m
 99
+999
 a
 a-league
 a-rod
@@ -243,6 +249,7 @@ across
 act
 action
 activates
+active
 activist
 activists
 actor
@@ -317,6 +324,7 @@ aid
 ailing
 aims
 air
+airline
 airlines
 airport
 airports
@@ -335,6 +343,7 @@ aldens
 aledo
 aleo
 alert
+alerts
 alex
 alexandria
 alexei
@@ -390,6 +399,7 @@ amy
 an
 analysis
 analyst
+analytica
 and
 anders
 anderson
@@ -426,6 +436,7 @@ anti-asian
 anti-blm
 anti-france
 anti-poverty
+antiquated
 antiquities
 antitrust
 antonio
@@ -457,6 +468,7 @@ applied
 appointment
 appointments
 appoints
+approach
 approves
 apps
 april
@@ -506,6 +518,7 @@ ashamed
 asia
 asian
 asked
+asks
 asparagus
 assassinations
 assault
@@ -515,6 +528,7 @@ assets
 assist
 associate
 association
+assures
 astra
 astrazeneca
 astrazenecas
@@ -553,6 +567,7 @@ austins
 australia
 australia-nz
 australian
+australians
 australias
 authorities
 authors
@@ -575,6 +590,7 @@ awards
 away
 ax
 axe
+ba
 babies
 baby
 bachelor
@@ -619,6 +635,7 @@ bars
 bartali
 base
 baseball
+basecamp
 based
 baseless
 bases-loaded
@@ -632,6 +649,7 @@ battery
 battle
 battlefield
 bay
+bazarloader
 bbc
 be
 beach
@@ -736,6 +754,7 @@ blackhawks
 blacklisted
 blackmon
 blah
+blair
 blake
 blame
 blamed
@@ -821,6 +840,7 @@ brainwashed
 braman
 branches
 brand
+branson
 brasserie
 brata
 brave
@@ -1080,6 +1100,7 @@ charts
 chase
 chat
 chateau
+chatroom
 chatter
 chauvin
 chauvins
@@ -1194,7 +1215,9 @@ closures
 clot
 clots
 cloud
+clouds
 club
+clubhouse
 clubs
 clues
 clusters
@@ -1212,6 +1235,7 @@ cocktails
 cococlectic
 code
 codecov
+codes
 coffee
 cohens
 coin
@@ -1263,11 +1287,13 @@ company
 competition
 complaints
 complete
+completely
 complications
 composer
 compromise
 compromised
 comptroller
+computers
 concerned
 concerns
 concert
@@ -1289,6 +1315,7 @@ confiscated
 confiscating
 conflict
 confrontational
+confronted
 confuse
 confusing
 congratulating
@@ -1400,6 +1427,7 @@ cpd
 cps
 crab
 crack
+crackdown
 craft
 craig
 cranks
@@ -1430,6 +1458,7 @@ crisis-hit
 critic
 critical
 critically
+criticise
 criticises
 criticism
 criticized
@@ -1478,6 +1507,8 @@ cutting
 cutty
 cwd
 cyber
+cyber-espionage
+cyber-risks
 cyberattack
 cybersecurity
 cyclicals
@@ -1501,6 +1532,7 @@ daniel
 danielle
 danny
 dark
+darktrace
 darth
 darts
 data
@@ -1553,6 +1585,7 @@ decree
 dedicated
 dee
 deemed
+deep
 deepen
 deeply
 defeat
@@ -1621,6 +1654,7 @@ desktop
 desperate
 despite
 destinations
+destined
 destiny
 destroyed
 destroys
@@ -1687,6 +1721,7 @@ disappearance
 disasters
 disbelief
 discard
+disclosure
 discord
 discourage
 discover
@@ -1712,6 +1747,7 @@ distribute
 district
 disturbance
 disturbing
+dive
 diversity
 dives
 dividing
@@ -1719,6 +1755,7 @@ division
 dixon
 dj
 dmx
+dna
 do
 doctor
 doctors
@@ -1900,6 +1937,7 @@ embiid
 embraced
 embracing
 emergency
+emerging
 emilia
 emily
 emission
@@ -2200,12 +2238,14 @@ fincen
 find
 finding
 finds
+fined
 fines
 finish
 finished
 fire
 fired
 firefighters
+firefox
 fires
 firm
 firms
@@ -2226,6 +2266,7 @@ flames
 flashpoint
 flavor
 flavors
+flaw
 flawless
 flaws
 flay
@@ -2334,6 +2375,7 @@ frontline
 fronts
 frost
 frustrating
+fsb
 fsg
 ft
 fueled
@@ -2474,6 +2516,7 @@ governor
 govt
 gps
 grab
+grace
 grain
 grand
 granddaughter
@@ -2532,6 +2575,7 @@ gunman
 gunning
 guns
 guralnik
+gustafsson
 guyton
 gwynedd
 gym
@@ -2541,8 +2585,10 @@ haah
 habit
 hack
 hacked
+hacker
 hackers
 hacking
+hacks
 had
 hadnt
 hadrian
@@ -2666,6 +2712,7 @@ him
 himself
 hinsdale
 hirasawa
+hires
 hiring
 his
 historic
@@ -2739,6 +2786,7 @@ howard
 howie
 hrs
 hs
+https
 hub
 hubert
 huge
@@ -2890,6 +2938,7 @@ instead
 institutional
 institutions
 insurance
+insurers
 insurgents
 insurrection
 intense
@@ -2941,6 +2990,7 @@ ipad
 ipads
 iphone
 iphones
+ipo
 iran
 irans
 irving
@@ -3171,6 +3221,7 @@ lands
 language
 languishing
 lapd
+laptops
 largest
 las
 laschet
@@ -3211,6 +3262,7 @@ leads
 league
 leagues
 leah
+leak
 leaking
 leandro
 learned
@@ -3423,6 +3475,7 @@ manchester
 mandate
 mandates
 mandatory
+mandiant
 manifest
 manifested
 mann
@@ -3542,6 +3595,7 @@ message
 messiah
 metal
 meth
+methodical
 metrics
 metro
 metro-detroit
@@ -3645,6 +3699,7 @@ moreish
 morejon
 moreland
 moreno
+morphs
 morris
 morrissey
 morrissey-inspired
@@ -3675,6 +3730,7 @@ movies
 moving
 mozambique
 mozambiques
+mozilla
 mpd
 mps
 mr
@@ -3682,6 +3738,7 @@ msi
 mt
 mtv
 much
+mudge
 mulls
 multiple
 mum
@@ -3724,6 +3781,7 @@ nasdaq
 nashville
 natanz
 nation
+nation-state
 national
 nationally
 nationals
@@ -3781,6 +3839,7 @@ next
 nfl
 ngavedr
 nhl
+nhs
 nhtsa
 nice
 nicola
@@ -3796,6 +3855,7 @@ nil-by-mouth
 nina
 ninja
 ninth
+nitroransomware
 no
 no-no
 noah
@@ -3844,6 +3904,7 @@ objects
 observations
 observers
 obsession
+obtaining
 oc
 ocasio-cortez
 occasionallydark
@@ -3916,6 +3977,7 @@ orchestrating
 order
 orders
 ordinariness
+organised
 organisers
 organizational
 organized
@@ -3943,6 +4005,7 @@ outcome
 outcry
 outdoor
 outer
+outing
 outrage
 outrageous
 outreach
@@ -3970,6 +4033,7 @@ pace
 package
 packets
 packing
+padlock
 padres
 pageau
 pages
@@ -4020,6 +4084,7 @@ passengers
 passes
 passport
 passports
+password
 passwordless
 past
 pastor
@@ -4063,6 +4128,7 @@ peni
 penn
 penns
 pennsylvania
+pensions
 pentagon
 people
 pepper
@@ -4074,6 +4140,7 @@ perfect
 perform
 performed
 perimeter
+period
 periods
 permit
 persecuted
@@ -4201,6 +4268,7 @@ ponce
 pond
 pop
 pope
+poppy
 popular
 population
 populous
@@ -4211,6 +4279,7 @@ ported
 portraits
 portrayal
 poses
+posey
 posh
 position
 positive
@@ -4258,6 +4327,7 @@ premiership
 preparations
 prepares
 preparing
+prepping
 preserve
 preserved
 president
@@ -4324,6 +4394,7 @@ proportions
 proposal
 proposed
 prosecuted
+prosecutions
 prosecutor
 prosecutors
 protect
@@ -4338,6 +4409,7 @@ protesting
 protests
 proudest
 provide
+provider
 providing
 prowses
 proxy
@@ -4444,6 +4516,7 @@ ranked
 ranking
 rankings
 ranks
+ransomware
 rap
 rape
 rapidly
@@ -4490,6 +4563,7 @@ rebel
 rebels
 rebound
 rebounds
+rebroadcasting
 rebuke
 rebukes
 recall
@@ -4683,6 +4757,7 @@ rhetoric
 ribs
 rice
 rich
+richard
 rico
 rider
 rife
@@ -4778,6 +4853,7 @@ run-up
 runners
 running
 runoff
+runs
 rural
 rush
 rusher
@@ -4955,6 +5031,7 @@ severe
 sex
 sexual
 sexually
+sf
 shackling
 shadow
 shakes
@@ -5037,6 +5114,7 @@ sight
 sign
 signaling
 signature
+signed
 significant
 signs
 silicon
@@ -5072,6 +5150,7 @@ skullduggery
 sky
 skydiver
 skys
+slack
 slam
 slammed
 slamming
@@ -5200,6 +5279,7 @@ spiritual
 spirituality
 spitting
 sponsored
+spoofing
 sport
 sportback
 sports
@@ -5216,6 +5296,7 @@ springs
 springsteen
 springtime
 spur
+spying
 sq
 squad
 square
@@ -5266,6 +5347,7 @@ stay
 steak
 steal
 stealing
+steals
 steam
 steinman
 stellantis
@@ -5527,6 +5609,7 @@ terrorists
 terry
 tesla
 test
+test-and-trace
 testament
 testing
 texas
@@ -5568,6 +5651,7 @@ third
 this
 thomas
 thorn
+thorough
 thoroughbred
 those
 thou
@@ -5599,11 +5683,13 @@ tigers
 tight
 tigray
 tiktok
+tiktoks
 tilburys
 tiles
 tim
 timber
 time
+timeline
 times
 timothe
 tina
@@ -5757,6 +5843,7 @@ twister
 twitter
 two
 two-decade
+tycoon
 tyler
 type
 tyrannosaurus
@@ -5776,6 +5863,7 @@ umass
 umg
 un
 unaccompanied
+unanimous
 unblocked
 unclear
 uncomfortable
@@ -5800,6 +5888,7 @@ uniswaps
 unit
 united
 university
+unjustified
 unknown
 unlearn
 unless
@@ -5834,6 +5923,7 @@ uranium
 uras
 urban
 urge
+urged
 urges
 urkle
 us
@@ -5948,6 +6038,7 @@ vpn
 vs
 vulnerabilities
 vulnerability
+vulnerable
 w
 wait
 waiting
@@ -5976,6 +6067,7 @@ warn
 warned
 warning
 warns
+warrant
 warrants
 warriors
 wars
@@ -6177,6 +6269,7 @@ zalatoris
 zarzas
 zealand
 zeneca
+zero
 zero-day
 zero-days
 zion
