@@ -174,6 +174,7 @@
 77
 793
 8
+8-Year-Old
 80
 800
 81963
@@ -603,6 +604,7 @@ Boat
 Boba
 Bobageddon
 Bobby
+Body
 Body-Machine
 Bodycam
 Bomb
@@ -872,6 +874,7 @@ Child
 Children
 Chile
 Chiles
+Chilly
 China
 Chinas
 Chinese
@@ -904,6 +907,7 @@ City-filmed
 Citys
 Civil
 Civilian
+Claimed
 Claiming
 Claims
 Clair
@@ -1015,6 +1019,7 @@ Cooked
 Coolers
 Cooper
 Coppi
+Cops
 Cora
 Cordae
 Corden
@@ -1402,6 +1407,7 @@ Emoji
 Emotions
 Emperors
 Employees
+En
 Encounters
 Encourage
 Encouraged
@@ -1547,6 +1553,7 @@ Farm
 Farmer
 Fascinating
 Fashion
+Fast
 Fast-Tracked
 Fatal
 Fatally
@@ -1576,6 +1583,7 @@ Fielder
 Fight
 File
 Files
+Filet-O-Fish
 Fill
 Filled
 FilmBar
@@ -1796,6 +1804,7 @@ Governments
 Governor
 Grain
 Grand
+Granddaughter
 Grandfather
 Grandma
 Grandmother
@@ -1953,6 +1962,7 @@ Hong
 Honor
 Hood
 Hooks
+Hope
 Hoping
 Hopkins
 Hornets
@@ -2817,6 +2827,7 @@ Northern
 Not
 Not-So-Silent
 Now
+Nubes
 Number
 Nursing
 Nya
@@ -2965,6 +2976,7 @@ Passenger
 Passport
 Passwordless
 Past
+Pastor
 Pat
 Patch
 Patrick
@@ -3073,6 +3085,7 @@ Points
 Poker
 Police
 Policies
+Policing
 Policy
 Polis
 Political
@@ -3240,6 +3253,7 @@ Ramen
 Ramp
 Rampant
 Ramps
+Ran
 Ranch
 Rancho
 Randall
@@ -3373,6 +3387,7 @@ Responding
 Response
 Restaurant
 Restaurants
+Restores
 Restrictions
 Restricts
 Results
@@ -3573,6 +3588,7 @@ Selling
 Seltos
 Seminary
 Sen
+Senate
 Send
 Sends
 Senegals
@@ -3786,6 +3802,7 @@ Stage
 Stake
 Stallion
 Stand
+Standard
 Standoff
 Stands
 Stanford
@@ -5447,6 +5464,7 @@ for
 force
 forced
 forces
+forecast
 forecasters
 foreign
 forest
@@ -5588,6 +5606,7 @@ happens
 happy
 harassed
 harassment
+hard
 hard-hit
 harness
 has
@@ -5812,6 +5831,7 @@ kills
 kind
 kindness
 know
+knowing
 knowledge
 labor
 lack
@@ -5821,6 +5841,7 @@ land
 landings
 lands
 largest
+las
 last
 lasting
 late
@@ -6130,6 +6151,7 @@ orders
 ordinariness
 organizational
 orgs
+origins
 otanj
 other
 others
@@ -6147,6 +6169,7 @@ outside
 outweigh
 over
 over-unders
+overdue
 overlap
 override
 overturned
@@ -6175,6 +6198,7 @@ parliament
 parody
 part
 partially
+participate
 partners
 party
 pass
@@ -6292,6 +6316,7 @@ presidential
 presidents
 press
 pressed
+presses
 pressure
 previews
 price
@@ -6309,6 +6334,7 @@ problem
 process
 processing
 producer
+producers
 product
 products
 professor
@@ -6700,6 +6726,7 @@ small
 smaller
 smart
 smell
+smokers
 smoking
 snag
 snake
@@ -6738,6 +6765,7 @@ specialising
 specialty
 species
 speed
+spell
 spend
 spending
 spends
@@ -7053,6 +7081,7 @@ unprecedented
 unraveled
 unregistered
 unrest
+unseasonable
 unsecured
 unsubstantiated
 until
