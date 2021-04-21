@@ -1040,6 +1040,7 @@ Acknowledgment
 Acquitted
 Across
 Act
+Action
 Activates
 Activist
 Activists
@@ -1366,6 +1367,7 @@ Binance
 Bingham
 Bingoal
 Bird
+Birks
 Bitcoin
 Bitfarms
 Black
@@ -1389,6 +1391,7 @@ Boat
 Boba
 Bobageddon
 Bobby
+Bobcat
 Body-Machine
 Bodycam
 Bomb
@@ -1645,6 +1648,7 @@ Chinese
 Chinese-Australian
 Chiron
 Choose-Your-Own-Adventure
+Choreographer
 Chosen
 Christian
 Chrome
@@ -2404,6 +2408,7 @@ Fraud
 Fraudulent
 Freaking
 Free
+Freedom
 Freedoms
 Freeform
 Freeway
@@ -3057,6 +3062,7 @@ Letters
 Levels
 Lewis
 Li
+Liam
 Liberal
 Liberty
 Libra
@@ -3322,6 +3328,7 @@ Minnesota
 Minnesotas
 Minority
 Mirage
+Misconduct
 Misinformation
 Miss
 Missing
@@ -3367,6 +3374,7 @@ Morrissey
 Morrissey-Inspired
 Morrisseys
 Mortgage
+Moses
 Most
 Mosuls
 Mother
@@ -4158,6 +4166,7 @@ Say
 Saying
 Says
 Scanners
+Scarlett
 Scene
 Schedules
 School
@@ -4292,6 +4301,7 @@ Signature
 Significant
 Signs
 Silicon
+Simkhai
 Simmons
 Simone
 Simplify
@@ -4356,6 +4366,7 @@ SonicWall
 Sonoma
 Sons
 Sony
+Sooo
 Soothe
 Sophisticated
 Sorrow
@@ -4522,6 +4533,7 @@ Swann
 Sweaters
 Sweaty
 Sweetheart
+Swings
 Symbiogenesis
 Symptoms
 Syndrome

@@ -207,6 +207,7 @@ acms
 acquitted
 across
 act
+action
 activates
 activist
 activists
@@ -632,6 +633,7 @@ bipartisan
 biracial
 bird
 birds
+birks
 birthday
 bit
 bitcoin
@@ -984,6 +986,7 @@ chip
 chiron
 choose-your-own-adventure
 chops
+choreographer
 chosen
 christian
 chrome
@@ -2040,6 +2043,7 @@ fraudulent
 freaking
 free
 freebies
+freedom
 freedoms
 freeform
 freeway
@@ -2873,6 +2877,7 @@ levels
 lewis
 lgbt
 li
+liam
 liberal
 liberty
 libra
@@ -3245,6 +3250,7 @@ morrissey
 morrissey-inspired
 morrisseys
 mortgage
+moses
 most
 mosuls
 mother
@@ -4311,6 +4317,7 @@ says
 sc
 scaled-back
 scanners
+scarlett
 scary
 scene
 scenes
@@ -4487,6 +4494,7 @@ signature
 significant
 signs
 silicon
+simkhai
 simmons
 simone
 simplify
@@ -4584,6 +4592,7 @@ sonoma
 sons
 sony
 soon
+sooo
 soothe
 sophisticated
 sorrow
