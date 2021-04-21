@@ -2,6 +2,80 @@
 -
 0
 0-day
+0000784977
+0001017608
+0001017645
+0001020214
+0001048477
+0001080720
+0001142790
+0001160958
+0001184588
+0001201632
+0001212726
+0001227688
+0001243592
+0001268331
+0001269893
+0001282203
+0001282372
+0001287039
+0001297989
+0001316320
+0001321834
+0001356474
+0001368265
+0001377258
+0001380710
+0001396000
+0001400258
+0001406817
+0001425480
+0001449640
+0001449643
+0001449644
+0001449645
+0001467926
+0001467927
+0001515184
+0001517175
+0001524858
+0001529274
+0001541375
+0001546805
+0001601830
+0001611597
+0001623581
+0001633331
+0001633332
+0001642447
+0001679788
+0001690820
+0001701754
+0001704727
+0001704892
+0001716426
+0001722021
+0001722022
+0001732021
+0001741560
+0001754170
+0001771979
+0001784535
+0001793940
+0001793941
+0001795410
+0001798124
+0001819974
+0001837336
+0001837479
+0001837767
+0001838197
+0001851442
+0001856667
+0001857019
+0001857479
+0001857517
 04
 075
 1
@@ -118,6 +192,7 @@
 26
 260
 2681
+26m
 27
 2700km
 27500
@@ -161,6 +236,7 @@
 45
 466
 49
+4a
 4m
 5
 5-2
@@ -241,6 +317,7 @@ abdullah
 abernathy
 able
 abnormal
+aboard
 abolitionist
 about
 above-average
@@ -328,6 +405,7 @@ advisors
 advisory
 advocates
 aerie
+aersale
 affairs
 affected
 affecting
@@ -381,6 +459,7 @@ aj
 akivas
 al
 alabama
+alan
 alarm
 alaskan
 album
@@ -404,6 +483,7 @@ alien
 aliens
 alina
 alive
+alkami
 all
 all-black
 all-in-one
@@ -593,6 +673,7 @@ arts
 as
 asbury
 asean
+asha
 ashamed
 asia
 asian
@@ -610,6 +691,7 @@ assess
 assets
 assist
 associate
+associates
 association
 assures
 astra
@@ -676,6 +758,7 @@ awards
 away
 ax
 axe
+b
 ba
 babies
 baby
@@ -800,6 +883,7 @@ benjamin
 bennett
 benson
 berlin
+bermuda
 bernard
 bernice
 best
@@ -838,17 +922,20 @@ billion
 billion-dollar
 billionaire
 bills
+billy
 binance
 bingham
 bingoal
 biofuel
 biographer
+biomarin
 bipartisan
 biracial
 bird
 birds
 birks
 birthday
+birthdays
 bit
 bitcoin
 bites
@@ -927,6 +1014,7 @@ border
 borders
 bored
 borgata
+boris
 borno
 borromeo
 boseman
@@ -1078,6 +1166,7 @@ buzzkill
 by
 by-election
 bygone
+c
 cabinet
 cahill
 cairo
@@ -1141,6 +1230,7 @@ carjacking
 carlson
 carnage
 carolina
+carpenter
 carragher
 carrier
 carrollton
@@ -1150,6 +1240,7 @@ cars
 carson
 carter
 carts
+carvana
 cas
 case
 cases
@@ -1177,6 +1268,7 @@ cbd
 cbp
 cbs
 cd
+cda
 cdc
 cdphe
 cdu
@@ -1211,6 +1303,7 @@ ceremony
 certain
 certificate
 certificates
+cerus
 chad
 chadian
 chads
@@ -1268,9 +1361,11 @@ cheer
 cheering
 cheers
 chef
+chefs
 chelsea
 chemical
 chemical-attack
+chenming
 cher
 cherokee
 cherry
@@ -1391,6 +1486,7 @@ cnn
 co
 co-founder
 co-host
+co-invest
 co-leader
 co2
 coach
@@ -1407,6 +1503,8 @@ coffee
 cohens
 coin
 coinbase
+coinvest
+coinvestments
 coke
 coladas
 cold
@@ -1800,6 +1898,7 @@ deciding
 decision
 deck
 declares
+declaring
 decline
 declines
 decomposed
@@ -1866,6 +1965,7 @@ denton
 denver
 depart
 department
+depleted
 deplorable
 deploys
 deportation
@@ -1918,6 +2018,7 @@ developments
 device
 devices
 devils
+dewitt
 dfw
 di
 diabetes
@@ -2187,6 +2288,8 @@ effort
 efforts
 eftpos
 egypt
+ehrlichman
+ehrsam
 elated
 elderly
 eldest
@@ -2286,10 +2389,13 @@ equating
 equatorial
 equinox
 equipment
+equity
 era
 erdogans
 erect
 eres
+eric
+ernest
 eroding
 errant
 erupt
@@ -2354,6 +2460,7 @@ ex-president
 ex-soldiers
 ex-texas
 ex-vice
+ex-wife
 exam
 examiner
 excel
@@ -2377,6 +2484,7 @@ existed
 existential
 exit
 exits
+exlservice
 expanded
 expanding
 expands
@@ -2639,6 +2747,7 @@ force
 force-feeding
 forced
 forces
+ford
 forecast
 forecasters
 foreign
@@ -2685,6 +2794,7 @@ fraud
 fraudulent
 freak
 freaking
+frederick
 free
 freebies
 freedom
@@ -2719,6 +2829,7 @@ ft
 fueled
 fueling
 fuelling
+fuels
 fukushima
 full
 fully
@@ -2740,6 +2851,8 @@ future
 g80
 gabby
 gabe
+gabelli
+gabriel
 gaethje
 gain
 gained
@@ -2760,6 +2873,7 @@ garbage
 garca
 garcetti
 garcettis
+garcia
 garmin
 gary
 gas
@@ -2776,6 +2890,7 @@ gbi
 gear
 geary
 geeky
+gei
 geico
 geim
 gem
@@ -2790,6 +2905,7 @@ generations
 genesis
 genius
 genocide
+genpar
 gentle
 gentlemen
 gentrification
@@ -2867,6 +2983,7 @@ governments
 governor
 govt
 goyal
+gp
 gps
 grab
 grace
@@ -2895,6 +3012,7 @@ green
 greener
 greenes
 greenhouse
+greenman
 greensill
 greg
 grenadines
@@ -3051,6 +3169,7 @@ heavy
 hedge
 hegemony
 heights
+heimbigner
 heist
 held
 helen
@@ -3117,6 +3236,7 @@ hockey
 hofdemel
 hold
 holding
+holdings
 holdouts
 holiday
 holidays
@@ -3179,6 +3299,7 @@ howie
 hrs
 hs
 https
+hu
 hub
 hubert
 huge
@@ -3340,6 +3461,7 @@ inmates
 innovation
 inoculated
 inoculation
+inphi
 inquiry
 insane
 insensitive
@@ -3442,6 +3564,7 @@ israeli
 issuance
 issue
 issued
+issuer
 issues
 issuing
 it
@@ -3452,6 +3575,7 @@ items
 itno
 its
 itself
+iv
 ivan
 ive
 j
@@ -3492,12 +3616,14 @@ jeep
 jeff
 jeffrey
 jeffries
+jen
 jenny
 jeopardy
 jeremiah
 jersey
 jessie
 jesus
+jetley
 jets
 jewish
 jharkhand
@@ -3572,6 +3698,7 @@ kadyrovs
 kai
 kale
 kaley
+kamala
 kanga
 kangaroos
 kansas
@@ -3617,6 +3744,7 @@ killings
 kills
 kilo
 kim
+kimmel
 kincade
 kind
 kindness
@@ -3624,6 +3752,7 @@ king
 kings
 kingsmens
 kintsugi
+kirton
 kitsch
 klinghoffer
 klobuchar
@@ -3652,13 +3781,16 @@ kpk
 kremlin
 kremlins
 kristin
+kuni
 kurt
+kurtzweil
 kushner
 kwame
 kweli
 kwity
 ky
 kyle
+l
 l1
 l2
 la
@@ -3773,6 +3905,7 @@ levels
 leverkusen
 lewis
 lgbt
+lgp
 li
 liabilities
 liam
@@ -3787,6 +3920,7 @@ libya
 libyas
 license
 licenses
+liddle
 lie
 lied
 lies
@@ -3818,6 +3952,7 @@ limo
 lincoln
 linda
 lindborg
+lindell
 lindo
 line
 line-up
@@ -3846,6 +3981,7 @@ liverpool
 lives
 living
 liz
+llc
 loaf
 loafs
 lobbied
@@ -3878,6 +4014,7 @@ loom
 looming
 looms
 lopez
+loren
 lori
 los
 lose
@@ -3902,8 +4039,10 @@ lower
 lowered
 lowest
 lowkey
+lp
 lsa-powered
 lt
+ltd
 lucinda
 lucky
 ludicrous
@@ -3914,6 +4053,7 @@ luminaries
 lunch
 lung
 lurie
+lux
 luxury
 lyft
 lying
@@ -3999,6 +4139,7 @@ mariana
 marib
 marijuana
 marin
+mariner
 mariners
 marion
 marjorie
@@ -4013,6 +4154,7 @@ marmont
 mars
 marsh
 marshawn
+martin
 marvel
 marvels
 maryland
@@ -4029,8 +4171,10 @@ matching
 mateo
 material
 materials
+matt
 matter
 mattered
+matthew
 mauled
 mavericks
 max
@@ -4045,13 +4189,16 @@ mcas
 mccann
 mccarthy
 mccartney
+mccauley
 mccrory
 mcdermott
 mcdonalds
 mcdowell
+mcfarland
 mcgregor
 mcmaster
 mcmullen
+mcwilliams
 mdh
 me
 mean
@@ -4285,9 +4432,11 @@ musk
 musks
 muslims
 must
+mutual
 mvp
 my
 myanmar
+mymd
 mystery
 mythic
 mythology
@@ -4297,6 +4446,7 @@ naacp
 nab
 nadals
 nails
+nakamura
 naked
 name
 named
@@ -4332,6 +4482,7 @@ nba
 nbc
 ncaa
 ndrangheta
+neagle
 near
 nearly
 nears
@@ -4354,6 +4505,7 @@ nesting
 net
 netflix
 netflixs
+nets
 network
 networks
 neurological
@@ -4521,6 +4673,7 @@ operational
 operator
 opinion
 opinions
+opportunities
 opportunity
 opposition
 optima
@@ -4699,6 +4852,7 @@ peaky
 pearl
 pedestrian
 pedro
+pelicans
 pelosi
 peloton
 peloton-worthy
@@ -4745,6 +4899,8 @@ pets
 pfizer
 pga
 pge
+pharmaceutical
+pharmaceuticals
 phase
 pheidippides
 phi
@@ -4772,6 +4928,7 @@ physically
 pi
 pia
 pick
+pickerill
 picks
 pics
 pictures
@@ -4880,10 +5037,12 @@ poppy
 popular
 population
 populous
+porch
 port
 portage
 portal
 ported
+portland
 portraits
 portrayal
 poses
@@ -4921,6 +5080,7 @@ praise
 praises
 pranks
 pratchetts
+pratt
 pray
 prayer
 praying
@@ -5038,6 +5198,7 @@ prowses
 proxy
 prs
 psa
+psaki
 psg
 ptsd
 pub
@@ -5227,6 +5388,7 @@ recount
 recovering
 recovery
 recruited
+recursion
 recuse
 recyclable
 recycle
@@ -5444,6 +5606,7 @@ risotto
 ritratti
 rival
 rivals
+rivard
 river
 rivers
 riverside
@@ -5493,6 +5656,7 @@ roommates
 roosevelt
 rootsy
 rosa
+rosati
 rosatom
 rose
 roseman
@@ -5515,6 +5679,7 @@ rsf
 rts
 rudimentary
 rudin
+ruehle
 rugby
 ruin
 ruining
@@ -5550,6 +5715,7 @@ s8
 sabotage
 sabres
 sacking
+sacramento
 sacramento-area
 sacred
 sacrificing
@@ -5569,6 +5735,7 @@ sale
 sales
 salford
 salvador
+sam
 same
 same-sex
 sammi
@@ -5621,7 +5788,9 @@ schedules
 school
 schoolchildren
 schools
+schroeder
 schumer
+sciences
 scientist
 scientists
 score
@@ -5640,6 +5809,7 @@ screens
 script
 scrutiny
 scs
+scsp
 scuffle
 sea
 sean
@@ -5674,6 +5844,7 @@ seeks
 seems
 seen
 sees
+seiffer
 seize
 seizing
 seizures
@@ -5748,6 +5919,7 @@ shared
 shareholder
 shares
 sharing
+sharma
 sharon
 sharp
 sharpton
@@ -5832,6 +6004,7 @@ significant
 signs
 silence
 silicon
+silverman
 simkhai
 simmons
 simon
@@ -5874,6 +6047,7 @@ skullduggery
 sky
 skydiver
 skys
+skywater
 slack
 slam
 slammed
@@ -5954,6 +6128,7 @@ some
 someone
 sometimes
 son
+sonderman
 song
 songbirds
 songs
@@ -6039,6 +6214,7 @@ springtime
 spur
 spurs
 sputnik
+spv
 spy
 spying
 sq
@@ -6047,6 +6223,7 @@ squads
 square
 square-foot
 squeak
+srinivasan
 sserwadda
 st
 stabbed
@@ -6325,6 +6502,7 @@ talk
 talking
 talks
 tame
+tamer
 tampa
 tanah
 tangled
@@ -6345,6 +6523,7 @@ tata
 tatters
 tattoo
 taught
+tauriga
 tax
 taylor
 tea
@@ -6368,6 +6547,7 @@ teeth
 tegnell
 teigens
 telekom
+televised
 tell
 telling
 tells
@@ -6748,6 +6928,7 @@ unsecured
 unstuck
 unsubstantiated
 unt
+unterseher
 until
 untold
 unusual
@@ -6787,6 +6968,7 @@ using
 usually
 usuk
 utd
+utility
 uttar
 uzoka
 v
@@ -6825,7 +7007,10 @@ vehicles
 veiled
 venezuela
 venmo
+venture
+ventures
 venues
+verde
 verdict
 verdicts
 versions
@@ -6879,6 +7064,7 @@ visit
 visits
 visuals
 vittorio
+vivek
 vocabulary
 voice
 voices
@@ -6980,6 +7166,7 @@ welcomes
 well
 welsh
 wen
+wendi
 went
 wentz
 were
