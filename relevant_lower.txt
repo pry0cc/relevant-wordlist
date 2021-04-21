@@ -102,6 +102,7 @@
 28
 28m
 29
+29155
 2nd
 2tn
 3
@@ -436,6 +437,7 @@ apples
 applied
 appointment
 appointments
+appoints
 approves
 apps
 april
@@ -462,6 +464,7 @@ arkansas
 arlo
 arm
 armed
+armin
 armored
 army
 around
@@ -484,6 +487,7 @@ ashamed
 asia
 asian
 asked
+assassinations
 assault
 assaulting
 assess
@@ -647,6 +651,7 @@ below
 ben
 benedict
 benefit
+benefits
 benjamin
 bennett
 benson
@@ -656,6 +661,7 @@ best
 best-before
 bet
 bethlehem
+betrayal
 better
 between
 beverly
@@ -718,6 +724,7 @@ blocked
 blocks
 blood
 bloom
+blow
 blows
 blue
 blueprints
@@ -964,6 +971,7 @@ cbs
 cd
 cdc
 cdphe
+cdu
 ceaser
 celebrate
 celebrated
@@ -1147,6 +1155,7 @@ cnn
 co
 co-founder
 co-host
+co2
 coach
 coal
 cobra
@@ -1346,6 +1355,7 @@ cream
 creamery
 create
 creating
+creation
 creative
 credit
 credited
@@ -1413,6 +1423,7 @@ cyber
 cyberattack
 cybersecurity
 cynthia
+czech
 d203
 da
 dad
@@ -1470,6 +1481,7 @@ decade
 decades
 decades-long
 decide
+decides
 deciding
 decision
 deck
@@ -1489,6 +1501,7 @@ defenses
 defensive
 defi
 defied
+define
 defining
 degrom
 dekalb
@@ -1553,6 +1566,8 @@ detecting
 detective
 detectives
 detention
+deter
+deterioration
 detoured
 detroit
 deutsche
@@ -1572,6 +1587,7 @@ diamond-encrusted
 diane
 dianna
 diaper
+diaz-canel
 dice
 dicky
 did
@@ -1883,6 +1899,7 @@ et
 ethernetip
 ethics
 ethiopias
+ethnic
 eu
 eugene
 eureka
@@ -1917,6 +1934,7 @@ ex-cop
 ex-england
 ex-girlfriend
 ex-officer
+ex-police
 ex-president
 ex-soldiers
 ex-texas
@@ -2295,7 +2313,9 @@ george
 georgetown
 georgia
 georgias
+german
 germany
+germanys
 gestapo
 get
 gets
@@ -2620,8 +2640,10 @@ hulbert
 hull
 hulus
 human
+humanity
 hundreds
 hunger
+hunger-striking
 hunt
 hunter
 hunting
@@ -2676,6 +2698,7 @@ imbalance
 immigrant
 immigrants
 immigration
+imminent
 immunity
 immunize
 immunosuppressant
@@ -2915,6 +2938,7 @@ jumping
 jumps
 june
 jungle
+junta
 jupiters
 jurors
 jury
@@ -2931,6 +2955,7 @@ kaley
 kanga
 kansas
 kaplers
+karen
 kate
 kayden
 keep
@@ -3019,6 +3044,7 @@ languishing
 lapd
 largest
 las
+laschet
 last
 last-place
 lasting
@@ -3365,6 +3391,7 @@ mercury
 mercy
 merger
 merkel
+merkels
 merrillville
 mesa
 message
@@ -3476,6 +3503,7 @@ morrissey
 morrissey-inspired
 morrisseys
 mortgage
+moscow
 moses
 most
 mosuls
@@ -3754,6 +3782,7 @@ outrage
 outrageous
 outreach
 outside
+outweigh
 over
 over-unders
 overlap
@@ -4244,6 +4273,7 @@ rat
 rate
 rather
 rattled
+raul
 rce
 re-elected
 re-introduces
@@ -4272,6 +4302,7 @@ reasons
 reassess
 rebecca
 rebels
+rebound
 rebounds
 rebuke
 rebukes
@@ -4375,6 +4406,7 @@ reparations
 repeal
 repeatedly
 replace
+replacing
 replica
 report
 reported
@@ -4384,6 +4416,7 @@ reporting
 reports
 reprogram
 reps
+republic
 republican
 republicans
 repurpose
@@ -4532,6 +4565,7 @@ routes
 row
 rowhammer
 royal
+rsf
 rudimentary
 rudin
 ruin
@@ -4559,6 +4593,7 @@ ruth
 rwandan
 ryan
 s
+sabotage
 sabres
 sacramento-area
 sacred
@@ -4616,6 +4651,7 @@ scarlett
 scary
 scene
 scenes
+sceptical
 schedules
 school
 schools
@@ -4650,6 +4686,7 @@ seat
 seattle
 second
 second-degree
+second-highest
 seconds
 secret
 secretary
@@ -4888,6 +4925,7 @@ solar
 solarwinds
 solarwinds-style
 sold
+soldiers
 soliciting
 solve
 some
@@ -4928,6 +4966,7 @@ sparks
 speak
 speaks
 special
+specialising
 specialty
 species
 speech
@@ -4940,6 +4979,7 @@ spending
 spends
 spice
 spider
+spies
 spike
 spin
 spiritual
@@ -5091,6 +5131,7 @@ subway
 success
 successful
 successfully
+successor
 such
 sucker
 sue
@@ -5249,6 +5290,7 @@ tempted
 tenerife
 tens
 tense
+tensions
 tequila
 terence
 term
@@ -5403,6 +5445,7 @@ tranmere
 trans
 transactions
 transcript
+transfer
 transferred
 transformed
 transforming
@@ -5491,6 +5534,7 @@ uefa
 ugandan
 uk
 ukraine
+ukrainian
 ultimate
 ultimately
 umass
@@ -5699,6 +5743,7 @@ was
 washington
 wasnt
 watch
+watchdog
 watched
 watching
 water
@@ -5738,6 +5783,7 @@ went
 wentz
 were
 west
+western
 westside
 wework
 wfh

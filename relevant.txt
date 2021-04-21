@@ -103,6 +103,7 @@
 28
 28M
 29
+29155
 2nd
 2tn
 3
@@ -389,6 +390,7 @@ Arizona
 Arkansas
 Arlo
 Arm
+Armin
 Armored
 Army
 Around
@@ -709,8 +711,10 @@ CBS
 CD
 CDC
 CDPHE
+CDU
 CEO
 CNN
+CO2
 COIN
 COVID
 COVID-19
@@ -1097,6 +1101,7 @@ Cyber
 Cyberattack
 Cybersecurity
 Cynthia
+Czech
 D203
 DA
 DC
@@ -1211,6 +1216,7 @@ Devils
 Diane
 Dianna
 Diaper
+Diaz-Canel
 Dice
 Dicky
 Did
@@ -1296,6 +1302,7 @@ Draft
 Dragging
 Dragons
 Drakeo
+Dramatic
 Drawing
 Dread
 Dream
@@ -1728,7 +1735,9 @@ George
 Georgetown
 Georgia
 Georgias
+German
 Germany
+Germanys
 Gestapo
 Get
 Gets
@@ -2207,6 +2216,7 @@ Kaley
 Kanga
 Kansas
 Kaplers
+Karen
 Kate
 Kayden
 Keep
@@ -2289,6 +2299,7 @@ Landlord
 Language
 Languishing
 Las
+Laschet
 Last
 Last-place
 Late
@@ -2573,6 +2584,7 @@ Mercer
 Mercury
 Mercy
 Merkel
+Merkels
 Merrillville
 Mesa
 Message
@@ -2658,6 +2670,7 @@ Morrissey
 Morrissey-Inspired
 Morrisseys
 Mortgage
+Moscow
 Moses
 Most
 Mosuls
@@ -2897,6 +2910,7 @@ Padres
 Pageau
 Pages
 Paid
+Painfully
 Pakistan
 Pakistani
 Palma
@@ -3183,6 +3197,7 @@ READERS
 REVEAL
 REvil
 RFU
+RSF
 Race
 Rachel
 Racial
@@ -3219,6 +3234,7 @@ Rask
 Raspberry
 Rate
 Rattled
+Raul
 Re-Sign
 Re-release
 React
@@ -3312,6 +3328,7 @@ Reporter
 Reports
 Reprogram
 Reps
+Republic
 Republican
 Republicans
 Repurpose
@@ -4105,6 +4122,7 @@ Uber
 Ubisoft
 Ugandan
 Ukraine
+Ukrainian
 Ultimate
 Ultimately
 Unaccompanied
@@ -4121,6 +4139,7 @@ Unfortunately
 Union
 Unions
 Uniswaps
+Unit
 United
 University
 Unknown
@@ -4299,6 +4318,7 @@ Went
 Wentz
 Were
 West
+Western
 Westside
 Whale
 What
@@ -4543,6 +4563,7 @@ appears
 appellate
 applaud
 appointment
+appoints
 approves
 architects
 are
@@ -4561,6 +4582,7 @@ artist
 as
 ashamed
 asked
+assassinations
 assault
 assaulting
 assess
@@ -4645,8 +4667,10 @@ believe
 believed
 below
 benefit
+benefits
 best
 best-before
+betrayal
 better
 bicycle
 bid
@@ -4679,6 +4703,7 @@ blockchain
 blocks
 blood
 bloom
+blow
 blows
 blue
 blueprints
@@ -4976,6 +5001,7 @@ crash
 crashes
 cream
 creamery
+creation
 credit
 credited
 credits
@@ -5036,6 +5062,7 @@ decade
 decades
 decades-long
 decide
+decides
 deciding
 decision
 deck
@@ -5049,10 +5076,12 @@ deeply
 defeat
 defense
 defenses
+define
 defining
 delay
 delayed
 delays
+deliberations
 deluge
 demand
 dementia
@@ -5077,6 +5106,8 @@ details
 detain
 detective
 detectives
+deter
+deterioration
 developer
 device
 di
@@ -5228,6 +5259,7 @@ estate
 estimates
 estranged
 ethics
+ethnic
 evacuate
 evacuated
 evacuations
@@ -5244,6 +5276,7 @@ evolution
 ex-communications
 ex-cop
 ex-girlfriend
+ex-police
 ex-president
 ex-soldiers
 excessive
@@ -5389,6 +5422,7 @@ fraud
 freaking
 free
 freebies
+freedom
 freely
 frees
 freeze
@@ -5601,6 +5635,9 @@ how
 hub
 huge
 human
+humanity
+hunger
+hunger-striking
 hunt
 hurls
 hurt
@@ -5626,6 +5663,7 @@ images
 imbalance
 immigrant
 immigrants
+imminent
 immunity
 immunize
 impetus
@@ -5709,6 +5747,7 @@ joyfully
 judge
 jumps
 jungle
+junta
 jurors
 jury
 just
@@ -5940,6 +5979,7 @@ mushrooms
 music
 musical
 musicians
+must
 my
 mystery
 name
@@ -6055,6 +6095,7 @@ outdoor
 outer
 outrageous
 outside
+outweigh
 over
 over-unders
 overlap
@@ -6200,6 +6241,7 @@ presidential
 presidents
 press
 pressed
+pressure
 previews
 price
 prices
@@ -6308,6 +6350,7 @@ ready
 real
 really
 rebels
+rebound
 rebounds
 rebuke
 recall
@@ -6359,6 +6402,7 @@ reopening
 reopenings
 reopens
 reparations
+replacing
 report
 reported
 reportedly
@@ -6444,6 +6488,7 @@ run
 runners
 running
 rusher
+sabotage
 sacrificing
 saddened
 safe
@@ -6453,6 +6498,7 @@ said
 sale
 sales
 same
+sanctions
 sandwich
 satellites
 sauce
@@ -6465,6 +6511,7 @@ says
 scaled-back
 scary
 scenes
+sceptical
 school
 schools
 scientists
@@ -6480,6 +6527,7 @@ season
 seasons
 second
 second-degree
+second-highest
 secret
 secretary
 secularism
@@ -6610,6 +6658,7 @@ social
 socialist
 softer
 sold
+soldiers
 solve
 some
 son
@@ -6627,12 +6676,14 @@ sparks
 speak
 speaks
 special
+specialising
 specialty
 species
 speed
 spend
 spending
 spends
+spies
 spike
 spiritual
 spitting
@@ -6725,6 +6776,7 @@ suburbs
 success
 successful
 successfully
+successor
 such
 sues
 suffered
@@ -6805,6 +6857,7 @@ temporarily
 temporary
 tempted
 tense
+tensions
 term
 test
 testing
@@ -6883,6 +6936,7 @@ train
 training
 trans
 transactions
+transfer
 transferred
 transformed
 trauma
@@ -7026,6 +7080,7 @@ wars
 was
 wasnt
 watch
+watchdog
 watched
 waters
 wave
