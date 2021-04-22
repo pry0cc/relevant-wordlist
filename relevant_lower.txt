@@ -725,11 +725,13 @@
 115330
 116
 116-113
+117-105
 118
 1189
 119
 119-111
 119-114
+1199seiu
 11th
 12
 12-18
@@ -756,6 +758,7 @@
 125
 1263
 1265
+127
 127-115
 127-117
 128
@@ -774,6 +777,7 @@
 134-129
 13500
 135000
+137
 1370
 139-137
 13d
@@ -1083,6 +1087,7 @@
 250000
 250k
 250m
+252
 253g2
 254
 257
@@ -1160,6 +1165,7 @@
 30th
 31
 312555
+314k
 316m
 32
 32000
@@ -1417,6 +1423,7 @@
 7-year-old
 70
 700
+700-meter-deep
 700-plus
 7000
 700000
@@ -1491,6 +1498,7 @@
 9
 9-1-1
 9-2
+9-8
 9-game
 9-inning
 9-year-old
@@ -1638,6 +1646,7 @@ accidental
 accidentally
 accidently
 accidents
+acclaim
 acclaimed
 accord
 according
@@ -1754,6 +1763,8 @@ adhd
 adhere
 adidas
 adil
+adile
+adirondack
 adjourns
 adjust
 adjustable
@@ -2020,6 +2031,7 @@ alex
 alexa
 alexandar
 alexander
+alexandra
 alexandria
 alexei
 alexey
@@ -2181,6 +2193,7 @@ amila
 amin
 amirsoleimani
 amish
+amit
 amlia
 ammonia
 ammunition
@@ -2262,6 +2275,7 @@ anheuser
 anheuser-
 anheuser-busch
 anhui
+anidex
 anil
 animal
 animal-testing
@@ -2328,6 +2342,7 @@ anti-doxxing
 anti-france
 anti-hate
 anti-immigration
+anti-israel
 anti-lgbtq
 anti-opec
 anti-police
@@ -2463,6 +2478,7 @@ aquariums
 ar-15
 arab
 arabia
+arad
 arai
 aram
 arapahoe
@@ -3277,6 +3293,7 @@ bernice
 bernie
 berry
 bertans
+berth
 bertolini
 bertrando
 beside
@@ -3396,6 +3413,7 @@ bills
 billy
 biltmores
 bimbam
+bin
 binance
 binanceus
 binational
@@ -3443,6 +3461,7 @@ bison
 bisons
 bit
 bitcoin
+bitcoiners
 bitcoins
 bitcointhis
 bite
@@ -3466,6 +3485,7 @@ black-owned
 blackburn
 blackhawk
 blackhawks
+blackledge
 blackline
 blacklisted
 blackmail
@@ -3796,6 +3816,7 @@ branislav
 bransford
 branson
 brant
+brantley
 bras
 brasil
 brass
@@ -4458,6 +4479,7 @@ castellanos
 casting
 castle
 castles
+castorena
 castro
 castros
 casts
@@ -4533,6 +4555,7 @@ ccrh
 cd
 cda
 cdc
+cdiz
 cdphe
 cdu
 cducsu
@@ -4826,6 +4849,7 @@ chipotle
 chipotles
 chips
 chiron
+chisora
 chisty
 chithiram
 chivalry
@@ -4924,6 +4948,7 @@ cinematic
 cinematographer
 cinerama
 cineramas
+cinerea
 cinereobrunneus
 cink
 cink-cess
@@ -5035,6 +5060,7 @@ climb
 climbdown
 climbing
 clinch
+clinches
 cline
 clings
 clinic
@@ -5092,6 +5118,7 @@ clyde
 cm
 cmmc
 cn
+cna
 cnn
 cnns
 co
@@ -5288,6 +5315,7 @@ commodity
 common
 commonly
 commonwealth
+commowealth
 communal
 communaut
 communications
@@ -5467,6 +5495,7 @@ consoles
 consolidate
 consolidated
 consolidating
+consortium
 conspiracies
 conspiracy
 constana
@@ -6416,6 +6445,7 @@ demolished
 demolition
 demon
 demonetises
+demonetization
 demonetized
 demonetizes
 demonizing
@@ -6850,6 +6880,7 @@ disqualify
 disquiet
 disregard
 disrespect
+disrobed
 disrupted
 disruption
 disruptions
@@ -6879,6 +6910,7 @@ disturbing
 ditch
 ditched
 ditches
+ditching
 dithering
 ditrapano
 ditylum
@@ -7125,6 +7157,7 @@ dries
 drill
 drills
 drink
+drinker
 drinking
 drinks
 drip
@@ -7809,6 +7842,7 @@ ettens
 eu
 eugene
 eul-bun
+eulogized
 eulogy
 euphoria
 eureka
@@ -7870,6 +7904,7 @@ evicted
 eviction
 evictions
 evidence
+evidentiary
 evil
 evket
 evolution
@@ -7968,6 +8003,7 @@ excuses
 exec
 execs
 executed
+executing
 execution
 executioners
 executions
@@ -8177,6 +8213,7 @@ falling
 fallout
 falls
 false
+falsehoods
 falsified
 faltering
 falters
@@ -8192,6 +8229,7 @@ familys
 famine
 famous
 fan
+fanciest
 fandom
 fanduel
 fang
@@ -8285,6 +8323,7 @@ feared
 fearful
 fearfully
 fearing
+fearlessly
 fearmongering
 fears
 feast
@@ -8365,6 +8404,7 @@ fertility
 festival
 festivals
 fetal
+fetches
 fettuccine
 feud
 feuding
@@ -8573,6 +8613,7 @@ flies
 flight
 flights
 flings
+flink
 flint
 flip
 flipflop
@@ -8935,6 +8976,7 @@ funeral
 funerals
 funfetti
 fungi
+funimation
 funnels
 funnier
 funny
@@ -9009,6 +9051,8 @@ gambit
 gamble
 gambling
 game
+game-ending
+gameplay
 games
 gamestop
 gaming
@@ -9266,6 +9310,7 @@ glandas
 glanville
 glass
 glasses
+glaze
 glazed
 glazer
 glazers
@@ -9373,6 +9418,7 @@ gordie
 gordon
 gorgeous
 gorgo
+gorham
 gos
 gosar
 goshis
@@ -9616,6 +9662,7 @@ guides
 guidoni
 guidry
 guild
+guildford
 guilfoyle
 guilherme
 guillen
@@ -9739,6 +9786,7 @@ half
 half-brother
 half-million
 half-pound
+halfway
 hall
 hallbck
 hallelujah
@@ -9995,6 +10043,7 @@ heavily
 heavy
 heavyweight
 heba
+hebru
 hecarim
 heckles
 hed
@@ -10103,6 +10152,7 @@ hfpa
 hhs
 hi-res
 hibbertia
+hibiki
 hibs
 hickerson
 hickey
@@ -10303,6 +10353,7 @@ hopkins
 hopkinton
 horace
 horchata
+horikoshi
 horizon
 horn
 horneri
@@ -10365,6 +10416,7 @@ housed
 household
 households
 houseplant
+houseplants
 houses
 housewives
 housework
@@ -10606,6 +10658,7 @@ iii
 ike
 ikea
 ikeas
+ikon
 il
 ilana
 ilhan
@@ -11236,6 +11289,7 @@ japanese
 japans
 japantown
 jared
+jaren
 jari
 jarl
 jarnkrok
@@ -11684,6 +11738,7 @@ khao
 khasarwara
 khashoggi
 khat
+khater
 khatme
 khazar
 khetan
@@ -11744,6 +11799,7 @@ kintsugi
 kinzinger
 kiper
 kipling
+kiprizov
 kirby
 kirkconnell
 kirnan
@@ -11820,6 +11876,7 @@ koch
 kod
 koda
 kody
+koehler
 koeman
 kohls
 kohu
@@ -11852,6 +11909,7 @@ koruma
 korzo
 kosteks
 kosterin
+kosuke
 kourtney
 kp
 kpk
@@ -12146,6 +12204,7 @@ leann
 learn
 learned
 learning
+learns
 learnt
 lease
 leash
@@ -12191,6 +12250,7 @@ legacy
 legacybox
 legal
 legal-ish
+legalising
 legalization
 legalize
 legalizing
@@ -12235,6 +12295,7 @@ lengthy
 lenin
 lennon
 lennox
+lenwood
 leo
 leon
 leonard
@@ -12481,6 +12542,7 @@ lizzo
 lizzos
 lizzy
 ljay
+ljubo
 llama
 llc
 llorente
@@ -13299,6 +13361,7 @@ mel
 melania
 melbourne
 melimoyu
+melina
 melis
 melissa
 melobosis
@@ -13339,6 +13402,7 @@ menestho
 menezes
 meng
 mengert
+meniscus
 menlo
 mens
 mensah
@@ -13609,6 +13673,7 @@ misinformation
 misleading
 misogynistic
 mispila
+misplace
 miss
 missed
 misses
@@ -13909,6 +13974,7 @@ mtes
 mtgs
 mtv
 mu
+mubarak
 much
 much-needed
 mud
@@ -14003,6 +14069,7 @@ muslims
 musso
 must
 must-have
+must-read
 must-see
 mustache
 mustafayeva
@@ -14095,6 +14162,7 @@ napheesa
 napkins
 napoleon
 napping
+narasimha
 narcotics
 nard
 nardini
@@ -14244,6 +14312,7 @@ ness
 nest
 nesting
 nestl
+nestle
 net
 net-zero
 netanyahu
@@ -14355,6 +14424,7 @@ nightlife
 nightmare
 nightmares
 nights
+nigohan
 nihal
 nike
 nikkei
@@ -14605,6 +14675,7 @@ obama
 obamas
 obchodni
 obeaux
+oberhofer
 obermiller
 obituary
 objections
@@ -14699,6 +14770,7 @@ ohrid
 ohtani
 ohtanis
 oil
+oil-backed
 oilers
 oilfield
 oils
@@ -14866,6 +14938,7 @@ orbs
 orchester
 orchestra
 orchestrating
+ordeal
 order
 ordered
 ordering
@@ -14885,6 +14958,7 @@ organizational
 organizations
 organize
 organized
+organizer
 organizers
 organizing
 orgs
@@ -14983,6 +15057,7 @@ outreach
 outset
 outside
 outskirts
+outslug
 outspoken
 outstanding
 outstripping
@@ -15155,6 +15230,7 @@ panel
 panels
 panettieres
 pangaea
+pani
 panic
 panmod
 panned
@@ -15688,6 +15764,7 @@ pkr
 pl
 place
 placed
+placement
 placements
 placerville
 places
@@ -15747,6 +15824,7 @@ playland
 playlist
 playlists
 playoff
+playoff-bound
 playoffs
 plays
 playstation
@@ -16282,6 +16360,7 @@ promoting
 promotion
 promotions
 prompt
+prompted
 prompting
 prompts
 proms
@@ -16696,6 +16775,7 @@ rare
 rarri
 rasa
 rashawn
+rashid
 rashida
 rasika
 rask
@@ -17956,6 +18036,7 @@ samson
 samsung
 samsungs
 samuel
+samurai
 san
 sanat
 sanchezs
@@ -17990,6 +18071,7 @@ santander
 santiago
 santos
 sao
+sap
 sapphire
 sapping
 saquon
@@ -18288,6 +18370,7 @@ seized
 seizing
 seizure
 seizures
+selaheddin
 selby
 select
 selected
@@ -18435,6 +18518,7 @@ sf
 sfc
 sfntu
 sfpoa
+sfr
 sfusd
 sh
 sh-288
@@ -18444,6 +18528,7 @@ shackling
 shaded
 shades
 shadow
+shadowbans
 shadowlands
 shadows
 shadowy
@@ -18495,6 +18580,7 @@ sharks
 sharma
 sharon
 sharp
+sharpe
 sharply
 sharpton
 shasta
@@ -18576,6 +18662,7 @@ shockers
 shocking
 shockingly
 shoddy
+shodown
 shoe
 shoes
 shoeshine
@@ -18645,6 +18732,7 @@ shrikrishna
 shrine
 shrinks
 shrout
+shrug
 shrugs
 shtisel
 shukre
@@ -18682,6 +18770,7 @@ side
 sidelined
 sidelines
 sides
+sideshow
 sideshows
 sidewalk
 sidewalks
@@ -18975,6 +19064,7 @@ smooth
 smoothie
 smucker
 smuggle
+smugglers
 smuggling
 smythe
 sn-mgir
@@ -19003,6 +19093,7 @@ sniff
 snipes
 snippe
 snitker
+snk
 snobbiest
 snooker
 snoop
@@ -19081,6 +19172,7 @@ solidified
 solidonia
 solis
 solitary
+solo
 solution
 solutions
 solve
@@ -19406,6 +19498,7 @@ standing
 standings
 standoff
 standout
+standouts
 stands
 stanford
 stanisic
@@ -19614,6 +19707,7 @@ strategies
 strategist
 strategy
 straw
+strawberry
 strawberry-rhubarb
 straws
 stray
@@ -19799,6 +19893,7 @@ suki
 sukuk
 suleiman
 sullivan
+sultan
 sumayiyah
 sumichrast
 sumlut
@@ -19848,6 +19943,7 @@ superhero
 superintendent
 superior
 superleague
+superleagues
 supermarket
 supermarkets
 supermodel
@@ -20101,6 +20197,7 @@ taiwan
 taiwanese
 taiwans
 taj
+takane
 takata
 take
 take-off
@@ -20312,6 +20409,7 @@ tempeh
 temperature
 temperatures
 tempers
+tempest
 template
 temple
 temples
@@ -20779,6 +20877,7 @@ tp-link
 tpc
 tpg
 tpgs
+tracetogether
 tracetogether-only
 tracey
 tracii
@@ -21150,6 +21249,7 @@ ufo
 ufos
 ufp
 uft
+uganda
 ugandan
 uglier
 ugly
@@ -21564,6 +21664,7 @@ vax
 vaxxers
 vcs
 vct
+vedadri
 vedanta
 vega
 vegan
@@ -22098,6 +22199,7 @@ weld
 welding
 welfare
 well
+well-adjusted
 well-wishers
 weller
 wellness
@@ -22138,6 +22240,7 @@ wests
 westside
 westward
 wet
+weth
 weththasinghe
 wetrade
 wetter
@@ -22220,6 +22323,7 @@ wiener
 wife
 wifes
 wigan
+wigans
 wijeratne
 wiki
 wikileaks
@@ -22286,6 +22390,7 @@ winters
 wintrust
 wintry
 wipe
+wipes
 wire
 wired
 wireless
