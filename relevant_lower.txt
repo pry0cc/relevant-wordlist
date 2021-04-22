@@ -670,6 +670,7 @@
 10-man
 10-mans
 10-month
+10-plus
 10-q
 10-qa
 10-year
@@ -762,6 +763,7 @@
 127-115
 127-117
 128
+128-125
 128-127
 12th
 13
@@ -877,6 +879,7 @@
 19-year-old
 190
 1906
+1907
 1912
 1916
 1917
@@ -940,6 +943,7 @@
 1996
 1999
 19th
+1am
 1b
 1bn
 1m
@@ -1139,6 +1143,7 @@
 3-decade
 3-foot
 3-game
+3-hit
 3-month-old
 3-point
 3-row
@@ -1319,6 +1324,7 @@
 5000
 50000
 500k
+500m
 50831
 50b
 50k
@@ -2150,6 +2156,7 @@ always
 alx
 alysha
 am
+am-11
 amabile
 amache
 amagansett
@@ -2622,6 +2629,7 @@ ashamed
 ashcroft
 ashed
 asherie
+ashes
 ashey
 ashish
 ashley
@@ -2659,6 +2667,7 @@ assaults
 asseburg
 assembly
 assen
+asserts
 assess
 assessing
 assessment
@@ -2791,6 +2800,7 @@ australian
 australians
 australias
 austria
+austroplebeia
 auszeichnungen
 authentic
 author
@@ -2865,6 +2875,7 @@ axonics
 ayanashi
 ayanghosh
 ayanna
+ayans
 aydh
 ayesha
 ayman
@@ -3297,6 +3308,7 @@ berth
 bertolini
 bertrando
 beside
+bessell
 best
 best-before
 best-loved
@@ -3350,6 +3362,7 @@ bhutan
 bialik
 bianca
 biased
+biathlon
 bibipur
 bible
 biblical
@@ -3893,6 +3906,7 @@ brick
 brick-and-mortar
 bridal
 bride
+brides
 bridge
 bridgers
 bridgerton
@@ -4134,6 +4148,7 @@ busmaker
 bust
 busted
 buster
+busts
 bustso
 busy
 but
@@ -4147,6 +4162,8 @@ butterfield
 butterflies
 butterfly
 butters
+butting
+buttocks
 buy
 buy-on-board
 buy-rated
@@ -4484,6 +4501,7 @@ castro
 castros
 casts
 casual
+casualties
 cat
 cat-size
 catalan
@@ -5706,6 +5724,7 @@ counted
 counter
 counter-suit
 counterfeit
+counterforce
 counters
 countersues
 countess
@@ -6344,6 +6363,7 @@ defeat
 defeats
 defence
 defend
+defendant
 defendants
 defender
 defender-europe
@@ -6915,6 +6935,7 @@ dithering
 ditrapano
 ditylum
 dive
+diverging
 divers
 diverse
 diversified
@@ -7026,6 +7047,7 @@ donors
 dons
 dont
 donts
+donuts
 doobious
 doomed
 dooming
@@ -7126,6 +7148,7 @@ drama
 dramas
 dramatic
 drank
+draughts
 draw
 drawbridge
 drawing
@@ -7440,6 +7463,7 @@ eirwen
 eisenhower
 either
 ekanayake
+ekspress
 ekspress-a1r
 el
 elaphoglossum
@@ -7601,6 +7625,7 @@ en
 enable
 enabled
 enabling
+enacted
 encampment
 enclave
 encore
@@ -7838,6 +7863,7 @@ ethiopias
 ethnic
 etiquette
 etsy
+etten
 ettens
 eu
 eugene
@@ -7962,6 +7988,7 @@ ex-president
 ex-presidents
 ex-raider
 ex-raiders
+ex-reddit
 ex-sheriffs
 ex-soldiers
 ex-south
@@ -8110,6 +8137,7 @@ extension
 extensions
 extent
 extinguish
+extinguished
 extort
 extortion
 extra
@@ -8357,6 +8385,7 @@ feelings
 feels
 fees
 feet
+fei
 fein
 feinsteins
 feitong
@@ -8633,6 +8662,7 @@ flooding
 floods
 floor
 floorball
+floored
 floors
 flop
 floppy
@@ -9303,6 +9333,7 @@ giving
 glacially
 glad
 gladiatrix
+gladwell
 glamorgan
 glamorous
 glamour
@@ -9457,6 +9488,7 @@ grabbing
 grabs
 grace
 graceful
+graciela
 graco
 grad
 grade
@@ -9567,6 +9599,7 @@ greys
 greystone
 grid
 grief
+grieve
 grieves
 grieving
 griffin
@@ -9823,6 +9856,7 @@ hamza
 hancock
 hand
 hand-to-hand
+handball
 handcuffed
 handcuffing
 handcuffs
@@ -9943,6 +9977,7 @@ hateful
 hathaway
 hato
 hatred
+hats
 hauck
 hauksdttir
 haulers
@@ -10162,6 +10197,7 @@ hidden
 hide
 hides
 hiding
+hields
 higgins
 high
 high-class
@@ -10482,6 +10518,7 @@ hulus
 human
 human-animal
 humanist
+humanitarian
 humanitarianism
 humanitarians
 humanity
@@ -10648,9 +10685,11 @@ ignores
 ignoring
 igo
 igor
+iguana
 ihc
 iheanacho
 iheartmedia
+ihop
 ii
 ii-era
 iihf
@@ -10708,6 +10747,7 @@ immunization
 immunize
 immunome
 immunosuppressant
+imnkov
 imola
 imos
 impact
@@ -11160,6 +11200,7 @@ isdera
 ishak
 isi
 isidoro
+isil
 isils
 isis
 islamic
@@ -11205,6 +11246,7 @@ itno
 itoje
 its
 itself
+iturbides
 iv
 iva
 ivan
@@ -11562,12 +11604,14 @@ k
 k-8
 k-9
 k-pop
+k31
 k9
 kaaway
 kacey
 kachhiyana
 kacijanar
 kadavulailai
+kadievo
 kadyrovs
 kafer
 kagere
@@ -11923,6 +11967,7 @@ kravis
 kref
 krejci
 kreme
+kremes
 kremlin
 kremlins
 krents
@@ -12859,6 +12904,7 @@ maggiore
 magic
 magical
 magill
+magna
 magnificent
 magnipalpis
 magnitude
@@ -12997,6 +13043,7 @@ manon
 manpower
 manpowergroup
 mans
+manscaped
 mansfield
 mansion
 manslaughter
@@ -13105,6 +13152,7 @@ martial-guillaume-marie
 martin
 martina
 martinez
+martini-drinking
 martinique
 martins
 martnez
@@ -13286,6 +13334,7 @@ meal
 meal-prepping
 meals
 mean
+meaning
 meaningful
 meaningless
 means
@@ -13839,6 +13888,7 @@ moon
 moonlighting
 moore
 moores
+moorpark
 moors
 moot
 mop
@@ -13933,6 +13983,7 @@ mourinho-levy
 mourning
 mourns
 mouse
+mouth
 mouthwatering
 mouton
 move
@@ -14009,6 +14060,7 @@ multi-year
 multibillion-dollar
 multicolor
 multifamily
+multiloaded
 multimillion
 multiple
 multiply
@@ -14223,6 +14275,7 @@ nature
 naughty
 naureen
 nautical
+navajo
 naval
 navalny
 navalnys
@@ -14456,6 +14509,7 @@ nittany
 nix
 nixes
 nixon
+niyarat
 nj
 nketiah
 nkomonde
@@ -14467,6 +14521,7 @@ no-knock
 no-no
 no-nonsense
 no-prescription
+no1
 noaa
 noah
 nobel
@@ -14608,6 +14663,7 @@ nudges
 nugent
 nuggets
 nuke
+nukes
 nullarbor
 numb
 number
@@ -15213,6 +15269,7 @@ pamela
 pampers
 pan
 panama
+panamas
 pancakeswap
 panciera
 panda
@@ -15569,6 +15626,7 @@ persuading
 persuasion
 perth
 peru
+pervasive
 pesquet
 pest
 pesuthadi
@@ -15927,6 +15985,7 @@ politically
 politically-fueled
 politician
 politicians
+politico
 politics
 polk
 polkadot
@@ -16825,6 +16884,7 @@ re-dubbed
 re-elected
 re-election
 re-emerges
+re-engineering
 re-entry
 re-expose
 re-introduces
@@ -17186,6 +17246,7 @@ remember
 remembered
 remembering
 remembers
+remind
 reminded
 reminder
 reminders
@@ -17207,6 +17268,7 @@ removes
 rename
 renamed
 renames
+renault
 render
 rene
 renegade
@@ -17706,6 +17768,7 @@ roma
 romagna
 romain
 roman
+roman-vod
 romance
 romania
 romanian
@@ -17718,6 +17781,7 @@ romy
 ron
 ronald
 ronda
+rondale
 ronnie
 ronzone
 roof
@@ -18342,6 +18406,7 @@ secularism
 secure
 secured
 secures
+securing
 securities
 securitizer
 security
@@ -18536,6 +18601,8 @@ shady
 shaft
 shafts
 shah
+shahed
+shahedul
 shaheed
 shaina
 shaji
@@ -18605,6 +18672,7 @@ sheffield
 shefqet
 sheikha
 sheila
+sheitaan
 shelia
 shell
 shelley
@@ -18693,6 +18761,7 @@ shortage
 shortages
 shortcakes
 shortcomings
+shortfalls
 shorthanded
 shortly
 shorts
@@ -18737,6 +18806,7 @@ shrugs
 shtisel
 shukre
 shun
+shunta
 shuo
 shut
 shutdown
@@ -18827,6 +18897,7 @@ silverman
 silvermine
 silverthorne
 silverware
+silvia
 silvio
 simeon
 similar
@@ -18936,6 +19007,7 @@ skirts
 skokie
 skripal
 skripal-poisoners
+skull
 skullduggery
 skulls
 skupski
@@ -19394,6 +19466,7 @@ spots
 spotted
 spotty
 sprain
+sprained
 sprawls
 spray
 sprays
@@ -19419,6 +19492,7 @@ spv
 spy
 spyder
 spying
+spyware
 sq
 squabbles
 squad
@@ -19613,6 +19687,7 @@ stephens
 stepping
 steps
 steps-
+stereotypes
 sterling
 stern
 steroids
@@ -19713,6 +19788,7 @@ straws
 stray
 streak
 streaking
+streaks
 stream
 streamed
 streaming
@@ -19767,6 +19843,7 @@ stromans
 strommen
 strong
 stronger
+strongest
 strongly
 strongly-worded
 strongman
@@ -20109,6 +20186,7 @@ swinging
 swings
 swipe
 swipes
+swish
 swisher
 swiss
 switch
@@ -20506,6 +20584,7 @@ thailand8217s
 thailands
 thalloloma
 than
+thanawaikoses
 thank
 thank-you
 thankful
@@ -20641,6 +20720,7 @@ thune
 thursday
 thursday-friday
 thursdays
+thurston
 thusara
 thut
 thwart
@@ -20899,6 +20979,7 @@ traders
 trading
 traditional
 traditions
+trae
 traffic
 trafficked
 traffickers
@@ -20998,6 +21079,7 @@ treats
 treaty
 tree
 trees
+trejo
 trek
 trelowarren
 trench
@@ -21300,6 +21382,7 @@ uncomfortable
 unconstitutional
 unconventional
 uncovered
+uncovering
 uncovers
 uncut
 und
@@ -21464,6 +21547,7 @@ upheld
 uphill
 uphold
 upholds
+upiak
 upland
 uplift
 upper
@@ -21647,6 +21731,7 @@ variable
 variant
 variant-fueled
 variants
+variegatus
 variety
 varna
 vartan
@@ -22045,6 +22130,7 @@ warheads
 wariness
 warm
 warmer
+warmest
 warming
 warminster
 warmup
@@ -22214,6 +22300,7 @@ wendlandiana
 wendy
 went
 wentz
+wenyuan
 wenzeslaus
 werder
 were
@@ -22266,6 +22353,7 @@ wheelchair
 wheeled
 wheeler
 wheels
+wheen
 wheezing
 when
 where
@@ -22820,6 +22908,7 @@ zoo
 zoom
 zooming
 zoos
+zora
 zoysa
 zrchersmhle
 zuber

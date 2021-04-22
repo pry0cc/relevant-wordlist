@@ -669,6 +669,7 @@
 10-K
 10-KA
 10-Month
+10-Plus
 10-Q
 10-QA
 10-Year
@@ -769,6 +770,7 @@
 127-115
 127-117
 128
+128-125
 128-127
 12th
 13
@@ -890,6 +892,7 @@
 19-year-old
 190
 1906
+1907
 1912
 1916
 1917
@@ -956,6 +959,7 @@
 1B
 1M
 1Q
+1am
 1bn
 1m
 1st
@@ -1166,6 +1170,7 @@
 3-alarm
 3-day
 3-decade
+3-hit
 3-point
 3-row
 3-run
@@ -1345,6 +1350,7 @@
 5000
 50000
 500K
+500m
 50831
 50B
 50K
@@ -1633,6 +1639,7 @@ ALPHA
 ALTERITY
 ALX
 AM
+AM-11
 AMC
 AMERICA
 AMERICAN
@@ -2602,6 +2609,7 @@ Australian
 Australians
 Australias
 Austria
+Austroplebeia
 Auszeichnungen
 Authentic
 Author
@@ -2664,6 +2672,7 @@ Axonics
 Ayanashi
 Ayanghosh
 Ayanna
+Ayans
 Aydh
 Ayesha
 Ayman
@@ -2951,6 +2960,7 @@ Bearse
 Beasley
 Beat
 Beate
+Beating
 Beatles
 Beatport
 Beats
@@ -3056,6 +3066,7 @@ Berry
 Bertans
 Bertolini
 Bertrando
+Bessell
 Best
 Best-Positioned
 Best-Selling
@@ -3098,6 +3109,7 @@ Bhojpuri
 Bhutan
 Bialik
 Bianca
+Biathlon
 Bibipur
 Bible
 Biblical
@@ -3706,6 +3718,7 @@ Businessman
 Bust
 Busted
 Buster
+Busts
 But
 Butane
 Buthelezi
@@ -3717,6 +3730,7 @@ Butterfield
 Butterflies
 Butterfly
 Butters
+Butting
 Buy
 Buy-Rated
 Buyer
@@ -5955,6 +5969,7 @@ Donor
 Dons
 Dont
 Donts
+Donuts
 Doobious
 Doomed
 Dooming
@@ -6031,6 +6046,7 @@ Drakeo
 Drama
 Dramatic
 Drank
+Draughts
 Draw
 Drawbridge
 Drawing
@@ -6329,6 +6345,7 @@ Einstein
 Eirwen
 Eisenhower
 Ekanayake
+Ekspress
 Ekspress-A1R
 El
 Elaphoglossum
@@ -6446,6 +6463,7 @@ Empress
 Empty
 En
 Enabled
+Enacted
 Encore
 Encounter
 Encounters
@@ -6596,6 +6614,7 @@ Ethics
 Ethiopia
 Ethiopias
 Etiquette
+Etten
 Ettens
 Eugene
 Eul-bun
@@ -6677,6 +6696,7 @@ Ex-President
 Ex-Presidents
 Ex-Raider
 Ex-Raiders
+Ex-Reddit
 Ex-Texas
 Ex-UFC
 Ex-Vice
@@ -6998,6 +7018,7 @@ Feelings
 Feels
 Fees
 Feet
+Fei
 Fein
 Feinsteins
 Feitong
@@ -7761,6 +7782,7 @@ Give
 Given
 Gives
 Giving
+Gladwell
 Glamorgan
 Glamorous
 Glamour
@@ -7876,6 +7898,7 @@ Grab
 Grabban
 Grabs
 Grace
+Graciela
 Grade
 Grader
 Gradient
@@ -7957,6 +7980,7 @@ Greyhound
 Greys
 Greystone
 Grief
+Grieve
 Grieving
 Griffin
 Griffith
@@ -8192,6 +8216,7 @@ Hamza
 Hancock
 Hand
 Hand-to-Hand
+Handball
 Handcuffed
 Handcuffing
 Handed
@@ -8461,6 +8486,7 @@ Hidden
 Hide
 Hides
 Hiding
+Hields
 Higgins
 High
 High-Fidelity
@@ -8809,6 +8835,7 @@ IF
 IFC
 IG
 IHC
+IHOP
 II
 II-era
 IIHF
@@ -9218,6 +9245,7 @@ Isaya
 Isdera
 Isi
 Isidoro
+Isil
 Islamic
 Islamist
 Islamists
@@ -9256,6 +9284,7 @@ Itno
 Itoje
 Its
 Itself
+Iturbides
 Iva
 Ivan
 Ivanka
@@ -9591,6 +9620,7 @@ K
 K-8
 K-9
 K-pop
+K31
 K9
 KANSAS
 KARA
@@ -9630,6 +9660,7 @@ Kacey
 Kachhiyana
 Kacijanar
 Kadavulailai
+Kadievo
 Kadyrovs
 Kafer
 Kagere
@@ -9945,6 +9976,7 @@ Krasnoyarsk
 Krasovskaya
 Krejci
 Kreme
+Kremes
 Kremlin
 Kremlins
 Krents
@@ -10693,6 +10725,7 @@ MAGILL
 MAGNOLIA
 MAHAFFEY
 MANAGEMENT
+MANSCAPED
 MANUFACTURING
 MAPS
 MARKET
@@ -11601,6 +11634,7 @@ Moon
 Moonlighting
 Moore
 Moores
+Moorpark
 Moors
 Mop
 Mora
@@ -11733,6 +11767,7 @@ Multi-Vehicle
 Multi-billion
 Multi-millionaire
 Multifamily
+Multiloaded
 Multiple
 Multiply
 Mumbai
@@ -11999,6 +12034,7 @@ Natural
 Nature
 Naureen
 Nautical
+Navajo
 Naval
 Navalny
 Navalnys
@@ -12154,6 +12190,7 @@ NitroRansomware
 Nittany
 Nix
 Nixon
+Niyarat
 Nketiah
 Nkomonde
 Nnabeszter
@@ -12162,6 +12199,7 @@ No-Brainer
 No-No
 No-Nonsense
 No-prescription
+No1
 Noah
 Nobel
 Noble
@@ -12777,6 +12815,7 @@ Pamela
 Pampers
 Pan
 Panama
+Panamas
 PancakeSwap
 Panciera
 Panda
@@ -13037,6 +13076,7 @@ Persuading
 Persuasion
 Perth
 Peru
+Pervasive
 Pesquet
 Pest
 Pesuthadi
@@ -13303,6 +13343,7 @@ Polis
 Political
 Politically
 Politicians
+Politico
 Politics
 Polk
 Polkadot
@@ -13950,6 +13991,7 @@ Raphael
 Rapid
 Rapidly
 Rapids
+Raping
 Rapinoe
 Rapper
 Raptors
@@ -13989,6 +14031,7 @@ Razi
 RazorMetrics
 Re-Dubbed
 Re-Election
+Re-Engineering
 Re-Sign
 Re-emerges
 Re-release
@@ -14048,6 +14091,7 @@ Recalled
 Recalls
 Recap
 Recapture
+Receive
 Received
 Receives
 Receiving
@@ -14215,6 +14259,7 @@ Rembert
 Remdesivir
 Remember
 Remembering
+Remind
 Reminded
 Reminder
 Reminding
@@ -14225,6 +14270,7 @@ Remotely
 Remove
 Removed
 Removes
+Renault
 Rene
 Renew
 Renewable
@@ -14588,6 +14634,7 @@ Roma
 Romagna
 Romain
 Roman
+Roman-Vod
 Romance
 Romania
 Romanian
@@ -14599,6 +14646,7 @@ Romy
 Ron
 Ronald
 Ronda
+Rondale
 Ronnie
 Ronzone
 Roof
@@ -15327,6 +15375,8 @@ Shadows
 Shady
 Shaft
 Shah
+Shahed
+Shahedul
 Shaheed
 Shaina
 Shaji
@@ -15379,6 +15429,7 @@ Sheffield
 Shefqet
 Sheikha
 Sheila
+Sheitaan
 Shelia
 Shell
 Shelley
@@ -15481,6 +15532,7 @@ Shrikrishna
 Shrout
 Shtisel
 Shukre
+Shunta
 Shuo
 Shut
 Shutdown
@@ -15553,6 +15605,7 @@ Silverman
 Silvermine
 Silverthorne
 Silverware
+Silvia
 Silvio
 Simeon
 Simionato
@@ -15638,6 +15691,7 @@ Skirts
 Skokie
 Skripal
 Skripal-poisoners
+Skull
 Skullduggery
 Skupski
 Skuta
@@ -15946,6 +16000,7 @@ Spotify
 Spots
 Spotted
 Spotty
+Sprained
 Sprawls
 Spread
 Spreading
@@ -15966,6 +16021,7 @@ Spurs
 Sputnik
 Spy
 Spyder
+Spyware
 Sq
 Squad
 Squarcialupi
@@ -16165,6 +16221,7 @@ Strawberry-Rhubarb
 Stray
 Streak
 Streaking
+Streaks
 Stream
 Streamed
 Streaming
@@ -16439,6 +16496,7 @@ Swimsuit
 Swindon
 Swine
 Swings
+Swish
 Swisher
 Swiss
 Switch
@@ -16509,6 +16567,7 @@ TFT
 THC
 THERAPEUTICS
 THINK
+THIS
 THOMAS
 THOUGHTS
 THRICE
@@ -16784,6 +16843,7 @@ Thailand8217s
 Thailands
 Thalloloma
 Than
+Thanawaikoses
 Thank
 Thanks
 That
@@ -16883,6 +16943,7 @@ Thune
 Thursday
 Thursday-Friday
 Thursdays
+Thurston
 Thusara
 Tia
 Tianjin
@@ -17060,6 +17121,7 @@ Trade
 Trader
 Traders
 Trading
+Trae
 Traffic
 Trafficked
 Traffickers
@@ -17128,6 +17190,7 @@ Treatments
 Treats
 Treaty
 Tree
+Trejo
 Trek
 Trelowarren
 Trend
@@ -17476,6 +17539,7 @@ Updating
 Upended
 Upgrade
 Upheld
+Upiak
 Upland
 Uplift
 Upper
@@ -18002,6 +18066,7 @@ Warrior
 Warriors
 Wars
 WarsawShore
+Warships
 Warson
 Warwickshire
 Warzone
@@ -18118,6 +18183,7 @@ Wendi
 Wendy
 Went
 Wentz
+Wenyuan
 Wenzeslaus
 Werder
 Were
@@ -18155,6 +18221,7 @@ WhatsApps
 Wheel
 Wheeler
 Wheels
+Wheen
 When
 Where
 Wheres
@@ -18617,6 +18684,7 @@ Zoo
 Zoom
 Zooming
 Zoos
+Zora
 Zoysa
 Zrchersmhle
 Zuber
@@ -19121,6 +19189,7 @@ as
 ash
 ashamed
 ashed
+ashes
 ashore
 aside
 ask
@@ -19139,6 +19208,7 @@ assaulted
 assaulting
 assaults
 assembly
+asserts
 assess
 assessment
 assessments
@@ -19662,6 +19732,7 @@ brews
 bribery
 bridal
 bride
+brides
 bridge
 bridges
 brief
@@ -19761,12 +19832,14 @@ businessmen
 busmaker
 bust
 busted
+busts
 bustso
 busy
 but
 butt
 butter
 butterflies
+buttocks
 buy
 buy-on-board
 buyback
@@ -19907,6 +19980,7 @@ castle
 castles
 casts
 casual
+casualties
 cat
 cat-size
 catalyst
@@ -20543,6 +20617,7 @@ count
 counted
 counter
 counterfeit
+counterforce
 counters
 countersues
 counties
@@ -20866,6 +20941,7 @@ defeat
 defeats
 defence
 defend
+defendant
 defendants
 defender
 defenders
@@ -21189,6 +21265,7 @@ ditch
 ditched
 ditches
 dive
+diverging
 diverse
 diversity
 divert
@@ -21784,6 +21861,7 @@ extension
 extensions
 extent
 extinguish
+extinguished
 extort
 extortion
 extra
@@ -22087,6 +22165,7 @@ flood
 floods
 floor
 floorball
+floored
 floors
 flourishes
 flouted
@@ -22652,6 +22731,7 @@ hatchet
 hate
 hateful
 hatred
+hats
 haulers
 haunt
 haunted
@@ -22873,6 +22953,7 @@ huge
 hugs
 human
 humanist
+humanitarian
 humanitarians
 humanity
 humans
@@ -22899,6 +22980,7 @@ hurtful
 hurting
 hurts
 husband
+hustle
 huts
 hyalineata
 hybrid
@@ -22943,6 +23025,7 @@ ignore
 ignored
 ignores
 ignoring
+iguana
 ikon
 ill
 illegal
@@ -22966,6 +23049,7 @@ imminent
 immunity
 immunization
 immunize
+imnkov
 impact
 impacted
 impactful
@@ -23033,6 +23117,7 @@ included
 includes
 including
 inclusion
+inclusive
 inclusivity
 income
 incoming
@@ -23249,6 +23334,7 @@ irrigation
 is
 isa
 island
+islanders
 isnt
 isolated
 isolation
@@ -23757,6 +23843,7 @@ mag
 magazine
 magic
 magical
+magna
 magnipalpis
 magnus
 mail
@@ -23835,6 +23922,7 @@ marquee
 marriage
 married
 marries
+martini-drinking
 masculinity
 mask
 mask-burning
@@ -23882,6 +23970,7 @@ me
 meal
 meals
 mean
+meaning
 meaningful
 meaningless
 means
@@ -23942,6 +24031,7 @@ mention
 mentor
 menu
 mercenaries
+mercy
 merge
 merger
 mesh
@@ -24133,6 +24223,7 @@ mounts
 mourning
 mourns
 mouse
+mouth
 move
 moved
 movement
@@ -24372,6 +24463,7 @@ nuance
 nuclear
 nuclear-deal
 nuke
+nukes
 nullarbor
 numb
 number
@@ -25539,6 +25631,7 @@ reassurance
 reassuring
 rebel
 rebels
+rebirth
 reboot
 rebound
 rebounded
@@ -26284,6 +26377,7 @@ sector
 secularism
 secure
 secures
+securing
 securities
 security
 sedan-first
@@ -26466,6 +26560,7 @@ shoppers
 shopping
 shore
 shoreline
+shores
 short
 short-handed
 short-time
@@ -26473,6 +26568,7 @@ shortage
 shortages
 shortcakes
 shortcomings
+shortfalls
 shortly
 shorts
 shortstop
@@ -26964,6 +27060,7 @@ stepdaughter
 stepping
 steps
 steps-
+stereotypes
 stern
 steroids
 stewards
@@ -27057,6 +27154,7 @@ stroke-like
 strokes
 strong
 stronger
+strongest
 strongly
 strongman
 struck
@@ -27559,6 +27657,7 @@ tinkering
 tiny
 tipping
 tips
+tirade
 tired
 tires
 titan
@@ -27864,6 +27963,7 @@ uncle
 unclear
 uncomfortable
 unconstitutional
+uncovering
 uncovers
 under
 under-65s
@@ -27929,6 +28029,7 @@ unjustified
 unknown
 unlawful
 unleash
+unless
 unlicensed
 unlikely
 unlimited
@@ -28040,6 +28141,7 @@ vans
 variant
 variant-fueled
 variants
+variegatus
 vast
 vegan
 vegetable
@@ -28199,6 +28301,7 @@ warheads
 wariness
 warm
 warmer
+warmest
 warming
 warn
 warned
