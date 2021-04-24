@@ -1231,6 +1231,7 @@
 172
 177
 179
+1799
 17th
 17th-century
 18
@@ -1257,6 +1258,7 @@
 18500
 185000
 1878
+1881
 1886
 1888
 1889
@@ -1672,6 +1674,7 @@
 387K
 39
 392
+39th
 3A
 3D
 3D-printed
@@ -2305,6 +2308,7 @@ Accusers
 Accuses
 Accusing
 Acedo
+Aceh
 Aces
 Acevedo
 Acheson
@@ -2722,6 +2726,7 @@ Amache
 Amagansett
 Amal
 Amalia
+Amals
 Amanda
 Amateur
 Amaya
@@ -3078,6 +3083,7 @@ Arrieta
 Arrival
 Arrived
 ArrivedThese
+Arrives
 Arriving
 Arrow
 Arroyo
@@ -3121,6 +3127,7 @@ Ashish
 Ashley
 Ashton
 Asia
+Asia-Pacifics
 Asian
 Asian-American
 Asians
@@ -3321,6 +3328,7 @@ Away
 Awesome
 Awkwafina
 Awkward
+Awulo
 Ax
 Axalta
 Axe
@@ -3624,6 +3632,7 @@ Bat
 Bata
 Batas
 Bath
+Bathiudeen
 Bathroom
 Bathrooms
 Bathurst
@@ -4216,6 +4225,7 @@ Box
 Boxed
 Boxes
 Boxing
+Boxings
 Boxiz
 Boy
 Boycott
@@ -4526,6 +4536,7 @@ Burrow
 Burrows
 Burt
 Burton
+Bury
 Bus
 Busan
 Busch
@@ -5164,6 +5175,7 @@ Chancellor
 Chancellors
 Chances
 Chandelle
+Chandia
 Chandio
 Chandler
 Chandrawal
@@ -5584,6 +5596,7 @@ Cobra
 Coburn
 Coca-Cola
 Cocaine
+Cockburn
 Cocktail
 Cocktails
 Cococlectic
@@ -5917,6 +5930,7 @@ Cool
 Cooler
 Coolers
 Coolest
+Coolgardie
 Coolidge
 Coombe
 Cooney
@@ -6006,6 +6020,7 @@ Countries
 Country
 Country-Rock
 Countrys
+Countryside
 Counts
 County
 County-by-county
@@ -7006,6 +7021,7 @@ Distress
 Distribute
 District
 Districts
+Disturb
 Disturbing
 Ditches
 Ditching
@@ -7034,6 +7050,7 @@ Do-It-All
 Doassansia
 Doassansiopsis
 Doba
+Dobbs
 Doc
 Docker
 Doctor
@@ -7544,6 +7561,8 @@ Eisenhower
 Ejected
 Ekanayake
 Ekspress
+Ekspress-103
+Ekspress-80
 Ekspress-A1R
 Ekspress-AM5
 El
@@ -9025,6 +9044,7 @@ Gaspard
 Gasparilla-Style
 Gastelum
 Gastlum
+Gastrotheca
 Gate
 Gather
 Gatherings
@@ -9731,6 +9751,7 @@ Hannity
 Hanover
 Hanrahan
 Hans
+Hao
 Happ
 Happen
 Happened
@@ -9805,6 +9826,7 @@ Hatches
 Hatchet-Wielding
 Hate
 Hated
+Hatenkai
 Hates
 Hathaway
 Hato
@@ -10751,6 +10773,7 @@ Instagram-Friendly
 Instagrammers
 Install
 Instant
+Instantly
 Instead
 Institute
 Institutes
@@ -11293,6 +11316,7 @@ Junior
 Junko
 Jupiters
 Jur
+Juris
 Juror
 Jurors
 Jury
@@ -11470,7 +11494,9 @@ Kazakovtsy
 Kazi
 Kazmars
 Kbreau
+Kdy
 Keaney
+Kearsarge
 Keaton
 Keefe
 Keeler
@@ -11927,6 +11953,7 @@ Lamar
 Lambert
 Lambin
 Lamborghini
+Lamellilatirus
 Lamet
 Lampard
 Lamprecht
@@ -12049,6 +12076,7 @@ LeBron
 LeCato
 LeCroy
 LeVar
+Leach
 Lead
 Leader
 Leader8217s
@@ -12429,6 +12457,7 @@ Longest-Living
 Longhi
 Longhorn
 Longhorns
+Longoria
 Longtime
 Look
 Looked
@@ -12455,6 +12484,7 @@ Lords
 Loren
 Loretta
 Loretto
+Lorha
 Lori
 Lorna
 Los
@@ -12663,6 +12693,7 @@ MORRISON
 MORTGAGE
 MOTOR
 MOTORS
+MP
 MPD
 MPs
 MS
@@ -12736,6 +12767,7 @@ Madrids
 Mads
 Madsen
 Madura
+Maduro
 Maduros
 Mae
 Mafia
@@ -13686,6 +13718,7 @@ Mosh
 Mosque
 Mosquera
 Mosques
+Mosquito
 Moss
 Most
 Most-Watched
@@ -13804,6 +13837,7 @@ Muny
 Murabbal
 Mural
 Murals
+Murchison
 Murder
 Murder-Suicide
 MurderSuicide
@@ -14508,6 +14542,7 @@ Ode
 Odenigbo
 Odenkirk
 Odessa
+Odete
 Odisha
 Odom
 Odor
@@ -15417,6 +15452,7 @@ Pinellas
 Piney
 Ping
 Pink
+Pinnacles
 Pino
 Pinot
 Pinpoint
@@ -15462,6 +15498,7 @@ Piyush
 Pizookie-flavored
 Pizza
 Pizzas
+Plaas
 Place
 Placed
 Placerville
@@ -15586,6 +15623,7 @@ Policy
 Polinesia
 Polinesios
 Polis
+Polish
 Political
 Politically
 Politicians
@@ -16289,6 +16327,7 @@ Ralphs
 Ralston
 Ramadan
 Ramadori
+Ramana
 Rambouillet
 RamcharitManas
 Ramchaura
@@ -16936,6 +16975,7 @@ Ripple
 Rips
 Rise
 Rises
+Rishad
 Rishikesh
 Rising
 Risk
@@ -17174,6 +17214,7 @@ Ruben
 Rubicon
 Rubin
 Rubins
+Ruby
 Ruchira
 Rudd
 Rude
@@ -17427,6 +17468,7 @@ Sacklers
 Sacramento
 Sacramento-Area
 Sacred
+Sada
 Sadhanananda
 Sadie
 Sadkw
@@ -17734,6 +17776,7 @@ Sculpture
 Scunthorpe
 Scuti
 Sea
+Seabound
 Seabra
 Seafair
 Seafarer
@@ -19369,6 +19412,7 @@ TW
 TWILIO
 TWOMEY
 TX
+Taabbu
 Taarak
 Table
 Tables
@@ -19389,6 +19433,7 @@ Tae
 Taijuan
 Taillon
 Tails
+Taipei
 Taiwan
 Taiwanese
 Taiwans
@@ -19460,6 +19505,7 @@ Tapias
 Tapper
 Taps
 Tar
+Tara
 Tarakan
 Tardive
 Target
@@ -19689,6 +19735,7 @@ These
 They
 Theyd
 Theyre
+Thibodeau
 Thibodeaus
 Thicke
 Thicker
@@ -19798,6 +19845,7 @@ Tigray
 Tigre
 Tiguan
 TikTok
+TikTok-famous
 TikToks
 Tilburys
 Tiles
@@ -20695,6 +20743,7 @@ Venerable
 Venetian
 Venezuela
 Venezuelan
+Venezuelas
 Venice
 Venices
 Venkat
@@ -20722,6 +20771,7 @@ Verdes
 Verdict
 Verdicts
 Verdon
+Veretenina
 Vergara
 Verge
 Veridian
@@ -20751,6 +20801,7 @@ Vest
 Vet
 Veteran
 Veterans
+Veto
 Vetoes
 Vettel
 VfL
@@ -20794,6 +20845,8 @@ Vijay
 Vikings
 Vikki
 Viktor
+Vilar
+Vilayatkalan
 Vile
 Villa
 Villacs
@@ -22215,6 +22268,7 @@ anti-BLM
 anti-ESL
 anti-France
 anti-Israel
+anti-Kremlin
 anti-LGBTQ
 anti-OPEC
 anti-Putin
@@ -22426,6 +22480,7 @@ attempting
 attempts
 attend
 attendance
+attendant
 attendants
 attended
 attendees
@@ -22901,6 +22956,7 @@ bought
 bounce
 bounce-back
 bounced
+bounces
 bouncing
 boundaries
 bounds
@@ -24342,6 +24398,7 @@ defending
 defends
 defense
 defenseman
+defensemen
 defenses
 defensive
 deferred
@@ -24468,6 +24525,7 @@ designate
 designated
 designates
 designation
+designed
 designer
 desire
 desk
@@ -24555,6 +24613,7 @@ difficulties
 dig
 digging
 digital
+digitalization
 dignified
 digs
 dilemma
@@ -24631,6 +24690,7 @@ discussion
 discussions
 disease
 diseases
+disenfranchise
 disgrace
 disgraced
 disgraceful
@@ -25668,6 +25728,7 @@ flag
 flags
 flak
 flames
+flamma
 flare
 flash
 flashback
@@ -25990,6 +26051,7 @@ gear
 gears
 geeky
 gem
+gemma
 gender
 gender-affirming
 gender-neutral
@@ -27462,6 +27524,7 @@ literature
 lithium
 litigation
 litter
+littering
 little
 little-known
 live
@@ -28051,6 +28114,7 @@ multi-car
 multi-year
 multibillion-dollar
 multicolor
+multilateral
 multimillion
 multimillionaire
 multiple
@@ -30895,6 +30959,7 @@ snacks
 snafus
 snag
 snake
+snakes
 snap
 snaps
 snapshot
@@ -30942,6 +31007,7 @@ software
 soggy
 solar
 solaris
+solarized
 sold
 soldier
 soldiers
@@ -31141,6 +31207,7 @@ staleness
 stalked
 stalking
 stall
+stalled
 stalling
 stalls
 stalwart
@@ -31295,6 +31362,7 @@ strengthened
 strengthens
 stress
 stressed
+stresses
 stressful
 stretch
 stretches
@@ -31393,6 +31461,7 @@ suffer
 suffered
 suffering
 suffers
+suffocate
 suffocated
 sugar-free
 suggest
@@ -31547,6 +31616,7 @@ switch
 switched
 swoll
 sword
+sworn
 sworn-in
 symbol
 symbolism
@@ -31805,6 +31875,7 @@ threatening
 threatens
 threats
 three
+three-day
 three-decade
 three-game
 three-year
@@ -32466,6 +32537,7 @@ vet
 veteran
 veterans
 veto
+vetoes
 vetoing
 vets
 vexing
