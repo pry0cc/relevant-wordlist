@@ -1039,7 +1039,9 @@
 104M
 106
 106-96
+107K
 108
+108-102
 1080p
 1084
 108i
@@ -1061,6 +1063,7 @@
 11-14
 11-4
 11-day
+11-point
 110
 111
 111-97
@@ -1361,6 +1364,7 @@
 2-Year-Old
 2-day
 2-game
+2-hitter
 2-metre
 2-month
 2-night
@@ -1465,6 +1469,7 @@
 210
 2100-sq-foot
 21000
+211000
 2117
 211K
 2121
@@ -1738,6 +1743,7 @@
 424B4
 424B5
 425
+42nd
 43
 430
 436
@@ -1747,6 +1753,7 @@
 45-Minute
 450
 4500
+455
 45th
 46
 46000
@@ -1765,6 +1772,7 @@
 48K
 48th
 49
+496-Inch
 497
 497J
 497K
@@ -1780,6 +1788,7 @@
 5-1
 5-10
 5-2
+5-3
 5-4
 5-Star
 5-Year-Old
@@ -1948,6 +1957,7 @@
 75TH
 75th
 76
+763
 76731
 76ers
 77
@@ -2377,6 +2387,7 @@ Admitting
 Adobe
 Adolescents
 Adoptable
+Adopted
 Adoption
 Adopts
 Adorable
@@ -2393,6 +2404,7 @@ Advanced
 Advances
 Advantage
 Adventure
+Adventurous
 Advertising
 Advice
 Advise
@@ -3176,6 +3188,7 @@ Atltico
 Atmosphere
 Atomera
 Atomic
+Atop
 Atria
 Atrocities
 Attack
@@ -3406,6 +3419,7 @@ Backing
 Backlash
 Backroom
 Backs
+Backstage
 Backtalk
 Backtracking
 Backyard
@@ -3773,6 +3787,7 @@ Bertans
 Bertolini
 Bertrando
 Berwyn
+Besos
 Bessell
 Best
 Best-Kept
@@ -3848,6 +3863,7 @@ Bierhaus
 Biert
 Big
 Big-Batch
+Big-Block
 Bigfoot
 Bigfoot-Hunting
 Bigger
@@ -4061,6 +4077,7 @@ Boeing
 BofA
 Bogaerts
 Bogany
+Bogdanovich
 Boggs
 Bogislaw
 Bohannan
@@ -4086,6 +4103,7 @@ Bone
 Bones
 Bongino
 Bonifacius
+Boning
 Bonino
 Bonita
 Bonnie
@@ -4384,6 +4402,7 @@ Bruces
 Bruhl
 Bruins
 Brunch
+Brunches
 Brundle
 Bruno
 Brunswick
@@ -5192,6 +5211,7 @@ Chateau
 Chathura
 Chatter
 Chattha
+Chaudhary
 Chaumont
 Chauvin
 Chauvins
@@ -5710,6 +5730,7 @@ Completely
 Completes
 Completion
 Compliance
+Complications
 Components
 Composer
 Composting
@@ -6844,6 +6865,7 @@ Diminishing
 Dimitry
 Dimon
 Dimona
+Dimorphostylis
 Dinan
 Dine
 Dinelson
@@ -7125,6 +7147,7 @@ Dr
 DrPankaj
 Drachenritt
 Dracnie
+Dracophyllum
 DraffGeorge
 Draft
 DraftFundy
@@ -7290,6 +7313,7 @@ Dylans
 Dynamic
 Dynamite
 Dynasty
+Dyno
 Dyrdek
 Dysfunctional
 Dyskinesia
@@ -8043,6 +8067,7 @@ F-35
 F-4
 F-5
 F-word
+F1
 F5
 FA
 FAA
@@ -8070,6 +8095,7 @@ FIFAs
 FIG
 FINALLY
 FINANCIAL
+FIRE
 FIRST
 FIS
 FISA
@@ -8726,6 +8752,7 @@ Friess
 Frightened
 Frightening
 Frith
+Frittatas
 Fritz
 From
 Front
@@ -8980,6 +9007,7 @@ Gay
 Gayle
 Gayley
 Gayron
+Gaza-Israel
 Gazaryan
 Gazes
 Gazidis
@@ -9716,6 +9744,7 @@ Hartman
 Hartstonge
 Hartzell
 Harvard
+Harvard-Bound
 Harvey
 Harvin
 Haryana
@@ -10598,6 +10627,7 @@ Infections
 Infectious
 Inferno
 Infertility
+Infinity
 Inflation
 Inflection
 Influence
@@ -10650,6 +10680,7 @@ Inquiry
 Inscription
 Insensitive
 Inside
+Inside-Courtroom
 Insider
 Insiders
 Insight
@@ -11295,6 +11326,7 @@ Kaia
 Kaifeng
 Kailash
 Kaiser
+Kaitlin
 Kaitlyn
 Kalafer
 Kalavainen
@@ -12453,6 +12485,7 @@ Lujan
 Lujn
 Luka
 Luke
+Lukovica
 Lula
 Lululemon
 Lululemons
@@ -13078,6 +13111,7 @@ Measures
 Meat
 MedMen
 Medal
+Medalist
 Medals
 Meddling
 Media
@@ -13433,6 +13467,7 @@ Mixed
 Mixes
 Mixing
 Mixtape
+Mize
 Mizuho
 Mizzou
 Mmm
@@ -13653,6 +13688,7 @@ Mrfelt
 Mrittunjoy
 Mrquez
 Mrs
+Ms
 Msidor
 Mstibovo
 Mt
@@ -14673,6 +14709,7 @@ Overcomes
 Overcoming
 Overdose
 Overhaul
+Overjoyed
 Overlap
 Overnight
 Overseas
@@ -14765,6 +14802,7 @@ PICTURES
 PIE
 PIMS
 PINTEREST
+PIT
 PJ
 PJA
 PK
@@ -14906,6 +14944,7 @@ Pani
 Panic
 Panmod
 Pannell
+Panorama
 Pantami
 Panther
 Panthers
@@ -14925,6 +14964,7 @@ Paradise
 Paraglider
 Paraguays
 Parallel
+Paralympic
 Paralympics
 Parameswaran
 Paramount
@@ -15351,6 +15391,7 @@ Pixel
 Piyush
 Pizookie-flavored
 Pizza
+Pizzas
 Place
 Placed
 Placerville
@@ -15607,6 +15648,7 @@ Powerlifting
 Powers
 Powerscourt
 Powwows
+Prabhakar
 Prabhatam
 Prabhavalkar
 Practical
@@ -15650,6 +15692,7 @@ Predators
 Predictions
 Predictive
 Predicts
+Preds
 Prefer
 Preferred
 Pregnancy
@@ -15845,10 +15888,12 @@ Proven
 Provence
 Proves
 Provide
+Provided
 Providence
 Providence-backed
 Provides
 Providing
+Provincial
 Provocative
 Prowses
 Prtelpoeg
@@ -16678,6 +16723,7 @@ Returned
 Returning
 Returns
 Reunion
+Reunite
 Reunited
 Reusable
 Reuse
@@ -17380,6 +17426,7 @@ Samiya
 Sammi
 Samoa
 Samoan
+Samosas
 Sampath
 Sampson
 Sams
@@ -17607,6 +17654,7 @@ Seafarer
 Seagal
 Seagate
 Seager
+Seagers
 Seagrams
 Seahawks
 Sean
@@ -17618,6 +17666,7 @@ Searing
 Seashell
 Seaside
 Season
+Season-Best
 Seasonal
 Seat
 Seaton
@@ -17683,6 +17732,7 @@ Selleck
 Seller
 Selling
 Selma
+Selo
 Seltos
 Semenovich
 Semester
@@ -17860,6 +17910,7 @@ Shatalova
 Shauna
 Shaw
 Shawn
+ShawnMaster
 Shayne
 She
 Shea
@@ -18159,6 +18210,7 @@ Skin-Care
 Skinner
 Skinny
 Skip
+Skipwith-Halatau
 Skirts
 Skokie
 Skripal
@@ -18443,6 +18495,7 @@ Spain
 Span
 Spangler
 Spanish
+Spank
 Spanking
 Spans
 Spark
@@ -18472,6 +18525,7 @@ Speed
 Speeds
 Speedway
 Spelling
+Spellman
 Spells
 Spelt
 Spencer
@@ -18532,6 +18586,7 @@ Spreading
 Spreads
 Spree
 Spring
+Springer
 Springfield
 Springs
 Springsteen
@@ -19045,6 +19100,7 @@ Sutherland
 Sutter
 Sutton
 Suzan-Lori
+Suzuka
 Suzuki
 Svein
 Sven
@@ -19108,6 +19164,7 @@ Sylhet
 Symbiogenesis
 Symbol
 Symbols
+Symonds
 Sympathetic
 Symphonie
 Symphony
@@ -19273,6 +19330,7 @@ Talks
 Talladega
 Tallapragada
 Taller
+Talley
 Tallinn
 Tallo
 Talus
@@ -19472,6 +19530,7 @@ Tether
 Tetiana
 Tetravinyltin
 Tetyana
+Tewai
 Texan
 Texans
 Texas
@@ -19617,6 +19676,7 @@ Thusara
 Ti
 Tia
 Tianjin
+Tibet
 Ticket
 Tickets
 Ticking
@@ -19758,6 +19818,7 @@ Toronto
 Torontos
 Torrance
 Torres
+Tortelier
 Tory
 Toscano-Anderson
 Toshiba
@@ -20613,6 +20674,7 @@ Video
 Videos
 Videotaping
 Vides
+Vidette
 Vie
 Vienna
 Vienne
@@ -21066,6 +21128,7 @@ Wessex
 West
 Westbound
 Westbrook
+Westbrooks
 Westchase
 Westchester
 Western
@@ -21155,6 +21218,7 @@ Wilde
 Wilder
 Wilderness
 Wildfire
+Wildfire-fighting
 Wildfires
 Wildlife
 Wildwood
@@ -21472,6 +21536,7 @@ Yinchu
 Yinjifu
 Yishun
 Ymr
+Ynoa
 Yo
 Yobe
 Yocum
@@ -21479,6 +21544,7 @@ Yodeler
 Yogi
 Yogimatha
 Yogurt
+Yokohama
 Yola
 Yolk
 Yom-Tob
@@ -21577,6 +21643,7 @@ Zarrinpayman
 Zarzas
 Zaven
 Zdeno
+Zeal
 Zealand
 Zealand-Australia
 Zeekr
@@ -21584,6 +21651,7 @@ Zeeshan
 Zelda
 Zeldin
 Zelensky
+Zeller
 Zeneca
 Zeneli
 Zenetic
@@ -21887,6 +21955,7 @@ air
 air-defence
 airborne
 aircraft
+aire
 airlift
 airline
 airlines
@@ -22485,6 +22554,7 @@ believes
 belligerent
 beloved
 below
+belt
 bench
 benching
 beneficiary
@@ -22589,6 +22659,7 @@ blaze
 blazing
 blazing-fast
 bleach
+bleach-gate
 bled
 blended
 blessed
@@ -23251,6 +23322,7 @@ choice
 choices
 choirs
 chokehold
+chokeholds
 choking
 chooses
 choosing
@@ -23338,6 +23410,7 @@ clients
 cliff
 cliffhanger
 climate
+climate-focused
 climb
 climbdown
 climber
@@ -23568,6 +23641,7 @@ condo
 conduct
 conducted
 conducting
+conductor
 conference
 conferences
 confessed
@@ -23605,6 +23679,7 @@ connection
 connections
 connects
 conned
+conquering
 conquests
 consecutive
 consensus
@@ -23692,6 +23767,7 @@ converted
 converter
 converters
 convertible
+conveyor
 convict
 convicted
 convicting
@@ -24388,6 +24464,7 @@ directs
 dirt
 dirty
 disabilities
+disability
 disable
 disabled
 disables
@@ -25217,6 +25294,7 @@ fad
 fade
 faded
 fades
+fading
 fail
 failed
 failing
@@ -25539,6 +25617,7 @@ focuses
 focusing
 foe
 foes
+fog
 folk
 folks
 follow
@@ -25801,6 +25880,7 @@ gentlemens
 genuinely
 gesture
 get
+getaways
 gets
 getting
 ghanem
@@ -25865,6 +25945,7 @@ golfer
 golfers
 golos
 gone
+gongs
 gonna
 good
 goodbye
@@ -26515,6 +26596,7 @@ implement
 implications
 implodes
 implosion
+import
 importance
 important
 imported
@@ -26629,6 +26711,7 @@ inflammatory
 inflation
 inflator
 inflection
+inflicting
 inflows
 influence
 influenced
@@ -26658,6 +26741,7 @@ injures
 injuries
 injuring
 injury
+injury-depleted
 injustice
 inmate
 inmates
@@ -26840,6 +26924,7 @@ jail-drugs
 jailed
 jailing
 jails
+jam-packed
 jams
 janeirense
 jarring
@@ -27195,6 +27280,7 @@ limatulus
 limit
 limitations
 limited
+limited-capacity
 limited-time
 limiting
 limitless
@@ -27371,6 +27457,7 @@ mRNA
 macaroni
 machine
 machines
+macranthum
 macrolepis
 maculilabris
 mad
@@ -27989,6 +28076,7 @@ nice
 nicer
 niche
 nickel
+nickname
 nicotine
 niece
 night
@@ -28001,6 +28089,7 @@ nine
 nine-goal
 nine-man
 ninth
+ninth-inning
 nixes
 no
 no-exam
@@ -28228,6 +28317,7 @@ opposition
 opposition-held
 ops
 ops-inspired
+opt
 optanda
 opted
 optimistic
@@ -28352,6 +28442,7 @@ overwhelmed
 overwhelming
 overwhelms
 owe
+owes
 own
 owned
 owner
@@ -28462,6 +28553,7 @@ pass
 pass-catching
 pass-rusher
 pass-rushing
+passages
 passed
 passenger
 passengers
@@ -28889,6 +28981,7 @@ pre-COVID-19
 pre-NFL
 pre-draft
 pre-opening
+pre-pandemic
 pre-register
 pre-show
 preachers
@@ -29439,6 +29532,7 @@ recovering
 recovers
 recovery
 recreated
+recreational
 recruit
 recruited
 recruiting
@@ -29758,6 +29852,7 @@ restoration
 restore
 restoring
 restraint
+restraints
 restrict
 restricted
 restricting
@@ -29848,6 +29943,7 @@ ribs
 rice
 rich
 richer
+rickshaw
 rid
 riddled
 ride
@@ -30135,6 +30231,7 @@ scoffs
 scooter
 scope
 score
+scoreboard
 scorecard
 scorecards
 scoreless
@@ -30181,10 +30278,12 @@ searches
 searching
 seashore
 season
+season-best
 season-ticket
 seasonal
 seasons
 seat
+seating
 seats
 secluded
 second
@@ -31586,11 +31685,13 @@ tie-breaker
 tie-breaking
 tie-up
 tied
+tienne
 tier
 tiers
 ties
 tigers
 tight
+tighten
 tightens
 tightness
 till
@@ -31838,6 +31939,7 @@ trio
 trip
 triple
 triple-digit
+triple-double
 triple-doubles
 triple-fatal
 triple-shooting
@@ -32304,6 +32406,7 @@ waive
 waiver
 waivers
 wake
+wakes
 waking
 walk
 walk-in
@@ -32340,6 +32443,7 @@ warmer
 warmest
 warming
 warms
+warmth
 warn
 warned
 warning
@@ -32541,6 +32645,7 @@ wobbles
 woebegone
 woes
 woke
+wokeness
 wolf
 wolves
 woman
@@ -32608,6 +32713,7 @@ wreck
 wreckage
 wrecking
 wrench
+wrestle
 wrestler
 wrestling
 write

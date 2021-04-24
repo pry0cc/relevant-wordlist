@@ -1033,7 +1033,9 @@
 104m
 106
 106-96
+107k
 108
+108-102
 1080p
 1084
 108i
@@ -1055,6 +1057,7 @@
 11-14
 11-4
 11-day
+11-point
 110
 111
 111-97
@@ -1342,6 +1345,7 @@
 2-eu
 2-ftse
 2-game
+2-hitter
 2-iodomelatonin
 2-metre
 2-month
@@ -1447,6 +1451,7 @@
 210
 2100-sq-foot
 21000
+211000
 2117
 211k
 2121
@@ -1709,6 +1714,7 @@
 424b4
 424b5
 425
+42nd
 43
 430
 436
@@ -1718,6 +1724,7 @@
 45-minute
 450
 4500
+455
 45th
 46
 46000
@@ -1736,6 +1743,7 @@
 48k
 48th
 49
+496-inch
 497
 497j
 497k
@@ -1751,6 +1759,7 @@
 5-1
 5-10
 5-2
+5-3
 5-4
 5-car
 5-cent
@@ -1914,6 +1923,7 @@
 75m
 75th
 76
+763
 76731
 76ers
 77
@@ -2307,6 +2317,7 @@ advanced
 advances
 advantage
 adventure
+adventurous
 adversaries
 adversity
 advertisers
@@ -2458,6 +2469,7 @@ airbus
 aircastle
 aircon
 aircraft
+aire
 airfares
 airlift
 airline
@@ -3564,6 +3576,7 @@ backpedals
 backroom
 backs
 backseat
+backstage
 backstory
 backtalk
 backtracking
@@ -4018,6 +4031,7 @@ bertolini
 bertrando
 berwyn
 beside
+besos
 bessell
 best
 best-before
@@ -4107,6 +4121,7 @@ bierhaus
 biert
 big
 big-batch
+big-block
 bigfoot
 bigfoot-hunting
 bigger
@@ -4269,6 +4284,7 @@ blazers
 blazing
 blazing-fast
 bleach
+bleach-gate
 bleak
 bled
 blend
@@ -4396,6 +4412,7 @@ boeing
 bofa
 bogaerts
 bogany
+bogdanovich
 boggs
 bogislaw
 bohannan
@@ -4432,6 +4449,7 @@ bones
 boneyards
 bongino
 bonifacius
+boning
 bonino
 bonita
 bonnie
@@ -4802,6 +4820,7 @@ bruins
 bruise
 bruised
 brunch
+brunches
 brundle
 bruneata
 bruno
@@ -5657,6 +5676,7 @@ chats
 chatter
 chattha
 chatty
+chaudhary
 chaumont
 chauvin
 chauvins
@@ -5784,6 +5804,7 @@ choice
 choices
 choirs
 chokehold
+chokeholds
 choking
 chomped
 chomsky
@@ -6003,6 +6024,7 @@ cliff
 cliffhanger
 cliii
 climate
+climate-focused
 climate-warming
 climb
 climbdown
@@ -6404,6 +6426,7 @@ condrieu
 conduct
 conducted
 conducting
+conductor
 coney
 confectionery
 confederate
@@ -6468,6 +6491,7 @@ connolly
 connor
 conor
 conover
+conquering
 conqueror
 conquests
 consecutive
@@ -6576,6 +6600,7 @@ converter
 converters
 convertible
 convertibles
+conveyor
 convict
 convicted
 convicting
@@ -7864,6 +7889,7 @@ diminishing
 dimitry
 dimon
 dimona
+dimorphostylis
 dinan
 dinapoli
 dine
@@ -8284,6 +8310,7 @@ dr400
 drachenritt
 dracnie
 draconian
+dracophyllum
 draffgeorge
 draft
 draft-eligible
@@ -8502,6 +8529,7 @@ dynamic
 dynamics
 dynamite
 dynasty
+dyno
 dyrdek
 dysfunction
 dysfunctional
@@ -9477,6 +9505,7 @@ f-4
 f-5
 f-bomb
 f-word
+f1
 f5
 fa
 faa
@@ -9514,6 +9543,7 @@ fad
 fade
 faded
 fades
+fading
 fagan
 fagradalsfjall
 fail
@@ -10087,6 +10117,7 @@ focusn
 foden
 foe
 foes
+fog
 fognini
 folding
 foley
@@ -10341,6 +10372,7 @@ frightening
 frigid
 frith
 frittata
+frittatas
 fritz
 fro-yo
 frog
@@ -10592,6 +10624,7 @@ gayle
 gayley
 gayron
 gays
+gaza-israel
 gazaryan
 gaze
 gazes
@@ -10699,6 +10732,7 @@ gestures
 get
 getafe
 getaway
+getaways
 gets
 getting
 gettleman
@@ -10889,6 +10923,7 @@ gomez
 gomezs
 gone
 gonghoe-bin
+gongs
 gonna
 gono
 gonten
@@ -11479,6 +11514,7 @@ hartman
 hartstonge
 hartzell
 harvard
+harvard-bound
 harvest
 harvey
 harvin
@@ -12407,6 +12443,7 @@ implement
 implications
 implodes
 implosion
+import
 importance
 important
 imported
@@ -12568,6 +12605,7 @@ inferno
 infertility
 infielder
 infighting
+infinity
 infirmed
 inflame
 inflamed
@@ -12576,6 +12614,7 @@ inflammatory
 inflation
 inflator
 inflection
+inflicting
 inflows
 influence
 influenced
@@ -12622,6 +12661,7 @@ injures
 injuries
 injuring
 injury
+injury-depleted
 injustice
 ink
 inkster
@@ -12655,6 +12695,7 @@ insecure
 insecurity
 insensitive
 inside
+inside-courtroom
 insider
 insiders
 insight
@@ -13012,6 +13053,7 @@ jalandhari
 jaleel
 jalen
 jaljalja
+jam-packed
 jamaica
 jamal
 jamarr
@@ -13371,6 +13413,7 @@ kaia
 kaifeng
 kailash
 kaiser
+kaitlin
 kaitlyn
 kalafer
 kalavainen
@@ -14363,6 +14406,7 @@ limerick
 limit
 limitations
 limited
+limited-capacity
 limited-edition
 limited-time
 limitednv
@@ -14709,6 +14753,7 @@ lujan
 lujn
 luka
 luke
+lukovica
 lula
 lululemon
 lululemons
@@ -14791,6 +14836,7 @@ mack
 maclean
 macpherson
 macquarie
+macranthum
 macrolepis
 macron
 macs
@@ -15338,6 +15384,7 @@ mechanism
 mecidiye
 med
 medal
+medalist
 medallions
 medals
 meddling
@@ -15800,6 +15847,7 @@ mixed
 mixes
 mixing
 mixtape
+mize
 mizuho
 mizzou
 ml
@@ -16584,6 +16632,7 @@ nichols
 nicholson
 nick
 nickel
+nickname
 nicks
 nicola
 nicole
@@ -17384,6 +17433,7 @@ ovetenses
 owe
 owen
 owens
+owes
 owings
 owl
 own
@@ -17522,6 +17572,7 @@ panic
 panmod
 panned
 pannell
+panorama
 pans
 pantami
 panther
@@ -17549,6 +17600,7 @@ paraglider
 paraguays
 parallel
 parallels
+paralympic
 paralympics
 paralysis
 paralyzed
@@ -17625,6 +17677,7 @@ pass
 pass-catching
 pass-rusher
 pass-rushing
+passages
 passante
 passed
 passenger
@@ -18112,6 +18165,7 @@ pixel
 piyush
 pizookie-flavored
 pizza
+pizzas
 pizzeria
 pj
 pja
@@ -18485,6 +18539,7 @@ ppp
 ppsh-41
 ppv
 ppvul
+prabhakar
 prabhatam
 prabhavalkar
 practical
@@ -18552,6 +18607,7 @@ prediction
 predictions
 predictive
 predicts
+preds
 prefer
 preferred
 prefers
@@ -18844,6 +18900,7 @@ proven
 provence
 proves
 provide
+provided
 providence
 providence-backed
 provider
@@ -18852,6 +18909,7 @@ provides
 providing
 province
 provinces
+provincial
 provision
 provocateurs
 provocation
@@ -19458,6 +19516,7 @@ recovery
 recreated
 recreates
 recreation
+recreational
 recro
 recruit
 recruited
@@ -19907,6 +19966,7 @@ restores
 restoring
 restraining
 restraint
+restraints
 restrict
 restricted
 restricting
@@ -20068,6 +20128,7 @@ richmond
 rick
 rickie
 rickles
+rickshaw
 ricky
 rico
 rid
@@ -20656,6 +20717,7 @@ samiya
 sammi
 samoa
 samoan
+samosas
 sampath
 samples
 sampson
@@ -20887,6 +20949,7 @@ scorchers
 scorchin
 scorching-hot
 score
+scoreboard
 scorecard
 scorecards
 scoreless
@@ -20960,6 +21023,7 @@ seafood
 seagal
 seagate
 seager
+seagers
 seagrams
 seahawks
 seal
@@ -20979,10 +21043,12 @@ seashell
 seashore
 seaside
 season
+season-best
 season-ticket
 seasonal
 seasons
 seat
+seating
 seaton
 seats
 seattle
@@ -21077,6 +21143,7 @@ selling
 selloff
 sells
 selma
+selo
 seltos
 semenovich
 semester
@@ -21300,6 +21367,7 @@ shave
 shaw
 shawarma
 shawn
+shawnmaster
 shayne
 shc
 she
@@ -21687,6 +21755,7 @@ skins
 skip
 skipping
 skips
+skipwith-halatau
 skirts
 skokie
 skripal
@@ -22086,6 +22155,7 @@ spain
 span
 spangler
 spanish
+spank
 spanking
 spans
 spar
@@ -22134,6 +22204,7 @@ speedway
 speedy
 spell
 spelling
+spellman
 spells
 spelt
 spencer
@@ -22229,6 +22300,7 @@ spreading
 spreads
 spree
 spring
+springer
 springfield
 springs
 springsteen
@@ -22952,6 +23024,7 @@ sutton
 suv
 suvs
 suzan-lori
+suzuka
 suzuki
 svb
 svein
@@ -23043,6 +23116,7 @@ symbolism
 symbolize
 symbols
 symmetric
+symonds
 sympathetic
 symphonie
 symphony
@@ -23158,6 +23232,7 @@ talladega
 tallapragada
 taller
 tallest
+talley
 tallinn
 tallo
 tally
@@ -23438,6 +23513,7 @@ tetiana
 tetravinyltin
 tetyana
 teva
+tewai
 texan
 texans
 texas
@@ -23635,6 +23711,7 @@ thy
 ti
 tia
 tianjin
+tibet
 tick
 ticker
 ticket
@@ -23650,6 +23727,7 @@ tie-breaking
 tie-up
 tied
 tiekso
+tienne
 tier
 tierra
 tiers
@@ -23661,6 +23739,7 @@ tigers
 tigers-pirates
 tight
 tight-knit
+tighten
 tightens
 tightness
 tigray
@@ -23829,6 +23908,7 @@ torpedoed
 torrance
 torrent
 torres
+tortelier
 torture
 tortured
 tory
@@ -24087,6 +24167,7 @@ tripathi
 triplarina
 triple
 triple-digit
+triple-double
 triple-doubles
 triple-fatal
 triple-shooting
@@ -24930,6 +25011,7 @@ video
 videos
 videotaping
 vides
+vidette
 vie
 vienna
 vienne
@@ -25165,6 +25247,7 @@ waivers
 wajcblum
 wake
 wakefield
+wakes
 waking
 wal
 waldstatt
@@ -25242,6 +25325,7 @@ warmest
 warming
 warminster
 warms
+warmth
 warmup
 warn
 warna
@@ -25441,6 +25525,7 @@ wessex
 west
 westbound
 westbrook
+westbrooks
 westchase
 westchester
 western
@@ -25563,6 +25648,7 @@ wilde
 wilder
 wilderness
 wildfire
+wildfire-fighting
 wildfires
 wildflower
 wildlife
@@ -25957,6 +26043,7 @@ yinchu
 yinjifu
 yishun
 ymr
+ynoa
 yo
 yobe
 yocum
@@ -25964,6 +26051,7 @@ yodeler
 yogi
 yogimatha
 yogurt
+yokohama
 yola
 yolk
 yolo
@@ -26066,6 +26154,7 @@ zarzas
 zaven
 zawiyas
 zdeno
+zeal
 zealand
 zealand-australia
 zealous
@@ -26075,6 +26164,7 @@ zeke
 zelda
 zeldin
 zelensky
+zeller
 zeneca
 zeneli
 zenetic
