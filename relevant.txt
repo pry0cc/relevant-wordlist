@@ -1061,6 +1061,7 @@
 109-97
 10B
 10K
+10M
 10bn
 10m
 10s
@@ -1156,6 +1157,7 @@
 1370
 138
 13817
+1386
 139-137
 13D
 13DA
@@ -1320,6 +1322,7 @@
 1943
 1946
 194647
+1947
 194748
 194849
 195051
@@ -1360,6 +1363,7 @@
 1986
 198687
 1987
+198889
 1989
 198990
 199
@@ -1503,6 +1507,7 @@
 20th
 20th-century
 21
+21-15
 21-Month-Old
 21-year-old
 210
@@ -1753,6 +1758,7 @@
 4-Run
 4-Year-Old
 4-bedroom
+4-day
 4-day-old
 4-game
 4-star
@@ -1948,6 +1954,7 @@
 61-year-old
 612
 61327
+61yo
 62
 62-year-old
 62406
@@ -2075,6 +2082,7 @@
 83
 84
 84-year-old
+840000
 843
 845
 85
@@ -2386,6 +2394,7 @@ Accuser
 Accusers
 Accuses
 Accusing
+Ace
 Acedo
 Aceh
 Aces
@@ -2397,6 +2406,7 @@ Achilles
 Acid
 Acknowledgment
 Acne
+Acorn
 Acosta
 Acquire
 Acquisition
@@ -3470,8 +3480,10 @@ Azerbaijan
 Aziz
 Azizia
 Azriel
+Azuki
 Azus
 B
+B-Day
 B-NL
 B4U
 BA
@@ -3922,6 +3934,7 @@ Bentleys
 Benton
 Benzema
 Beran
+Berardis
 Berdoba
 Berge
 Bergeron
@@ -4146,6 +4159,7 @@ Blackston
 Blackstone
 Blacktop
 Bladepoint
+Blades
 Blah
 Blair
 Blairs
@@ -4612,6 +4626,7 @@ Bryants
 Bryce
 Bryn
 Brzezinski
+Bthune
 Bubba
 Bubble
 Buccaneers
@@ -4681,6 +4696,7 @@ Bure
 Bureau
 Buren
 Bures
+Burge
 Burger
 Burgers
 Burges
@@ -4850,6 +4866,7 @@ CLS
 CM
 CMMC
 CMPs
+CMT
 CMs
 CN
 CNA
@@ -6222,6 +6239,7 @@ Cosquer
 Cost
 Costa
 Costco
+Costello
 Costly
 Costner
 Costs
@@ -6689,6 +6707,7 @@ Danielle
 Daniels
 Danish
 Danny
+Danon
 Danui
 Danville
 Dapper
@@ -6862,6 +6881,7 @@ Defender-Europe
 Defending
 Defends
 Defense
+Defenseless
 Defenseman
 Defenses
 Defensive
@@ -7209,6 +7229,7 @@ Direction
 Director
 Directors
 Direko
+Dirk
 Dirt
 Disabilities
 Disability
@@ -7271,6 +7292,7 @@ Displaced
 Display
 Displeasure
 Disposal
+Dispose
 Disposing
 Dispute
 Disputed
@@ -7354,6 +7376,7 @@ Dogg
 Doggs
 Dogs
 Dogwood
+Doin
 Doing
 Doisneau
 Dolce
@@ -7841,6 +7864,7 @@ Egypt
 Egyptian
 Egyptology
 Egypts
+Ehnts
 Ehoroncom
 Ehrlichman
 Ehrsam
@@ -8125,6 +8149,7 @@ Erosion
 Errazuriz
 Error
 Errors
+Errr
 Erskine
 Erupted
 Eruption
@@ -8475,6 +8500,7 @@ FMAO
 FOCUS
 FOCUSN
 FOMO
+FOOTAGE
 FOR
 FORTH
 FORTY
@@ -8576,6 +8602,7 @@ Familys
 Famous
 Fan
 FanDuel
+Fanbo
 Fancy
 Fandom
 Fang
@@ -8888,6 +8915,8 @@ Fleur
 Fleurines
 Flew
 Flex
+Flexen
+Flexens
 Flexible
 Fliers
 Flight
@@ -9188,6 +9217,7 @@ Fuller
 Fully
 Fulton
 Fultz
+Fumago
 Fumble
 Fun
 Fund
@@ -9546,6 +9576,7 @@ Giants
 Gibbons
 Gibson
 Giddens
+Gideon
 Giesen
 Gifford
 Gift
@@ -9623,6 +9654,7 @@ Glimpse
 Global
 Globe
 Globes
+Gloeosporium
 Gloria
 Glory
 Glove
@@ -9640,6 +9672,7 @@ Glyn
 GmbH
 Gmez
 Go
+Go-Kart
 Go-Tos
 Go-ahead
 GoFundMe
@@ -9675,6 +9708,8 @@ Gomber
 Gomes
 Gomez
 Gomezs
+Gomphocymbella
+Gomphonema
 Gone
 Gonghoe-bin
 Gono
@@ -9765,8 +9800,11 @@ Granja
 Granny
 Grant
 Grants
+Granulocystis
 Grapefruit
 GraphDB
+Graphiola
+Graphiopsis
 Grappler
 Grasse
 Grassley
@@ -9798,6 +9836,7 @@ Green
 Greene
 Greenes
 Greenest
+Greenfeld
 Greenfield
 Greenhouse
 Greenland
@@ -9830,6 +9869,7 @@ Greyhound
 Greys
 Greystone
 Grice
+Grid
 Grief
 Grieve
 Grieving
@@ -9973,6 +10013,8 @@ Gwyneth
 Gwynn
 Gym
 Gymnastics
+Gyrodinium
+Gyrosigma
 H
 H-E-B
 H1
@@ -10148,6 +10190,7 @@ Hanover
 Hanrahan
 Hans
 Hao
+Haplobasidion
 Happ
 Happen
 Happened
@@ -10334,6 +10377,7 @@ Heishan
 Heisserer
 Heist
 Heists
+Helaine
 Helbig
 Held
 Helen
@@ -10412,6 +10456,7 @@ Herros
 Herself
 Hersey
 Hershey
+Herta
 Hertz
 Herve
 Hes
@@ -10815,6 +10860,7 @@ I-25
 I-290
 I-30
 I-35
+I-35E
 I-35W
 I-44
 I-45
@@ -11108,6 +11154,7 @@ Industry
 Industry-Wide
 Indy
 IndyCar
+IndyCars
 Indys
 Ineffective
 Inefficient
@@ -11495,6 +11542,7 @@ Jane
 Janet
 Janette
 Janey
+Janik
 Janne
 Jansy
 January
@@ -11503,6 +11551,7 @@ Japan
 Japanese
 Japans
 Japantown
+Jaramillo
 Jared
 Jaren
 Jargon
@@ -11560,6 +11609,7 @@ Jehan
 Jehanne
 Jehovahs
 Jelle
+Jelly
 Jemalong
 Jen
 Jenis
@@ -11778,6 +11828,7 @@ JusticeForCairo
 Justices
 Justin
 Jutkiewicz
+Jutta
 Juve
 Juvenile
 Juveniles
@@ -11899,6 +11950,7 @@ Kaplin
 Kaprizov
 Kara
 Karan
+Karatsev
 Karavanska
 Kardashian
 Kardashians
@@ -12248,6 +12300,7 @@ Kramer
 Krasniqi
 Krasnoyarsk
 Krasovskaya
+Kravica
 Krebs
 Krejci
 Kreme
@@ -12525,6 +12578,7 @@ Latasha
 Late
 Later
 Latest
+Lathagrium
 Latif
 Latifa
 Latin
@@ -12725,6 +12779,7 @@ Level
 Levels
 Leverkusen
 Levi
+Levin
 Levine
 Levitt
 Levittown
@@ -12839,6 +12894,7 @@ Lindsay
 Lindsey
 Line
 Lineker
+Lineman
 Lines
 Lineup
 Ling
@@ -13132,6 +13188,7 @@ Lynda
 Lyngdoh
 Lynn
 Lynne
+Lynx
 Lyon
 Lyon-Smith
 Lyrics
@@ -13207,6 +13264,7 @@ MLS
 MMA
 MMO
 MN
+MO3
 MOBILE
 MOCA
 MOE
@@ -13576,6 +13634,7 @@ Mary
 Maryland
 Marys-Stockton
 Masahiro
+Masaoka
 Mascaras
 Mascot
 Masculinity
@@ -14064,6 +14123,7 @@ Miniseries
 Minister
 Ministers
 Ministry
+Minivan
 Minn
 Minneapolis
 Minneapolis-based
@@ -14182,6 +14242,8 @@ Mokupuni
 Molalla
 Molango
 Molestation
+Molina
+Moline
 Molly
 Molotov
 Molyneux
@@ -14222,9 +14284,11 @@ Monja
 Monjowa
 Monk
 Monkey
+Monmouth
 Monsoon
 Monster
 Monsters
+Montag
 Montana
 Montanas
 Montao
@@ -14312,6 +14376,7 @@ Motel
 Mother
 Mother-Daughter
 Mothers
+Motherwell
 Motherwells
 Motion
 Motivated
@@ -14495,6 +14560,7 @@ Mysteries
 Mysterious
 Mystery
 Mystic
+Mystics
 Myth
 Mythic
 Mythology
@@ -14603,6 +14669,7 @@ NYCFC
 NYCFCs
 NYCs
 NYDIG
+NYFC
 NYPD
 NYS
 NYSE
@@ -15437,6 +15504,7 @@ Outpouring
 Outrage
 Outraged
 Outreach
+Outriders
 Outset
 Outside
 Outweigh
@@ -15499,6 +15567,7 @@ PACKS
 PACs
 PAHO
 PAM
+PAOK
 PARTNERS
 PARTS
 PASSFOLIO
@@ -15509,6 +15578,7 @@ PBE
 PBOC
 PBoC
 PC
+PCF
 PCR
 PCs
 PD
@@ -16061,6 +16131,7 @@ Phoemsap
 Phoenix
 Phone
 Phones
+Phosphor
 Photo
 Photographed
 Photographer
@@ -16089,6 +16160,7 @@ Picnics
 Pico
 Pics
 Picture
+Picture-themed
 Pictured
 Pictures
 Pie
@@ -17858,6 +17930,7 @@ Roof
 Rooftop
 Rooibos
 Rookie
+Rookies
 Room
 Roomba
 Roommate
@@ -18301,6 +18374,7 @@ Sammi
 Samoa
 Samoan
 Samosas
+Samp
 Sampath
 Sampson
 Sams
@@ -18399,6 +18473,7 @@ Savi
 Saving
 Savings
 Savior
+Savor
 Saw
 Sawayamas
 Saweetie
@@ -18512,6 +18587,7 @@ Scottish
 Scotts
 Scottsdale
 Scout
+Scouting
 Scouts
 Scrambles
 Scrambling
@@ -18537,6 +18613,7 @@ Scudders
 Sculpture
 Scunthorpe
 Scuti
+Scytinium
 Se
 Sea
 Seabound
@@ -18664,6 +18741,7 @@ Sentences
 Sentencing
 Sentiment
 Senzatelas
+Seobit
 Seoul
 Separate
 Separated
@@ -18699,6 +18777,7 @@ Served
 Server
 Servers
 Service
+Servicemen
 Services
 Serving
 Sesame
@@ -19161,6 +19240,7 @@ Slater
 Slaters
 Slatkin
 Slave
+SlaveBranding
 Slavery
 Slavias
 Slayer
@@ -19250,6 +19330,7 @@ Sneaky
 Sneezy
 Snell-Bauer
 Snickers
+Sniper
 Snipes
 Snippe
 Snitker
@@ -19607,6 +19688,7 @@ Stapletons
 Star
 Star-Making
 Star-Studded
+Star-studded
 StarDance
 Stara
 Starboard
@@ -19709,6 +19791,7 @@ Stigmatomma
 Still
 Stimulus
 Sting
+Stinging
 Stinky
 Stinson
 Stinson-Milienu
@@ -20004,6 +20087,7 @@ Supreme
 Supriyo
 Supt
 Sur
+Surat
 Sure
 Suren
 Sureo
@@ -20416,6 +20500,7 @@ Tearful
 Tearfully
 Tears
 Teas
+Tease
 Teaser
 Teases
 Tech
@@ -21224,6 +21309,7 @@ US30
 US32
 US40
 US50000
+US51
 US800
 US814
 USA
@@ -21495,6 +21581,7 @@ VERDE
 VERDICT
 VERZUZ
 VET
+VFF
 VH1s
 VHS
 VI
@@ -21532,6 +21619,7 @@ Vaccination
 Vaccinations
 Vaccine
 Vaccine-Related
+Vaccine-hesitant
 Vaccines
 Vaccum
 Vacuum
@@ -21673,6 +21761,7 @@ Vergara
 Verge
 Veridian
 Verizon
+Verkest
 Vermont
 Vernon
 Verona
@@ -21832,6 +21921,7 @@ Vlandys
 Vlogger
 Vocabulary
 Vocals
+Vocational
 Voice
 Voice-y
 Voicemod
@@ -21863,6 +21953,7 @@ Vorontsov
 Vosmaer
 Vote
 Voted
+Voter
 Voters
 Votes
 Voting
@@ -22697,6 +22788,7 @@ Yuliana
 Yun
 Yung-soo
 Yunge
+Yungeen
 Yungy
 Yuning
 Yunshan
@@ -22739,6 +22831,7 @@ Zaptius
 Zara
 Zarrinpayman
 Zarzas
+Zauner
 Zaven
 Zayn
 Zdeno
@@ -22754,6 +22847,7 @@ Zeller
 Zeneca
 Zeneli
 Zenetic
+Zeng
 Zenobia
 Zep
 Zephyr
@@ -22847,6 +22941,7 @@ absolutely
 absorbs
 abstract
 absurd
+abundance
 abundantly
 abuse
 abused
@@ -23245,11 +23340,13 @@ anti-lockdown
 anti-mask
 anti-police
 anti-poverty
+anti-racism
 anti-retirement
 anti-riot
 anti-terror
 anti-trans
 anti-transgender
+anti-vaxxers
 antibodies
 anticipation
 antifa
@@ -23461,6 +23558,7 @@ attractions
 attracts
 attributes
 auction
+auctioned
 auctions
 audacity
 audience
@@ -23585,6 +23683,7 @@ bangsamoro
 bank
 bankers
 banking
+bankrolls
 bankruptcy
 bankrupted
 banks
@@ -23873,6 +23972,7 @@ body
 body-cam
 body-slams
 bodycam
+bodyshaming
 bodysuits
 boil
 bold
@@ -24329,6 +24429,7 @@ categories
 category
 catering
 caterpillar
+caterpillars
 catfishing
 cats
 cattle
@@ -24426,6 +24527,7 @@ chaos
 chaotic
 chaplains
 chapter
+chapters
 character
 characters
 chard
@@ -25315,6 +25417,7 @@ data
 data-center
 database
 date
+date-rape
 dates
 dating
 daughter
@@ -25530,6 +25633,7 @@ deplorable
 deploy
 deployed
 deploys
+deportation
 deports
 depose
 depot
@@ -26264,6 +26368,7 @@ envision
 envoy
 envoys
 epic
+epicentre
 epidemic
 epidemiologist
 episode
@@ -26646,6 +26751,7 @@ fault
 faulty
 faux-sincere
 favor
+favorable
 favorably
 favored
 favorite
@@ -26768,6 +26874,7 @@ fines
 finger
 fingerprint
 fingerprints
+fingertip
 fining
 finish
 finished
@@ -26954,6 +27061,7 @@ forget
 forgetting
 forgive
 forgiveness
+forgives
 forgot
 forgotten
 fork
@@ -26982,6 +27090,7 @@ foundation
 founder
 founders
 four
+four-day
 four-game
 four-goal
 four-month
@@ -27371,6 +27480,7 @@ grounder
 grounds
 group
 groups
+grouse
 grow
 growing
 grown
@@ -27514,6 +27624,7 @@ hard-hit
 hard-line
 harder
 hardest
+hardest-hit
 hardliners
 hardly
 hardship
@@ -28229,6 +28340,7 @@ invite
 invited
 invites
 inviting
+invokes
 involved
 involvement
 involves
@@ -28255,6 +28367,7 @@ issued
 issues
 issuing
 it
+itd
 items
 itll
 its
@@ -28324,6 +28437,7 @@ jumper
 jumping
 jumps
 jumpstart
+jumpstarts
 jumpsuits
 jungle
 junior
@@ -28705,6 +28819,7 @@ loans
 lobbied
 lobby
 lobbying
+lobbyist
 lobbyists
 local
 locals
@@ -28992,6 +29107,7 @@ media
 medias
 medic
 medical
+medically
 medications
 medicine
 medicines
@@ -29322,6 +29438,7 @@ murders
 murky
 muscle
 muscles
+muscular
 museum
 museums
 mushrooms
@@ -29345,6 +29462,7 @@ mysteries
 mysterious
 mystery
 myth
+mythic
 mythology
 myths
 n
@@ -29581,6 +29699,7 @@ nutshell
 nuttiest
 nutty
 oasis
+obaji
 obituary
 object
 objective
@@ -29988,6 +30107,7 @@ path
 pathologist
 pathos
 paths
+patience
 patient
 patients
 patio
@@ -30341,6 +30461,7 @@ positives
 positivity
 possessing
 possession
+possibilities
 possibility
 possible
 possibly
@@ -30963,6 +31084,7 @@ recognition
 recognize
 recognized
 recognizes
+recognizing
 recommend
 recommendation
 recommendations
@@ -31488,6 +31610,7 @@ rockhole
 rocking
 rocks
 rode
+rodeo
 rods
 roesch
 rogue
@@ -31517,6 +31640,7 @@ rooms
 root
 rooted
 roots
+rope
 ropes
 roster
 rosters
@@ -31678,6 +31802,7 @@ scan
 scandal
 scandals
 scanner
+scarcity
 scare
 scared
 scaring
@@ -31804,6 +31929,7 @@ seems
 seen
 sees
 segregated
+seize
 seized
 seizes
 seizing
@@ -31854,6 +31980,7 @@ sentencing
 sentiment
 separata
 separate
+separated
 separating
 separation
 sepsoides
@@ -32112,6 +32239,7 @@ sink
 sinking
 sinks
 sister
+sister-in-law
 sit
 sitcom
 sitcoms
@@ -32664,6 +32792,7 @@ strict
 strike
 strikeout
 strikeouts
+striker
 strikers
 strikes
 striking
@@ -32800,6 +32929,7 @@ superintendent
 supermajority
 supermarket
 supermarkets
+supermoon
 supersize
 superstar
 supertool
@@ -32862,6 +32992,7 @@ surveyed
 survival
 survive
 survived
+survives
 surviving
 survivors
 sushi
@@ -33707,6 +33838,7 @@ unofficial
 unprecedented
 unpredictable
 unprotected
+unprovoked
 unravel
 unraveled
 unravels

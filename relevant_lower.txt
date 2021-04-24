@@ -1147,6 +1147,7 @@
 1370
 138
 13817
+1386
 139-137
 13d
 13da
@@ -1306,6 +1307,7 @@
 1943
 1946
 194647
+1947
 194748
 194849
 195051
@@ -1346,6 +1348,7 @@
 1986
 198687
 1987
+198889
 1989
 198990
 199
@@ -1484,6 +1487,7 @@
 20th
 20th-century
 21
+21-15
 21-month-old
 21-year-old
 210
@@ -1719,6 +1723,7 @@
 4-6
 4-alarm
 4-bedroom
+4-day
 4-day-old
 4-game
 4-goal
@@ -1914,6 +1919,7 @@
 61-year-old
 612
 61327
+61yo
 62
 62-year-old
 62406
@@ -2036,6 +2042,7 @@
 83
 84
 84-year-old
+840000
 843
 845
 85
@@ -2192,6 +2199,7 @@ abstract
 abstreiter
 absurd
 abu-jamal
+abundance
 abundantly
 abuse
 abused
@@ -2272,6 +2280,7 @@ aclu
 acm
 acms
 acne
+acorn
 acosta
 acquire
 acquires
@@ -3071,6 +3080,7 @@ anti-police
 anti-poverty
 anti-protester
 anti-putin
+anti-racism
 anti-racist
 anti-retirement
 anti-riot
@@ -3082,6 +3092,7 @@ anti-trans
 anti-transgender
 anti-trump
 anti-vaccine
+anti-vaxxers
 anti-wrinkle
 antibodies
 antibody
@@ -3547,6 +3558,7 @@ aubrey
 auburn
 auburn-area
 auction
+auctioned
 auctions
 audacity
 audi
@@ -3690,8 +3702,10 @@ azerbaijan
 aziz
 azizia
 azriel
+azuki
 azus
 b
+b-day
 b-nl
 b4u
 ba
@@ -3853,6 +3867,7 @@ bank
 banker
 bankers
 banking
+bankrolls
 bankruptcy
 bankrupted
 banks
@@ -4181,6 +4196,7 @@ benton
 benzema
 bequaerti
 beran
+berardis
 berdoba
 berge
 bergeron
@@ -4447,6 +4463,7 @@ blackston
 blackstone
 blacktop
 bladepoint
+blades
 blaesa
 blah
 blair
@@ -4599,6 +4616,7 @@ body-machine
 body-slams
 bodyboss
 bodycam
+bodyshaming
 bodysuits
 bodyweight
 boehner
@@ -5054,6 +5072,7 @@ brzezinski
 bsp
 btc
 btch
+bthune
 bts
 btstu
 bubba
@@ -5148,6 +5167,7 @@ bureau
 bureaucrats
 buren
 bures
+burge
 burger
 burgers
 burges
@@ -5883,6 +5903,7 @@ chapman
 chappaqua
 chappelle
 chapter
+chapters
 char
 chara
 character
@@ -6361,6 +6382,7 @@ cm
 cmmc
 cmps
 cms
+cmt
 cn
 cna
 cnn
@@ -7008,6 +7030,7 @@ cosquer
 cost
 costa
 costco
+costello
 costing
 costly
 costner
@@ -7553,6 +7576,7 @@ daniels
 danish
 dank
 danny
+danon
 danui
 danville
 dapper
@@ -7593,6 +7617,7 @@ data
 data-center
 database
 date
+date-rape
 dates
 datesh
 dating
@@ -7795,6 +7820,7 @@ defenders
 defending
 defends
 defense
+defenseless
 defenseman
 defensemen
 defenses
@@ -8283,6 +8309,7 @@ directors
 directs
 directx
 direko
+dirk
 dirt
 dirty
 disabato
@@ -8395,6 +8422,7 @@ displeased
 displeasure
 disposable
 disposal
+dispose
 disposing
 disproportionate
 disproportionately
@@ -8530,6 +8558,7 @@ dogg
 doggs
 dogs
 dogwood
+doin
 doing
 doisneau
 doj
@@ -9060,6 +9089,7 @@ egyptian
 egyptology
 egypts
 ehf
+ehnts
 ehoroncom
 ehrlichman
 ehrsam
@@ -9407,6 +9437,7 @@ epassports
 ephrat
 epic
 epicenter
+epicentre
 epidemic
 epidemiologist
 epigmenio
@@ -9472,6 +9503,7 @@ errant
 errazuriz
 error
 errors
+errr
 erskine
 erupt
 erupted
@@ -10032,6 +10064,7 @@ famous
 fan
 fanatic
 fanbase
+fanbo
 fanciest
 fancy
 fandom
@@ -10113,6 +10146,7 @@ faux
 faux-sincere
 fave
 favor
+favorable
 favorably
 favored
 favorite
@@ -10338,6 +10372,7 @@ finger
 fingered
 fingerprint
 fingerprints
+fingertip
 fining
 finish
 finished
@@ -10476,6 +10511,8 @@ fleur
 fleurines
 flew
 flex
+flexen
+flexens
 flexible
 flick
 fliers
@@ -10636,6 +10673,7 @@ forget
 forgetting
 forgive
 forgiveness
+forgives
 forgot
 forgotten
 fork
@@ -10690,6 +10728,7 @@ fountain
 fountains
 four
 four-alarm
+four-day
 four-game
 four-goal
 four-month
@@ -10901,6 +10940,7 @@ fuller
 fully
 fulton
 fultz
+fumago
 fumble
 fumigate
 fun
@@ -11261,6 +11301,7 @@ giants
 gibbons
 gibson
 giddens
+gideon
 giesen
 gifford
 gift
@@ -11354,6 +11395,7 @@ global
 globally
 globe
 globes
+gloeosporium
 gloria
 glories
 glorious
@@ -11378,6 +11420,7 @@ gmez
 gnome
 go
 go-ahead
+go-kart
 go-to
 go-tos
 goa
@@ -11420,6 +11463,8 @@ gomber
 gomes
 gomez
 gomezs
+gomphocymbella
+gomphonema
 gone
 gonghoe-bin
 gongs
@@ -11543,9 +11588,12 @@ grant
 granted
 granting
 grants
+granulocystis
 grapefruit
 graphdb
 graphic
+graphiola
+graphiopsis
 graphs
 grapple
 grappler
@@ -11593,6 +11641,7 @@ greener
 greenery
 greenes
 greenest
+greenfeld
 greenfield
 greenhouse
 greening
@@ -11680,6 +11729,7 @@ grounder
 grounds
 group
 groups
+grouse
 grove
 groves
 grow
@@ -11832,6 +11882,8 @@ gymnasts
 gyms
 gynecologist
 gynecologists
+gyrodinium
+gyrosigma
 h
 h-e-b
 h1
@@ -11979,6 +12031,7 @@ hanover
 hanrahan
 hans
 hao
+haplobasidion
 happ
 happen
 happened
@@ -12005,6 +12058,7 @@ hardeman
 harden
 harder
 hardest
+hardest-hit
 hardliners
 hardly
 hardship
@@ -12228,6 +12282,7 @@ heisserer
 heist
 heists
 heisz
+helaine
 helbig
 held
 helen
@@ -12310,6 +12365,7 @@ herros
 herself
 hersey
 hershey
+herta
 hertz
 herve
 hes
@@ -12820,6 +12876,7 @@ i-25
 i-290
 i-30
 i-35
+i-35e
 i-35w
 i-44
 i-45
@@ -13159,6 +13216,7 @@ industry-wide
 industrys
 indy
 indycar
+indycars
 indys
 ineffective
 inefficient
@@ -13461,6 +13519,7 @@ invite
 invited
 invites
 inviting
+invokes
 involved
 involvement
 involves
@@ -13570,6 +13629,7 @@ italians
 italy
 italys
 itching
+itd
 iteka
 item
 items
@@ -13672,6 +13732,7 @@ janeirense
 janet
 janette
 janey
+janik
 janne
 jansy
 january
@@ -13680,6 +13741,7 @@ japan
 japanese
 japans
 japantown
+jaramillo
 jared
 jaren
 jargon
@@ -13743,6 +13805,7 @@ jehan
 jehanne
 jehovahs
 jelle
+jelly
 jemalong
 jen
 jenis
@@ -13970,6 +14033,7 @@ jumper
 jumping
 jumps
 jumpstart
+jumpstarts
 jumpsuits
 jun
 junction
@@ -13999,6 +14063,7 @@ justified
 justify
 justin
 jutkiewicz
+jutta
 juve
 juvenile
 juveniles
@@ -14076,6 +14141,7 @@ kaprizov
 kara
 karan
 karate
+karatsev
 karavanska
 kardashian
 kardashians
@@ -14472,6 +14538,7 @@ krasniqi
 krasnoyarsk
 krasovskaya
 kratos
+kravica
 kravis
 krebs
 kref
@@ -14718,6 +14785,7 @@ late-season
 later
 laternatus
 latest
+lathagrium
 latif
 latifa
 latin
@@ -14983,6 +15051,7 @@ level
 levels
 leverkusen
 levi
+levin
 levine
 levitt
 levittown
@@ -15239,6 +15308,7 @@ lobbied
 lobbies
 lobby
 lobbying
+lobbyist
 lobbyists
 local
 locals
@@ -15514,6 +15584,7 @@ lynda
 lyngdoh
 lynn
 lynne
+lynx
 lyon
 lyon-smith
 lyric
@@ -15914,6 +15985,7 @@ mary
 maryland
 marys-stockton
 masahiro
+masaoka
 mascaras
 mascot
 mascots
@@ -16142,6 +16214,7 @@ mediation
 medic
 medicaid
 medical
+medically
 medicare
 medication
 medications
@@ -16525,6 +16598,7 @@ ministerial
 ministers
 ministries
 ministry
+minivan
 minn
 minneapolis
 minneapolis-based
@@ -16636,6 +16710,7 @@ mmo
 mmorial
 mn
 mo
+mo3
 moab
 moaning
 mob
@@ -16695,6 +16770,8 @@ molecular
 molestation
 molested
 molester
+molina
+moline
 molly
 molotov
 molyneux
@@ -16742,6 +16819,7 @@ monja
 monjowa
 monk
 monkey
+monmouth
 monocolored
 monologue
 monopolies
@@ -16749,6 +16827,7 @@ monopoly
 monsoon
 monster
 monsters
+montag
 montana
 montanas
 montanus
@@ -16852,6 +16931,7 @@ mother-daughter
 mother-in-law
 motherhood
 mothers
+motherwell
 motherwells
 motion
 motivated
@@ -17038,6 +17118,7 @@ musawenkosi
 muscle
 muscles
 muscoy
+muscular
 muse
 museum
 museums
@@ -17096,6 +17177,7 @@ mysteries
 mysterious
 mystery
 mystic
+mystics
 myth
 mythic
 mythology
@@ -17773,6 +17855,7 @@ nycfcs
 nycs
 nydig
 nyers
+nyfc
 nypd
 nys
 nyse
@@ -17795,6 +17878,7 @@ oatly
 oatmeal
 oawa
 ob-gyns
+obaji
 obama
 obama-era
 obamas
@@ -18224,6 +18308,7 @@ outrage
 outraged
 outrageous
 outreach
+outriders
 outset
 outside
 outsider
@@ -18448,6 +18533,7 @@ pantry
 pants
 pantsuit
 pao
+paok
 paola
 papageorgakopoulou
 paper
@@ -18659,6 +18745,7 @@ payton
 pbe
 pboc
 pc
+pcf
 pcr
 pcs
 pd
@@ -18924,6 +19011,7 @@ phone-cracking
 phoned
 phones
 phonics
+phosphor
 photo
 photograph
 photographed
@@ -18965,6 +19053,7 @@ pico
 pics
 picture
 picture-perfect
+picture-themed
 pictured
 pictures
 picturesque
@@ -19358,6 +19447,7 @@ positives
 positivity
 possessing
 possession
+possibilities
 possibility
 possible
 possibly
@@ -20444,6 +20534,7 @@ recognition
 recognize
 recognized
 recognizes
+recognizing
 recommend
 recommendation
 recommendations
@@ -21281,6 +21372,7 @@ rocky
 rockymore
 rodalies
 rode
+rodeo
 roderick
 rodermund
 rodger
@@ -21735,6 +21827,7 @@ sammi
 samoa
 samoan
 samosas
+samp
 sampath
 samples
 sampson
@@ -21849,6 +21942,7 @@ savi
 saving
 savings
 savior
+savor
 saw
 sawant
 sawayamas
@@ -21886,6 +21980,7 @@ scapegoats
 scar
 scarborough
 scarce
+scarcity
 scare
 scared
 scaring
@@ -22046,6 +22141,7 @@ scuffle
 sculpture
 scunthorpe
 scuti
+scytinium
 sd
 se
 sea
@@ -22228,6 +22324,7 @@ sentencing
 sentiment
 sentry
 senzatelas
+seobit
 seoul
 separata
 separate
@@ -22270,6 +22367,7 @@ server
 servers
 serves
 service
+servicemen
 services
 serving
 sesame
@@ -22754,6 +22852,7 @@ siri
 sirianni
 sisenandus
 sister
+sister-in-law
 sisterly
 sisters
 sisyphean
@@ -22864,6 +22963,7 @@ slater
 slaters
 slatkin
 slave
+slavebranding
 slavery
 slaves
 slavias
@@ -23011,6 +23111,7 @@ sneezy
 snell-bauer
 snickers
 sniff
+sniper
 snipes
 snippe
 snitker
@@ -23660,6 +23761,7 @@ stigmatomma
 still
 stimulus
 sting
+stinging
 stinks
 stinky
 stinson
@@ -24033,6 +24135,7 @@ superman
 supermarket
 supermarkets
 supermodel
+supermoon
 supernova
 supersize
 superstar
@@ -24071,6 +24174,7 @@ supremo
 supriyo
 supt
 sur
+surat
 sure
 suren
 sureo
@@ -25811,6 +25915,7 @@ unpopular
 unprecedented
 unpredictable
 unprotected
+unprovoked
 unpunishable
 unravel
 unraveled
@@ -25922,6 +26027,7 @@ us30
 us32
 us40
 us50000
+us51
 us800
 us814
 usa
@@ -26170,6 +26276,7 @@ vergara
 verge
 veridian
 verizon
+verkest
 vermont
 vernon
 verona
@@ -26206,6 +26313,7 @@ vets
 vettel
 vettori
 vexing
+vff
 vfl
 vh1s
 vhs
@@ -26372,6 +26480,7 @@ vlogger
 vo
 vocabulary
 vocals
+vocational
 vod
 vodka
 voice
@@ -27394,6 +27503,7 @@ yuliana
 yun
 yung-soo
 yunge
+yungeen
 yungy
 yuning
 yunshan
@@ -27433,6 +27543,7 @@ zaptius
 zara
 zarrinpayman
 zarzas
+zauner
 zaven
 zawiyas
 zayn
@@ -27451,6 +27562,7 @@ zeller
 zeneca
 zeneli
 zenetic
+zeng
 zenobia
 zep
 zephyr
