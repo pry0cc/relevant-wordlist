@@ -2,6 +2,7 @@
 -
 --
 -advisor
+-dpa
 -fda
 -finance
 -held
@@ -976,6 +977,7 @@
 029
 04
 042021
+042321
 044
 067
 0700gmt
@@ -1162,9 +1164,11 @@
 14a
 14c
 14er
+14th
 15
 15-12g
 15-2
+15-strikeout
 15-team
 15-year-old
 150
@@ -1310,6 +1314,7 @@
 1977
 1978
 1979
+19791990
 1980
 1980s
 1981
@@ -1393,6 +1398,7 @@
 2012
 201213
 2013
+201314
 2014
 2015
 2015-16
@@ -1537,6 +1543,7 @@
 2746
 27500
 2765
+277
 279
 27m-a-mile
 28
@@ -1673,6 +1680,7 @@
 4-goal
 4-run
 4-star
+4-team
 4-vehicle
 4-year
 4-year-old
@@ -1859,6 +1867,7 @@
 61327
 62
 62406
+63
 630
 6349
 64
@@ -2421,6 +2430,7 @@ agent
 agents
 agenus
 ages
+agglomerations
 agglomration
 agglopolys
 aggravating
@@ -2533,6 +2543,7 @@ al-mihmandar
 al-muzaini
 al-qitt
 al-wazir
+al-yusufi
 alaba
 alabama
 alaina
@@ -2554,6 +2565,7 @@ alayna
 alazraqui
 albania
 albanian
+albanias
 albany
 albemarle
 albert
@@ -2701,6 +2713,7 @@ alpine
 alps
 alrajhi
 already
+alrosa
 als
 also
 alstad
@@ -2979,6 +2992,7 @@ anti-terrorism
 anti-trans
 anti-transgender
 anti-trump
+anti-vaccine
 anti-wrinkle
 antibodies
 antibody
@@ -3229,6 +3243,7 @@ arson
 arsonist
 art
 artechouse
+artenir
 arteta
 artful
 arthangal
@@ -3244,6 +3259,7 @@ artistic
 artistry
 artists
 arts
+artsakh
 artur
 aruba
 aruna
@@ -3484,6 +3500,7 @@ autobiographical
 autocrat
 autographs
 autoliv
+automaker
 automakers
 automatic
 automatic-promotion
@@ -3532,6 +3549,7 @@ awaited
 awaiting
 awaits
 awakening
+awan
 award
 award-winning
 awarded
@@ -3569,6 +3587,7 @@ azizia
 azriel
 azus
 b
+b-nl
 b4u
 ba
 baa
@@ -4114,6 +4133,7 @@ bezares
 bezos
 bfw
 bh
+bhaiya
 bhanudas
 bharat
 bhasin
@@ -4123,6 +4143,7 @@ bhavana
 bhekizizwe
 bhojpuri
 bhp
+bhuria
 bhutan
 bialik
 bianca
@@ -4252,6 +4273,7 @@ birthdays
 birthplace
 birthrate
 biscuits
+bishnu
 bishop
 bison
 bisons
@@ -4270,6 +4292,7 @@ bitstamp
 bitten
 bitter
 bivuti
+biye
 bizarre
 bjk
 bjrn
@@ -4419,6 +4442,7 @@ boating
 boats
 boaz
 bob
+bob-ing
 boba
 bobageddon
 bobbahn
@@ -4948,6 +4972,7 @@ bullish
 bullock
 bullpen
 bulls
+bulls-eye
 bullsht
 bully
 bullying
@@ -5167,6 +5192,7 @@ cambridge
 cambridges
 camden
 came
+cameo
 cameos
 camera
 cameras
@@ -5394,6 +5420,7 @@ carts
 cartujano
 cartwright
 caruso
+carvalhido
 carvana
 carver
 cas
@@ -5469,6 +5496,7 @@ cathay
 catherine
 cathie
 catholic
+cathy
 catlin
 cato
 catroux
@@ -5654,6 +5682,7 @@ chandelle
 chandia
 chandio
 chandler
+chandra
 chandrawal
 chanel
 chang
@@ -5664,6 +5693,7 @@ changer
 changes
 changgong
 changing
+changsha
 changzhao
 changzheng
 channel
@@ -6963,6 +6993,7 @@ crews
 crewship
 cribripennis
 cricket
+cricket-australias
 cricket-england
 cricketer
 cried
@@ -7967,6 +7998,7 @@ ding
 dingers
 dinghy
 dining
+diniz
 dinner
 dinners
 dinnertime
@@ -8185,6 +8217,7 @@ division
 divorce
 divorced
 divorcing
+diwakar
 diwigdi
 dixon
 diy
@@ -8199,6 +8232,7 @@ dmitry
 dms
 dmv
 dmx
+dmxs
 dna
 do
 do-it-all
@@ -8210,6 +8244,8 @@ doc
 dock
 docked
 docker
+dockers
+docks
 docs
 doctor
 doctors
@@ -8267,6 +8303,7 @@ dominant
 dominate
 dominates
 domingo
+domingos
 domini
 dominic
 dominican
@@ -8767,6 +8804,7 @@ ekspress
 ekspress-103
 ekspress-80
 ekspress-a1r
+ekspress-am44
 ekspress-am5
 el
 elantra
@@ -8862,6 +8900,7 @@ elsa
 else
 elsewhere
 elsie
+elumalai
 elusive
 ely
 ema
@@ -10427,6 +10466,7 @@ freezer
 freezers
 freezing
 freitag
+freitas
 fremantle
 fremantles
 fremont
@@ -10537,6 +10577,7 @@ funeral
 funerals
 funfetti
 fungi
+fungus
 funimation
 funnel
 funnels
@@ -10591,6 +10632,7 @@ gadots
 gaethje
 gaetz
 gaetzs
+gahora
 gaia
 gain
 gained
@@ -10600,6 +10642,7 @@ gait
 gaji
 gal
 gala
+galactic
 galappathy
 galaxaura
 galaxy
@@ -10869,6 +10912,7 @@ gift
 gifted
 gifts
 gig
+gigantic
 gigaset
 gigcapital2
 giggs
@@ -11310,6 +11354,7 @@ guardian
 guardiola
 guardiolas
 guardrail
+guards
 guardsmen
 guatemala
 guatemalan
@@ -11383,6 +11428,7 @@ guoquan
 gupta
 guralnik
 guru
+gurupada
 gurzanski
 gushi
 gustafsson
@@ -11742,6 +11788,7 @@ heart-melting
 heart-warming
 heart-wrenching
 heartbeat
+heartbreak
 heartbreaker
 heartbreaking
 heartbroken
@@ -12015,6 +12062,7 @@ hitting
 hiv
 hiwinui
 hk
+hlarendi
 hm
 hman
 hmart
@@ -12036,6 +12084,7 @@ hoffman
 hogan
 hogwarts
 hogwartsian
+hohns
 hoi
 holasov
 hold
@@ -12091,6 +12140,7 @@ homework
 homicide
 homicides
 homoeopathy
+homophobia
 homophobic
 honda
 hondas
@@ -12292,6 +12342,7 @@ hump
 humpty
 humvee
 hundreds
+hunedoara
 hung
 hungary
 hungarys
@@ -12391,6 +12442,7 @@ ibm
 ibn
 ibom
 ibrahim
+ibsen
 icahn
 icardi
 icbms
@@ -12483,6 +12535,7 @@ il-78
 ilana
 ilhan
 ill
+ill-informed
 ill-judged
 illarionovich
 illegal
@@ -12822,6 +12875,7 @@ insisted
 insists
 inslee
 insomnia
+inspected
 inspection
 inspections
 inspector
@@ -13057,6 +13111,7 @@ isidoro
 isil
 isils
 isis
+isla
 islamic
 islamist
 islamists
@@ -13313,6 +13368,7 @@ jiabaos
 jiangan
 jiangping
 jiangsu
+jibesh
 jid
 jihad
 jill
@@ -13544,6 +13600,7 @@ kaitlin
 kaitlyn
 kalafer
 kalavainen
+kalawati
 kale
 kalev
 kaley
@@ -13627,6 +13684,7 @@ katy
 kaul-singh-dutta
 kaunitz
 kaupo
+kaur
 kawasemi
 kawhi
 kay
@@ -13734,6 +13792,7 @@ khairy
 khais
 khaja
 khaled
+khalid
 khamis
 khan
 khang
@@ -13817,6 +13876,7 @@ kiper
 kipling
 kiprizov
 kirby
+kiribati
 kirilloff
 kirkconnell
 kirnan
@@ -13861,6 +13921,7 @@ kmox
 kmr
 kn95
 knapps
+knattspyrnuflagi
 knee
 kneeing
 kneel
@@ -14042,6 +14103,7 @@ lac
 lacaton
 laced
 laceration
+lachie
 lack
 lacks
 ladder
@@ -14085,6 +14147,7 @@ lala
 lam
 lama
 lamar
+lambasts
 lambert
 lambin
 lamborghini
@@ -14199,6 +14262,7 @@ lauded
 lauderdale
 lauds
 lauffer
+laugh
 laughing
 laughs
 laughter
@@ -14275,6 +14339,7 @@ leaking
 leaks
 leandro
 leann
+leap
 leaps
 learn
 learned
@@ -14465,6 +14530,7 @@ liang
 libel
 liberal
 liberals
+liberation
 liberia
 liberman
 liberties
@@ -14982,6 +15048,7 @@ machete
 machine
 machines
 mack
+mackenzie
 maclean
 macpherson
 macquarie
@@ -15009,6 +15076,7 @@ madoff
 madoffs
 madonnas
 madras
+madrasa
 madrasha
 madre
 madrid
@@ -15210,6 +15278,7 @@ mar
 mar-a-lago
 mara
 marais
+marar
 marathon
 marc
 marcella
@@ -15605,6 +15674,7 @@ meia
 meijer
 meireles
 meituan
+meixihu
 meiying
 meja
 mel
@@ -15687,6 +15757,7 @@ merchants
 mercury
 mercurys
 mercy
+merely
 merge
 merger
 mergers
@@ -15731,6 +15802,7 @@ metallic
 metals
 metaphors
 metaverse
+mete
 meteor
 meteorologist
 meter
@@ -15868,6 +15940,7 @@ miller
 milleskog
 millett
 million
+million-plus
 millions
 millionth
 millis
@@ -15889,6 +15962,7 @@ mind-boggling
 minds
 mine
 minecraft
+miner
 mineral
 miners
 minersville
@@ -16006,6 +16080,7 @@ mixed
 mixes
 mixing
 mixtape
+mizanin
 mize
 mizuho
 mizzou
@@ -16478,6 +16553,7 @@ n95
 na
 naacp
 nab
+nabs
 nabuwat
 nachos
 nacional
@@ -16715,6 +16791,7 @@ netflix
 netflixs
 netgear
 netherlands
+neto
 nets
 nets-knicks
 network
@@ -17172,6 +17249,7 @@ occasionallydark
 occidentale
 occurred
 ocean
+oceanographer
 oceans
 oceansheres
 ocg
@@ -17776,6 +17854,7 @@ paperbacks
 papers
 paperwork
 papillopathy
+pappur
 papua
 papuensis
 paquito
@@ -17908,6 +17987,7 @@ patio
 patmore
 patna
 paton
+patra
 patri
 patriarchs
 patricia
@@ -19120,6 +19200,7 @@ prowls
 prowses
 proxy
 prs
+prt
 prtelpoeg
 prude
 pruttons
@@ -19209,6 +19290,7 @@ pupils
 puppet
 puppies
 puppy
+pur
 purcell
 purchase
 purchased
@@ -19558,6 +19640,7 @@ rayyan
 razer
 razi
 razormetrics
+razzie
 razzies
 rb
 rbc
@@ -20073,6 +20156,7 @@ reporting
 reports
 representation
 representative
+representatives
 represented
 representing
 represents
@@ -20139,6 +20223,7 @@ resigns
 resilient
 resistance
 resistant
+resisted
 resisting
 resists
 resolution
@@ -20296,6 +20381,7 @@ rewrite
 rex
 rexes
 rexford
+rexr
 reyes
 reyna
 reynders
@@ -20619,6 +20705,7 @@ roseman
 rosenberg
 rosenfeld
 rosenstock
+rosenthal
 roses
 roseville
 rosewoods
@@ -20709,6 +20796,7 @@ rudimentary
 rudin
 rudins
 rudolf
+rudy
 rudys
 ruehle
 rueppellii
@@ -20820,6 +20908,7 @@ sable
 sabotage
 sabres
 sacco
+sacha
 sachem
 sachin
 sachs
@@ -20875,6 +20964,7 @@ saint
 saint-pathus
 saints
 sajak
+sajeed
 sake
 sakhong
 sakkari
@@ -20963,6 +21053,7 @@ sandbag
 sandefjord
 sanders
 sandford
+sandhu
 sandland
 sandlots
 sandown
@@ -20979,6 +21070,7 @@ sanitary
 sanitation
 sanjay
 sanjeev
+sank
 sano
 sans
 sansi
@@ -20990,6 +21082,7 @@ santiago
 santos
 sao
 sap
+sapienza
 saplings
 sapphire
 sapping
@@ -21026,6 +21119,7 @@ saturday-morning
 saturday-night
 saturdays
 saturn
+satwant
 saubhagyawati
 sauce
 sauces
@@ -21136,6 +21230,7 @@ schoolers
 schoolgirl
 schooling
 schools
+schot
 schrder
 schreiber
 schrodinger
@@ -21374,6 +21469,7 @@ selo
 seltos
 semenovich
 semester
+semi-final
 semi-finals
 semi-truck
 semiconductor
@@ -21782,6 +21878,7 @@ si-bone
 sia
 sialkot
 sian
+sias
 siberia
 sibley
 sibling
@@ -23015,6 +23112,7 @@ submits
 subodha
 subpoena
 subpoenas
+subramanian
 subs
 subscriber
 subscribers
@@ -23089,6 +23187,7 @@ suitcase
 suitcases
 suite
 suits
+sukhdarshan
 suki
 sukuk
 suleiman
@@ -24063,6 +24162,7 @@ tiz
 tj
 tlaib
 tlaibs
+tlc
 tlvision
 tm
 tmz
@@ -24204,6 +24304,7 @@ tour
 touring
 tourism
 tourist
+tourist-starved
 tourists
 tournament
 tours
@@ -24446,6 +24547,7 @@ tritt
 triumph
 triumphant
 triumphs
+trivedi
 trivia
 trivializing
 trivigno
@@ -24489,6 +24591,7 @@ trump-appointed
 trump-backed
 trump-era
 trump-haters
+trump-inspired
 trump-installed
 trumps
 trupanion
@@ -24574,6 +24677,7 @@ turpin
 turrisi
 turtle
 turtles
+tuscan
 tustin
 tutorials
 tuttomondo
@@ -24684,6 +24788,7 @@ ukraine-russian
 ukraines
 ukrainian
 uks
+uljay
 ultimate
 ultimately
 ultimatum
@@ -24748,6 +24853,7 @@ under-65s
 under-desk
 under-the-radar
 underage
+undercounting
 undercover
 underdog
 undergoes
@@ -25295,6 +25401,7 @@ views
 vigil
 vigilante
 vigils
+vignesh
 vigor
 vigorously
 vii
@@ -25519,6 +25626,7 @@ waits
 waive
 waiver
 waivers
+waives
 wajcblum
 wake
 wakefield
@@ -25675,6 +25783,7 @@ watts
 watuwe
 watzinger
 wave
+waved
 waves
 waving
 wawa
@@ -26111,6 +26220,7 @@ workoutand
 workoutbecause
 workouts
 workplace
+workplaces
 works
 workshop
 world
@@ -26448,6 +26558,7 @@ zeller
 zeneca
 zeneli
 zenetic
+zenobia
 zep
 zephyr
 zeppelin
@@ -26474,6 +26585,7 @@ zidane
 ziemba
 ziering
 ziggy
+zikomo
 zilker
 zimbabwe
 zimbabwes
