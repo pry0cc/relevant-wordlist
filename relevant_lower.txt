@@ -1238,6 +1238,7 @@
 17th
 17th-century
 18
+18-
 18-19
 18-ka
 18-wheeler
@@ -1277,6 +1278,7 @@
 19-time
 19-year-old
 190
+1900
 1906
 1907
 1909
@@ -1303,6 +1305,7 @@
 194647
 194748
 194849
+195051
 1950s
 195253
 1955
@@ -1331,6 +1334,7 @@
 1979
 19791990
 1980
+19801983
 1980s
 1981
 1984
@@ -1342,6 +1346,7 @@
 1989
 198990
 199
+1990
 1990s
 1991
 1992
@@ -1377,6 +1382,7 @@
 2-month-old
 2-night
 2-second
+2-shot
 2-uk
 2-year
 2-year-old
@@ -1472,6 +1478,7 @@
 20k
 20m
 20s
+20th
 20th-century
 21
 21-month-old
@@ -1549,6 +1556,7 @@
 26
 26-year-old
 260
+260000
 261
 261000
 2614
@@ -1575,9 +1583,11 @@
 2864
 28m
 29
+29-year-olds
 290
 2907
 29155
+2921
 29b
 29m
 2b
@@ -1651,6 +1661,7 @@
 342
 346786
 34802
+3487
 349
 3498473
 34m
@@ -1671,6 +1682,7 @@
 365
 37
 370
+3721747
 375
 3768
 377a
@@ -1920,6 +1932,7 @@
 669
 6733
 675
+6781
 67th
 68
 68000
@@ -1963,6 +1976,7 @@
 72
 72-year-old
 7220
+72811
 73
 73-year-old
 737
@@ -2060,6 +2074,7 @@
 93rd
 94
 94-1
+94766
 95
 95-59
 950m
@@ -2097,6 +2112,7 @@ aarp
 aasmund
 aasy
 aat
+aaye
 ab
 ab127
 aba
@@ -2455,6 +2471,7 @@ aftermarket
 aftermath
 afternoon
 afternoons
+afterparties
 afterschool
 afua
 ag
@@ -2784,6 +2801,7 @@ although
 altior
 altria
 altschul
+altuve
 altyn
 alum
 aluminum
@@ -2912,6 +2930,7 @@ andrade
 andrades
 andre
 andrea
+andreas
 andreessen
 andrei
 andreina
@@ -2987,6 +3006,7 @@ anniversary
 announce
 announced
 announcement
+announcements
 announces
 announcing
 annoying
@@ -3019,6 +3039,8 @@ anti-asian
 anti-black
 anti-blasphemy
 anti-blm
+anti-cheat
+anti-cop
 anti-corruption
 anti-coup
 anti-crypto
@@ -3033,6 +3055,7 @@ anti-lgbtq
 anti-lockdown
 anti-mask
 anti-moscow
+anti-muslim
 anti-opec
 anti-police
 anti-poverty
@@ -3711,6 +3734,7 @@ baddourah
 baden
 badge
 badgers
+badi
 badlands
 badly
 badminton
@@ -4401,6 +4425,7 @@ blackmail
 blackmon
 blackout
 blackpinks
+blackpool
 blacks
 blackston
 blackstone
@@ -4647,6 +4672,7 @@ booze
 booze-free
 boozy
 borat
+bordeaux
 border
 borders
 bored
@@ -4678,6 +4704,7 @@ botched
 botching
 both
 botnet
+bots
 botswana
 bottas
 bottas-russell
@@ -5274,6 +5301,7 @@ called
 caller
 calling
 calls
+callum
 calm
 calorie
 caltrans
@@ -5495,6 +5523,7 @@ carragher
 carranzas
 carrefour
 carreno
+carreo
 carrera
 carriage
 carrie
@@ -6285,6 +6314,7 @@ clouds
 cloudy
 cls
 club
+club-worthy
 clubbing
 clubhouse
 clubhouse-like
@@ -6444,6 +6474,7 @@ color
 coloradans
 colorado
 coloradokeep
+coloradooklahoma
 colorados
 colorectal
 colored
@@ -7248,10 +7279,12 @@ cryogenic
 cryoport
 cryptic
 crypto
+crypto-stealing
 cryptocurrencies
 cryptocurrency
 cryptocurrencys
 cryptologist
+cryptomining
 cryptopunks
 cryptos
 crystal
@@ -7440,6 +7473,7 @@ dallas
 dallas-fort
 dalle
 dallis
+daly
 dam
 damage
 damaged
@@ -7452,6 +7486,7 @@ damascus
 damian
 daml
 damn
+damning
 damons
 damper
 dan
@@ -7499,6 +7534,7 @@ darling
 darnell
 darnella
 darnold
+darnolds
 darrell
 darren
 darryl
@@ -7548,6 +7584,7 @@ dax
 day
 daycare
 daylight
+daylight-saving
 daylong
 days
 daysand
@@ -7926,6 +7963,7 @@ dermatologists
 dermot
 dernei
 derrick
+derrius
 dershowitz
 des
 desalination
@@ -8037,6 +8075,7 @@ devine
 devonta
 dewitt
 dews
+dex
 dey
 df-100
 dfan14a
@@ -8203,6 +8242,7 @@ director
 director-general
 directors
 directs
+directx
 direko
 dirt
 dirty
@@ -8498,6 +8538,7 @@ donation
 donations
 donbas
 donbass
+doncaster
 doncic
 done
 dong
@@ -8514,6 +8555,7 @@ doobious
 doomed
 dooming
 doomsday
+doooor
 door
 doorbell
 doors
@@ -8746,6 +8788,7 @@ duff
 duffel
 duffs
 dug
+duggar
 dui
 duke
 dukes
@@ -8972,6 +9015,7 @@ egregious
 eguiarreta
 egypt
 egyptian
+egyptology
 egypts
 ehf
 ehoroncom
@@ -9085,6 +9129,7 @@ ellison
 ellisons
 ellson
 ellsworth
+elmhurst
 elmo
 elmwood
 eloise
@@ -9306,6 +9351,7 @@ entry
 entry-level
 environment
 environmental
+environmentalist
 environmentally
 envision
 envoy
@@ -9605,6 +9651,7 @@ ex-number
 ex-nursing
 ex-officer
 ex-officers
+ex-officials
 ex-palmdale
 ex-pboc
 ex-playmate
@@ -9684,6 +9731,7 @@ exercises
 exercising
 exeter
 exfoliating
+exfoliators
 exhales
 exhausted
 exhausting
@@ -10607,6 +10655,7 @@ four-year
 fourth
 fourth-and-15
 fouz
+fowlers
 fox
 foxboro
 foxconn
@@ -10858,6 +10907,7 @@ fwwu
 fx
 fyre
 g
+g2
 g7
 g7-led
 g80
@@ -11453,6 +11503,7 @@ graphs
 grapple
 grappler
 grapples
+grappling
 grasping
 grasse
 grassley
@@ -11640,6 +11691,7 @@ guest-hosting
 guests
 guggenheim
 gui
+guice
 guidance
 guide
 guided
@@ -11735,6 +11787,7 @@ gynecologist
 gynecologists
 h
 h-e-b
+h1
 h3
 haah
 haaland
@@ -11761,6 +11814,7 @@ hagel
 hagen
 hager
 hahn
+hai
 hail
 hailey
 hailing
@@ -11782,6 +11836,7 @@ hajinazarian
 hajj
 hakeem
 hal
+halcn
 hale
 halep
 hales
@@ -11853,6 +11908,7 @@ hands-free
 hands-off
 hands-on
 handsy
+handwringing
 handwritten
 handy
 hanford
@@ -11964,6 +12020,7 @@ hat
 hat-trick
 hatch
 hatchbacks
+hatchery
 hatches
 hatchet
 hatchet-wielding
@@ -12237,6 +12294,7 @@ hiding
 hields
 higashiokas
 higgins
+higgo
 high
 high-class
 high-end
@@ -12448,6 +12506,7 @@ hooper
 hoops
 hooray
 hoosiers
+hoot
 hooydonk
 hop
 hope
@@ -12464,6 +12523,7 @@ horace
 horchata
 horikoshi
 horizon
+horizontec
 horn
 horne
 horneri
@@ -12688,6 +12748,7 @@ hydroplane
 hygiene
 hyo-won
 hype
+hyper-woke
 hypocrisy
 hypocrite
 hypocritical
@@ -12728,6 +12789,7 @@ ibn
 ibom
 ibrahim
 ibsen
+ibuprofen
 icahn
 icardi
 icbms
@@ -13141,6 +13203,7 @@ innocent
 innovation
 innovations
 innovative
+inocencia
 inoculate
 inoculated
 inoculation
@@ -13406,6 +13469,7 @@ isil
 isils
 isis
 isla
+islam
 islamic
 islamist
 islamists
@@ -13607,6 +13671,7 @@ jean-philippe
 jeanine
 jeanne
 jeans
+jed
 jeep
 jeff
 jefferson
@@ -13798,6 +13863,7 @@ jr
 jri
 jrme
 jrns
+jrotc
 jrs
 js
 jt
@@ -13872,6 +13938,7 @@ justin
 jutkiewicz
 juve
 juvenile
+juveniles
 juventes
 juventus
 juves
@@ -13981,6 +14048,7 @@ kat
 katasin
 kate
 katelyn
+kates
 katharine
 katherine
 kathleen
@@ -13991,11 +14059,13 @@ kati
 katie
 katrina
 katsikas
+katsuta
 katy
 kaul-singh-dutta
 kaunitz
 kaupo
 kaur
+kavanaugh
 kawasemi
 kawhi
 kay
@@ -14011,6 +14081,7 @@ kazemi
 kazi
 kazmars
 kb
+kb5001330
 kb5001396
 kbreau
 kc
@@ -14201,6 +14272,7 @@ kish
 kishanganj
 kiss
 kissed
+kisses
 kiszla
 kit
 kitchen
@@ -14223,6 +14295,7 @@ klamath
 klan
 klausmeyer
 klcm
+klein
 kliff
 klinghoffer
 klisurov
@@ -14522,6 +14595,7 @@ lane
 lanes
 lange
 langer
+langley
 language
 languishing
 langur
@@ -14755,6 +14829,7 @@ legoland
 legos
 legs
 lehigh
+lehners
 lei
 leicester
 leicesters
@@ -14824,6 +14899,7 @@ lethal
 lethyna
 leto
 letonoff
+letos
 lets
 letter
 lettering
@@ -14930,6 +15006,7 @@ lightnings
 lightridge
 lights
 lightweight
+ligue
 liisi
 lijia
 likable
@@ -15264,6 +15341,7 @@ lowery
 lowes
 lowest
 lowkey
+lowries
 lowry
 lox
 loyal
@@ -15275,6 +15353,7 @@ lpez
 lsa-powered
 lscs
 lsd
+lsu
 lt
 ltas
 ltc
@@ -15318,6 +15397,7 @@ luke
 lukid
 lukovica
 lula
+lulami
 lululemon
 lululemons
 lumber
@@ -15377,6 +15457,7 @@ lyrid
 lyriq
 lysimachia
 lz110
+lzzari
 m
 m-net
 m-v-p
@@ -15658,6 +15739,7 @@ mares
 margaret
 margareta
 margarethe
+margarita
 margin
 margins
 margit
@@ -15884,6 +15966,7 @@ mazar
 mazie
 mazzucchi
 mbala
+mbappe
 mbeumo
 mcallister
 mcalpine
@@ -16031,6 +16114,7 @@ megan
 megatrends
 meghan
 meghans
+meghen
 meghha
 megxit
 mehlville
@@ -16123,6 +16207,7 @@ mercedes-benz
 mercedes-eq
 mercenaries
 mercer
+merch
 merchandise
 merchants
 mercury
@@ -16492,6 +16577,7 @@ moca
 mock
 mocked
 mocking
+mockingly
 mocks
 mode
 model
@@ -16630,6 +16716,7 @@ morales
 moran
 morant
 moratorium
+moray
 mordecai
 mordechai
 more
@@ -16761,6 +16848,7 @@ mph
 mps
 mr
 mrfelt
+mri
 mrittunjoy
 mrna
 mrquez
@@ -16920,6 +17008,7 @@ myanmar
 myanmars
 myles
 mymd
+mypencildotcom
 mypillow
 mypillows
 myr
@@ -16949,6 +17038,7 @@ naacp
 nab
 nabs
 nabuwat
+nacho
 nachos
 nacional
 nadal
@@ -17112,6 +17202,7 @@ ne
 nea
 neagle
 near
+near-extinct
 near-fatal
 near-record
 nearby
@@ -17186,6 +17277,7 @@ nervous
 ness
 nessel
 nest
+nesterenko
 nesting
 nestl
 nestle
@@ -17395,6 +17487,7 @@ noia
 noida
 noidas
 noir
+noise
 nola
 nolan
 nomad
@@ -17597,6 +17690,7 @@ nya
 nyatsime
 nyc
 nyc-based
+nycfc
 nycfcs
 nycs
 nydig
@@ -17727,6 +17821,7 @@ offshore
 offside
 offspring
 often
+ogier
 ogilby
 ogilvie
 oh
@@ -18154,6 +18249,7 @@ pace
 paceman
 pacers
 pachyballus
+pachypeltis
 pacific
 pacinos
 pack
@@ -18658,6 +18754,7 @@ pervasive
 peshawar
 pesquet
 pest
+pesticides
 pesuthadi
 pet
 pet-friendly
@@ -18666,6 +18763,7 @@ petaluma
 petazzi
 pete
 peter
+peterborough
 peters
 petersburg
 petersen
@@ -19087,6 +19185,7 @@ polluters
 pollution
 polnyi
 polo
+polokwane
 pols
 poly
 polycauliona
@@ -19420,6 +19519,7 @@ prevented
 preventing
 preview
 previews
+previn
 previous
 previously
 prew
@@ -20202,6 +20302,7 @@ rebellion
 rebels
 rebillet
 rebirth
+rebook
 reboot
 rebooting
 rebound
@@ -20221,6 +20322,7 @@ rebuttal
 rec
 recall
 recalled
+recalling
 recalls
 recap
 recapture
@@ -20274,6 +20376,7 @@ recording
 recordings
 records
 recount
+recounting
 recounts
 recover
 recovered
@@ -20415,6 +20518,7 @@ reggie
 regild
 regime
 regimental
+regiments
 region
 regional
 regions
@@ -20875,6 +20979,7 @@ reza
 rezoning
 rf
 rfu
+rgger
 rhetoric
 rhett
 rhetts
@@ -21018,6 +21123,7 @@ rizhko
 rizwan
 rizzotti
 rj
+rk
 rl
 rla
 rn
@@ -21145,6 +21251,7 @@ romain
 roman
 roman-vod
 romance
+romandie
 romania
 romanian
 romanias
@@ -21318,6 +21425,7 @@ rulers
 rules
 ruling
 rulings
+rumbles
 rumel
 rumer
 rumi
@@ -21339,6 +21447,7 @@ runoff
 runs
 runway
 rupaund
+rupees
 rupestris
 rural
 rusesabagina
@@ -21347,6 +21456,7 @@ rushed
 rusher
 rushers
 rushes
+rushing
 rushs
 rusing
 ruskin
@@ -21431,6 +21541,7 @@ saddened
 saddest
 sadhanananda
 sadie
+sadiq
 sadkw
 sadler
 sadness
@@ -22377,6 +22488,7 @@ shrank
 shredders
 shreds
 shreveport
+shrews
 shrikrishna
 shrine
 shrinks
@@ -22850,6 +22962,7 @@ sobriety
 socal
 soccer
 soccer-arteta
+soccer-bayern
 soccer-best
 soccer-chelsea
 soccer-conmebol
@@ -22953,6 +23066,7 @@ sons
 sony
 sonys
 soon
+soon-yi
 sooner
 sooners
 sooo
@@ -24385,6 +24499,7 @@ tenn
 tennessee
 tennis
 tennis-fognini
+tenorio
 tens
 tense
 tensei
@@ -24439,6 +24554,7 @@ testify
 testimony
 testing
 testnets
+testosterone
 tests
 tether
 tetiana
@@ -24689,6 +24805,7 @@ tigre
 tiguan
 tiktok
 tiktok-famous
+tiktoker
 tiktoks
 tilburys
 tiles
@@ -24738,6 +24855,7 @@ tissera
 tissue
 tit-for-tat
 titan
+titanic
 titanics
 titans
 titicaca
@@ -24827,6 +24945,7 @@ toothpaste
 tootsen
 top
 top-10
+top-4
 top-five
 top-four
 top-heavy
@@ -24981,6 +25100,7 @@ trampling
 tran
 tranmere
 trans
+transaction
 transactions
 transamerica
 transatlantic
@@ -25199,6 +25319,7 @@ truvision
 trxade
 try
 trying
+tryon
 tryouts
 tsa
 tsarukyan
@@ -25857,6 +25978,7 @@ variety
 various
 varna
 varsho
+varsity
 vartan
 vas
 vashishta
@@ -25975,6 +26097,7 @@ vetoes
 vetoing
 vets
 vettel
+vettori
 vexing
 vfl
 vh1s
@@ -26484,6 +26607,7 @@ weho
 wei
 weibo
 weigh
+weighed
 weighing
 weighs
 weight
@@ -26591,6 +26715,7 @@ wheelie
 wheels
 wheen
 wheezing
+wheldon
 when
 where
 whereabouts
@@ -26800,6 +26925,7 @@ wold
 wolf
 wolff
 wolfhard
+wolfsburg
 wolters
 wolverine
 wolverines
@@ -26834,6 +26960,7 @@ woods
 woodstock
 woodward
 woodwards
+woody
 wooed
 woolly
 woolridge-jones
@@ -26989,6 +27116,7 @@ xiv
 xmr
 xochitlicue
 xolisile
+xoxo
 xp
 xperia
 xrp
@@ -26998,6 +27126,7 @@ xset
 xtremewood
 xu
 xuchun
+xviii
 xvs
 xy
 y
@@ -27053,6 +27182,7 @@ yearwoods
 yechury
 yechurys
 yekaterinburg
+yelich
 yell-a-thon
 yellen
 yelling
@@ -27147,6 +27277,7 @@ yuan
 yuanben
 yudichak
 yue
+yugoslavia
 yuh-jung
 yukon
 yukon-kuskokwim
