@@ -1122,6 +1122,7 @@
 13-month
 13-year-old
 130
+130-128
 13000
 130000
 132
@@ -1539,6 +1540,7 @@
 28-year-old
 280
 2800
+2839
 2864
 28m
 29
@@ -1612,6 +1614,7 @@
 340m
 3416113
 342
+346786
 34802
 349
 3498473
@@ -1700,6 +1703,7 @@
 419
 41921
 41mn
+41st
 42
 42-year-old
 420
@@ -1841,6 +1845,7 @@
 600k
 602
 606
+607
 60k
 60s
 61
@@ -1868,6 +1873,7 @@
 669
 6733
 675
+67th
 68
 68000
 6834
@@ -1979,6 +1985,7 @@
 9
 9-1-1
 9-2
+9-7
 9-8
 9-game
 9-inning
@@ -3518,6 +3525,7 @@ ax
 axalta
 axe
 axed
+axle
 axonics
 axsome
 ayanashi
@@ -3773,6 +3781,7 @@ bartlett
 barton
 barty
 barwar
+barystachys
 barz
 base
 baseball
@@ -4473,6 +4482,7 @@ booming
 booms
 boomtown
 boon
+boondoggle
 boone
 boorowa
 boos
@@ -4576,6 +4586,7 @@ boxings
 boxiz
 boxy
 boy
+boyband
 boycott
 boycotts
 boyfriend
@@ -5397,6 +5408,7 @@ catalyst
 catalytic
 catamorphosis
 catania
+catapults
 catastrophe
 catastrophes
 catastrophic
@@ -5761,6 +5773,7 @@ chiefs
 child
 child-sex
 childhood
+childish
 children
 childrens
 childs
@@ -7189,6 +7202,7 @@ daily
 daimler
 dainik
 dairy
+daiwatari
 dak
 dakota
 daktronics
@@ -7459,6 +7473,7 @@ defaced
 defamation
 defaulted
 defeat
+defeating
 defeats
 defects
 defence
@@ -8753,6 +8768,7 @@ eliminated
 eliminates
 elimination
 elina
+elinav
 elisabeth
 elisburg
 elise
@@ -9393,6 +9409,7 @@ expelled
 expelling
 expels
 expense
+expenses
 expensive
 expensive-looking
 experience
@@ -9606,6 +9623,7 @@ famous
 fan
 fanbase
 fanciest
+fancy
 fandom
 fanduel
 fang
@@ -9755,6 +9773,7 @@ felipe
 felipponei
 felix
 fell
+felled
 fellow
 fellowes
 fellows
@@ -10055,6 +10074,7 @@ floats
 floc
 flock
 flood
+flooded
 flooding
 floods
 floor
@@ -10064,6 +10084,7 @@ floors
 flop
 floppy
 florence
+florence-firestone
 florentino
 flores
 florian
@@ -10483,6 +10504,7 @@ g7-led
 g80
 ga
 gaarder
+gabbie
 gabby
 gabe
 gabelli
@@ -10565,6 +10587,7 @@ garcas
 garcetti
 garcettis
 garcia
+garcias
 garden
 gardener
 gardening
@@ -10745,6 +10768,7 @@ ghana
 ghanas
 ghanem
 ghaus
+ghazi
 gheorghe
 ghislaine
 ghost
@@ -11146,6 +11170,7 @@ grizzlies
 grizzly
 grna
 groban
+grocer
 groceries
 grocery
 grocery-store
@@ -11393,6 +11418,7 @@ hamilton
 hamiltons
 hamlin
 hammacks
+hammad
 hammer
 hammer-wielding
 hammered
@@ -11424,6 +11450,7 @@ handguns
 handing
 handle
 handler
+handles
 handling
 hands
 hands-free
@@ -11594,6 +11621,7 @@ hd
 hdb
 he
 head
+head-bite
 head-butting
 head-first
 head-on
@@ -11905,6 +11933,7 @@ hm
 hman
 hmart
 hms
+hmung
 ho
 hoax
 hobbies
@@ -12104,6 +12133,7 @@ howler
 howling
 hoya
 hoyt
+hozier
 hp
 hpd
 hq
@@ -13449,6 +13479,7 @@ kaplan
 kapler
 kaplers
 kaplin
+kaprizov
 kara
 karan
 karate
@@ -14680,6 +14711,7 @@ loved
 lovefest
 loveland
 lovell
+lovely
 lover
 lovers
 loves
@@ -14808,6 +14840,7 @@ lyric
 lyrics
 lyrid
 lyriq
+lysimachia
 lz110
 m
 m-net
@@ -15003,6 +15036,7 @@ mandiant
 mane
 manea
 maneuver
+maneuverable
 manga
 mangled
 mangoes
@@ -15177,6 +15211,7 @@ mary
 maryland
 marys-stockton
 masahiro
+mascaras
 mascot
 mascots
 masculinity
@@ -15352,6 +15387,7 @@ mcmullen
 mcnair
 mcneese
 mcnuggets
+mcpeeks
 mcphee
 mcrorys
 mcshays
@@ -15928,6 +15964,7 @@ momin
 momoa
 moms
 monaco
+monahan
 monarch
 monarchs
 monarchy
@@ -16004,6 +16041,7 @@ mora
 moral
 morales
 moran
+morant
 moratorium
 mordechai
 more
@@ -16150,6 +16188,7 @@ mtv
 mu
 mubarak
 much
+much-loved
 much-needed
 mud
 mudalige
@@ -16963,6 +17002,7 @@ objective
 objectives
 objects
 obligation
+obliterating
 oblivious
 obrien
 obs
@@ -18183,6 +18223,7 @@ plager
 plague
 plagued
 plaid
+plain
 plaines
 plains
 plainview
@@ -18545,6 +18586,7 @@ prabhavalkar
 practical
 practically
 practice
+practice-facility
 practiced
 practices
 pradesh
@@ -19000,6 +19042,7 @@ punished
 punishes
 punjab
 punk
+punk-rock
 punks
 punter
 pup
@@ -19056,6 +19099,7 @@ qa
 qadi
 qanon
 qanon-style
+qanons
 qaraqosh
 qashami
 qatar
@@ -19193,6 +19237,7 @@ radnor
 radom
 radwood
 rae
+raees
 rafael
 raga
 rage
@@ -19213,6 +19258,7 @@ railroads
 rails
 railway
 railways
+raimel
 raimondo
 rain
 rainbow
@@ -19417,6 +19463,7 @@ reals
 realtors
 realty
 reapers
+rear
 rear-ended
 rearm
 rearrested
@@ -19580,6 +19627,7 @@ reeled
 reeling
 reels
 reenactors
+reenacts
 reenergizes
 reenters
 reeses
@@ -19637,6 +19685,7 @@ regal
 regan
 regarding
 regardless
+regatta
 regen
 regenerative
 regeneron
@@ -19810,6 +19859,7 @@ renewal
 renewed
 renews
 renganathan
+renna
 renner
 renovated
 renovation
@@ -20462,6 +20512,7 @@ royale
 royals
 royalty
 rozier
+rpj
 rs
 rsafs
 rsf
@@ -20655,6 +20706,7 @@ saint-pathus
 saints
 sajak
 sake
+sakhong
 sakkari
 sakubei
 sakura
@@ -20668,6 +20720,7 @@ salary
 salas
 salaymeh
 sale
+sale-ready
 saleh
 salem
 sales
@@ -20741,6 +20794,7 @@ sandefjord
 sanders
 sandford
 sandland
+sandlots
 sandown
 sandra
 sandro
@@ -21801,6 +21855,7 @@ slaves
 slavias
 slayer
 slaying
+sleazy
 sledgehammer
 sleek
 sleep
@@ -21904,6 +21959,7 @@ smolka
 smooth
 smoothie
 smucker
+smudge
 smuggle
 smugglers
 smuggling
@@ -22416,6 +22472,7 @@ stanislav
 stanley
 stanthony
 stanton
+stantons
 stanwell-fletcher
 staple
 staples
@@ -22616,6 +22673,7 @@ story
 storybook
 storytelling
 stowaway
+strachan
 strahan
 straight
 strain
@@ -23035,6 +23093,7 @@ svitolina
 svtec
 sw
 swac
+swaddle
 swag
 swagger
 swallow
@@ -23277,6 +23336,8 @@ taos
 tap
 tape
 taper
+tapia
+tapias
 tapped
 tapper
 taps
@@ -24463,6 +24524,7 @@ uncancelable
 uncanny
 uncertain
 uncertainty
+unchecked
 uncle
 unclear
 uncomfortable
@@ -25998,6 +26060,7 @@ yasa
 yasas
 yasheng
 yasiin
+yastrzemskis
 yasukuni
 yates
 yatra

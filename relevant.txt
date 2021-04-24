@@ -1130,6 +1130,7 @@
 13-month
 13-year-old
 130
+130-128
 13000
 130000
 132
@@ -1561,6 +1562,7 @@
 28-year-old
 280
 2800
+2839
 2864
 28M
 29
@@ -1639,6 +1641,7 @@
 340M
 3416113
 342
+346786
 34802
 349
 3498473
@@ -1729,6 +1732,7 @@
 419
 41921
 41MN
+41st
 42
 42-year-old
 420
@@ -1873,6 +1877,7 @@
 600K
 602
 606
+607
 60K
 60s
 61
@@ -1900,6 +1905,7 @@
 669
 6733
 675
+67th
 68
 68000
 6834
@@ -2016,6 +2022,7 @@
 9
 9-1-1
 9-2
+9-7
 9-8
 9-Inning
 9-game
@@ -4250,6 +4257,7 @@ Braunwyn
 Brave
 Braves
 Bravo
+Brawl
 Brawlhalla
 Brawlhallas
 Braxton
@@ -4968,6 +4976,7 @@ Carts
 Cartujano
 Cartwright
 Caruso
+Carvana
 Carver
 Cas
 Casa
@@ -6304,6 +6313,7 @@ DFS
 DFW
 DH
 DHS
+DIA
 DIABETES
 DIAGNOSTICS
 DIE
@@ -6361,6 +6371,7 @@ Daily
 Daimler
 Dainik
 Dairy
+Daiwatari
 Dak
 Dakota
 Dal
@@ -7563,6 +7574,7 @@ Elijah
 Eliminate
 Eliminates
 Elina
+Elinav
 Elisabeth
 Elisburg
 Elise
@@ -8210,6 +8222,7 @@ Familys
 Famous
 Fan
 FanDuel
+Fancy
 Fandom
 Fang
 Fangoria
@@ -8529,6 +8542,7 @@ Floor
 Flop
 Floppy
 Florence
+Florence-Firestone
 Florentino
 Flores
 Florian
@@ -8894,6 +8908,7 @@ GX
 GX-19
 Ga
 Gaarder
+Gabbie
 Gabby
 Gabe
 Gables
@@ -8959,6 +8974,7 @@ Garca
 Garcas
 Garcetti
 Garcettis
+Garcias
 Garden
 Gardening
 Gardens
@@ -9108,6 +9124,7 @@ Ghana
 Ghanas
 Ghanem
 Ghaus
+Ghazi
 Gheorghe
 Ghislaine
 Ghost
@@ -9183,6 +9200,7 @@ Glamorous
 Glamour
 Glandas
 Glanville
+Glass
 Glasses
 Glaze
 Glazed
@@ -9654,6 +9672,7 @@ Hamilton
 Hamiltons
 Hamlin
 Hammacks
+Hammad
 Hammer
 Hammers
 Hammocks
@@ -10055,6 +10074,7 @@ Hits
 Hitting
 Hiwinui
 Hman
+Hmung
 Ho
 Hoax
 Hobbies
@@ -10217,6 +10237,7 @@ Howie
 Howling
 Hoya
 Hoyt
+Hozier
 Hrdin
 Hsien
 Hu
@@ -11362,6 +11383,7 @@ Kaplan
 Kapler
 Kaplers
 Kaplin
+Kaprizov
 Kara
 Karan
 Karavanska
@@ -12528,6 +12550,7 @@ Lyon-Smith
 Lyrics
 Lyrid
 Lyriq
+Lysimachia
 M
 M-Net
 M-V-P
@@ -12938,6 +12961,7 @@ Mary
 Maryland
 Marys-Stockton
 Masahiro
+Mascaras
 Mascot
 Masculinity
 Maserati
@@ -13088,6 +13112,7 @@ McMullen
 McNair
 McNeese
 McNuggets
+McPeeks
 McPhee
 McRorys
 McShays
@@ -13523,6 +13548,7 @@ Momin
 Momoa
 Moms
 Monaco
+Monahan
 Monarch
 Monaster
 Mondale
@@ -13582,6 +13608,7 @@ Mora
 Moral
 Morales
 Moran
+Morant
 Mordechai
 More
 Morejon
@@ -15400,6 +15427,7 @@ Placing
 Plager
 Plague
 Plaid
+Plain
 Plaines
 Plains
 Plainview
@@ -15959,6 +15987,7 @@ Pure
 Purle
 Purple
 Purposefully
+Purposely
 Pursuit
 Purvis
 Puscifers
@@ -15986,6 +16015,7 @@ Q4
 QA
 QAnon
 QAnon-style
+QAnons
 QB
 QBs
 QD
@@ -16122,6 +16152,7 @@ RONALD
 ROUBIN
 ROWE
 ROYAL
+RPJ
 RS
 RSAFs
 RSF
@@ -16172,6 +16203,7 @@ Radnor
 Radom
 Radwood
 Rae
+Raees
 Rafael
 Raga
 Rage
@@ -16187,6 +16219,7 @@ Railroad
 Rails
 Railway
 Railways
+Raimel
 Raimondo
 Rain
 Rainbow
@@ -16454,6 +16487,7 @@ Reed
 Reeling
 Reels
 Reenactors
+Reenacts
 Reeses
 Reeve
 References
@@ -16479,6 +16513,7 @@ Regain
 Regal
 Regan
 Regardless
+Regatta
 Regen
 Regenerative
 Regeneron
@@ -16590,6 +16625,7 @@ Renewable
 Renewal
 Renewed
 Renganathan
+Renna
 Renner
 Renovated
 Renovation
@@ -17376,6 +17412,7 @@ Saint-Pathus
 Saints
 Sajak
 Sake
+Sakhong
 Sakkari
 Sakubei
 Sakura
@@ -17447,6 +17484,7 @@ Sandefjord
 Sanders
 Sandford
 Sandland
+Sandlots
 Sandown
 Sandra
 Sandro
@@ -17862,6 +17900,7 @@ Shaheed
 Shai
 Shaina
 Shaji
+Shake
 Shake-Up
 Shaken
 Shakers
@@ -18084,6 +18123,7 @@ Sigh
 Sighs
 Sight
 Sightings
+Sights
 Sigmund
 Sign
 Signal
@@ -18304,6 +18344,7 @@ Smoking
 Smolka
 Smooth
 Smoothie
+Smudge
 Smugglers
 Smuggling
 Smythe
@@ -18661,6 +18702,7 @@ Stanislav
 Stanley
 Stanthony
 Stanton
+Stantons
 Stanwell-Fletcher
 Staples
 Stapleton
@@ -18809,6 +18851,7 @@ Storms
 Stormy
 Story
 Stowaway
+Strachan
 Strahan
 Straight
 Strain-Specific
@@ -19022,6 +19065,7 @@ Superman
 Supermarket
 Supermodel
 Superstar
+Supervisor
 Supervisors
 Supes
 Supikova
@@ -19107,6 +19151,7 @@ Sven
 Svitlana
 Svitolina
 Svtec
+Swaddle
 Swallow
 Swamped
 Swan
@@ -19359,6 +19404,8 @@ Tanners
 Tanya
 Tanzania
 Taos
+Tapia
+Tapias
 Tapper
 Taps
 Tar
@@ -20214,6 +20261,7 @@ USS
 USTOCKTRADE
 USUK
 USWNT
+USs
 UT
 UTEP
 UTILITY
@@ -21499,6 +21547,7 @@ Yasa
 Yasas
 Yasheng
 Yasiin
+Yastrzemskis
 Yasukuni
 Yates
 Yatra
@@ -22306,6 +22355,7 @@ athletes
 athletics
 atmosphere
 atop
+atrocities
 attached
 attack
 attacked
@@ -22334,6 +22384,7 @@ attributes
 auction
 auctions
 audacity
+audience
 audio
 audio-only
 audit
@@ -22369,6 +22420,7 @@ avoids
 await
 awaiting
 awaits
+awakening
 award
 awarded
 awards
@@ -22377,6 +22429,7 @@ awesome
 awkward
 ax
 axed
+axle
 b
 bZ
 bZ4X
@@ -22466,6 +22519,7 @@ barriers
 barring
 bars
 bartender
+barystachys
 base
 baseball
 based
@@ -22760,6 +22814,7 @@ boom
 booming
 booms
 boon
+boondoggle
 boost
 boosted
 booster
@@ -22793,6 +22848,7 @@ bounties
 bounty
 bourbon
 boutique
+bow
 bowed
 bowl
 bowling
@@ -22803,6 +22859,7 @@ boxing
 boxings
 boxy
 boy
+boyband
 boycott
 boycotts
 boyfriend
@@ -23151,6 +23208,7 @@ cat
 cat-size
 catalyst
 catalytic
+catapults
 catastrophe
 catastrophes
 catastrophic
@@ -23306,6 +23364,7 @@ chiefs
 child
 child-sex
 childhood
+childish
 children
 childrens
 childs
@@ -24206,6 +24265,7 @@ defaced
 defamation
 defaulted
 defeat
+defeating
 defeats
 defence
 defend
@@ -25195,6 +25255,7 @@ expelled
 expelling
 expels
 expense
+expenses
 expensive
 experience
 experienced
@@ -25409,6 +25470,7 @@ fees
 feet
 felipponei
 fell
+felled
 fellow
 felon
 felt
@@ -25587,6 +25649,7 @@ floating
 floats
 flock
 flood
+flooded
 flooding
 floods
 floor
@@ -25718,6 +25781,7 @@ fray
 freak
 freaked
 freaking
+freaky
 free
 free-kick
 free-to-play
@@ -26043,6 +26107,7 @@ grip
 grips
 grizzlies
 grizzly
+grocer
 groceries
 grocery
 grocery-store
@@ -26167,6 +26232,7 @@ handguns
 handing
 handle
 handler
+handles
 handling
 hands
 hands-free
@@ -26239,6 +26305,7 @@ hazardous
 hazards
 he
 head
+head-bite
 head-first
 head-on
 headed
@@ -27409,6 +27476,7 @@ lounges
 love
 loved
 lovefest
+lovely
 lover
 lovers
 loves
@@ -27511,6 +27579,7 @@ managing
 mandate
 mandates
 mandatory
+maneuverable
 manga
 mangled
 mangoes
@@ -27903,6 +27972,7 @@ moving
 mows
 mph
 much
+much-loved
 muddy
 mull
 mullet
@@ -27945,6 +28015,7 @@ musicians
 musics
 must
 must-read
+must-see
 must-watch
 mustapha
 mustard
@@ -28189,6 +28260,7 @@ obituary
 object
 objective
 objects
+obliterating
 oblivious
 obscure
 observations
@@ -28391,6 +28463,7 @@ outplay
 output
 outrage
 outrageous
+outreach
 outside
 outsider
 outskirts
@@ -28711,6 +28784,7 @@ physique
 pianist
 piano
 pick
+picked
 picking
 pickled
 pickles
@@ -28964,6 +29038,7 @@ powers
 ppots
 practical
 practice
+practice-facility
 practices
 pragmatism
 pragmatist
@@ -29264,6 +29339,7 @@ punish
 punishable
 punished
 punishes
+punk-rock
 punks
 pupils
 puppies
@@ -29457,6 +29533,7 @@ realize
 realizes
 reallocate
 really
+rear
 rearm
 rearrested
 reason
@@ -30144,6 +30221,7 @@ saint
 salaries
 salary
 sale
+sale-ready
 sales
 salesman-in-chief
 salina
@@ -30230,6 +30308,7 @@ scion
 scoffs
 scooter
 scope
+scorch
 score
 scoreboard
 scorecard
@@ -30669,6 +30748,7 @@ slave
 slavery
 slaves
 slaying
+sleazy
 sleep
 sleeper
 sleepers
@@ -30790,6 +30870,7 @@ solid
 solidarity
 solidified
 solitary
+solo
 solution
 solutions
 solve
@@ -32049,6 +32130,7 @@ uncancelable
 uncanny
 uncertain
 uncertainty
+unchecked
 uncle
 unclear
 uncomfortable
@@ -32722,6 +32804,7 @@ writers
 writing
 written
 wrong
+wrong-way
 wrongly
 wrote
 x
