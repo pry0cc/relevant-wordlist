@@ -1014,6 +1014,7 @@
 10-Plus
 10-Q
 10-QA
+10-Reviews-In-1
 10-Year
 10-Year-Old
 10-day
@@ -1118,6 +1119,7 @@
 124-105
 1245
 125
+125524
 1263
 1265
 127
@@ -1271,6 +1273,7 @@
 1847
 18500
 185000
+1856
 1878
 1881
 1886
@@ -1291,6 +1294,7 @@
 1907
 1909
 1912
+1915
 1916
 1917
 1920
@@ -1327,6 +1331,7 @@
 1968
 196869
 1969
+197
 1970
 1970s
 1971
@@ -1492,6 +1497,7 @@
 210
 2100-sq-foot
 21000
+2104
 211000
 2117
 211K
@@ -1593,6 +1599,7 @@
 28M
 29
 290
+2907
 29155
 29B
 29M
@@ -1649,6 +1656,7 @@
 312555
 314K
 316M
+31st
 32
 32000
 321-101
@@ -1736,6 +1744,7 @@
 4-year-tld
 40
 40-17G
+40-day
 400
 400-mile
 400-plus
@@ -2091,6 +2100,7 @@
 934
 93rd
 94
+94-1
 95
 95-59
 950M
@@ -2446,6 +2456,7 @@ Admitted
 Admitting
 Adobe
 Adolescents
+Adolis
 Adoptable
 Adopted
 Adoption
@@ -2471,6 +2482,7 @@ Advise
 Adviser
 Advisers
 Advisor
+Advisoran
 Advisories
 Advisors
 Advisory
@@ -2603,6 +2615,7 @@ Al-Khelaifi
 Al-Muzaini
 Alaba
 Alabama
+Alabama-less
 Alaina
 Alam
 Alameda
@@ -2684,6 +2697,7 @@ Aliens
 Align
 Alijah
 Alina
+Alisevich
 Alisi
 Alison
 Alitos
@@ -3360,6 +3374,7 @@ Autoruns
 Autosport
 Autotrader
 Ava
+Availability
 Available
 Avalancha
 Avalanche
@@ -3571,6 +3586,7 @@ Bale
 Balf
 Bali
 Balkan
+Balkovec
 Ball
 Ballard
 Ballerini
@@ -3666,6 +3682,7 @@ Baronet
 Barr
 Barragn
 Barrett
+Barricaded
 Barriers
 Barrington-area
 Barroso
@@ -3776,6 +3793,7 @@ Beauvillier
 Became
 Because
 Beck
+Becker
 Beckham
 Beckys
 Become
@@ -3818,6 +3836,7 @@ Behind-the-Scenes
 Beijing
 Beijings
 Being
+Beja
 Bel-Air
 Belarus
 Belfort
@@ -4048,6 +4067,7 @@ Birkin
 Birks
 Birmingham
 Birolini
+Birsinghpur
 Birth
 Birthday
 Birthplace
@@ -4604,6 +4624,7 @@ Bunch
 Bunchs
 Bundchen
 Bundesliga
+Bundle
 Bundles
 Bunko
 Bunny
@@ -4732,6 +4753,7 @@ CCUR
 CD
 CDA
 CDC
+CDCs
 CDPHE
 CDU
 CDUCSU
@@ -4903,6 +4925,7 @@ Calhoun
 Cali
 Calif
 California
+CaliforniaHeres
 Californians
 Californias
 Call
@@ -5042,6 +5065,7 @@ Cardiac
 Cardinal
 Cardinals
 Cardio
+Cardiologists
 Cardoso
 Cardross
 Cards
@@ -5062,6 +5086,7 @@ Carjackings
 Carl
 Carla
 Carliles
+Carlisle
 Carlo
 Carlos
 Carlsen
@@ -5085,6 +5110,7 @@ Carpinteria
 Carragher
 Carranzas
 Carrefour
+Carreno
 Carrera
 Carrie
 Carried
@@ -5272,6 +5298,7 @@ Chakma
 Chalamet
 Chalian
 Chalks
+Challa
 Challao
 Challenge
 Challengers
@@ -5411,6 +5438,7 @@ Cherry
 Cheryl
 Chesa
 Chesapeake
+Cheshire
 Chess
 Chest
 Chester
@@ -5450,6 +5478,7 @@ Chilis
 Chill
 Chilling
 Chilly
+Chilo
 Chimelong
 Chimsoro
 China
@@ -6549,6 +6578,7 @@ Daily
 Daimler
 Dainik
 Dairy
+Daisy
 Daiwatari
 Dak
 Dakota
@@ -6628,6 +6658,7 @@ Dating
 Daugherty
 Daughter
 Daughters
+Daulton
 Daumas
 Daunte
 Dave
@@ -6826,6 +6857,7 @@ Dementia
 Demeters
 Demi
 Demings
+Demizu
 Democracy
 Democrat
 Democratic
@@ -6844,6 +6876,7 @@ Demos
 Dems
 Den
 Denali
+Denelle
 Deneuve
 Deng
 Deni
@@ -7899,6 +7932,7 @@ EndSARS
 Endangered
 Endeavor
 Ended
+Ender
 Enders
 Endgames
 Ending
@@ -7950,6 +7984,7 @@ Ensued
 Ensure
 Enten
 Enter
+Entered
 Entering
 Enterprise
 Enterprises
@@ -8758,6 +8793,7 @@ Flawless
 Flaws
 Flay
 Flche
+Flea
 Fleche
 Fled
 Flee
@@ -9244,6 +9280,7 @@ Garca
 Garcas
 Garcetti
 Garcettis
+Garcia
 Garcias
 Garden
 Gardening
@@ -9353,6 +9390,7 @@ Gentle
 Gentlemen
 Gentrification
 Genuflect
+Genya
 Geoff
 Geoffrey
 Geographic
@@ -9413,6 +9451,7 @@ Giampietro
 Giancarlo
 Giancola
 Gianna
+Giannelli
 Giannis
 Giannoulias
 Giant
@@ -9520,6 +9559,7 @@ GoFundMe
 Goa
 Goal
 Goals
+Goat
 Goats
 Gobert
 God
@@ -9713,6 +9753,7 @@ Grilling
 Grills
 Grim
 Grimer
+Grimpoteuthis
 Grimsby
 Grinder
 Grip
@@ -9755,6 +9796,7 @@ Grylls
 Gttinger
 Gttsch
 Guac
+Guam
 Guangzhou
 Guantanamo
 Guantnamo
@@ -9988,6 +10030,7 @@ Handball
 Handcuffed
 Handcuffing
 Handed
+Handing
 Handle
 Handling
 Hands
@@ -10562,9 +10605,11 @@ Huaixi
 Huarong
 Huating
 Huawei
+Hubble
 Hubert
 Huckabee
 Huda
+Huddersfield
 Hudgens
 Hudson
 Hudsons
@@ -11337,6 +11382,7 @@ Jan
 Jana
 Jane
 Janet
+Janette
 Janey
 Janne
 Jansy
@@ -11616,6 +11662,7 @@ Justice
 JusticeForCairo
 Justices
 Justin
+Jutkiewicz
 Juve
 Juvenile
 Juventes
@@ -11724,6 +11771,7 @@ Kansan
 Kansas
 Kante
 Kanye
+Kapadia
 Kapanen
 Kapcheck
 Kapetainate
@@ -12021,6 +12069,7 @@ KnowBe4
 Knowlton
 Known
 Knows
+Knox
 Knoxville
 Knucklehead
 Ko
@@ -12046,6 +12095,7 @@ Konare
 Kondo
 Kong
 Kong8217s
+Kongers
 Kongs
 Koning
 Konrad
@@ -12521,6 +12571,7 @@ Leonora
 Leontovych
 Leopold
 Leos
+Leproplaca
 Leroy
 Les
 Lesbian
@@ -12564,6 +12615,7 @@ Liam
 Liams
 Lian
 Liang
+Liat
 Libel
 Liberal
 Liberals
@@ -13170,6 +13222,7 @@ Majeure
 Majhe
 Majluf
 Major
+Majorca
 Majority
 Majors
 Make
@@ -13204,6 +13257,7 @@ Malins
 Mall
 Mallika
 Malliotakis
+Mallorca
 Malone
 Malta
 Maluma
@@ -13366,6 +13420,7 @@ Marshmallow
 Marshmallows
 Marshon
 Mart
+Marta
 Marte
 Martha
 Marthas
@@ -13417,6 +13472,7 @@ Mastigolina
 Masudur
 Masvidal
 Masvidals
+Masvisal
 Matagorda
 Matar
 Match
@@ -13532,6 +13588,7 @@ McKinney
 McKinstry
 McKoy
 McLaren
+McLaurin
 McMansion
 McMaster
 McMichael
@@ -14178,6 +14235,7 @@ Much
 Much-Needed
 Mud
 Mudalige
+Mudaria
 Mudge
 Mudnal
 Mueller
@@ -14210,6 +14268,7 @@ Mumbai
 Mumbais
 Mumia
 Mummers
+Munaf
 Munan
 Muncaster
 Munchies
@@ -14325,6 +14384,7 @@ NBAs
 NBC
 NBL
 NC
+NC-SC
 NCAA
 NCAAs
 NE
@@ -14507,7 +14567,9 @@ Nats
 Natty
 Natural
 Nature
+Natures
 Naureen
+Nauru
 Nausea
 Nautical
 Navajo
@@ -14846,6 +14908,7 @@ Nursing
 Nurture
 Nurul
 Nut
+Nutrient
 Nutrition
 Nutritional
 Nutritionist
@@ -15148,6 +15211,7 @@ Organized
 Organizer
 Organizers
 Organizing
+Orient
 Origin
 Original
 Originals
@@ -15300,6 +15364,7 @@ PDFs
 PDs
 PE
 PEANUT
+PEI
 PENFaulkner
 PENNSYLVANIA
 PENTAIR
@@ -15464,6 +15529,7 @@ Panda
 Pandalungan
 Pandemic
 Pandemic-Style
+Pandemicand
 Paneer
 Panel
 Panels
@@ -15587,6 +15653,7 @@ Pathbreaking
 Pathogens
 Paths
 Pati
+Patience
 Patient
 Patients
 Patio
@@ -16080,6 +16147,7 @@ Polnyi
 Polo
 Pols
 Poly
+Polycauliona
 Polyipnus
 Polymath
 Pomeroy
@@ -16171,6 +16239,7 @@ Posting
 Postponed
 Posts
 Posture
+Posuka
 Pot
 Pot-repreneurs
 Potato
@@ -16520,6 +16589,7 @@ Purchased
 Purdue
 Pure
 Purle
+Purnima
 Purnmasi
 Purple
 Purposefully
@@ -16800,6 +16870,7 @@ Ramon
 Ramone
 Ramos
 Ramp
+Rampage
 Rampant
 Ramps
 Rams
@@ -16862,6 +16933,7 @@ Ratchasima
 Rate
 Rated
 Rates
+Ratey
 Ratify
 Rating
 Ratings
@@ -17268,6 +17340,7 @@ Resort
 Resorts
 Resource
 Resources
+Respawn
 Respect
 Respects
 Respond
@@ -17480,6 +17553,7 @@ Riverside
 Riveter
 Riwu
 Rixt
+Riyadh
 Riz
 Rizhko
 Rizwan
@@ -17492,6 +17566,7 @@ Roadrunner
 Roadshow
 Roadside
 Roadway
+Roam
 Roar
 Roar-Glory
 Roaring
@@ -17702,6 +17777,7 @@ Ruby
 Ruchira
 Rudd
 Rude
+Rudenya
 Rudimentary
 Rudin
 Rudins
@@ -17710,6 +17786,7 @@ Rudy
 Rudys
 Ruf
 Ruffle
+Rufoplaca
 Rugby
 Rugby-England
 Rugby-Premiership
@@ -17976,6 +18053,7 @@ Safely
 Safer
 Safest
 Safety
+Safin
 Saga
 Sage
 Saginaw
@@ -18111,6 +18189,7 @@ Sassuolo
 Satan
 Satellite
 Sathwara
+Satisfied
 Satisfying
 Satishs
 Sato
@@ -18193,6 +18272,7 @@ Scherzers
 Scherzinger
 Schianos
 Schiff
+Schiller
 Schitts
 Schleicher
 Schlesinger
@@ -18280,6 +18360,7 @@ Scudders
 Sculpture
 Scunthorpe
 Scuti
+Se
 Sea
 Seabound
 Seabra
@@ -18365,6 +18446,7 @@ Selinus
 Sell
 Selleck
 Seller
+Sellers
 Selling
 Selma
 Selo
@@ -18459,6 +18541,7 @@ Settlers
 Settles
 Seulgi
 Seuss
+Sevastopoulos
 Seven
 Seven-Decade
 Seven-Footers
@@ -18576,6 +18659,7 @@ Shelter
 Shelter-In-Place
 Sheltered
 Shelton
+Shelves
 Shen
 Shepherd
 Sheridan
@@ -18650,6 +18734,7 @@ Short-handed
 Shortage
 Shortages
 Shortcomings
+Shorten
 Shorthanded
 Shortlist
 Shortly
@@ -18817,6 +18902,7 @@ Sirari
 Siravo
 Siri
 Sirianni
+Sisenandus
 Sister
 Sisterly
 Sisters
@@ -18934,12 +19020,14 @@ Small
 Small-Business
 Small-Cap
 Small-Town
+Smalldipenergy
 Smaller
 Smart
 SmartStop
 Smartphone
 Smarts
 Smash
+Smashed
 Smear
 Smell
 Smells
@@ -19025,6 +19113,7 @@ Soccer-Rookie
 Soccer-Strugglers
 Soccer-Super
 Soccer-Tottenham
+Soccer-Watford
 Social
 Socialist
 Society
@@ -19082,6 +19171,7 @@ Songwriter
 SonicWall
 Sonoma
 Sonora
+Sonos
 Sons
 Sony
 Sonys
@@ -20278,6 +20368,7 @@ Them
 Theme
 Themed
 Thems
+Themselves
 Then
 Theodor
 Theodora
@@ -20368,6 +20459,7 @@ Throw
 Throwback
 Throwing
 Throws
+ThruSpace
 Thug
 Thump
 Thumping
@@ -20531,6 +20623,7 @@ Tornado
 Tornadoes
 Toronto
 Torontos
+Torpoint
 Torrance
 Torres
 Tortelier
@@ -20623,6 +20716,7 @@ Transfers
 Transform
 Transformation
 Transformations
+Transformed
 Transforming
 Transgender
 Transistors
@@ -20998,6 +21092,7 @@ Unaccompanied
 Unanimous
 Unapologetically
 Unashamedly
+Unbelievable
 Unblocked
 Uncertain
 Uncle
@@ -21252,6 +21347,7 @@ Valedictorian
 Valencia
 Valentin
 Valentina
+Valentine
 Valeri
 Valerie
 Valiente
@@ -21301,6 +21397,7 @@ Variant
 Variants
 Variety
 Varna
+Varsho
 Vartan
 Vashishta
 Vasquez
@@ -22015,6 +22112,7 @@ Wilma
 Wilmington
 Wilson
 Wilsons
+Wilton
 Wimberley
 Win
 Winans
@@ -22345,6 +22443,7 @@ Yorkshire
 Yosemite
 Yoshiaki
 Yoshihide
+Yossifor
 Yosuke
 Yota
 You
@@ -22421,6 +22520,7 @@ Zalatoris
 Zambia
 Zamfara
 Zanagee
+Zanzibar
 Zapiski
 Zaptius
 Zara
@@ -22522,6 +22622,7 @@ abolition
 abolitionists
 aborted
 abortion
+abortions
 about
 above
 abroad
@@ -22819,6 +22920,7 @@ already
 also
 altcoin
 altcoins
+alter
 alter-ego
 altercation
 altered
@@ -22884,6 +22986,7 @@ animated
 animation
 animator
 ankle
+annihilation
 anniversary
 announce
 announced
@@ -22920,6 +23023,7 @@ anti-crypto
 anti-doxxing
 anti-immigration
 anti-lockdown
+anti-mask
 anti-police
 anti-poverty
 anti-retirement
@@ -23159,6 +23263,7 @@ auto
 auto-reply
 automaker
 automakers
+automatic
 automatic-promotion
 automatically
 automobiles
@@ -23195,6 +23300,7 @@ bZ4X
 babies
 baby
 babys
+babysitting
 back
 back-to-back
 backbone
@@ -23640,6 +23746,7 @@ bracket
 brag
 bragged
 bragging
+braiders
 brain
 brain-damaging
 brainpower
@@ -23937,6 +24044,7 @@ cardboard
 cardiac
 cards
 care
+cared
 career
 careers
 careful
@@ -24614,6 +24722,7 @@ convent
 convention
 conversation
 conversations
+conversions
 convert
 converted
 converter
@@ -24775,6 +24884,7 @@ creamy
 create
 created
 creates
+creating
 creation
 creations
 creative
@@ -24864,6 +24974,7 @@ crushing
 crutches
 cry
 crying
+cryogenic
 crypto
 cryptocurrencies
 cryptocurrency
@@ -24916,6 +25027,7 @@ cuts
 cutting
 cutting-edge
 cyanide
+cyber
 cyber-attacks
 cyber-espionage
 cyber-omnibus
@@ -25006,6 +25118,7 @@ dealings
 deals
 dear
 death
+death-defying
 death-row
 deaths
 debacle
@@ -25248,6 +25361,7 @@ detainees
 detainment
 detains
 detect
+detected
 detective
 detectives
 detector
@@ -25819,6 +25933,7 @@ employer
 employers
 employment
 employs
+empower
 emptier
 empty
 en
@@ -25846,6 +25961,7 @@ endorse
 endorsement
 endorses
 ends
+endurance
 enduring
 enemies
 enemy
@@ -26042,6 +26158,7 @@ exam
 examination
 examined
 examiner
+examiners
 examines
 example
 excavator
@@ -26241,6 +26358,7 @@ familys
 famine
 famous
 fan
+fanatic
 fanbase
 fanciest
 fangirls
@@ -26272,6 +26390,7 @@ fast-track
 fasterthanlight
 fastest
 fastest-growing
+fasting
 fat
 fatal
 fatally
@@ -26319,6 +26438,7 @@ feelings
 feels
 fees
 feet
+felines
 felipponei
 fell
 felled
@@ -26343,6 +26463,7 @@ festivals
 fetal
 fetches
 fettuccine
+fetus
 feud
 feuding
 fever
@@ -26413,6 +26534,7 @@ firebomb
 firecrackers
 fired
 firefighters
+firefights
 firepit
 fires
 firework
@@ -26619,6 +26741,7 @@ four
 four-game
 four-goal
 four-month
+four-timer
 four-way
 four-year
 fourth
@@ -26628,6 +26751,7 @@ fracas
 fracaso
 fracking
 fractionalized
+fracture
 fractures
 fragmentation
 fragments
@@ -26682,6 +26806,7 @@ fro-yo
 frog
 from
 front
+front-runners
 frontier
 frontline
 frontman
@@ -26739,6 +26864,7 @@ futuristic
 gOLF
 gadget
 gadgets
+gags
 gain
 gains
 galaxy
@@ -26923,6 +27049,7 @@ grads
 gradual
 gradually
 graduates
+graduating
 graduation
 graffiti
 grain
@@ -27074,6 +27201,7 @@ hailing
 hails
 hair
 hairstyle
+hairstyles
 hairstylists
 half
 half-block
@@ -27164,6 +27292,7 @@ hatch
 hatches
 hatchet
 hate
+hate-crime
 hateful
 hatred
 hats
@@ -27341,6 +27470,7 @@ homeless
 homelessness
 homemade
 homeowner
+homeowners
 homer
 homers
 homes
@@ -27539,6 +27669,7 @@ impeach
 impeachment
 impending
 imperative
+imperator
 imperil
 impersonates
 impersonating
@@ -27680,6 +27811,7 @@ information
 informs
 infrastructure
 ingenuity
+ingredient
 ingredients
 inherited
 inheriting
@@ -28013,6 +28145,7 @@ knelt
 knew
 knife
 knife-wielding
+knives
 knock
 knocked
 knockout
@@ -28044,6 +28177,7 @@ ladders
 ladies
 lady
 lady-in-waiting
+ladys
 lag
 lagging
 lags
@@ -28122,6 +28256,7 @@ layoff
 layoffs
 layout
 lays
+laziest
 lbs
 lead
 leader
@@ -28281,6 +28416,7 @@ lips
 liquid
 liquidating
 liquidation
+liquidations
 liquidity
 liquor
 lisabeth
@@ -29212,6 +29348,7 @@ oceans
 odds
 ode
 odometer
+odor
 of
 off
 off-course
@@ -29276,6 +29413,7 @@ one-fifth
 one-on-one
 one-shot
 one-size-fits-most
+one-third
 one-time
 one-vs-one
 one-year
@@ -30161,6 +30299,7 @@ products
 profanity
 profession
 professional
+professionals
 professor
 profile
 profiled
@@ -30213,6 +30352,7 @@ proposed
 proposes
 proposing
 propped
+props
 pros
 prosecute
 prosecuted
@@ -30230,6 +30370,7 @@ protecting
 protection
 protectionist
 protections
+protective
 protects
 protein
 protest
@@ -30439,12 +30580,15 @@ rapid
 rapidly
 raping
 rapper
+rappers
 rare
+rarified
 rat
 rate
 rate-sensitive
 rates
 rather
+rating
 ratings
 ration
 rationed
@@ -30541,6 +30685,7 @@ recipes
 recipient
 recipients
 reckless
+recklessness
 reckon
 reckoning
 reckons
@@ -30548,6 +30693,7 @@ reclaim
 reclaiming
 reclaims
 recognise
+recognises
 recognition
 recognize
 recognized
@@ -31166,6 +31312,7 @@ rushed
 rusher
 rushers
 rustica
+ruvival
 s
 saad
 saber
@@ -31404,6 +31551,7 @@ sellers
 selling
 selloff
 sells
+semester
 semi-final
 semi-finals
 semi-truck
@@ -31473,6 +31621,7 @@ severe
 severed
 sewage
 sex
+sexist
 sexting
 sexual
 sexualisation
@@ -31498,6 +31647,7 @@ shaking
 shaky
 shame
 shameful
+shameless
 shangrilaensis
 shape
 shaped
@@ -31597,6 +31747,7 @@ shouldnt
 shouldve
 shouting
 shouts
+shovel
 shoves
 show
 showcase
@@ -31786,8 +31937,10 @@ small
 small-business
 small-caps
 small-town
+smalldickenergy
 smaller
 smallest
+smallpox
 smart
 smartphone
 smartphones
@@ -31944,6 +32097,7 @@ species
 specific
 specs
 spectacle
+spectacles
 spectacular
 spectators
 spectrum
@@ -32278,6 +32432,7 @@ stuns
 stunt
 stunts
 stupid
+stutter
 style
 styles
 sub
@@ -32311,6 +32466,7 @@ succeeds
 success
 successful
 successfully
+succession
 successor
 such
 sucker-punches
@@ -32420,6 +32576,7 @@ surprises
 surprising
 surprisingly
 surrogate
+surrogates
 surrounded
 surrounding
 surroundings
@@ -33016,6 +33173,7 @@ treated
 treatment
 treatments
 treats
+treble
 tree
 trees
 trench
@@ -33143,6 +33301,7 @@ uglier
 ugly
 ultimate
 ultimatum
+ultra-bright
 ultra-popular
 un-American
 una
@@ -33194,6 +33353,7 @@ understands
 undervalued
 underway
 underwear
+underwhelming
 undetected
 undeterred
 undocumented
@@ -33439,6 +33599,7 @@ views
 vigil
 vigilante
 vigor
+vigorous
 vigorously
 village
 villages
@@ -33601,6 +33762,7 @@ water-filled
 waterfalls
 waterfront
 waters
+watershed
 wave
 waving
 way

@@ -1015,6 +1015,7 @@
 10-plus
 10-q
 10-qa
+10-reviews-in-1
 10-year
 10-year-old
 100
@@ -1111,6 +1112,7 @@
 124-105
 1245
 125
+125524
 1263
 1265
 127
@@ -1259,6 +1261,7 @@
 1847
 18500
 185000
+1856
 1878
 1881
 1886
@@ -1278,6 +1281,7 @@
 1907
 1909
 1912
+1915
 1916
 1917
 1920
@@ -1314,6 +1318,7 @@
 1968
 196869
 1969
+197
 1970
 1970s
 1971
@@ -1474,6 +1479,7 @@
 210
 2100-sq-foot
 21000
+2104
 211000
 2117
 211k
@@ -1570,6 +1576,7 @@
 28m
 29
 290
+2907
 29155
 29b
 29m
@@ -1621,6 +1628,7 @@
 312555
 314k
 316m
+31st
 32
 32000
 321-101
@@ -1706,6 +1714,7 @@
 4-year-tld
 40
 40-17g
+40-day
 400
 400-mile
 400-plus
@@ -2050,6 +2059,7 @@
 934
 93rd
 94
+94-1
 95
 95-59
 950m
@@ -2349,6 +2359,7 @@ admitted
 admitting
 adobe
 adolescents
+adolis
 adoptable
 adopted
 adoption
@@ -2381,6 +2392,7 @@ adviser
 advisers
 advises
 advisor
+advisoran
 advisories
 advisors
 advisory
@@ -2577,6 +2589,7 @@ al-wazir
 al-yusufi
 alaba
 alabama
+alabama-less
 alaina
 alam
 alameda
@@ -2664,6 +2677,7 @@ aligned
 alijah
 alike
 alina
+alisevich
 alisi
 alison
 alitos
@@ -2755,6 +2769,7 @@ alt-right
 altan
 altcoin
 altcoins
+alter
 alter-ego
 altercation
 altered
@@ -2966,6 +2981,7 @@ annelisa
 annet
 annette
 annie
+annihilation
 annissa
 anniversary
 announce
@@ -3015,6 +3031,7 @@ anti-israel
 anti-kremlin
 anti-lgbtq
 anti-lockdown
+anti-mask
 anti-moscow
 anti-opec
 anti-police
@@ -3569,6 +3586,7 @@ autosport
 autotrader
 autumn
 ava
+availability
 available
 avalancha
 avalanche
@@ -3651,6 +3669,7 @@ babylon
 babys
 babysit
 babysitter
+babysitting
 bac
 bacanora
 bachelor
@@ -3746,6 +3765,7 @@ balf
 bali
 balk
 balkan
+balkovec
 balks
 ball
 ballad
@@ -3859,6 +3879,7 @@ barragn
 barred
 barrels
 barrett
+barricaded
 barricades
 barrier
 barriers
@@ -4004,6 +4025,7 @@ beauvillier
 became
 because
 beck
+becker
 beckham
 beckon
 beckys
@@ -4059,6 +4081,7 @@ behind-the-scenes
 beijing
 beijings
 being
+beja
 bel-air
 belarus
 beleaguered
@@ -4333,6 +4356,7 @@ birkin
 birks
 birmingham
 birolini
+birsinghpur
 birth
 birthday
 birthdays
@@ -4736,6 +4760,7 @@ brag
 bragg
 bragged
 bragging
+braiders
 brain
 brain-damaging
 brainpower
@@ -5240,6 +5265,7 @@ calhoun
 cali
 calif
 california
+californiaheres
 californians
 californias
 call
@@ -5413,11 +5439,13 @@ cardiac
 cardinal
 cardinals
 cardio
+cardiologists
 cardoso
 cardross
 cards
 care
 carecloud
+cared
 career
 careers
 careful
@@ -5439,6 +5467,7 @@ carjackings
 carl
 carla
 carliles
+carlisle
 carlo
 carlos
 carlsen
@@ -5465,6 +5494,7 @@ carpool
 carragher
 carranzas
 carrefour
+carreno
 carrera
 carriage
 carrie
@@ -5626,6 +5656,7 @@ ccur
 cd
 cda
 cdc
+cdcs
 cdiz
 cdphe
 cdu
@@ -5733,6 +5764,7 @@ chakma
 chalamet
 chalian
 chalks
+challa
 challao
 challenge
 challengers
@@ -5897,6 +5929,7 @@ cherry
 cheryl
 chesa
 chesapeake
+cheshire
 chess
 chest
 chester
@@ -5941,6 +5974,7 @@ chill
 chilling
 chills
 chilly
+chilo
 chimelong
 chimpo
 chimsoro
@@ -6777,6 +6811,7 @@ convent
 convention
 conversation
 conversations
+conversions
 convert
 converted
 converter
@@ -7209,6 +7244,7 @@ cruzs
 cry
 crying
 cryo-robots
+cryogenic
 cryoport
 cryptic
 crypto
@@ -7390,6 +7426,7 @@ daily
 daimler
 dainik
 dairy
+daisy
 daiwatari
 dak
 dakota
@@ -7489,6 +7526,7 @@ dating
 daugherty
 daughter
 daughters
+daulton
 daumas
 daunte
 daunting
@@ -7574,6 +7612,7 @@ dear
 dearborn
 dearen
 death
+death-defying
 death-row
 deaths
 debacle
@@ -7784,6 +7823,7 @@ dementia
 demeters
 demi
 demings
+demizu
 democracy
 democrat
 democratic
@@ -7808,6 +7848,7 @@ demoted
 dems
 den
 denali
+denelle
 deneuve
 deng
 deni
@@ -7950,6 +7991,7 @@ detainees
 detainment
 detains
 detect
+detected
 detecting
 detective
 detectives
@@ -9127,6 +9169,7 @@ employers
 employing
 employment
 employs
+empower
 empowerment
 empress
 emptier
@@ -9161,6 +9204,7 @@ endangered
 endangering
 endeavor
 ended
+ender
 enders
 endgames
 ending
@@ -9594,6 +9638,7 @@ exam
 examination
 examined
 examiner
+examiners
 examines
 example
 examples
@@ -9895,6 +9940,7 @@ familys
 famine
 famous
 fan
+fanatic
 fanbase
 fanciest
 fancy
@@ -9950,6 +9996,7 @@ fasterthanlight
 fastest
 fastest-growing
 fasties
+fasting
 fastly
 fat
 fatal
@@ -10045,6 +10092,7 @@ feitong
 feldman
 feldmans
 feline
+felines
 felipe
 felipponei
 felix
@@ -10102,6 +10150,7 @@ festivals
 fetal
 fetches
 fettuccine
+fetus
 feud
 feuding
 fever
@@ -10214,6 +10263,7 @@ firecrackers
 fired
 firefighter
 firefighters
+firefights
 firefox
 firepit
 fires
@@ -10318,6 +10368,7 @@ flawlessly
 flaws
 flay
 flche
+flea
 fleas
 fleche
 fled
@@ -10550,6 +10601,7 @@ four-alarm
 four-game
 four-goal
 four-month
+four-timer
 four-way
 four-year
 fourth
@@ -10702,6 +10754,7 @@ frog
 from
 front
 front-row
+front-runners
 frontal
 frontier
 frontline
@@ -10826,6 +10879,7 @@ gadots
 gaethje
 gaetz
 gaetzs
+gags
 gahora
 gaia
 gain
@@ -11033,6 +11087,7 @@ gentlemens
 gentrification
 genuflect
 genuinely
+genya
 geoff
 geoffrey
 geographic
@@ -11101,6 +11156,7 @@ giampietro
 giancarlo
 giancola
 gianna
+giannelli
 giannis
 giannoulias
 giant
@@ -11231,6 +11287,7 @@ goa
 goal
 goalless
 goals
+goat
 goats
 gobert
 god
@@ -11487,6 +11544,7 @@ grilling
 grills
 grim
 grimer
+grimpoteuthis
 grimsby
 grind
 grinder
@@ -11553,6 +11611,7 @@ gttsch
 gtx
 gty
 guac
+guam
 guangzhou
 guantanamo
 guantnamo
@@ -11712,6 +11771,7 @@ hair
 hairiest
 hairline
 hairstyle
+hairstyles
 hairstyling
 hairstylists
 haiti
@@ -11908,6 +11968,7 @@ hatches
 hatchet
 hatchet-wielding
 hate
+hate-crime
 hated
 hateful
 hatenkai
@@ -12513,10 +12574,12 @@ huarong
 huating
 huawei
 hub
+hubble
 hubert
 hubspot
 huckabee
 huda
+huddersfield
 hudgens
 hudson
 hudsons
@@ -13483,6 +13546,7 @@ jana
 jane
 janeirense
 janet
+janette
 janey
 janne
 jansy
@@ -13805,6 +13869,7 @@ justices
 justified
 justify
 justin
+jutkiewicz
 juve
 juvenile
 juventes
@@ -13869,6 +13934,7 @@ kansan
 kansas
 kante
 kanye
+kapadia
 kapanen
 kapcheck
 kapetainate
@@ -14204,6 +14270,7 @@ knowledge
 knowlton
 known
 knows
+knox
 knoxville
 knucklehead
 ko
@@ -14233,6 +14300,7 @@ konare
 kondo
 kong
 kong8217s
+kongers
 kongs
 koning
 konrad
@@ -14375,6 +14443,7 @@ ladue
 lady
 lady-in-waiting
 ladybug
+ladys
 lae
 laevidentaliidae
 lafayette
@@ -14579,6 +14648,7 @@ layoffs
 layout
 lays
 lazarus
+laziest
 lazy
 lb
 lbj
@@ -14732,6 +14802,7 @@ leonora
 leontovych
 leopold
 leos
+leproplaca
 leroy
 les
 lesbian
@@ -14796,6 +14867,7 @@ liam
 liams
 lian
 liang
+liat
 libel
 liberal
 liberals
@@ -14948,6 +15020,7 @@ lips
 liquid
 liquidating
 liquidation
+liquidations
 liquidity
 liquor
 lirr
@@ -15431,6 +15504,7 @@ majeure
 majhe
 majluf
 major
+majorca
 majority
 majors
 make
@@ -15469,6 +15543,7 @@ malins
 mall
 mallika
 malliotakis
+mallorca
 malls
 malnutrition
 malone
@@ -15727,6 +15802,7 @@ masts
 masudur
 masvidal
 masvidals
+masvisal
 matagorda
 matar
 match
@@ -15862,6 +15938,7 @@ mckinney
 mckinstry
 mckoy
 mclaren
+mclaurin
 mcmansion
 mcmaster
 mcmichael
@@ -16709,6 +16786,7 @@ much-loved
 much-needed
 mud
 mudalige
+mudaria
 muddy
 mudge
 mudnal
@@ -16758,6 +16836,7 @@ mumia
 mummers
 mums
 mumu
+munaf
 munan
 muncaster
 munchies
@@ -16991,10 +17070,12 @@ natty
 natural
 naturalized
 nature
+natures
 naughtiest
 naughty
 naumann
 naureen
+nauru
 nausea
 nautical
 navajo
@@ -17022,6 +17103,7 @@ nbas
 nbc
 nbl
 nc
+nc-sc
 ncaa
 ncaas
 ndikumana
@@ -17492,6 +17574,7 @@ nurture
 nurul
 nus
 nut
+nutrient
 nutrient-packed
 nutrition
 nutritional
@@ -17863,6 +17946,7 @@ organizer
 organizers
 organizing
 orgs
+orient
 orientation
 origin
 original
@@ -18166,6 +18250,7 @@ pandemic-fueled
 pandemic-recovering
 pandemic-related
 pandemic-style
+pandemicand
 pandemics
 paneer
 panel
@@ -18324,6 +18409,7 @@ pathologist
 pathos
 paths
 pati
+patience
 patient
 patients
 patio
@@ -18439,6 +18525,7 @@ peeling
 peer
 peers
 peete
+pei
 peihua
 peirson
 pekarek
@@ -19002,6 +19089,7 @@ polnyi
 polo
 pols
 poly
+polycauliona
 polyipnus
 polymath
 pomeroy
@@ -19131,6 +19219,7 @@ postpones
 posts
 postseason
 posture
+posuka
 pot
 pot-repreneurs
 potato
@@ -19502,6 +19591,7 @@ proposes
 proposing
 proposition
 propped
+props
 pros
 prosecute
 prosecuted
@@ -19521,6 +19611,7 @@ protecting
 protection
 protectionist
 protections
+protective
 protects
 protein
 protest
@@ -19665,6 +19756,7 @@ purebred
 purge
 purification
 purle
+purnima
 purnmasi
 purple
 purpose
@@ -19913,6 +20005,7 @@ ramon
 ramone
 ramos
 ramp
+rampage
 rampant
 ramps
 rams
@@ -19959,9 +20052,11 @@ rapids
 raping
 rapinoe
 rapper
+rappers
 raptor
 raptors
 rare
+rarified
 rarri
 ras-i
 rasa
@@ -19981,6 +20076,7 @@ rate
 rate-sensitive
 rated
 rates
+ratey
 rather
 ratify
 rating
@@ -20148,6 +20244,7 @@ recipes
 recipient
 recipients
 reckless
+recklessness
 reckon
 reckoning
 reckons
@@ -20155,6 +20252,7 @@ reclaim
 reclaiming
 reclaims
 recognise
+recognises
 recognition
 recognize
 recognized
@@ -20617,6 +20715,7 @@ resorts
 resource
 resource-hungry
 resources
+respawn
 respect
 respectful
 respects
@@ -20913,6 +21012,7 @@ riversource
 riveter
 riwu
 rixt
+riyadh
 riz
 rizhko
 rizwan
@@ -20930,6 +21030,7 @@ roads
 roadshow
 roadside
 roadway
+roam
 roamed
 roaming
 roar
@@ -21185,6 +21286,7 @@ ruchira
 rudd
 rude
 rudely
+rudenya
 rudimentary
 rudin
 rudins
@@ -21196,6 +21298,7 @@ rueppellii
 ruf
 ruffle
 rufocomata
+rufoplaca
 rugby
 rugby-england
 rugby-premiership
@@ -21261,6 +21364,7 @@ rutgers
 ruth
 rutherford
 ruthless
+ruvival
 ruwan
 rv
 rvs
@@ -21343,6 +21447,7 @@ safer
 safest
 safeties
 safety
+safin
 saga
 sage
 saginaw
@@ -21508,6 +21613,7 @@ satellite
 satellites
 sathwara
 satisfactory
+satisfied
 satisfy
 satisfying
 satishs
@@ -21609,6 +21715,7 @@ scherzers
 scherzinger
 schianos
 schiff
+schiller
 schitts
 schleicher
 schlesinger
@@ -21983,6 +22090,7 @@ settles
 settling
 seulgi
 seuss
+sevastopoulos
 seven
 seven-decade
 seven-footers
@@ -22002,6 +22110,7 @@ sewaddle
 sewage
 sex
 sex-trafficking
+sexist
 sexting
 sexton
 sexual
@@ -22136,6 +22245,7 @@ sheltered
 shelters
 shelton
 shelved
+shelves
 shen
 shepherd
 sheridan
@@ -22224,6 +22334,7 @@ shortage
 shortages
 shortcakes
 shortcomings
+shorten
 shortfall
 shortfalls
 shorthanded
@@ -22243,6 +22354,7 @@ shouldnt
 shouldve
 shouting
 shouts
+shovel
 shoves
 show
 show-stopping
@@ -22436,6 +22548,7 @@ sirari
 siravo
 siri
 sirianni
+sisenandus
 sister
 sisterly
 sisters
@@ -22621,8 +22734,11 @@ small-business
 small-cap
 small-caps
 small-town
+smalldickenergy
+smalldipenergy
 smaller
 smallest
+smallpox
 smart
 smartfinancial
 smartphone
@@ -22748,6 +22864,7 @@ soccer-rookie
 soccer-strugglers
 soccer-super
 soccer-tottenham
+soccer-watford
 soccers
 social
 socialist
@@ -22831,6 +22948,7 @@ sonicwall
 sonim
 sonoma
 sonora
+sonos
 sons
 sony
 sonys
@@ -22956,6 +23074,7 @@ species
 specific
 specs
 spectacle
+spectacles
 spectacular
 spectators
 spectrum
@@ -23525,6 +23644,7 @@ stunts
 stupid
 sturbridge
 sturgeon
+stutter
 stuttgart
 style
 styles
@@ -23773,6 +23893,7 @@ surreal
 surrenders
 surrey
 surrogate
+surrogates
 surrounded
 surrounding
 surroundings
@@ -24508,6 +24629,7 @@ throwing
 thrown
 throws
 thru
+thruspace
 thug
 thumb
 thump
@@ -24733,6 +24855,7 @@ tornadoes
 toronto
 torontos
 torpedoed
+torpoint
 torrance
 torrent
 torres
@@ -24939,6 +25062,7 @@ treatments
 treats
 treaty
 trebia
+treble
 tree
 trees
 treesin
@@ -25269,6 +25393,7 @@ ultimate
 ultimately
 ultimatum
 ultra
+ultra-bright
 ultra-nationalists
 ultra-popular
 ultra-potent
@@ -25300,6 +25425,7 @@ unashamedly
 unauthorized
 unbearable
 unbeaten
+unbelievable
 unblemished
 unblocked
 unc
@@ -25354,6 +25480,7 @@ undervalued
 underwater
 underway
 underwear
+underwhelming
 underwood
 underwoods
 underwriter
@@ -25667,6 +25794,7 @@ valedictorian
 valencia
 valentin
 valentina
+valentine
 valeri
 valerie
 valid
@@ -25728,6 +25856,7 @@ variegatus
 variety
 various
 varna
+varsho
 vartan
 vas
 vashishta
@@ -25893,6 +26022,7 @@ vigilante
 vigils
 vignesh
 vigor
+vigorous
 vigorously
 vii
 viii
@@ -26269,6 +26399,7 @@ watermelon
 watermelons
 waterproof
 waters
+watershed
 waterss
 waterways
 watford
@@ -26565,6 +26696,7 @@ wilmington
 wilson
 wilsoni
 wilsons
+wilton
 wimberley
 win
 win-loss
@@ -26978,6 +27110,7 @@ yorkshire
 yosemite
 yoshiaki
 yoshihide
+yossifor
 yosuke
 yota
 you
@@ -27054,6 +27187,7 @@ zalatoris
 zambia
 zamfara
 zanagee
+zanzibar
 zapiski
 zapped
 zaptius
