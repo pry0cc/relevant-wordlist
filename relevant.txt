@@ -1595,6 +1595,7 @@
 3-0
 3-1
 3-2
+3-County
 3-Day
 3-Foot
 3-Game
@@ -1680,9 +1681,11 @@
 38
 3800
 38120
+384
 387K
 39
 392
+3998
 39th
 3A
 3D
@@ -2088,6 +2091,7 @@
 9th-inning
 A
 A-League
+A-List
 A-Rod
 A-list
 A-listers
@@ -2139,6 +2143,7 @@ AFLWs
 AFLs
 AFRICA
 AG
+AGAIN
 AGENUS
 AGILITI
 AGP
@@ -2397,6 +2402,7 @@ Adidas
 Adil
 Adile
 Adirondack
+Aditya
 Adjustable
 Adjusting
 Adjustment
@@ -2602,6 +2608,7 @@ Albuquerque
 Alcee
 Alces
 Alchemist
+Alchenko
 Alcmenor
 Alcohol
 Alcoraz
@@ -2734,6 +2741,7 @@ Alum
 Alussa
 Alvarado
 Alves
+Alvin
 Always
 Alwyn
 Alysha
@@ -2806,6 +2814,7 @@ Anastasia
 Anatomy
 Ancient
 And
+Andanar
 Anders
 Andersen
 Anderson
@@ -2974,6 +2983,7 @@ Apology
 Aponileus
 App
 Appalachian
+Appalling
 Apparent
 Appeal
 Appeals
@@ -3091,10 +3101,12 @@ Arnolda
 Arnolt
 Arnor
 Arokiaswamy
+Aroma-Zone
 Aron
 Arouna
 Around
 Arraigned
+Arran
 Arrest
 Arrested
 Arrests
@@ -3548,6 +3560,7 @@ Bancshares
 Band
 Bandanas
 Bandaranayake
+Bandariba
 Bandimere
 Bands
 Banerjee
@@ -3625,6 +3638,7 @@ Bartali
 Bartees
 Bartlett
 Barton
+Bartos
 Barty
 Barwar
 Barz
@@ -4134,6 +4148,7 @@ Bogdanovich
 Boggs
 Bogislaw
 Bohannan
+Bohjalian
 Boise
 Bokaro
 BollyTrendz
@@ -4495,6 +4510,7 @@ Budget
 Budgets
 Budweiser
 Buehler
+Buehlers
 Buenaventura
 Buffalo
 Buffalo-Palooza
@@ -4866,6 +4882,7 @@ Camping
 Campolindo
 Campos
 Camps
+Campsite
 Campus
 Cams
 Can
@@ -5027,6 +5044,7 @@ Carters
 Cartier
 Carto
 Carton
+Cartoon
 Carts
 Cartujano
 Cartwright
@@ -5521,6 +5539,7 @@ Class-action
 Class-based
 Classes
 Classic
+Classical
 Classics
 Classroom
 Classrooms
@@ -5558,6 +5577,7 @@ Cliffhanger
 Climate
 Climate-Warming
 Climb
+Climber
 Climbs
 Clinch
 Cline
@@ -5926,6 +5946,7 @@ Contest
 Contestant
 Contestants
 Continental
+Contingency
 Continuation
 Continue
 Continued
@@ -6554,6 +6575,7 @@ Ddane
 De
 De-Loused
 De-escalation
+DeAaron
 DeFi
 DeGeneres
 DeGroms
@@ -6838,6 +6860,7 @@ Dev1ce
 Devany
 Devasahayam
 Devastated
+Devastates
 Devastating
 Devastation
 Develop
@@ -6847,6 +6870,7 @@ Developers
 Developing
 Development
 Developments
+Devi
 Device
 Devices
 Devils
@@ -6855,6 +6879,7 @@ Dewitt
 Dews
 Dey
 Dhabia
+Dhaid
 Dhaka
 Dham
 Dharanidhar
@@ -7155,6 +7180,7 @@ Dominican
 Dominik
 Dominion
 Domino
+Domkonzerte
 Domnguez
 Don
 Donald
@@ -7189,6 +7215,7 @@ Dorchester
 Dorfman
 Dorgan
 Dorian
+Dorien
 Doris
 Dormitory
 Dorothy
@@ -7561,6 +7588,7 @@ Edelmans
 Edgar
 Edge
 Edgier
+Edhi
 Edibles
 Edinburgh
 Edith
@@ -7620,6 +7648,8 @@ Ekspress-80
 Ekspress-A1R
 Ekspress-AM44
 Ekspress-AM5
+Ekspress-AMU3
+Ekspress-AMU7
 El
 Elantra
 Elaphoglossum
@@ -7689,6 +7719,7 @@ Elordi
 Elote-Style
 Elphas
 Elsa
+Elsdon
 Else
 Elsie
 Elumalai
@@ -7908,6 +7939,7 @@ Estoril
 Estrel
 Etel
 Eternally
+Eth2
 Etha
 Ethan
 Ethel
@@ -7920,6 +7952,7 @@ Ethics
 Ethiopia
 Ethiopias
 Ethnicity
+Etienne
 Etihad
 Etinne
 Etiquette
@@ -7931,6 +7964,7 @@ Eugene
 Eul-bun
 Eulogized
 Euphorbia
+Eurazeo
 Eureka
 Eurekha
 Euro
@@ -8647,6 +8681,7 @@ Florida
 Floridas
 Florissant
 Flour
+Flourish
 Flow
 Flower
 Flowering
@@ -8860,6 +8895,7 @@ Friends
 Friendship
 Friendships
 Friendswood
+Frier
 Fries
 Friess
 Frightened
@@ -9438,6 +9474,7 @@ Grade
 Grader
 Graders
 Gradient
+Grading
 Graduating
 Graduation
 Graffiti
@@ -10876,6 +10913,7 @@ Intense
 Intensity
 Intentionally
 Inter
+Inter-provincial
 Interacting
 Interaction
 Interactions
@@ -10952,6 +10990,7 @@ Inwood
 IoT
 Ioana
 Iommic
+Ion
 Iowa
 Ipswich
 Iran
@@ -11199,6 +11238,7 @@ Jehan
 Jehanne
 Jehovahs
 Jelle
+Jemalong
 Jen
 Jenis
 Jenkins
@@ -11794,6 +11834,7 @@ Knife-Wielding
 Knight
 Knighton
 Knights
+Knigslutter
 Knives
 Knockin
 Knockout
@@ -11900,6 +11941,7 @@ Kumbh
 Kung
 Kuni
 Kunin
+Kunti
 Kuopio
 Kur
 Kuraly
@@ -11920,8 +11962,11 @@ Kwofe
 Kyiv
 Kyle
 Kylie
+Kylniemi
 Kyotto
 Kyrie
+Kyrsten
+Kysselef
 L
 L1
 L2
@@ -12029,6 +12074,7 @@ Lafferty
 Lagged
 Lagging
 Lahiri
+Lahiris
 Lai
 Laid
 Laiza
@@ -12651,6 +12697,7 @@ Lubbock
 Luca
 Lucas
 Luciana
+Lucien
 Lucille
 Lucinda
 Luck
@@ -12692,6 +12739,7 @@ Lurie
 Luring
 Lusk
 Lust
+Lutful
 Luthuli
 Lux
 Luxasias
@@ -13092,6 +13140,7 @@ Markles
 Marks
 Marleau
 Marleaus
+Marlee
 Marley
 Marlins
 Marlow
@@ -13176,6 +13225,7 @@ Mateo
 Materials
 Maternity
 Matheus
+Mathuki
 Mathur
 Mathura
 Mati
@@ -13505,6 +13555,7 @@ Michaels
 Michaely
 Michel
 Michela
+Michelin-starred
 Michelle
 Michelob
 Michigan
@@ -13526,6 +13577,7 @@ Midday
 Middle
 Middle-Age
 Middleham
+Middlesex
 Middleton
 Middletons
 Midfielder
@@ -13552,6 +13604,7 @@ Mihil
 Mika
 Mike
 Mikes
+Mikhail
 Mikkelsen
 Mikko
 Mikls
@@ -13918,6 +13971,7 @@ Muffin
 Muffled
 Muffler
 Mug
+Mugisha
 Mugs
 Mugshot
 Muhammad
@@ -13997,6 +14051,7 @@ Must-Have
 Must-See
 Must-have
 Mustache
+Mustafa
 Mustafayeva
 Mustang
 Musto
@@ -14152,6 +14207,7 @@ Naheda
 Naif
 Naiqama
 Naisbitt
+Najee
 Nakamoto
 Nakamura
 Nakanjako
@@ -14282,6 +14338,7 @@ Nelly
 Nelson
 Nemak
 Nemesis
+Nemeth
 Neo-Aramaic
 Neo-Fascist
 Neo-Nazi
@@ -14469,6 +14526,7 @@ Nonalcoholic
 Noncommittal
 None
 Nongallabasu
+Nonguet
 Nonprofit
 Nonprofits
 Nonsense
@@ -14531,6 +14589,7 @@ Novato
 Novel
 Novelty
 November
+Novika
 Novikov
 Novoselsky
 Now
@@ -14982,6 +15041,7 @@ P
 P-22
 P-MRC
 PA
+PAC
 PACIFIC
 PACKS
 PACs
@@ -15176,6 +15236,7 @@ Panga
 Pangaea
 Pani
 Panic
+Pankaj
 Panmod
 Pannell
 Panorama
@@ -15284,6 +15345,7 @@ Patchewollock
 Patchogue
 Patel
 Patent
+Paterson
 Path
 Pathbreaking
 Pathogens
@@ -15300,6 +15362,7 @@ Patri
 Patriarchs
 Patricia
 Patrick
+Patrik
 Patriot
 Patriots
 Patroclus
@@ -15826,6 +15889,7 @@ Portos
 Portrait
 Ports
 Portugal
+Portuguese
 Porzingis
 Pose
 Poseida
@@ -16198,12 +16262,14 @@ Puppet
 Puppies
 Puppy
 Pur
+Puran
 Purcell
 Purchase
 Purchased
 Purdue
 Pure
 Purle
+Purnmasi
 Purple
 Purposefully
 Purposely
@@ -16758,6 +16824,7 @@ Regrets
 Regular
 Regulate
 Regulator
+Regulators
 Rehab
 Rehabs
 Reid
@@ -17065,6 +17132,7 @@ Rice
 Rich
 Richard
 Richards-Ross
+Richburg
 Richie
 Richland
 Richmond
@@ -17349,6 +17417,7 @@ Royal
 Royale
 Royals
 Royalty
+Rozario
 Rozier
 Rs
 Rsums
@@ -17601,6 +17670,7 @@ SYNTAX
 SYSTEMS
 SZRCB
 Sa
+Saadoun
 Saba
 Sabahy
 Sabina
@@ -17713,6 +17783,7 @@ Samuel
 Samurai
 San
 SanTan
+Sanandaj
 Sanchezs
 Sanctions
 Sanctuary
@@ -18153,6 +18224,7 @@ Shakers
 Shakes
 Shakespeare
 Shakeup
+Shakhiev
 Shakuntala
 Shaky
 Shalt
@@ -18430,6 +18502,7 @@ Simu
 Simz
 Since
 Sindi
+Sinema
 Sing
 Singal
 Singapore
@@ -19068,6 +19141,7 @@ Stinky
 Stinson
 Stinson-Milienu
 Stiprais
+Stirs
 Stivers
 Stock
 Stock-market
@@ -19182,6 +19256,7 @@ Structure
 Struggle
 Struggles
 Struggling
+Stuard
 Stuart
 Stuber
 Stubs
@@ -19370,6 +19445,7 @@ Surprising
 Surprisingly
 Surreal
 Surrenders
+Surrey
 Surrounds
 Surullitos
 Surveillance
@@ -19443,6 +19519,7 @@ Swimsuit
 Swindon
 Swine
 Swings
+Swinley
 Swish
 Swisher
 Swiss
@@ -19527,6 +19604,7 @@ TFLIC
 TFT
 THANK
 THC
+THC-infused
 THE
 THERAPEUTICS
 THESE
@@ -19713,6 +19791,7 @@ Tatung
 Tauchman
 Taught
 Taunton
+Taunts
 Taurus
 Tavern
 Tavernier
@@ -19861,6 +19940,7 @@ Thai
 Thailand
 Thailand8217s
 Thailands
+Thakur
 Thalloloma
 Thamara
 Than
@@ -20057,6 +20137,7 @@ Titans
 Titicaca
 Title
 Tiz
+Tjasa
 Tlaib
 Tlaibs
 Tlvision
@@ -20509,6 +20590,7 @@ UPS
 URI
 US
 US-Canada
+US-China
 US-Japan
 US-Mexico
 US-Transatlantic
@@ -20602,6 +20684,7 @@ Under-30
 Under-50
 Under-the-radar
 Underage
+Undercounted
 Undercounting
 Undercover
 Underdog
@@ -21446,6 +21529,7 @@ Welsby
 Welsh
 Wembley
 Wen
+Wencelito
 Wendell
 Wendi
 Wendy
@@ -21502,6 +21586,7 @@ Wheels
 Wheen
 When
 Where
+Whereabouts
 Wheres
 Wherever
 Whether
@@ -21767,6 +21852,7 @@ X-17A-5
 X-factor
 XC90s
 XDR
+XI
 XIAO
 XII
 XIV
@@ -21872,6 +21958,7 @@ Yews
 Yiddish
 Yield
 Yields
+Yilgarn
 Yilgarn-Coolgardie
 Yinchu
 Yinjifu
@@ -21965,6 +22052,7 @@ Zac
 Zach
 Zachary
 Zack
+Zagir
 Zagitovas
 Zago
 Zagora
@@ -22290,6 +22378,7 @@ ahole
 aid
 aide
 aides
+aids
 ailing
 ailment
 aim
@@ -22678,6 +22767,7 @@ attendees
 attending
 attends
 attention
+attire
 attorney
 attorneys
 attract
@@ -22711,6 +22801,7 @@ automatic-promotion
 automatically
 automobiles
 autonomous
+autonomy
 autopilot
 autopsy
 autos
@@ -22803,6 +22894,7 @@ bang
 banged-up
 bangsamoro
 bank
+bankers
 banking
 bankruptcy
 bankrupted
@@ -23654,6 +23746,7 @@ chats
 chatter
 chatty
 cheap
+cheaper
 cheapest
 cheaply
 cheated
@@ -24368,6 +24461,7 @@ crowns
 crucial
 crude
 cruel
+cruelty
 cruise
 cruises
 crumble
@@ -24632,6 +24726,7 @@ del
 delay
 delayed
 delays
+delegation
 delegations
 deliberate
 deliberately
@@ -24711,9 +24806,11 @@ derail
 derailing
 derailment
 derails
+derby
 dergahs
 derivative
 des
+desalination
 descend
 describe
 described
@@ -25159,6 +25256,7 @@ dwindles
 dyes
 dying
 dynamics
+dynastic
 dynasty
 dysfunction
 e
@@ -25434,6 +25532,7 @@ escape
 escapes
 escort
 esports
+espresso
 essay
 essential
 essentials
@@ -25651,6 +25750,7 @@ extraction
 extradition
 extraordinary
 extras
+extravagant
 extreme
 extremism
 extremist
@@ -25767,6 +25867,7 @@ fathers
 fatigue
 fatto
 fault
+faulty
 faux-sincere
 favor
 favorably
@@ -26175,6 +26276,7 @@ fuelling
 fuels
 fugitive
 full
+full-body
 full-contact
 full-size
 full-time
@@ -26315,6 +26417,7 @@ given
 gives
 giving
 glacially
+glacier
 glad
 gladiatrix
 glass
@@ -26475,6 +26578,7 @@ growth
 grrrl
 gruelling
 gruesome
+grunge
 grunt
 guarantee
 guaranteed
@@ -27088,6 +27192,7 @@ indicates
 indicating
 indicted
 indicts
+indifference
 indigenous
 indigenously
 individual
@@ -27739,6 +27844,7 @@ lisabeth
 list
 listed
 listen
+listeners
 listening
 listing
 lists
@@ -28636,6 +28742,7 @@ obsession
 obsessions
 obstacle
 obstructed
+obstructs
 obtaining
 obvious
 occasion
@@ -28695,6 +28802,7 @@ on-campus
 on-chain
 on-duty
 on-off
+on-sale
 on-stage
 onAutopilot
 onGreys
@@ -28749,6 +28857,7 @@ opponents
 opportunities
 opportunity
 oppose
+opposed
 opposes
 opposing
 opposite
@@ -29193,6 +29302,7 @@ pinned
 pinpoints
 pioneer
 pioneers
+pip
 pipe
 pipeline
 pipelines
@@ -29419,6 +29529,7 @@ practices
 pragmatism
 pragmatist
 praise
+praised
 praises
 prank-called
 pranked
@@ -29452,6 +29563,7 @@ prediction
 predictions
 predicts
 prefer
+preferring
 prefers
 prefight
 pregnancy
@@ -30601,6 +30713,7 @@ sail
 sailor
 sailors
 saint
+salads
 salaries
 salary
 sale
@@ -30878,6 +30991,7 @@ sex
 sexting
 sexual
 sexualisation
+sexualization
 sexually
 sexy
 sh
@@ -31078,6 +31192,7 @@ single-day
 singles
 sings
 singular
+sink
 sinking
 sinks
 sister
@@ -31736,6 +31851,7 @@ summonses
 sun
 sundown
 sunk
+sunny
 sunrise
 sunset
 sunshine
@@ -32059,6 +32175,7 @@ texts
 than
 thank
 thank-you
+thank-yous
 thankful
 thanking
 thanks
@@ -32895,6 +33012,7 @@ waitress
 waits
 waive
 waiver
+waiver-wire
 waivers
 waives
 wake
@@ -33097,6 +33215,7 @@ winds
 windshield
 windy
 wine
+wine-loving
 winemakers
 wing
 winger
@@ -33213,18 +33332,22 @@ wrestling
 write
 writer
 writers
+writes
 writing
 written
 wrong
 wrong-way
+wrongfully
 wrongly
 wrote
 x
 xDrive
 y
 ya
+yachts
 yard
 yards
+yeah
 year
 yearlong
 years
