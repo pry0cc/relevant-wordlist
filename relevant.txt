@@ -1508,6 +1508,7 @@
 23andMe
 23rd
 24
+24-Hour
 24-hour
 24-million
 2429
@@ -1557,6 +1558,7 @@
 27500
 2765
 279
+27m-a-mile
 28
 28-day
 28-year-old
@@ -2296,6 +2298,7 @@ Accrington
 Accuracy
 Accurate
 Accusations
+Accuse
 Accused
 Accuser
 Accusers
@@ -2986,6 +2989,7 @@ Aquariums
 Arab
 Arabia
 Arabs
+Arackar
 Arad
 Arai
 Arapahoe
@@ -3005,6 +3009,7 @@ Archibald
 Archie
 Architect
 Architecture
+Archive
 Archives
 Arctic
 Arden
@@ -3778,6 +3783,7 @@ Bergosa
 Berkeley
 Berkshire
 Berlanga
+Berlangas
 Berlin
 Berman
 Bermuda
@@ -4094,6 +4100,7 @@ BollyTrendz
 Bologna
 Bolognese
 Bolsonaro
+Bolster
 Bolsters
 Bolt
 Bolton
@@ -4108,6 +4115,7 @@ Bond
 Bonds
 Bone
 Bones
+Bong
 Bongino
 Bonifacius
 Boning
@@ -4734,6 +4742,7 @@ Cabinet
 Cabn
 Cabos
 Cabrera
+Cacosceles
 Cactus
 Cadden
 Caddy
@@ -6039,6 +6048,7 @@ Covishield
 Cowan
 Cowboy
 Cowboys
+Cowboys-Raiders
 Coxs
 Coyotes
 Coyotes-Wild
@@ -6326,6 +6336,7 @@ DM
 DMCC
 DMV
 DMX
+DMs
 DNA
 DO
 DOC
@@ -6972,6 +6983,7 @@ Disperses
 Displaced
 Display
 Displeasure
+Disposal
 Disposing
 Dispute
 Disputed
@@ -7210,6 +7222,7 @@ Drinks
 Driscoll
 Drive
 Drive-By
+Drive-In
 Drive-Thru
 Drive-by
 Drive-in
@@ -7247,6 +7260,7 @@ Dua
 Dual
 Duante
 Duarte
+Dub
 Dubai
 Dublin
 Dubn
@@ -7659,6 +7673,7 @@ En
 Enabled
 Enacted
 Encampments
+Enchanting
 Encina
 Encore
 Encounter
@@ -8157,6 +8172,7 @@ FX
 Fabiola
 Fabulous
 Face
+FaceTime
 Facebook
 Facebook-backed
 Facebooks
@@ -8357,6 +8373,7 @@ Fernando
 Ferrari
 Ferraro
 Ferrell
+Ferrero
 Ferris
 Ferry
 Fertilizer
@@ -8816,6 +8833,7 @@ Funds
 Funeral
 Funfetti
 Funimation
+Funnel
 Funny
 Fur
 Furiosas
@@ -8914,6 +8932,7 @@ Gabe
 Gables
 Gabriel
 Gabriela
+Gabriele
 Gabrielle
 Gabsa
 Gadots
@@ -9287,6 +9306,7 @@ Google
 Googled
 Googles
 Goose
+Goran
 Goranson
 Gordie
 Gordon
@@ -9587,6 +9607,7 @@ HIGHEST
 HILO
 HIPAA
 HIRING
+HISTORIC
 HIV
 HK
 HM
@@ -9726,6 +9747,7 @@ Harbor
 Harbour
 Harckham
 Hard
+Hardeman
 Harden
 Harder
 Hardest
@@ -9770,6 +9792,7 @@ Haryana
 Has
 Hasenhuttls
 Hash
+HashiCorp
 Hasidic
 Haslam
 Haslet
@@ -9974,6 +9997,7 @@ Hesitancy
 Hester
 Hetherington
 Hetheringtons
+Heupel
 Hewitt
 Hey
 Heywards
@@ -9995,6 +10019,7 @@ Hields
 Higashiokas
 Higgins
 High
+High-End
 High-Fidelity
 High-Protein
 High-Quality
@@ -10950,6 +10975,7 @@ JR
 JT
 JaMal
 JaMarr
+Jaan
 Jabari
 Jabs
 Jacinto
@@ -11074,6 +11100,7 @@ Jenis
 Jenkins
 Jenna
 Jenner
+Jenners
 Jennifer
 Jennings
 Jenny
@@ -11189,6 +11216,7 @@ Jonathan
 Jones
 Jong
 Joo
+Joon-Hos
 Jordan
 Jordanian
 Jordanians
@@ -11367,6 +11395,7 @@ Kamel
 Kamil
 Kamminga
 Kampong
+Kampus
 Kandypens
 Kane
 Kanga
@@ -11605,6 +11634,7 @@ Kirnan
 Kirstie
 Kirton
 Kish
+Kishanganj
 Kiss
 Kissed
 Kiszla
@@ -12123,6 +12153,7 @@ Lenwood
 Leo
 Leon
 Leonard
+Leonardo
 Leone
 Leonel
 Leonid
@@ -12343,6 +12374,7 @@ Loafs
 Loan
 Lobbied
 Lobbies
+Lobby
 Lobbying
 Local
 Locals
@@ -12637,6 +12669,7 @@ MS
 MSF
 MSG
 MSI
+MSUs
 MSX
 MTA
 MTAs
@@ -12730,6 +12763,7 @@ Mahaney
 Maharashtra
 Mahathera
 Mahendra
+Maher
 Maheshwari
 Mahinda
 Mahmood
@@ -13626,6 +13660,7 @@ Morice
 Morici
 Morissette
 Moritz
+Mormon
 Morning
 Morocco
 Morphic
@@ -13915,6 +13950,7 @@ NPR
 NRA
 NRG
 NRL
+NRPD
 NSA
 NSFW
 NSW
@@ -14091,7 +14127,9 @@ Nelson
 Nemak
 Nemesis
 Neo-Aramaic
+Neo-Fascist
 Neo-Nazi
+Neofit
 Nepal
 Nepomniachtchi
 Nepotism
@@ -14197,6 +14235,7 @@ Nile
 Niles
 Nils
 Nilsson
+Nimmos
 Nina
 Nine
 Nineteen-Year-Old
@@ -14406,6 +14445,7 @@ ONS
 ONeal
 OP
 OPCW
+OPINION
 OPPORTUNITY
 OR
 ORACLE
@@ -14520,6 +14560,7 @@ Oisin
 Okadaira
 Okeechobee
 Oklahoma
+Okoroji
 Okubo
 Olaf
 Olamide
@@ -14861,6 +14902,7 @@ PPV
 PPVUL
 PRE
 PREINER
+PREMA
 PRICE
 PRIVATE
 PRO
@@ -15218,6 +15260,7 @@ Performed
 Performer
 Performers
 Performing
+Performs
 Perfumer
 Perhaps
 Period
@@ -16097,6 +16140,7 @@ R
 RABINOWITZ
 RADA
 RAILWAY
+RASA
 RAT
 RATE
 RATs
@@ -16231,6 +16275,7 @@ Raises
 Raising
 Rajasthan
 Rajovi
+Rajsthan
 Rakayo
 Rake
 Rakuten
@@ -17285,6 +17330,7 @@ SHAW
 SHAWN
 SHC
 SI-BONE
+SIDDHANTA
 SIGNAL
 SIMPLESHOWING
 SIX
@@ -17549,6 +17595,7 @@ Savannah
 Save
 Saved
 Saves
+Savi
 Saving
 Savings
 Savior
@@ -17571,6 +17618,7 @@ Scan
 Scandal
 Scandal-hit
 Scandals
+Scandinavian
 Scanners
 Scans
 Scapegoats
@@ -17912,6 +17960,7 @@ Shaky
 Shalt
 Shambhu
 Shame
+Shamed
 Shameful
 Shameless
 Shamet
@@ -18165,6 +18214,7 @@ Silvio
 Simeon
 Simionato
 Simkhai
+Simm
 Simmons
 Simms
 Simon
@@ -18250,6 +18300,7 @@ Skin-Care
 Skinner
 Skinny
 Skip
+Skipping
 Skipwith-Halatau
 Skirts
 Skokie
@@ -19440,6 +19491,7 @@ Tata
 Tatalovi
 Tatiana
 Tatos
+Tats
 Tatstat
 Tattoo
 Tattooed
@@ -19846,6 +19898,7 @@ Too
 Took
 Tools
 Toothpaste
+Tootsen
 Top
 Top-Notch
 Top-Rated
@@ -20760,6 +20813,7 @@ Vincit
 Vine
 Vineyard
 Vini
+Vinkhumbo
 Vinoodh
 Vinson
 Vintage
@@ -20836,6 +20890,7 @@ Volkov
 Volkswagens
 Volley-Ball
 Volleyball
+Vols
 Volta
 Volume
 Voluntary
@@ -20974,6 +21029,7 @@ Walmart
 Walnut
 Walpole
 Walsall
+Walsh
 Walt
 Walter
 Walters
@@ -21395,6 +21451,7 @@ Woodstock
 Woodward
 Woodwards
 Woolridge-Jones
+Woosey
 Worcester
 Word
 WordPress
@@ -22119,6 +22176,7 @@ an
 analysis
 analyst
 analysts
+anarchist
 anatomy
 anchor
 anchors
@@ -22541,6 +22599,7 @@ bathes
 bathing
 bathroom
 bathrooms
+bathtub
 baton
 bats
 batsmen
@@ -22688,6 +22747,7 @@ bit
 bitcoin
 bitcoins
 bitcointhis
+bite
 bites
 biting
 bitten
@@ -22868,6 +22928,7 @@ boys
 brace
 braces
 bracket
+brag
 bragged
 bragging
 brain
@@ -23073,6 +23134,7 @@ cake
 calamitous
 calculate
 calculus
+calendar
 california
 call
 call-out
@@ -23763,6 +23825,7 @@ conspiracy
 constant
 constantly
 constipation
+constituency
 constitutional
 construction
 consult
@@ -24021,6 +24084,7 @@ criticized
 criticizes
 critics
 critique
+critiques
 critters
 cronyism
 crop
@@ -24228,6 +24292,7 @@ deciding
 decipher
 decision
 decisions
+decisive
 deck
 decks
 declaration
@@ -24893,6 +24958,7 @@ effect
 effective
 effectiveness
 effects
+efficacy
 effort
 efforts
 eggs
@@ -25692,6 +25758,7 @@ food
 foodie
 foods
 fool
+fooled
 fools
 foot
 footage
@@ -26082,6 +26149,7 @@ great-grandchildren
 greater
 greatest
 greatly
+greatness
 greats
 greed
 greedy
@@ -27309,6 +27377,7 @@ liberties
 liberty
 libraries
 library
+licanantay
 license
 licenses
 licensing
@@ -28022,6 +28091,7 @@ mustard
 mutant
 mutual
 my
+mys
 myself
 mysteries
 mysterious
@@ -28128,6 +28198,7 @@ newborn
 newer
 newest
 newly
+newmannii
 news
 newsBoris
 newsCandidates
@@ -28472,6 +28543,7 @@ outspoken
 outstanding
 outstripping
 outweigh
+outwitted
 outworking
 ovalis
 over
@@ -28555,6 +28627,7 @@ pal
 palace
 palaces
 paleontologists
+palladium
 pallipes
 palm
 pals
@@ -29880,6 +29953,7 @@ reserve
 reserves
 reservist
 reservoir
+reset
 resettle
 reshaped
 reshaping
@@ -29908,6 +29982,7 @@ respect
 respectful
 respects
 respirators
+respite
 respond
 responder
 responders
@@ -29997,6 +30072,7 @@ revisions
 revisits
 revival
 revive
+revives
 reviving
 revoke
 revoked
@@ -30447,6 +30523,7 @@ sentencing
 sentiment
 separata
 separate
+separating
 separation
 sepsoides
 sequel
@@ -30483,6 +30560,7 @@ settling
 seven
 seven-year-old
 seventh
+sever
 several
 severe
 severed
@@ -30758,6 +30836,7 @@ sleuth
 slew
 slicer
 slick
+slid
 slide
 slides
 slightly
@@ -30952,6 +31031,7 @@ speculation
 speech
 speeches
 speed
+speeding
 speeds
 speedy
 spell
@@ -31394,6 +31474,7 @@ surges
 surgically
 surging
 surname
+surpass
 surpassed
 surpasses
 surpassing
@@ -31839,6 +31920,7 @@ tooth
 top
 top-10
 top-five
+top-four
 top-rated
 top-selling
 top-tier
@@ -32226,6 +32308,7 @@ unlocking
 unlocks
 unlucky
 unmarked
+unmask
 unnerve
 unnerving
 unofficial
@@ -32692,6 +32775,7 @@ wing
 winger
 wings
 wink
+winless
 winner
 winners
 winning
