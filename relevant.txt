@@ -12,6 +12,7 @@
 -sources
 0
 0-0
+0-1
 0-3
 0-Day
 0000003197
@@ -1007,6 +1008,7 @@
 10-6
 10-7
 10-D
+10-Day
 10-K
 10-KA
 10-Minute
@@ -1077,6 +1079,7 @@
 112-106
 112-96
 1125M
+1127
 113-112
 113-91
 114-103
@@ -1105,6 +1108,7 @@
 12-year-old
 12-year-olds
 120
+120-103
 120-year
 1200
 12000
@@ -1526,6 +1530,7 @@
 223
 225
 2250
+2256
 22B
 22K
 22M
@@ -1588,6 +1593,7 @@
 2681
 26M
 26m
+26th
 27
 2700km
 274
@@ -1797,6 +1803,7 @@
 422
 4225
 423
+42421
 424B2
 424B3
 424B4
@@ -2326,6 +2333,7 @@ About
 Above
 Above-Average
 Abraham
+Abrahams
 Abramovich
 Abrams
 Abreu
@@ -2462,6 +2470,7 @@ Adjustments
 Adjutant
 Adler
 Administered
+Administering
 Administers
 Administration
 Administrations
@@ -2784,6 +2793,7 @@ Also
 Alstad
 Alt
 Alt-Right
+Altamont
 Altan
 Altercation
 Altereds
@@ -2942,6 +2952,7 @@ Ankaras
 Anker
 Ankle
 Ankou
+Ann
 Ann-Kathrin
 Anna
 Anna-Liisa
@@ -3276,6 +3287,7 @@ Astrazeneca
 Astrid
 Astrological
 Astrology
+AstrologyAKA
 Astronaut
 Astronauts
 Astronomers
@@ -3599,6 +3611,7 @@ Balance
 Balanchine
 Balancing
 Balbo
+Balbuena
 Bald
 Baldi
 Baldwin
@@ -3677,6 +3690,7 @@ Barber
 Barbie
 Barbosa
 Barbre
+Barca
 Barcelona
 Barcelonas
 Barclays
@@ -3929,6 +3943,7 @@ Bernhoft-Osa
 Bernice
 Bernie
 Berreth
+Berros
 Berry
 Bert
 Bertans
@@ -3959,6 +3974,7 @@ Betting
 Betts
 Betty
 Bettyann
+Betway
 Between
 Beutner
 Bevan
@@ -3976,6 +3992,7 @@ Bezares
 Bezos
 Bhaiya
 Bhanudas
+Bhar
 Bharat
 Bhasin
 Bhatgaon
@@ -4128,6 +4145,7 @@ Blacks
 Blackston
 Blackstone
 Blacktop
+Bladepoint
 Blah
 Blair
 Blairs
@@ -4169,6 +4187,7 @@ Blockade
 Blockchain
 Blockchaincom
 Blocked
+Blocking
 Blocks
 Bloemfontein
 Bloemhof
@@ -4313,6 +4332,7 @@ Born
 Borno
 Boro
 Borough
+Borregales
 Borromeo
 BorrowMoneycom
 Bosa
@@ -4341,6 +4361,7 @@ Bouhaddi
 Bouie
 Boulder
 BoulderStrong
+Bouldering
 Boulevard
 Bounties
 Bounty
@@ -4452,6 +4473,7 @@ Breggen
 Bregman
 Breland
 Bremen
+Bremens
 Bremerton
 Brendan
 Brenden
@@ -4974,6 +4996,7 @@ Cambridge
 Cambridges
 Camden
 Came
+Camellia
 Cameo
 Cameos
 Camera
@@ -5037,6 +5060,7 @@ Cans
 Cant
 Cant-Lose
 Canterbury
+Cantero
 Canucks
 Canyon
 Cap
@@ -5244,6 +5268,7 @@ Cautious
 Cavalcante
 Cavaliers
 Cavani
+Cave-dwellers
 Caved
 Caviar
 Cavill
@@ -5277,6 +5302,7 @@ Celebs
 Celine
 Cell
 Cellebrite
+Celli
 Celo
 Celso
 Celtic
@@ -5390,6 +5416,7 @@ ChargePoint
 Charged
 Chargers
 Charges
+Charging
 Charismatic
 Charities
 Charity
@@ -5443,6 +5470,7 @@ Cheetos
 Chef
 Chefs
 Chelsea
+Chelseas
 Cheltenham
 Chemical
 Chemical-Attack
@@ -5706,6 +5734,7 @@ Climate
 Climate-Warming
 Climb
 Climber
+Climbing
 Climbs
 Clinch
 Cline
@@ -5776,6 +5805,7 @@ Coast
 Coastal
 Coaster
 Coat
+Coates
 Coating
 Coban
 Cobb
@@ -5790,6 +5820,7 @@ Cocktail
 Cocktails
 Cococlectic
 Cod
+Coddington
 Code
 Codecov
 Codes
@@ -5855,6 +5886,7 @@ Cologne
 Colombi
 Colombia
 Colombian
+Colombo
 Colon
 Colonial
 Color
@@ -6342,6 +6374,7 @@ Critical
 Critically
 Criticising
 Criticism
+Criticize
 Criticized
 Criticizes
 Criticizing
@@ -6352,6 +6385,7 @@ Croc
 Crocker
 Crocodile
 Croft
+Croix
 Cromer
 Crons
 Crop
@@ -6496,6 +6530,7 @@ Cyperus
 Cypress
 Cyprus
 Cyril
+Cyrus
 CytoDyn
 Czarniak
 Czech
@@ -6830,6 +6865,7 @@ Defense
 Defenseman
 Defenses
 Defensive
+Defiance
 Defiant
 Defiantly
 Defied
@@ -7088,6 +7124,7 @@ Dicroerisma
 Dictionary
 Dictyosiphon
 Dictyosporium
+Dictyota
 Did
 Diddy
 Didis
@@ -7589,6 +7626,7 @@ Dutchtown
 Duterte
 Dutta
 Duty
+Duvn
 Duwa
 Duzza
 Dwayne
@@ -7631,6 +7669,7 @@ ED
 EDD
 EFFECT
 EFL
+EGOT
 EHF
 EIP-1559
 ELECTRAMECCANICA
@@ -8688,6 +8727,7 @@ Fewer
 Fews
 Fey
 Feyenoord
+Feyi-Waboso
 Fiance
 Fiat
 Fiber
@@ -8992,6 +9032,7 @@ Foundation
 Founded
 Founder
 Founding
+Foundry
 Fountain
 Fountains
 Four
@@ -9092,6 +9133,7 @@ Frey
 Friday
 Fridays
 Fridge
+Friedl
 Friedman
 Friend
 Friendly
@@ -9290,6 +9332,7 @@ Gallagher
 Gallaghers
 Galleria
 Gallery
+Gallipoli
 Gallman
 Gallo
 Galpagos
@@ -9493,6 +9536,7 @@ Giambi
 Giampietro
 Giancarlo
 Giancola
+Gianforte
 Gianna
 Giannelli
 Giannis
@@ -10044,6 +10088,7 @@ Half
 Hall
 Hallbck
 Hallelujah
+Hallett
 Halligan
 Halloween
 Hallowell
@@ -10074,11 +10119,13 @@ Hancock
 Hand
 Hand-to-Hand
 Handball
+Handball-Bundesliga
 Handcuffed
 Handcuffing
 Handed
 Handing
 Handle
+Handled
 Handling
 Hands
 Hands-Off
@@ -10213,6 +10260,7 @@ Hazel
 Hazelden
 Hazelwood
 Hazy
+Hctor
 He
 Head
 Head-Butting
@@ -10473,6 +10521,7 @@ Historyczne
 Historys
 Hit
 Hit-And-Run
+Hitler
 Hitmaker
 Hits
 Hitting
@@ -10529,6 +10578,7 @@ Homan
 Home
 Home-Delivered
 Homebound
+Homebrew
 Homebuyers
 Homeless
 Homelessness
@@ -10661,6 +10711,7 @@ Hubert
 Huckabee
 Huda
 Huddersfield
+Huddleston
 Hudgens
 Hudson
 Hudsons
@@ -10749,7 +10800,9 @@ Hyder
 Hyderabad
 Hydriastele
 Hydrogen
+Hydropunctaria
 Hyo-won
+Hypericum
 Hypocrite
 Hypothermia
 Hypothesis
@@ -10798,6 +10851,7 @@ IEA
 IES
 IF
 IFC
+IFSC
 IG
 IHC
 IHG
@@ -10820,6 +10874,7 @@ IN
 INC
 INCCN
 INCOME
+INCREDIBLE
 INCWV
 INDEMNITY
 INDUSTRIALS
@@ -10941,6 +10996,7 @@ Imaging
 Imagining
 Iman
 Imbaseneyti
+Immanuel
 Immediate
 Immediately
 Immersion
@@ -11515,6 +11571,7 @@ Jennifer
 Jennings
 Jenny
 Jens
+Jensen
 Jeopardy
 Jepperson
 Jepsen
@@ -11646,9 +11703,11 @@ Joseph
 Joseph-Marie
 Josephine
 Josephs
+Joses
 Josey
 Josh
 Joshua
+Josseling
 Jost
 Journal
 Journalism
@@ -12071,6 +12130,7 @@ Kinzinger
 Kiper
 Kipling
 Kiprizov
+Kiranski
 Kirby
 Kiribati
 Kirilloff
@@ -13323,6 +13383,7 @@ Maldonado
 Male
 Mali
 Malibu
+Malik
 Malinek
 Malins
 Mall
@@ -13504,6 +13565,7 @@ Martincevic
 Martinez
 Martinique
 Martins
+Martn
 Martnez
 Marvel
 Marvel-Themed
@@ -13666,6 +13728,7 @@ McLaurin
 McMansion
 McMaster
 McMichael
+McMuffin
 McMullen
 McNair
 McNeese
@@ -13775,6 +13838,7 @@ Memorabilia
 Memorable
 Memorial
 Memorialize
+Memorials
 Memory
 Memphis
 Men
@@ -13868,6 +13932,7 @@ Metro-Detroit
 Metrolink
 Metropolitan
 Mets
+Metz
 Mexican
 Mexican-Inspired
 Mexico
@@ -13952,7 +14017,9 @@ Mile
 MileUp
 Miles
 Milestone
+Miley
 Milian
+Milica
 Military
 Militia
 Mill
@@ -14211,6 +14278,7 @@ Morissette
 Moritz
 Mormon
 Morning
+Morningstar
 Morocco
 Morphic
 Morphs
@@ -14597,6 +14665,7 @@ Naperville
 Napheesa
 Napoleon
 Napping
+Naraka
 Narasimha
 Narcotics
 Nard
@@ -14625,6 +14694,7 @@ Natalia
 Natalie
 Natanz
 Natascha
+Natasha
 Nate
 Natera
 Nathalie
@@ -14645,6 +14715,7 @@ Natomas
 Nats
 Natty
 Natural
+Naturally
 Nature
 Natures
 Naureen
@@ -14887,6 +14958,7 @@ Non-Fatal
 Non-Islamic
 Non-Motorized
 Non-Profit
+Non-Socially
 Non-essential
 Non-social
 Non-stop
@@ -15416,6 +15488,7 @@ Oyeyemi
 Oysters
 Oz
 Ozicks
+Ozren
 P
 P-22
 P-MRC
@@ -15638,6 +15711,7 @@ Paper
 Pappur
 Papua
 Paquito
+Parabagliettoa
 Parachute
 Parade
 Parades
@@ -16526,6 +16600,7 @@ Producing
 Product
 Production
 Production-Ready
+Productions
 Products
 Profession
 Professional
@@ -16850,6 +16925,7 @@ RONALD
 ROUBIN
 ROWE
 ROYAL
+RP-23
 RPJ
 RS
 RSAFs
@@ -16942,6 +17018,7 @@ Raleigh
 Ralfy
 Rallies
 Rally
+Rallying-Ogier
 Ralph
 Ralphs
 Ralston
@@ -17231,6 +17308,7 @@ Regatta
 Regen
 Regenerative
 Regeneron
+Regger
 Reggie
 Regild
 Regime
@@ -17286,6 +17364,7 @@ Relations
 Relationship
 Relative
 Relatives
+Relaunch
 Relaxation
 Relaxed
 Relay
@@ -18026,6 +18105,7 @@ SHARKS
 SHAW
 SHAWN
 SHC
+SHOOTINGS
 SI-BONE
 SIDDHANTA
 SIGNAL
@@ -18049,6 +18129,7 @@ SML
 SMRT
 SMUCKER
 SNK
+SNL
 SNP
 SNPs
 SNYDER
@@ -18265,11 +18346,13 @@ Santander
 Santiago
 Santos
 Sao
+Sapfir
 Sapienza
 Sapphire
 Saquon
 Sara
 Sarah
+Sarajevos
 Sarasota
 Saratoga
 Sardinian
@@ -18862,6 +18945,7 @@ Shrout
 Shrug
 Shtisel
 Shukre
+Shukri
 Shunta
 Shuo
 Shut
@@ -19204,12 +19288,14 @@ Soccer-Four-goal
 Soccer-Late
 Soccer-Liverpools
 Soccer-Man
+Soccer-Mbappe
 Soccer-Players
 Soccer-Rookie
 Soccer-Strugglers
 Soccer-Super
 Soccer-Tottenham
 Soccer-Watford
+Soccer-Werner
 Social
 Socialist
 Society
@@ -19270,6 +19356,7 @@ Sonora
 Sonos
 Sons
 Sony
+Sonya
 Sonys
 Soon
 Soon-Yi
@@ -19693,6 +19780,7 @@ Stream
 Streamed
 Streamer
 Streaming
+Streamline
 Strebl
 Street
 Streeton
@@ -19773,6 +19861,7 @@ Subaru
 Subban
 Subdistrict
 Subdues
+Subhankar
 Subject
 Submarine
 Subodha
@@ -19863,6 +19952,7 @@ Sunder
 Sunderland
 Sundgaard
 Sunendra
+Sunflower
 Sunglasses
 Sunhoe
 Sunk
@@ -20038,6 +20128,7 @@ Sylhet
 Symbiogenesis
 Symbol
 Symbols
+Syme
 Symonds
 Sympathetic
 Symphonie
@@ -20099,6 +20190,7 @@ TEVA
 TFLIC
 TFT
 THANK
+THAT
 THC
 THC-infused
 THE
@@ -20239,6 +20331,7 @@ Tangles
 Tanglewood-area
 Tanigawara
 Tanker
+Tankers
 Tanners
 Tanya
 Tanzania
@@ -20377,6 +20470,7 @@ Tenn
 Tennessee
 Tennis
 Tennis-Fognini
+Tennis-Karatsev
 Tenorio
 Tens
 Tense
@@ -20622,6 +20716,7 @@ Timeline
 Timers
 Times
 Timing
+Timo
 Timor-Leste
 Timothe
 Timothee
@@ -20629,6 +20724,7 @@ Timothy
 Tina
 Ting
 Tinley
+Tintagel
 Tiny
 Tip
 Tipp
@@ -21468,6 +21564,7 @@ Valtteri
 Value
 Valued
 Values
+Valur
 Valvano
 Valvanos
 Valverde
@@ -22636,12 +22733,14 @@ Zambia
 Zamfara
 Zanagee
 Zanzibar
+Zapata
 Zapiski
 Zaptius
 Zara
 Zarrinpayman
 Zarzas
 Zaven
+Zayn
 Zdeno
 Zeal
 Zealand
@@ -22676,6 +22775,7 @@ Zhuang
 Zhuchen
 Ziang
 Zidane
+Ziegler
 Ziemba
 Ziering
 Ziggy
@@ -23070,6 +23170,7 @@ amendment
 amendments
 amenities
 amid
+amidst
 ammonia
 ammunition
 amok
@@ -23801,6 +23902,7 @@ booked
 bookie
 booking
 bookings
+bookmaker
 books
 boom
 booming
@@ -24138,6 +24240,7 @@ capitalization
 capitalize
 capitalizes
 capitulate
+caprifolium
 caps
 capsize
 capsized
@@ -24260,6 +24363,7 @@ celebrity-chef
 celebs
 celery
 cell
+cellphone
 cells
 cements
 cemetary
@@ -24417,6 +24521,7 @@ cicadas
 cigarette
 cigarettes
 ciliolata
+cinema
 cinemas
 cinematic
 cinematographer
@@ -24570,6 +24675,7 @@ colleagues
 collect
 collected
 collectibles
+collecting
 collection
 collective
 collector
@@ -24671,6 +24777,7 @@ completion
 complex
 compliance
 complicated
+complicating
 complications
 complicit
 complicity
@@ -24809,6 +24916,7 @@ contempt
 contender
 contenders
 content
+contention
 contest
 contestant
 context
@@ -24838,6 +24946,7 @@ controls
 controversial
 controversy
 contusion
+convalescent
 convenience
 convent
 convention
@@ -25602,6 +25711,7 @@ disapproving
 disaster
 disasters
 disastrous
+disbelief
 discard
 disciples
 discography
@@ -25688,6 +25798,7 @@ distilled
 distiller
 distress
 distribute
+distributed
 distribution
 distributions
 district
@@ -26252,6 +26363,7 @@ ex-Liverpool
 ex-NFL
 ex-Playmate
 ex-President
+ex-Presidents
 ex-South
 ex-UNC
 ex-boyfriend
@@ -26743,6 +26855,7 @@ flew
 flex
 flexible
 flick
+fliers
 flies
 flight
 flights
@@ -27487,6 +27600,7 @@ heavily
 heavy
 hed
 hedge
+heeded
 heels
 hefty
 hegemony
@@ -27812,6 +27926,7 @@ impersonation
 impersonator
 impetus
 implement
+implexa
 implications
 implodes
 implosion
@@ -28086,6 +28201,7 @@ intruder
 intrusion
 invade
 invading
+invalidating
 invasion
 invasive
 invented
@@ -28409,6 +28525,7 @@ leaker
 leaking
 leaks
 leap
+leapfrog
 leaps
 learn
 learned
@@ -28701,6 +28818,7 @@ lynching
 lyric
 lyrics
 mRNA
+macOS
 macaroni
 machine
 machines
@@ -28958,6 +29076,7 @@ mid-May
 mid-air
 mid-evening
 mid-pack
+mid-week
 midair
 midcentury
 middle
@@ -30161,6 +30280,7 @@ police
 police-shooting
 policeman
 polices
+policewoman
 policewomans
 policies
 policing
@@ -30484,6 +30604,7 @@ propels
 proper
 properties
 property
+property-tax
 prophet
 proponen
 proportion
@@ -30719,6 +30840,7 @@ rants
 rape
 raped
 rapid
+rapid-fire
 rapidly
 raping
 rapper
@@ -31269,6 +31391,7 @@ revolted
 revolution
 revolutionary
 revolutionize
+revs
 reward
 rewards
 rewatch
@@ -31367,6 +31490,7 @@ rocks
 rode
 rods
 roesch
+rogue
 role
 roles
 roll
@@ -31399,6 +31523,7 @@ rosters
 rostrivalvis
 rotation
 rotations
+rotten
 rotundifolia
 rough
 round
@@ -31421,6 +31546,7 @@ royale
 royals
 royalty
 rubber
+rubbish
 rudely
 rueppellii
 rufocomata
@@ -31659,6 +31785,7 @@ section
 sector
 secularism
 secure
+secured
 secures
 securing
 securities
@@ -32796,6 +32923,7 @@ symbolism
 symbolize
 symbols
 symmetric
+sympathizer
 symptoms
 syndicate
 syndrome
@@ -33057,6 +33185,7 @@ three
 three-day
 three-decade
 three-game
+three-way
 three-year
 threshold
 threw
@@ -33508,6 +33637,7 @@ underwhelming
 undetected
 undeterred
 undocumented
+unearned
 unearthed
 unemployed
 unemployment
