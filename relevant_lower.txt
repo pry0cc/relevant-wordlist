@@ -1069,6 +1069,7 @@
 11-day
 11-point
 110
+110-108
 111
 111-97
 1117
@@ -1988,6 +1989,7 @@
 7
 7-0
 7-1
+7-2
 7-3
 7-4
 7-5
@@ -8055,6 +8057,7 @@ demand
 demanded
 demanding
 demands
+demar
 demarco
 demcratas
 dementia
@@ -8169,6 +8172,7 @@ derivatives
 dermatologists
 dermot
 dernei
+derozan
 derrick
 derrius
 dershowitz
@@ -11629,6 +11633,7 @@ goat
 goats
 gobert
 god
+god-awful
 godoy
 gods
 godsend
@@ -12529,6 +12534,7 @@ henchy
 henderson
 hendricks
 hendrik
+hendriks
 hennessey
 hennrich
 henri
@@ -12650,6 +12656,7 @@ highs
 highsmith
 highway
 highways
+higuains
 hiha
 hijacked
 hijacking
@@ -13450,6 +13457,7 @@ indys
 ineffective
 inefficient
 ineligible
+inendi
 inequality
 inequities
 inequity
@@ -14819,6 +14827,7 @@ kroenke
 kroenkes
 kroger
 kroll
+kroombitensis
 kross
 kruger
 krugman
@@ -15379,6 +15388,7 @@ lifelike
 lifeline
 lifelong
 lifes
+lifesaver
 lifesciences
 lifestyle
 lifetime
@@ -15532,6 +15542,7 @@ little
 little-known
 littleton
 liu
+liui
 livanova
 live
 lived
@@ -15928,6 +15939,7 @@ madrasha
 madre
 madrid
 madrids
+madrigal
 mads
 madsen
 madura
@@ -16110,6 +16122,7 @@ manoj
 manolsko
 manomey
 manon
+manor
 manpower
 manpowergroup
 mans
@@ -17116,6 +17129,7 @@ monocolored
 monologue
 monopolies
 monopoly
+monoxide
 monsoon
 monster
 monsters
@@ -17994,6 +18008,7 @@ nonalcoholic
 noncitizen
 noncommittal
 none
+nonessential
 nongallabasu
 nonguet
 nonprofit
@@ -18469,6 +18484,7 @@ opposite
 opposition
 opposition-held
 oppression
+oppressors
 oprah
 oprah-approved
 oprahs
@@ -20662,6 +20678,7 @@ ranked
 ranking
 rankings
 ranks
+ranoidea
 ransom
 ransomware
 rant
@@ -21251,6 +21268,7 @@ reorganization
 rep
 repackaging
 repair
+repairability
 repaired
 repairs
 reparations
@@ -23610,6 +23628,7 @@ solarized
 solarwinds
 solarwinds-style
 sold
+sold-out
 soldier
 soldiers
 soleil
@@ -23676,6 +23695,7 @@ sophia
 sophie
 sophisticated
 sopranos
+sorbaria
 sore
 soriano
 sorkin
@@ -25544,6 +25564,7 @@ tomato
 tomatoes
 tomb
 tomball
+tomentosa
 tomlin
 tomlinson
 tommy
@@ -27527,6 +27548,7 @@ winter
 winters
 wintrust
 wintry
+winx
 wipe
 wipes
 wire
@@ -28009,6 +28031,7 @@ zdeno
 zeal
 zealand
 zealand-australia
+zealands
 zealous
 zeekr
 zeeshan

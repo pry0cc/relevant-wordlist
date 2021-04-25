@@ -1077,6 +1077,7 @@
 11-day
 11-point
 110
+110-108
 111
 111-97
 1117
@@ -2023,6 +2024,7 @@
 7
 7-0
 7-1
+7-2
 7-3
 7-4
 7-5
@@ -4303,6 +4305,7 @@ Bloomin
 Bloomingdale
 Blow
 Blower
+Blows
 Blue
 Blue-collar
 Bluebike
@@ -6913,8 +6916,10 @@ DeGeneres
 DeGroms
 DeJong
 DeKalb
+DeMar
 DeMarco
 DePaul
+DeRozan
 DeSantis
 DeSorbo
 DeSoto
@@ -9845,6 +9850,7 @@ Goat
 Goats
 Gobert
 God
+God-awful
 Godoy
 Gods
 Goers
@@ -10586,6 +10592,7 @@ Henchy
 Henderson
 Hendricks
 Hendrik
+Hendriks
 Hennessey
 Hennrich
 Henri
@@ -10689,6 +10696,7 @@ Highs
 Highsmith
 Highway
 Highways
+Higuains
 Hiha
 Hijacked
 Hike
@@ -11350,6 +11358,7 @@ Indys
 Ineffective
 Inefficient
 Ineligible
+Inendi
 Inequality
 Inez
 Infamous
@@ -13581,6 +13590,7 @@ Madrasha
 Madre
 Madrid
 Madrids
+Madrigal
 Mads
 Madsen
 Madura
@@ -13729,6 +13739,7 @@ Manoj
 Manolsko
 Manomey
 Manon
+Manor
 ManpowerGroup
 Mans
 Mansfield
@@ -17423,6 +17434,7 @@ Ranked
 Ranking
 Rankings
 Ranks
+Ranoidea
 Ransomware
 Rant
 Rantanen
@@ -17810,6 +17822,7 @@ Reopens
 Rep
 Repackaging
 Repair
+Repairability
 Repairs
 Repeal
 Repeated
@@ -19724,6 +19737,7 @@ Solar
 SolarWinds
 SolarWinds-Style
 Sold
+Sold-Out
 Soldier
 Soleil
 Solemn
@@ -19776,6 +19790,7 @@ Sophia
 Sophie
 Sophisticated
 Sopranos
+Sorbaria
 Soriano
 Sorkin
 Sorkins
@@ -21012,6 +21027,7 @@ These
 They
 Theyd
 Theyre
+Theyve
 Thibodeau
 Thibodeaus
 Thicke
@@ -21450,6 +21466,7 @@ Trivia
 Trivigno
 Troendle
 Troll
+Trolls
 Troop
 Trooper
 Troops
@@ -22808,6 +22825,7 @@ Winter
 Winters
 Wintrust
 Wintry
+Winx
 Wire
 Wirecard
 Wireless
@@ -23211,6 +23229,7 @@ Zdeno
 Zeal
 Zealand
 Zealand-Australia
+Zealands
 Zeekr
 Zeeshan
 Zelda
@@ -26174,6 +26193,7 @@ digs
 dilemma
 dim
 diminish
+dimming
 diner
 diners
 dingers
@@ -28025,6 +28045,7 @@ handgun
 handguns
 handing
 handle
+handled
 handler
 handles
 handling
@@ -28973,6 +28994,7 @@ known
 knows
 koda
 kohu
+kroombitensis
 kumar
 lEspace
 lIsre
@@ -29179,6 +29201,7 @@ life-changing
 life-threatening
 lifelong
 lifes
+lifesaver
 lifestyle
 lifetime
 lift
@@ -29257,6 +29280,7 @@ litter
 littering
 little
 little-known
+liui
 live
 lived
 lives
@@ -29800,6 +29824,7 @@ monocolored
 monologue
 monopolies
 monopoly
+monoxide
 monster
 montanus
 month
@@ -30097,6 +30122,7 @@ non-vaccinated
 non-violent
 non-white
 noncitizen
+nonessential
 nonprofit
 nonprofits
 nonviolent
@@ -30302,6 +30328,7 @@ opposing
 opposite
 opposition
 opposition-held
+oppressors
 ops
 ops-inspired
 opt
@@ -31175,6 +31202,7 @@ projectiles
 projections
 projects
 proliferate
+prom
 prominent
 promise
 promised
@@ -33928,6 +33956,7 @@ toll
 tolleyi
 tomatoes
 tomb
+tomentosa
 tomorrow
 tomorrows
 ton
