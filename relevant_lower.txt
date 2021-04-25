@@ -1317,6 +1317,7 @@
 1947
 194748
 194849
+195
 195051
 1950s
 195253
@@ -1672,6 +1673,7 @@
 3369
 337b
 34
+34-31
 34-year-old
 34000
 340m
@@ -1798,8 +1800,10 @@
 42nd
 43
 430
+435
 436
 44
+44-10
 440
 45
 45-minute
@@ -1973,6 +1977,7 @@
 6th
 7
 7-0
+7-1
 7-3
 7-4
 7-5
@@ -2176,6 +2181,7 @@ abelardo
 abella
 aberdeen
 abernathy
+aberration
 abeyratne
 abeywickrama
 abhorrent
@@ -3031,6 +3037,7 @@ aniston
 anistons
 anjaneya
 anjum
+ankara
 ankaras
 anker
 ankle
@@ -3157,6 +3164,7 @@ anytime
 anyway
 anywhere
 anz
+anzac
 aoc
 aocs
 ap
@@ -3374,6 +3382,7 @@ arrives
 arriving
 arrogance
 arrow
+arrowhead
 arroyo
 arsenal
 arsenals
@@ -3711,6 +3720,7 @@ away
 awesome
 awkwafina
 awkward
+awol
 awulo
 ax
 axalta
@@ -3865,6 +3875,7 @@ ballet
 ballhawk
 ballistic
 balloon
+balloons
 ballot
 ballots
 ballpark
@@ -4104,6 +4115,7 @@ bearish
 bears
 bearse
 bearsheres
+bearsun
 beasley
 beast
 beat
@@ -4509,6 +4521,7 @@ blackline
 blacklisted
 blackmail
 blackmon
+blackmons
 blackout
 blackpinks
 blackpool
@@ -4762,6 +4775,7 @@ boots
 booze
 booze-free
 boozy
+bop
 borat
 bordeaux
 border
@@ -5067,6 +5081,7 @@ brom
 bromberg
 bromhead
 bromma
+brommel
 bronco
 broncos
 bronson
@@ -5148,6 +5163,7 @@ buckley
 buckminster
 bucks
 bucs
+bud
 budaun
 buddika
 buddy
@@ -6105,6 +6121,7 @@ chiefs
 chika
 child
 child-sex
+childcare
 childhood
 childish
 children
@@ -6377,6 +6394,7 @@ click
 clients
 cliff
 cliffhanger
+clifford
 cliii
 climate
 climate-focused
@@ -7729,6 +7747,7 @@ dawkins
 dawn
 dawson
 dawsons
+dawu
 dax
 day
 daycare
@@ -7884,6 +7903,7 @@ deems
 deep
 deepak
 deepen
+deepened
 deepens
 deeper
 deepfake
@@ -8013,6 +8033,7 @@ demeters
 demetrius
 demi
 demings
+demise
 demizu
 democracy
 democrat
@@ -8063,6 +8084,7 @@ dentists
 denton
 dents
 denver
+denver-based
 denvers
 deny
 denying
@@ -9169,6 +9191,8 @@ edwin
 eels
 eerie
 eero
+eevee
+eeveeloution
 effect
 effective
 effectiveness
@@ -9987,6 +10011,7 @@ explains
 explanation
 expletive-laden
 exploded
+explodes
 exploding
 exploit
 exploitation
@@ -10783,6 +10808,7 @@ foreign-made
 foreigners
 foreman
 forensic
+foreseeable
 foresees
 foresight
 foresite
@@ -11063,6 +11089,7 @@ fulton
 fultz
 fumago
 fumble
+fumes
 fumigate
 fun
 fund
@@ -11563,6 +11590,7 @@ goat
 goats
 gobert
 god
+godoy
 gods
 godsend
 goers
@@ -11906,6 +11934,7 @@ guaranteed
 guarantees
 guard
 guardian
+guardians
 guardiola
 guardiolas
 guardrail
@@ -11964,6 +11993,7 @@ gun
 gun-free
 gun-toting
 gun-violence
+gun-wielding
 gunda
 gundam
 gundy
@@ -12610,6 +12640,7 @@ hilton
 him
 himalayan
 himself
+hindering
 hindmarsh
 hinds
 hindu
@@ -12628,6 +12659,7 @@ hippos
 hiqma
 hirasawa
 hire
+hired
 hires
 hiring
 hirono
@@ -13322,6 +13354,7 @@ indeed
 indefinitely
 indemnity
 independence
+independencia
 independent
 index
 indexes
@@ -13755,6 +13788,7 @@ isle
 ismailpur
 isnt
 iso
+isohama
 isolated
 isolates
 isolating
@@ -13829,6 +13863,7 @@ jackson
 jacksons
 jacksonville
 jacob
+jacobi
 jacobs
 jacques
 jaded
@@ -13905,6 +13940,7 @@ jaren
 jargon
 jari
 jarl
+jarlin
 jarnkrok
 jarring
 jarrod
@@ -13955,6 +13991,7 @@ jeb
 jed
 jeep
 jeff
+jeffco
 jefferson
 jeffree
 jeffrey
@@ -14369,6 +14406,7 @@ kazakhstan
 kazakovtsy
 kazemi
 kazi
+kazmar
 kazmars
 kb
 kb5001330
@@ -14493,10 +14531,12 @@ kichu
 kick
 kickbacks
 kicked
+kickers
 kickin
 kicking
 kicks
 kid
+kidding
 kidnap
 kidnapped
 kidnapping
@@ -14650,6 +14690,7 @@ koda
 kody
 koehler
 koeman
+kofun
 kohli
 kohls
 kohu
@@ -14685,6 +14726,7 @@ kors
 kortenska
 koruma
 korzo
+kosovan
 kosteks
 kosterin
 kosuke
@@ -15253,6 +15295,7 @@ liberals
 liberation
 liberia
 liberman
+libertarian
 liberties
 liberty
 libra
@@ -15278,6 +15321,7 @@ lieutenant
 lifaka
 life
 life-changing
+life-sized
 life-threatening
 lifeand
 lifelike
@@ -15533,6 +15577,7 @@ londons
 lone
 loneliest
 loneliness
+lonely
 long
 long-awaited
 long-haul
@@ -15656,6 +15701,7 @@ loyd
 loyola
 lp
 lpez
+lpga
 lsa-powered
 lscs
 lsd
@@ -16048,6 +16094,7 @@ marching
 marco
 marcos
 marcus
+mardoche
 mare
 maren
 mares
@@ -16732,6 +16779,7 @@ millennia
 millennial
 millennials
 miller
+miller-uibo
 milleskog
 millett
 million
@@ -17024,6 +17072,7 @@ montbello
 monte
 montenegro
 monterey
+monterrey
 montgomery
 month
 monthly
@@ -17136,6 +17185,7 @@ motorcycling
 motorcycling-rabat
 motorcyclist
 motorists
+motorized
 motors
 motorsport
 motorsports
@@ -17346,6 +17396,7 @@ mvg
 mvp
 mvrn
 mwebaze
+mx
 mxico
 mxolisi
 my
@@ -18084,6 +18135,7 @@ obchodni
 obeaux
 oberhofer
 obermiller
+obi
 obituary
 object
 objections
@@ -18450,6 +18502,7 @@ oscarssowhite
 oscillator
 oshea
 oskar
+osman
 osn
 ospreys
 osullivan
@@ -18801,6 +18854,7 @@ parler
 parlers
 parliament
 parliamentarian
+parliamentary
 parlo
 parody
 parole
@@ -20235,6 +20289,7 @@ punk
 punk-rock
 punks
 punter
+punters
 pup
 pupils
 puppet
@@ -20928,6 +20983,7 @@ regger
 reggie
 regild
 regime
+regiment
 regimental
 regiments
 region
@@ -21160,8 +21216,10 @@ represented
 representing
 represents
 reprimand
+reprints
 reprogram
 reps
+reptile
 republic
 republican
 republican-controlled
@@ -21311,6 +21369,7 @@ retrospective
 return
 return-to-play
 returned
+returners
 returning
 returns
 reunification
@@ -21484,6 +21543,7 @@ rimes
 rina
 rinaldo
 rindu
+rinehart
 ring
 ringleader
 rings
@@ -21911,6 +21971,7 @@ ryanair
 ryann
 ryans
 rybko
+ryde
 ryder
 ryders
 rye
@@ -21999,6 +22060,7 @@ sailgps
 sailing
 sailor
 sailors
+sailorsextinguished
 saini
 saint
 saint-pathus
@@ -22062,6 +22124,7 @@ samaritan
 samaritans
 samarth
 samayik
+samayoa
 same
 same-day
 same-old
@@ -22849,6 +22912,7 @@ shocked
 shockers
 shocking
 shockingly
+shocks
 shoddy
 shodown
 shoe
@@ -23689,6 +23753,7 @@ spiked
 spikes
 spiking
 spill
+spilled
 spilling
 spills
 spin
@@ -24012,6 +24077,7 @@ stevie
 stewards
 stewart
 stewart-cousins
+stewarts
 stick
 stickels
 sticker
@@ -24527,6 +24593,7 @@ suzuki
 svb
 svein
 sven
+svetov
 svf
 svitlana
 svitolina
@@ -24801,6 +24868,7 @@ target
 targeted
 targeting
 targets
+tarnowski
 taroko
 tarp
 tarrant
@@ -25280,6 +25348,7 @@ tightness
 tigran
 tigray
 tigre
+tigres
 tiguan
 tiktok
 tiktok-famous
@@ -25291,6 +25360,7 @@ till
 tillakaratne
 tills
 tim
+timah
 timber
 timberlake
 timberwolves
@@ -25440,6 +25510,7 @@ top-two
 topkapi
 topless
 toppers
+toppin
 toppings
 topple
 tops
@@ -25953,6 +26024,7 @@ u-turn
 u-turns
 u2s
 uae
+uanl
 uber
 uber-viral
 uberviolent
@@ -26207,6 +26279,7 @@ unscented
 unscientific
 unscripted
 unseasonable
+unseat
 unsecured
 unseen
 unsettled
@@ -26602,6 +26675,7 @@ vi
 via
 viable
 viacomcbs
+vials
 vibe
 vibes
 vicarious
@@ -26759,6 +26833,7 @@ vladimir
 vladivostok
 vlandys
 vlogger
+vmax
 vo
 vocabulary
 vocals
@@ -26804,6 +26879,7 @@ vorce
 vorel
 vorontsov
 vortecs
+vosler
 vosmaer
 vote
 vote-suppression
@@ -27074,6 +27150,7 @@ webb
 webber
 webby
 webcam
+weber
 webinar
 website
 websites
@@ -27438,6 +27515,7 @@ woman-owned
 womans
 wombat
 women
+women-friendly
 womens
 womxn
 won
@@ -27528,6 +27606,7 @@ wound
 wounded
 wounds
 wow
+wows
 wp
 wpp
 wr
@@ -27717,6 +27796,7 @@ yilgarn-coolgardie
 yinchu
 yinjifu
 yishun
+yldrm
 ymr
 ynoa
 yo

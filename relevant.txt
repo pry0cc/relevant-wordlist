@@ -1332,6 +1332,7 @@
 1947
 194748
 194849
+195
 195051
 1950s
 195253
@@ -1702,6 +1703,7 @@
 3369
 337B
 34
+34-31
 34-Year-Old
 34000
 340M
@@ -1830,8 +1832,10 @@
 42nd
 43
 430
+435
 436
 44
+44-10
 440
 45
 45-Minute
@@ -2008,6 +2012,7 @@
 6th
 7
 7-0
+7-1
 7-3
 7-4
 7-5
@@ -2265,6 +2270,7 @@ AND
 ANDREW
 ANNIVERSARY
 ANNUITY
+ANZAC
 AOC
 AOCs
 AP
@@ -2315,6 +2321,7 @@ AUB
 AUM
 AUTO
 AVP
+AWOL
 AZ
 Aadhaar
 Aarn
@@ -2348,6 +2355,7 @@ Abernathy
 Abeyratne
 Abeywickrama
 Abilities
+Ability
 Abington
 Ablaze
 Able
@@ -2986,6 +2994,7 @@ Aniston
 Anistons
 Anjaneya
 Anjum
+Ankara
 Ankaras
 Anker
 Ankle
@@ -3082,6 +3091,7 @@ Anytime
 Anyway
 Anywhere
 Anz
+Anzac
 Apart
 Apartment
 Apartments
@@ -3237,6 +3247,7 @@ ArrivedThese
 Arrives
 Arriving
 Arrow
+Arrowhead
 Arroyo
 Arsenal
 Arsenals
@@ -3865,6 +3876,7 @@ Beard
 Bearish
 Bears
 Bearse
+Bearsun
 Beasley
 Beast
 Beat
@@ -4201,6 +4213,7 @@ Blackhawk
 Blackhawks
 Blackledge
 Blackmon
+Blackmons
 Blackout
 Blackpinks
 Blackpool
@@ -4629,6 +4642,7 @@ Brom
 Bromberg
 Bromhead
 Bromma
+Brommel
 Bronco
 Broncos
 Bronson
@@ -4695,6 +4709,7 @@ Buckley
 Buckminster
 Bucks
 Bucs
+Bud
 Budaun
 Buddika
 Budgam
@@ -5600,6 +5615,7 @@ Chief
 Chiefs
 Chika
 Child
+Childcare
 Childhood
 Children
 Childrens
@@ -5811,6 +5827,7 @@ Clevelands
 Click
 Clients
 Cliffhanger
+Clifford
 Climate
 Climate-Warming
 Climb
@@ -6841,6 +6858,7 @@ Dawkins
 Dawn
 Dawson
 Dawsons
+Dawu
 Dax
 Day
 Daycare
@@ -6949,6 +6967,7 @@ Deemed
 Deems
 Deep
 Deepak
+Deepened
 Deepens
 Deer
 Defamation
@@ -7063,6 +7082,7 @@ Dent
 Dentists
 Denton
 Denver
+Denver-based
 Denvers
 Deodorants
 Depart
@@ -7933,6 +7953,8 @@ Edwin
 Eels
 Eerie
 Eero
+Eevee
+Eeveeloution
 Effect
 Effective
 Effects
@@ -9791,6 +9813,7 @@ Goat
 Goats
 Gobert
 God
+Godoy
 Gods
 Goers
 Goes
@@ -10044,6 +10067,7 @@ Guantnamo
 Guaranteed
 Guard
 Guardian
+Guardians
 Guardiola
 Guardiolas
 Guardrail
@@ -10088,6 +10112,7 @@ Gumbu
 Gummadi
 Gummy
 Gun
+Gun-wielding
 Gunda
 Gundam
 Gundy
@@ -10627,6 +10652,7 @@ Highlands
 Highlighted
 Highlights
 Highly
+Highs
 Highsmith
 Highway
 Highways
@@ -10657,6 +10683,7 @@ Hilton
 Him
 Himalayan
 Himself
+Hindering
 Hindmarsh
 Hinds
 Hindu
@@ -11245,6 +11272,7 @@ Incurable
 Indecent
 Indefinitely
 Independence
+Independencia
 Independent
 Index
 India
@@ -11527,6 +11555,7 @@ Islands
 Isle
 Ismailpur
 Isnt
+Isohama
 Isolated
 Isolating
 Isolation
@@ -11620,6 +11649,7 @@ Jackson
 Jacksons
 Jacksonville
 Jacob
+Jacobi
 Jacobs
 Jacques
 Jae-in
@@ -11687,6 +11717,7 @@ Jaren
 Jargon
 Jari
 Jarl
+Jarlin
 Jarnkrok
 Jarrod
 Jarrott
@@ -11731,6 +11762,7 @@ Jeb
 Jed
 Jeep
 Jeff
+Jeffco
 Jefferson
 Jeffree
 Jeffrey
@@ -12147,6 +12179,7 @@ Kazakhstan
 Kazakovtsy
 Kazemi
 Kazi
+Kazmar
 Kazmars
 Kbreau
 Kdy
@@ -12386,6 +12419,7 @@ Koch
 Kody
 Koehler
 Koeman
+Kofun
 Kohli
 Kohls
 Koikson
@@ -12420,6 +12454,7 @@ Kors
 Kortenska
 Koruma
 Korzo
+Kosovan
 Kosteks
 Kosterin
 Kosuke
@@ -12567,6 +12602,7 @@ LORD
 LOTUS
 LOWERY
 LP
+LPGA
 LSA-Powered
 LSCs
 LSD
@@ -12960,6 +12996,7 @@ Lifaka
 Life
 Life-Changing
 Life-Threatening
+Life-sized
 Lifeand
 Lifelike
 Lifeline
@@ -13444,6 +13481,7 @@ MV
 MVG
 MVP
 MVRN
+MX
 MYANMAR
 MYR
 Ma
@@ -13674,6 +13712,7 @@ Marching
 Marco
 Marcos
 Marcus
+Mardoche
 Mare
 Maren
 Mares
@@ -14234,6 +14273,7 @@ Mill
 Millennia
 Millennial
 Miller
+Miller-Uibo
 Milleskog
 Millett
 Million
@@ -14448,6 +14488,7 @@ Montbello
 Monte
 Montenegro
 Monterey
+Monterrey
 Montgomery
 Month
 Months
@@ -14542,6 +14583,7 @@ Motorcycling
 Motorcycling-Rabat
 Motorcyclist
 Motorists
+Motorized
 Motors
 Motorsport
 Motorsports
@@ -14626,6 +14668,7 @@ Multilateralism
 Multiloaded
 Multiple
 Multiply
+Mum
 Mumbai
 Mumbais
 Mumia
@@ -15377,6 +15420,7 @@ Obamas
 Obchodni
 Obeaux
 Oberhofer
+Obi
 Objections
 Objectives
 Obligation
@@ -15635,6 +15679,7 @@ Oscars-themed
 OscarsSoWhite
 Oscillator
 Oskar
+Osman
 Ospreys
 Oswald
 Otello
@@ -15680,6 +15725,7 @@ Outreach
 Outriders
 Outset
 Outside
+Outspoken
 Outweigh
 Over
 Over-fluffed
@@ -17573,6 +17619,7 @@ Regger
 Reggie
 Regild
 Regime
+Regiment
 Regimental
 Regiments
 Region
@@ -17724,6 +17771,7 @@ Representative
 Represents
 Reprogram
 Reps
+Reptile
 Republic
 Republican
 Republican-controlled
@@ -17949,6 +17997,7 @@ Rim-Sn
 Rimes
 Rina
 Rinaldo
+Rinehart
 Ring
 Rings
 Rio
@@ -18289,6 +18338,7 @@ Ryan
 Ryann
 Ryans
 Rybko
+Ryde
 Ryder
 Ryders
 Rye
@@ -18562,6 +18612,7 @@ Samaritan
 Samaritans
 Samarth
 Samayik
+Samayoa
 Same
 Same-Day
 Same-Sex
@@ -19995,6 +20046,7 @@ Steves
 Stevie
 Stewart
 Stewart-Cousins
+Stewarts
 Stick
 Stickels
 Sticker
@@ -20367,6 +20419,7 @@ Suzuka
 Suzuki
 Svein
 Sven
+Svetov
 Svitlana
 Svitolina
 Svtec
@@ -20652,6 +20705,7 @@ Tardive
 Target
 Targeting
 Targets
+Tarnowski
 Taroko
 Tarp
 Tarrant
@@ -21002,6 +21056,7 @@ Tightens
 Tigran
 Tigray
 Tigre
+Tigres
 Tiguan
 TikTok
 TikTok-famous
@@ -21013,6 +21068,7 @@ Till
 Tillakaratne
 Tills
 Tim
+Timah
 Timber
 Timberlake
 Timberwolves
@@ -21120,6 +21176,7 @@ Top-ranked
 Topkapi
 Topless
 Toppers
+Toppin
 Toppings
 Tops
 Torch
@@ -21481,6 +21538,7 @@ U-turn
 U-turns
 U2s
 UAE
+UANL
 UBS
 UC
 UCBI
@@ -21825,6 +21883,7 @@ VISION
 VISTA
 VIZCAYA
 VL
+VMAX
 VO
 VOD
 VORTECS
@@ -22183,6 +22242,7 @@ Voracek
 Vorce
 Vorel
 Vorontsov
+Vosler
 Vosmaer
 Vote
 Voted
@@ -22447,6 +22507,7 @@ Web
 Webb
 Webber
 Webby
+Weber
 Websites
 Webster
 Wed
@@ -22729,6 +22790,7 @@ Woman-Owned
 Womans
 Wombat
 Women
+Women-Friendly
 Womens
 Womxn
 Won
@@ -22955,6 +23017,7 @@ Yilgarn-Coolgardie
 Yinchu
 Yinjifu
 Yishun
+Yldrm
 Ymr
 Ynoa
 Yo
@@ -23162,6 +23225,7 @@ abdominal
 abduct
 abducted
 abduction
+aberration
 abhorrent
 abilities
 ability
@@ -23766,6 +23830,7 @@ astronaut
 astronauts
 asylum
 asymmetrical
+asymptomatic
 at
 at-large
 atParis
@@ -23918,6 +23983,7 @@ ballad
 ballet
 ballhawk
 balloon
+balloons
 ballot
 ballots
 ballpark
@@ -24270,6 +24336,7 @@ boot
 booted
 booth
 booze
+bop
 border
 borders
 bored
@@ -25856,6 +25923,7 @@ demanding
 demands
 demcratas
 dementia
+demise
 democracy
 demolish
 demolished
@@ -26861,6 +26929,7 @@ explains
 explanation
 expletive-laden
 exploded
+explodes
 exploding
 exploitation
 exploited
@@ -27329,6 +27398,7 @@ foreign
 foreign-made
 foreigners
 foreman
+foreseeable
 foresees
 forest
 forests
@@ -27463,6 +27533,7 @@ full-size
 full-time
 fullbacks
 fully
+fumes
 fumigate
 fun
 fund
@@ -28073,6 +28144,7 @@ hip-hops
 hippo
 hippos
 hire
+hired
 hires
 hiring
 his
@@ -28548,6 +28620,7 @@ intensifies
 intensive
 intention
 intentional
+intentionally
 intentions
 inter-district
 inter-island
@@ -28767,9 +28840,11 @@ kg
 kick
 kickbacks
 kicked
+kickers
 kicking
 kicks
 kid
+kidding
 kidnapped
 kidnapping
 kids
@@ -29003,6 +29078,7 @@ liabilities
 liability
 liberal
 liberals
+libertarian
 liberties
 liberty
 libraries
@@ -29136,6 +29212,7 @@ logs
 lollipop
 loneliest
 loneliness
+lonely
 long
 long-awaited
 long-haul
@@ -30180,6 +30257,7 @@ origins
 oriole
 ornatus
 orphan
+orphaned
 otanj
 other
 others
@@ -30364,6 +30442,7 @@ parks
 parlay
 parliament
 parliamentarian
+parliamentary
 parody
 parole
 parrot
@@ -31135,6 +31214,7 @@ punished
 punishes
 punk-rock
 punks
+punters
 pupils
 puppies
 puppy
@@ -31670,6 +31750,7 @@ representatives
 represented
 representing
 reprimand
+reprints
 reps
 republicans
 repudiates
@@ -31791,6 +31872,7 @@ retreats
 return
 return-to-play
 returned
+returners
 returning
 returns
 reunification
@@ -32062,6 +32144,7 @@ said
 sail
 sailor
 sailors
+sailorsextinguished
 saint
 salads
 salaries
@@ -32432,6 +32515,7 @@ shirtless
 shock
 shocked
 shocking
+shocks
 shoddy
 shoe
 shoes
@@ -32858,6 +32942,7 @@ spies
 spike
 spiked
 spill
+spilled
 spilling
 spills
 spin
@@ -33506,6 +33591,7 @@ technician
 technique
 techniques
 technology
+teddy
 teen
 teenage
 teenager
@@ -34191,6 +34277,7 @@ unrest
 unsanitary
 unscientific
 unseasonable
+unseat
 unsecured
 unseen
 unsettled
@@ -34341,6 +34428,7 @@ vetoing
 vets
 vexing
 via
+vials
 vice
 vice-chairman
 victim
@@ -34754,6 +34842,7 @@ would
 wouldnt
 wounded
 wounds
+wows
 wrapping
 wrath
 wreak
