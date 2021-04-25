@@ -1040,6 +1040,7 @@
 104795
 104m
 106
+106-101
 106-96
 106th
 107k
@@ -1081,6 +1082,7 @@
 114-103
 114-110
 115
+115-109
 115330
 116
 116-113
@@ -1094,6 +1096,7 @@
 11m
 11th
 12
+12-0
 12-18
 12-5
 12-hour
@@ -1284,6 +1287,7 @@
 1895
 18th
 19
+19-10
 19-20
 19-23
 19-time
@@ -1304,6 +1308,7 @@
 1928
 1930
 1930s
+1931
 1932
 1933
 1934
@@ -1328,6 +1333,7 @@
 1959
 195960
 196061
+1963
 196364
 1966
 1967
@@ -1377,6 +1383,7 @@
 1m
 1q
 1st
+1st-place
 1the
 1v1
 2
@@ -1667,6 +1674,7 @@
 327k
 32m
 33
+33-year
 330
 3330480
 3365282
@@ -1853,6 +1861,7 @@
 5-game
 5-minute
 5-star
+5-vehicle
 5-year
 5-year-old
 50
@@ -1925,6 +1934,7 @@
 60
 60-day
 600
+600-foot
 6000
 60000
 600k
@@ -2008,6 +2018,7 @@
 72-year-old
 7220
 72811
+729
 73
 73-year-old
 737
@@ -2241,6 +2252,7 @@ academics
 academy
 academys
 acadio
+acanthosaura
 acc
 accelerating
 acceleration
@@ -2644,10 +2656,12 @@ akwa
 al
 al-badr
 al-bishi
+al-farouqi
 al-khelaifi
 al-mihmandar
 al-muzaini
 al-qitt
+al-taji
 al-wazir
 al-yusufi
 alaba
@@ -3620,6 +3634,7 @@ augusta
 aum
 aumento
 aunt
+aurantiacrista
 aurili
 aurora
 auschwitz
@@ -3954,6 +3969,7 @@ barcelona
 barcelonas
 barclays
 barclayss
+barco
 bard
 bare
 bareilly
@@ -3967,6 +3983,7 @@ barker
 barkers
 barking
 barkley
+barkovs
 barmore
 barn
 barnabas
@@ -4246,6 +4263,7 @@ benefitting
 bengal
 bengals
 benjamin
+benn
 bennett
 bennifer
 benny
@@ -4391,6 +4409,7 @@ bigfoot
 bigfoot-hunting
 bigger
 biggest
+biggio
 bigirimana
 bigotry
 bigs
@@ -4440,8 +4459,10 @@ binding
 bing
 binge
 bingham
+bingle
 bingoal
 binion
+bintangensis
 bio
 biocraft
 biofuel
@@ -4881,6 +4902,7 @@ bp
 bpmd
 brace
 braces
+brachypoda
 brackenridge
 bracket
 brad
@@ -5139,6 +5161,7 @@ bryant
 bryants
 bryce
 bryn
+brynderwyn
 brzezinski
 bsp
 btc
@@ -5358,6 +5381,7 @@ cabbage
 cabbagetown
 cabby
 cabinet
+cabins
 cable
 cables
 cabn
@@ -6019,6 +6043,7 @@ charter
 charter-school
 charts
 chase
+chasers
 chases
 chashmah
 chasing
@@ -6247,6 +6272,7 @@ cia
 cian
 ciani
 ciara
+cicada
 cicadas
 cicely
 cicero
@@ -6384,6 +6410,7 @@ cleaver
 cleer
 clement
 clene
+clent
 clergy
 clerk
 cletus
@@ -6520,6 +6547,7 @@ cocaine
 cockburn
 cocktail
 cocktails
+cocoa
 cococlectic
 cocomelon
 cod
@@ -7137,6 +7165,7 @@ cottages
 cotter
 cotton
 couch
+cougars
 coughed
 could
 couldnt
@@ -8316,6 +8345,7 @@ dichotomophthora
 dick
 dicker
 dicko
+dicks
 dicky
 dicroerisma
 dictators
@@ -8574,6 +8604,7 @@ distiller
 distilling
 distinguished
 distorted
+distracting
 distress
 distribute
 distributed
@@ -9145,6 +9176,7 @@ eco
 eco-friendly
 eco-minded
 ecoboost
+ecological
 ecologist
 economic
 economics
@@ -9560,6 +9592,7 @@ entry-level
 environment
 environmental
 environmentalist
+environmentalists
 environmentally
 envision
 envoy
@@ -10580,6 +10613,7 @@ fits
 fitting
 fitzgerald
 fitzpatrick
+fiu
 five
 five-and-dime
 five-day
@@ -10765,6 +10799,7 @@ fomo
 fona
 fonda
 fondre
+fong
 fonio
 fonseka
 food
@@ -11078,6 +11113,7 @@ fulfilled
 fulham
 full
 full-body
+full-circle
 full-contact
 full-go
 full-size
@@ -11294,11 +11330,13 @@ gator
 gator-ade
 gators
 gatos
+gaudreau
 gauge
 gauging
 gaurd
 gausman
 gautam
+gauthier
 gavanski
 gave
 gavin
@@ -11352,6 +11390,7 @@ generally
 generals
 generate
 generated
+generates
 generating
 generation
 generational
@@ -12053,6 +12092,7 @@ gynecologist
 gynecologists
 gyrodinium
 gyrosigma
+gzel
 h
 h-e-b
 h1
@@ -12926,6 +12966,8 @@ huawei
 hub
 hubble
 hubert
+huberty
+hubris
 hubspot
 huckabee
 huda
@@ -13038,6 +13080,7 @@ hydrogen
 hydroplane
 hydropunctaria
 hygiene
+hyndman
 hyo-won
 hype
 hyper-woke
@@ -13512,6 +13555,7 @@ inocencia
 inoculate
 inoculated
 inoculation
+inoculations
 inotiv
 inphi
 input
@@ -13591,6 +13635,7 @@ intended
 intends
 intense
 intensifies
+intensify
 intensity
 intensive
 intention
@@ -13785,6 +13830,7 @@ island
 islanders
 islands
 isle
+ismail
 ismailpur
 isnt
 iso
@@ -13881,6 +13927,7 @@ jahcobi
 jahid
 jahren
 jai
+jaida
 jail
 jail-drugs
 jailed
@@ -14218,6 +14265,7 @@ julian
 julie
 julien-jean-guillaume
 juliet
+julio
 julissa
 julius
 july
@@ -14440,6 +14488,7 @@ keller
 kelley
 kellie
 kelly
+kellys
 kelp
 kelsea
 kelsey
@@ -14722,6 +14771,7 @@ korean-americans
 korean-inspired
 koreas
 korenar
+kori
 kors
 kortenska
 koruma
@@ -15037,6 +15087,7 @@ laveranues
 laverne
 lavine
 lavish
+lavoie
 law
 law-enforcement
 lawmaker
@@ -15607,6 +15658,7 @@ loom
 looming
 looms
 looney
+loons
 loop
 loopen
 loophole
@@ -15724,6 +15776,7 @@ luciana
 lucien
 lucille
 lucinda
+lucio
 luck
 lucknow
 lucky
@@ -15834,6 +15887,7 @@ mace
 macedonia
 maces
 machete
+machida-kun
 machine
 machines
 mack
@@ -16116,6 +16170,7 @@ marianos
 marib
 maricopa
 marie
+marie-rene
 mariel
 marienturm
 marijuana
@@ -16160,6 +16215,7 @@ marley
 marlins
 marlow
 marmont
+marner
 maro
 marozsn
 marque
@@ -16301,6 +16357,7 @@ mauling
 mauls
 maurelet
 mauritanian
+mauro
 mausoleum
 maverick
 mavericks
@@ -16763,6 +16820,7 @@ mild
 mile
 miles
 milestone
+milestones
 mileup
 miley
 milian
@@ -17909,6 +17967,7 @@ nominations
 nominee
 nominees
 non
+non-believable
 non-binary
 non-compliant
 non-eligible
@@ -17969,6 +18028,7 @@ norries
 norris
 norte
 north
+north-east
 northampton
 northbound
 northbrook
@@ -18133,6 +18193,7 @@ obama-era
 obamas
 obchodni
 obeaux
+obedience
 oberhofer
 obermiller
 obi
@@ -18358,6 +18419,7 @@ onscreen
 onshore
 onside
 onslaught
+onstage
 ontario
 onthe
 onto
@@ -18548,6 +18610,7 @@ outdated
 outdoor
 outdoor-ready
 outdoors
+outduels
 outer
 outfielder
 outfit
@@ -18799,6 +18862,7 @@ pantsuit
 pao
 paok
 paola
+paoletti
 papageorgakopoulou
 paper
 paperbacks
@@ -19457,6 +19521,7 @@ plano
 plans
 plant
 plant-based
+plantagenet
 plantation
 planthese
 planting
@@ -19635,6 +19700,7 @@ polyipnus
 polymath
 pomeroy
 pomona
+pomp
 pompeo
 ponce
 ponchos
@@ -19791,6 +19857,7 @@ powder
 powderhorn
 powders
 powell
+powells
 power
 powerade
 powerball
@@ -19884,6 +19951,7 @@ preferred
 preferring
 prefers
 prefight
+pregame
 pregnancy
 pregnant
 preiner
@@ -20494,6 +20562,7 @@ radom
 radwood
 rae
 raees
+raf
 rafael
 raga
 rage
@@ -20524,6 +20593,7 @@ raincoats
 raineys
 rainforest
 raining
+rains
 raise
 raised
 raises
@@ -20667,6 +20737,7 @@ rawlings
 ray
 raymond
 rays
+rayshard
 rayyan
 razer
 razi
@@ -22271,6 +22342,7 @@ sbi
 sbu
 sc
 scaffolding
+scalding
 scaled
 scaled-back
 scales
@@ -22560,6 +22632,7 @@ seizes
 seizing
 seizure
 seizures
+sekai
 selaheddin
 selby
 select
@@ -23016,6 +23089,7 @@ shutting
 shuttle
 shuttles
 shuvam
+shy
 shyamalans
 si-bone
 sia
@@ -23047,6 +23121,7 @@ sidewalk
 sidewalks
 sidi
 sidner
+sidney
 siege
 siegemund
 sieges
@@ -23298,6 +23373,7 @@ sleeping
 sleepless
 sleeps
 sleepy
+slept
 sleuth
 slew
 slicer
@@ -23570,6 +23646,7 @@ sometimes
 sometimes-sordid
 somewhat
 somewhere
+somoza
 son
 sona
 sonderman
@@ -24155,6 +24232,7 @@ storybook
 storytelling
 stowaway
 strachan
+stragglers
 strahan
 straight
 strain
@@ -24396,6 +24474,7 @@ suits
 sukhdarshan
 suki
 sukuk
+sulaiman
 sulanga
 suleiman
 sullivan
@@ -24961,6 +25040,7 @@ tearfully
 tearing
 tears
 teary
+teary-eyed
 teas
 tease
 teaser
@@ -25635,6 +25715,7 @@ tragicomic
 trail
 trail-blazer
 trailer
+trailing
 trails
 train
 traina
@@ -26644,6 +26725,7 @@ versions
 verso
 verstappen
 versuchskampffahrzeug
+versus
 vert
 verte
 vertebrae
@@ -27106,6 +27188,7 @@ watissart
 watney
 watson
 watsons
+watters
 watts
 watuwe
 watzinger
@@ -27728,6 +27811,7 @@ yak-40
 yakovlev
 yaku
 yale
+yalgoo
 yamamoto
 yambe
 yaneva
@@ -27758,6 +27842,7 @@ yeah
 year
 year-long
 year-old
+year-round
 yearand
 yearbook
 yearlong

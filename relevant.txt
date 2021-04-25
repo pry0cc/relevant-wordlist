@@ -1047,6 +1047,7 @@
 104795
 104M
 106
+106-101
 106-96
 106th
 107K
@@ -1089,6 +1090,7 @@
 114-103
 114-110
 115
+115-109
 115330
 116
 116-113
@@ -1102,6 +1104,7 @@
 11M
 11th
 12
+12-0
 12-18
 12-5
 12-Inning
@@ -1298,6 +1301,7 @@
 1895
 18th
 19
+19-10
 19-20
 19-23
 19-Year-Old
@@ -1319,6 +1323,7 @@
 1928
 1930
 1930s
+1931
 1932
 1933
 1934
@@ -1343,6 +1348,7 @@
 1959
 195960
 196061
+1963
 196364
 1966
 1967
@@ -1394,6 +1400,7 @@
 1bn
 1m
 1st
+1st-place
 1v1
 2
 2-0
@@ -1697,6 +1704,7 @@
 327K
 32m
 33
+33-year
 330
 3330480
 3365282
@@ -1886,6 +1894,7 @@
 5-cent
 5-game
 5-minute
+5-vehicle
 5-year
 5-year-old
 50
@@ -1960,6 +1969,7 @@
 60
 60-day
 600
+600-Foot
 6000
 60000
 600K
@@ -2044,6 +2054,7 @@
 72-year-old
 7220
 72811
+729
 73
 73-year-old
 737
@@ -2388,6 +2399,7 @@ Abusing
 Academy
 Academys
 Acadio
+Acanthosaura
 Accelmed
 Accent
 Accept
@@ -2514,6 +2526,7 @@ Administers
 Administration
 Administrations
 Administrative
+Admission
 Admit
 Admits
 Admitted
@@ -2677,8 +2690,10 @@ Akwa
 Al
 Al-Badr
 Al-Bishi
+Al-Farouqi
 Al-Khelaifi
 Al-Muzaini
+Al-Taji
 Alaba
 Alabama
 Alabama-less
@@ -3756,6 +3771,7 @@ Barcelona
 Barcelonas
 Barclays
 Barclayss
+Barco
 Bard
 Bareilly
 Bargain
@@ -3766,6 +3782,7 @@ Barker
 Barkers
 Barking
 Barkley
+Barkovs
 Barmore
 Barn
 Barnabas
@@ -3982,6 +3999,7 @@ Benefits
 Bengal
 Bengals
 Benjamin
+Benn
 Bennett
 Bennifer
 Benny
@@ -4110,6 +4128,7 @@ Bigfoot
 Bigfoot-Hunting
 Bigger
 Biggest
+Biggio
 Bigirimana
 Bihar
 Bihina
@@ -4148,6 +4167,7 @@ Bindi
 Binding
 Bing
 Bingham
+Bingle
 Bingoal
 Binion
 Bio
@@ -4692,6 +4712,7 @@ Bryant
 Bryants
 Bryce
 Bryn
+Brynderwyn
 Brzezinski
 Bthune
 Buat
@@ -4948,6 +4969,7 @@ CO
 CO2
 COBRA
 COCA-COLA
+COCOA
 COE
 COIN
 COINBASE
@@ -5328,6 +5350,7 @@ Catalytic
 Catamorphosis
 Catania
 Catcaller
+Catch
 Catcher
 Catches
 Catching
@@ -5820,6 +5843,7 @@ Cleaver
 Cleer
 Clement
 Clene
+Clent
 Clerk
 Cletus
 Cleveland
@@ -6335,6 +6359,7 @@ Cotillard
 Cotter
 Cotton
 Couch
+Cougars
 Coughed
 Could
 Couldnt
@@ -7243,6 +7268,7 @@ Dichotomophthora
 Dick
 Dicker
 Dicko
+Dicks
 Dicky
 Dicroerisma
 Dictionary
@@ -7915,6 +7941,7 @@ Eco
 Eco-Friendly
 Eco-friendly
 EcoBoost
+Ecological
 Ecologist
 Economic
 EconomicsH
@@ -8606,6 +8633,7 @@ FIRE
 FIRST
 FIS
 FISA
+FIU
 FL
 FLEX
 FLOATING
@@ -9039,6 +9067,7 @@ Flexen
 Flexens
 Flexible
 Fliers
+Flies
 Flight
 Flights
 Flink
@@ -9111,6 +9140,7 @@ Follows
 Fona
 Fonda
 Fondre
+Fong
 Fonseka
 Food
 Food-Entrainable
@@ -9567,10 +9597,12 @@ Gathers
 Gator-ade
 Gators
 Gatos
+Gaudreau
 Gauging
 Gaurd
 Gausman
 Gautam
+Gauthier
 Gavanski
 Gave
 Gavin
@@ -10155,6 +10187,7 @@ Gym
 Gymnastics
 Gyrodinium
 Gyrosigma
+Gzel
 H
 H-E-B
 H1
@@ -10744,6 +10777,7 @@ Hoi
 Holasov
 Hold
 Holden
+Holder
 Holders
 Holding
 Holdings
@@ -10904,6 +10938,8 @@ Huating
 Huawei
 Hubble
 Hubert
+Huberty
+Hubris
 Huckabee
 Huda
 Huddersfield
@@ -10997,6 +11033,7 @@ Hyderabad
 Hydriastele
 Hydrogen
 Hydropunctaria
+Hyndman
 Hyo-won
 Hypericum
 Hypocrite
@@ -11666,6 +11703,7 @@ Jahcobi
 Jahid
 Jahren
 Jai
+Jaida
 Jail
 Jailed
 Jain
@@ -11957,6 +11995,7 @@ Julian
 Julie
 Julien-Jean-Guillaume
 Juliet
+Julio
 Julissa
 Julius
 July
@@ -12207,6 +12246,7 @@ Keller
 Kelley
 Kellie
 Kelly
+Kellys
 Kelsea
 Kelsey
 Kelvin
@@ -12450,6 +12490,7 @@ Korean-Americans
 Korean-Inspired
 Koreas
 Korenar
+Kori
 Kors
 Kortenska
 Koruma
@@ -12780,6 +12821,7 @@ Lava
 Lavender
 Laveranues
 Laverne
+Lavoie
 Law
 Lawmaker
 Lawmakers
@@ -13149,6 +13191,7 @@ Lobbied
 Lobbies
 Lobby
 Lobbying
+Lobbyist
 Local
 Locals
 Located
@@ -13215,6 +13258,7 @@ Loom
 Looming
 Looms
 Looney
+Loons
 Loop
 Loopen
 Loops
@@ -13301,6 +13345,7 @@ Luciana
 Lucien
 Lucille
 Lucinda
+Lucio
 Luck
 Lucknow
 Lucky
@@ -13502,6 +13547,7 @@ Mace
 Macedonia
 Maces
 Machete
+Machida-kun
 Machine
 Machines
 Mack
@@ -13734,6 +13780,7 @@ Marianos
 Marib
 Maricopa
 Marie
+Marie-Rene
 Mariel
 Marienturm
 Marijuana
@@ -13771,6 +13818,7 @@ Marley
 Marlins
 Marlow
 Marmont
+Marner
 Maro
 Marozsn
 Marque
@@ -13886,6 +13934,7 @@ Mauled
 Mauls
 Maurelet
 Mauritanian
+Mauro
 Mausoleum
 Maverick
 Mavericks
@@ -15221,6 +15270,7 @@ Nominations
 Nominee
 Nominees
 Non
+Non-Believable
 Non-Compliant
 Non-Eligible
 Non-Emergencies
@@ -15262,6 +15312,7 @@ Norries
 Norris
 Norte
 North
+North-East
 NorthPark
 Northampton
 Northbound
@@ -15419,6 +15470,7 @@ Obama-era
 Obamas
 Obchodni
 Obeaux
+Obedience
 Oberhofer
 Obi
 Objections
@@ -15572,6 +15624,7 @@ Only
 OnlyFans
 Onscreen
 Onslaught
+Onstage
 Ontario
 Onto
 Ontotext
@@ -15996,6 +16049,7 @@ Pants
 Pantsuit
 Pao
 Paola
+Paoletti
 Papageorgakopoulou
 Paper
 Pappur
@@ -16489,6 +16543,7 @@ Plano
 Plans
 Plant
 Plant-Based
+Plantagenet
 Plantation
 Planting
 Plants
@@ -16718,6 +16773,7 @@ Powder
 Powderhorn
 Powders
 Powell
+Powells
 Power
 Powerade
 Powerball
@@ -16972,6 +17028,7 @@ Protocols
 Prototype
 Proud
 Proudest
+Prove
 Proven
 Provence
 Proves
@@ -17280,6 +17337,7 @@ Radom
 Radwood
 Rae
 Raees
+Raf
 Rafael
 Raga
 Rage
@@ -17425,6 +17483,7 @@ Raw
 Ray
 Raymond
 Rays
+Rayshard
 Rayyan
 Razer
 Razi
@@ -18595,6 +18654,7 @@ Salmond
 Salmonella
 Salon
 Salsa
+Salt
 Salterns
 Saltofte
 Salute
@@ -18935,6 +18995,7 @@ Seizans
 Seize
 Seized
 Seizures
+Sekai
 Selaheddin
 Selby
 Select
@@ -19314,6 +19375,7 @@ Sidewalk
 Sidewalks
 Sidi
 Sidner
+Sidney
 Siege
 Siegemund
 Sieges
@@ -19687,6 +19749,7 @@ Somerville
 Something
 Sometimes
 Sometimes-Sordid
+Somoza
 Son
 Sona
 Song
@@ -19847,6 +19910,7 @@ Spoofing
 Sporobolus
 Sport
 Sportback
+Sporting
 Sports
 SportsCenter
 SportsWatch
@@ -20102,6 +20166,7 @@ Stormy
 Story
 Stowaway
 Strachan
+Stragglers
 Strahan
 Straight
 Strain-Specific
@@ -20275,6 +20340,7 @@ Suit
 Suits
 Sukhdarshan
 Suki
+Sulaiman
 Sulanga
 Suleiman
 Sullivan
@@ -20774,6 +20840,7 @@ Tear
 Tearful
 Tearfully
 Tears
+Teary-eyed
 Teas
 Tease
 Teaser
@@ -22474,6 +22541,7 @@ Watissart
 Watney
 Watson
 Watsons
+Watters
 Watts
 Watuwe
 Watzinger
@@ -22958,6 +23026,7 @@ Yak-40
 Yakovlev
 Yaku
 Yale
+Yalgoo
 Yamamoto
 Yambe
 Yaneva
@@ -23881,6 +23950,7 @@ audits
 augmented
 aumento
 aunt
+aurantiacrista
 authentic
 author
 authorities
@@ -24175,6 +24245,7 @@ bin
 binational
 binding
 binge
+bintangensis
 biofuel
 biographer
 biography
@@ -24383,6 +24454,7 @@ boyfriends
 boys
 brace
 braces
+brachypoda
 bracket
 brag
 bragged
@@ -24585,6 +24657,7 @@ bystander
 bystanders
 cabby
 cabinet
+cabins
 cable
 cables
 cadets
@@ -24866,6 +24939,7 @@ charter
 charter-school
 charts
 chase
+chasers
 chases
 chasing
 chat
@@ -24942,6 +25016,7 @@ chucks
 church
 churches
 churn
+cicada
 cicadas
 cigarette
 cigarettes
@@ -26236,6 +26311,7 @@ distancing
 distant
 distilled
 distiller
+distracting
 distress
 distribute
 distributed
@@ -26707,6 +26783,7 @@ entry
 environment
 environmental
 environmentalist
+environmentalists
 envision
 envoy
 envoys
@@ -27528,6 +27605,7 @@ fuels
 fugitive
 full
 full-body
+full-circle
 full-contact
 full-size
 full-time
@@ -27632,6 +27710,7 @@ general
 generally
 generals
 generated
+generates
 generation
 generational
 generations
@@ -27678,6 +27757,7 @@ glacially
 glacier
 glad
 gladiatrix
+glamorous
 glass
 glimpse
 glitch
@@ -28566,6 +28646,7 @@ innovative
 inoculate
 inoculated
 inoculation
+inoculations
 input
 inquiries
 inquiry
@@ -28617,6 +28698,7 @@ intended
 intends
 intense
 intensifies
+intensify
 intensive
 intention
 intentional
@@ -29590,6 +29672,7 @@ migratorio
 mild
 miles
 milestone
+milestones
 militants
 military
 military-trained
@@ -30284,6 +30367,7 @@ outcry
 outdated
 outdoor
 outdoors
+outduels
 outer
 outfielder
 outfit
@@ -30805,6 +30889,7 @@ polluters
 pollution
 polo
 pols
+pomp
 pond
 ponder
 ponders
@@ -30942,6 +31027,7 @@ prefer
 preferring
 prefers
 prefight
+pregame
 pregnancy
 pregnant
 preliminary
@@ -31214,6 +31300,7 @@ punished
 punishes
 punk-rock
 punks
+punter
 punters
 pupils
 puppies
@@ -31320,6 +31407,7 @@ railroads
 railway
 rain
 rainforest
+rains
 raise
 raised
 raises
@@ -32199,6 +32287,7 @@ sawmill
 say
 saying
 says
+scalding
 scaled
 scaled-back
 scales
@@ -32592,6 +32681,7 @@ shuttered
 shutting
 shuttle
 shuttles
+shy
 siblings
 sick
 sickened
@@ -32715,6 +32805,7 @@ sleeper
 sleepers
 sleeping
 sleepless
+slept
 sleuth
 slew
 slicer
@@ -32749,6 +32840,7 @@ slums
 slur
 slurs
 slushy
+smail
 small
 small-business
 small-caps
@@ -33940,6 +34032,7 @@ tragic
 trail
 trail-blazer
 trailer
+trailing
 trails
 train
 trained
@@ -34413,6 +34506,7 @@ versatile
 verse
 version
 versions
+versus
 vertebrae
 vertical
 very
@@ -34875,6 +34969,7 @@ yard
 yards
 yeah
 year
+year-round
 yearlong
 years
 yelling
