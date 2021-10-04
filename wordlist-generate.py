@@ -22,6 +22,7 @@ def save_file(filename, lines, sort=False):
 def add_if_unique(line, array):
     if line not in array:
        array.append(line)
+       new.append(line)
        print(f"UNIQUE: {line}")
 
     return array
@@ -31,7 +32,7 @@ def convert_str_to_words(string):
     return words
 
 def commit_and_push():
-    files = ["headlines.txt", "feeds.txt", "relevant.txt", "relevant_lower.txt"]
+    files = ["headlines.txt", "feeds.txt", "relevant.txt", "relevant_lower.txt", "new.txt"]
     for f in files:
         os.system(f'git add {f}')
 
@@ -43,12 +44,17 @@ words = file_to_list('relevant.txt')
 headlines = file_to_list('headlines.txt')
 
 while True:
+    new = []
     print("Searching for new headlines...")
     feeds = file_to_list('feeds.txt')
     for feed in feeds:
+        print("Pulling data from feed %s" % feed)
         for item in feedparser.parse(feed)["entries"]:
-            headline = item["title"]
-            add_if_unique(headline, headlines)
+            try: 
+                headline = item["title"]
+                add_if_unique(headline, headlines)
+            except:
+                print("dis failed...")
 
     for headline in headlines:
         words_from_headline_lower = convert_str_to_words(headline.lower())
@@ -64,6 +70,7 @@ while True:
     save_file('headlines.txt', headlines)
     save_file('relevant.txt', words, sort=True)
     save_file('relevant_lower.txt', words_lower, sort=True)
+    save_file('new.txt', new)
     commit_and_push()
     print("Files saved! Waiting 1.3 hours until next search...")
     time.sleep(4680)
