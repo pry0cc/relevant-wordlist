@@ -2,6 +2,7 @@
 -
 --
 -155
+-acea
 -advisor
 -chair
 -dpa
@@ -1041,6 +1042,7 @@
 100-year-old
 1000
 1000-horsepower
+1000-meter
 1000-mile
 1000-year-old
 10000
@@ -1446,6 +1448,7 @@
 1939
 1940
 1941-42
+1942
 1943
 1945
 1946
@@ -1513,6 +1516,7 @@
 1995
 199596
 1996
+199697
 199798
 1998
 1999
@@ -1526,6 +1530,7 @@
 1q
 1st
 1st-place
+1st-round
 1stdibs
 1the
 1v1
@@ -1738,6 +1743,7 @@
 240
 242
 2429
+243
 245
 24570
 246000
@@ -1808,6 +1814,7 @@
 28
 28-21
 28-day
+28-point
 28-year-old
 280
 2800
@@ -1976,6 +1983,7 @@
 3800
 38120
 384
+386m
 387k
 38k
 38th
@@ -2637,6 +2645,7 @@ abc13
 abc13com
 abc13s
 abcbot
+abcd
 abcellera
 abd-al-baqi
 abdallah
@@ -2738,6 +2747,7 @@ acadio
 acanthocheilus
 acanthosaura
 acc
+accelerate
 accelerated
 accelerates
 accelerating
@@ -3233,6 +3243,7 @@ akbar
 akdeniz
 ake
 akena
+akhil
 akhilesh
 akimbo
 akin
@@ -3250,6 +3261,7 @@ al-khelaifi
 al-mihmandar
 al-muzaini
 al-qitt
+al-saggaf
 al-taji
 al-wazir
 al-yusufi
@@ -3644,6 +3656,7 @@ analytics
 analyzer
 anam
 ananda
+anandakuttan
 anarchism
 anarchist
 anarcho-feminists
@@ -3792,6 +3805,7 @@ anonymously
 another
 anotherlife
 ansaris
+ansel
 anselmo
 anshul
 anson
@@ -4460,6 +4474,7 @@ attorney
 attorneys
 attract
 attracted
+attracting
 attraction
 attractions
 attractive
@@ -4610,6 +4625,7 @@ averina
 avert
 averted
 avetian
+avgeek
 avian
 aviary
 aviation
@@ -4704,6 +4720,7 @@ babcock
 babe
 babes
 babies
+babola
 baby
 baby-making
 babylon
@@ -5476,6 +5493,7 @@ bhanu
 bhanudas
 bhar
 bharat
+bharatiya
 bhasin
 bhatgaon
 bhattacharjee
@@ -5491,8 +5509,10 @@ bi-state
 bia
 bialik
 bianca
+bianco
 bias
 biased
+biathlete
 biathlon
 bibaa
 bibipur
@@ -5597,6 +5617,7 @@ bingle
 bingoal
 binion
 binoche
+bins
 bintangensis
 bio
 bio-cng
@@ -6155,6 +6176,7 @@ bouzidi
 bovee
 bovine
 bow
+bowe
 bowed
 bowers
 bowhouse
@@ -7340,6 +7362,7 @@ cautionary
 cautioned
 cautious
 cautiously
+cavalcade
 cavalcante
 cavaliers
 cavallo
@@ -8220,6 +8243,7 @@ cmt
 cmts
 cn
 cna
+cneds
 cnn
 cnns
 cnooc
@@ -8437,6 +8461,7 @@ combative
 combination
 combine
 combined
+combined-austria
 combines
 combining
 combo
@@ -8481,6 +8506,7 @@ comments
 commerce
 commercial
 commercials
+commerzbank
 commission
 commissioner
 commissioners
@@ -9114,6 +9140,7 @@ coupon
 coupons
 courage
 courageous
+courmayeur
 course
 course-sized
 coursera
@@ -9172,6 +9199,7 @@ covid-ravaged
 covid-related
 covid-relief
 covid-review
+covid-test
 covid19
 covids
 covina
@@ -9272,6 +9300,7 @@ credits
 cree
 creek
 creeks
+creem
 creep
 creeping
 creeps
@@ -9540,6 +9569,7 @@ curious
 curler
 curling
 curling-injury-scarred
+curling-us
 curly
 curran
 currencies
@@ -10784,6 +10814,7 @@ disgusting
 dish
 dishes
 dishing
+dishonest
 disick
 disicks
 disinfect
@@ -10852,6 +10883,7 @@ disrupt
 disrupted
 disruption
 disruptions
+disruptive
 dissent
 disses
 dissident
@@ -11177,6 +11209,7 @@ downhill
 downing
 downloaded
 downloads
+downplay
 downplays
 downs
 downstream
@@ -11600,6 +11633,7 @@ ebenezer
 eberhard
 ebike
 ebitda
+eblofficial
 ebola
 ebook
 ebro
@@ -11756,6 +11790,7 @@ eisenhower
 either
 ej
 ejected
+ek
 ekanayake
 ekka
 ekolu
@@ -11813,6 +11848,7 @@ electronics
 elegant
 elegia
 elegy
+element
 elementary
 elements
 elena
@@ -12724,6 +12760,7 @@ expectations
 expected
 expecting
 expects
+expedited
 expedites
 expedition
 expeditionary
@@ -13806,6 +13843,7 @@ fords
 forearm
 foreboding
 forecast
+forecast-beating
 forecasted
 forecasters
 forecasts
@@ -14014,6 +14052,7 @@ freeman
 freeridge
 frees
 freeski
+freeskiers
 freestyle
 freestyle-flying
 freetown
@@ -14199,6 +14238,7 @@ funko
 funnel
 funnels
 funnier
+funniest
 funny
 fur
 furgal
@@ -14312,6 +14352,7 @@ gallon
 gallons
 galore
 galpagos
+galvanises
 galveston
 galvis
 galwan
@@ -14440,6 +14481,7 @@ gauthier
 gavanski
 gave
 gavin
+gawri
 gay
 gayle
 gayley
@@ -15193,6 +15235,7 @@ group-ib
 group-ibs
 groups
 grouse
+grout
 grove
 groveled
 groves
@@ -15655,6 +15698,7 @@ harlow
 harm
 harmed
 harmful
+harming
 harmohinder
 harmoniously
 harmony
@@ -15680,6 +15724,7 @@ harsher
 harshly
 hart
 hartard
+hartati
 hartford
 hartman
 hartstein
@@ -16018,6 +16063,7 @@ heroics
 heroin
 heroine
 heroines
+heros
 herpes
 herrera
 herring
@@ -16051,6 +16097,7 @@ hezbollah
 hfd
 hfpa
 hhs
+hi-definition
 hi-res
 hialeah
 hiatus
@@ -16227,6 +16274,7 @@ hobson
 hoc
 hochul
 hockey
+hockey-canadas
 hockey-iihf
 hocking
 hockley
@@ -16650,6 +16698,7 @@ hurtt
 husband
 husbands
 huskies
+huskii
 husky
 husky-voiced
 hussain
@@ -16733,6 +16782,7 @@ i-75
 i-76
 i-80
 i-8094
+i-85
 i-880
 i-94
 i-95
@@ -17105,6 +17155,7 @@ indianapolis
 indianas
 indians
 indias
+indicate
 indicates
 indicating
 indication
@@ -17703,6 +17754,7 @@ ivest
 ivey
 ivf
 ivorian
+ivory
 ivy
 iwilldoit
 iyer
@@ -17797,6 +17849,7 @@ jammu
 jamo
 jamrud
 jams
+jamshed
 jan
 jana
 jane
@@ -17806,6 +17859,7 @@ janelle
 janet
 janette
 janey
+jani
 janik
 janne
 janson
@@ -18112,6 +18166,7 @@ journalists
 journals
 journey
 journeys
+jovan
 jovenel
 jovi
 jovis
@@ -18483,6 +18538,7 @@ kelsea
 kelsey
 kelvin
 kemba
+kemerovo
 kemp
 kempski
 kemsley
@@ -18495,6 +18551,7 @@ kendricks
 kenin
 kennedale
 kennedy
+kennedy-sim
 kennel
 kenneth
 kenney
@@ -18517,6 +18574,7 @@ kepler
 kept
 kerala
 kerber
+kering
 kerman
 kermanshahan
 kern
@@ -18681,6 +18739,7 @@ kirill
 kirilloff
 kirk
 kirkconnell
+kirkland
 kirkwood
 kirnan
 kirov
@@ -18842,6 +18901,7 @@ koreatown
 korenar
 kori
 korkmaz
+korobeynikova
 koroscik
 kors
 kortenska
@@ -19095,6 +19155,7 @@ lana
 lancashire
 lancaster
 lance
+lancelot
 lances
 land
 land-based
@@ -20305,6 +20366,7 @@ maeda
 mafia
 mag
 maga
+magazin
 magazine
 magda
 magdalena
@@ -20342,6 +20404,7 @@ mahajans
 mahamat
 mahaney
 maharashtra
+mahasabha
 mahathera
 mahendra
 maher
@@ -20398,6 +20461,7 @@ makers
 makes
 makeshift
 makeup
+makhachev
 makhanda
 makhi
 makhia
@@ -20946,6 +21010,7 @@ mcentires
 mcfadden
 mcfarland
 mcg
+mcghee
 mcgill
 mcglinchey
 mcgowan
@@ -21166,6 +21231,7 @@ mend
 mendes
 mendis
 mendocino
+mendon
 mendoza
 menemachus
 meneses
@@ -21634,6 +21700,7 @@ mistrial
 misty
 misunderstood
 misuse
+misused
 misusing
 mit
 mitch
@@ -21778,6 +21845,7 @@ molestor
 moliga
 molina
 moline
+molineux
 mollema
 molly
 molotov
@@ -22608,6 +22676,7 @@ neil
 neiman
 neinar
 nel
+nellist
 nello
 nelly
 nelson
@@ -22887,6 +22956,7 @@ nkomonde
 nkosilathi
 nkotb
 nl
+nn
 nnabeszter
 no
 no-brainer
@@ -22940,6 +23010,7 @@ nomination
 nominations
 nominee
 nominees
+nomura
 nomvelo
 non
 non-believable
@@ -23122,6 +23193,7 @@ nrls
 nrlw
 nrpd
 nsa
+nsab
 nsai
 nsfw
 nso
@@ -23458,8 +23530,11 @@ olympian
 olympians
 olympic
 olympics
+olympics-alpine
 olympics-biathlon-weather
 olympics-bobsleigh-brazils
+olympics-freestyle
+olympics-ice
 olympics-mens
 olympics-womens
 olympique
@@ -23736,6 +23811,7 @@ otters
 otto
 ottoman
 otts
+ouattara
 oubre
 ouch
 ought
@@ -24021,6 +24097,7 @@ paleoanthropologist
 paleontologists
 palestinian
 palestinians
+palia
 palicov
 palin
 palins
@@ -24075,6 +24152,7 @@ panga
 pangaea
 pani
 panic
+panjang
 pankaj
 panky
 panmod
@@ -24594,6 +24672,7 @@ person
 persona
 personal
 personalised
+personalities
 personality
 personalized
 personally
@@ -24805,6 +24884,7 @@ piers
 pies
 pieter
 pig
+piggyback
 pigs
 pike
 pilates
@@ -24925,6 +25005,7 @@ place
 placed
 placement
 placements
+placenames
 placentia
 placerville
 places
@@ -25098,6 +25179,7 @@ podcasts
 podiatrist
 podium
 poem
+poet
 poetic
 poetry
 poets
@@ -25645,6 +25727,7 @@ prime
 primed
 primer
 primes
+primeshow
 primetime
 prince
 princes
@@ -25671,6 +25754,7 @@ priority
 prisant
 prism
 prison
+prisoner
 prisoners
 prisons
 prithvi
@@ -26090,6 +26174,7 @@ pwc
 pwn2own
 pwned
 px
+pyeongchang
 pyer
 pyjamas
 pynyashko
@@ -26556,6 +26641,7 @@ raymond
 rays
 rayshard
 rayyan
+raza
 razer
 razi
 razormetrics
@@ -26880,6 +26966,7 @@ refers
 refi
 refillable
 refinance
+refiners
 refinery
 refinery29
 refit
@@ -27848,6 +27935,7 @@ rolls
 rolls-royce
 rollup
 rolpa
+rom
 rom-com
 roma
 romae
@@ -27999,6 +28087,7 @@ roxburys
 roy
 royal
 royale
+royalists
 royals
 royalties
 royalty
@@ -28013,6 +28102,7 @@ rs
 rsafs
 rsf
 rsi
+rss
 rsssf
 rsums
 rt
@@ -28042,6 +28132,7 @@ rudd
 rude
 rudely
 rudenya
+rudest
 rudi
 rudimentary
 rudin
@@ -28363,6 +28454,7 @@ salvi
 salzburg
 sam
 samad
+samaj
 saman
 samanera
 samant
@@ -28532,6 +28624,7 @@ savannah
 save
 saved
 saver
+savers
 saves
 savi
 saving
@@ -29071,6 +29164,7 @@ sergienko
 serial
 serie
 series
+seriestwo
 serifos
 serious
 seriously
@@ -29254,6 +29348,7 @@ share-cycle
 shared
 shareholder
 shareholders
+shareholdings
 shares
 sharing
 sharjah
@@ -29443,6 +29538,7 @@ shortages
 shortcakes
 shortcomings
 shorten
+shortening
 shortens
 shorter
 shortest
@@ -29490,6 +29586,7 @@ showrunner
 showrunners
 shows
 showtime
+shraddha
 shrank
 shredder
 shredders
@@ -29791,6 +29888,7 @@ skeptics
 sketch
 sketchy
 ski
+ski-cross
 skid
 skids
 skier
@@ -29801,8 +29899,10 @@ skiing-gu
 skiing-krueger
 skiing-shiffrin
 skiing-snow
+skiing-swede
 skiing-swedens
 skiing-swiss
+skiing-the
 skilful
 skill
 skillet
@@ -30652,6 +30752,7 @@ sr
 sri
 srinivas
 srinivasan
+srivastava
 srokowski
 srt
 srx
@@ -30969,6 +31070,7 @@ stockhere
 stockholm
 stockholms
 stocking
+stockpile
 stockpiled
 stockpiles
 stocks
@@ -31066,6 +31168,7 @@ stratospheric
 stratus
 strauss
 straw
+strawberries
 strawberry
 strawberry-rhubarb
 straws
@@ -31812,6 +31915,7 @@ taiwanese
 taiwans
 taj
 tajikistan
+takagi
 takane
 takata
 take
@@ -31928,6 +32032,7 @@ tapia
 tapias
 tapie
 tapings
+tappa
 tapped
 tapper
 tapping
@@ -32636,6 +32741,7 @@ tlc
 tlvision
 tm
 tmz
+tnt
 to
 to-do
 to-ta
@@ -33148,6 +33254,7 @@ troubleshoot
 troubleshooter
 troubling
 trounce
+trounces
 trout
 trove
 troy
@@ -33421,6 +33528,7 @@ ucsf
 udara
 uddhav
 udinese
+udlp
 udoka
 uec
 uefa
@@ -33781,6 +33889,7 @@ unveils
 unverified
 unwanted
 unwelcome
+unwind
 unwitting
 unwoke
 up
@@ -34688,6 +34797,7 @@ wandavision
 wanderer
 wanderers
 wandering
+wanes
 wang
 waning
 wanna
@@ -35101,6 +35211,7 @@ whitmer
 whitney
 whittaker
 whittier
+whitworth
 whiz-tv
 who
 whoa
