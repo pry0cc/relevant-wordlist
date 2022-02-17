@@ -1816,6 +1816,7 @@
 25m
 25th
 26
+26-Percent
 26-Year-Old
 26-year-old
 260
@@ -2126,6 +2127,7 @@
 410000
 410lb
 416
+416000
 417
 418
 419
@@ -2158,6 +2160,7 @@
 435
 436
 43B
+43K
 44
 44-10
 440
@@ -2220,6 +2223,7 @@
 4th-quarter
 4th-tier
 5
+5-0
 5-1
 5-10
 5-11
@@ -2670,6 +2674,7 @@
 97M
 98
 98-year-old
+987
 99
 99-75
 996M
@@ -3150,6 +3155,7 @@ Advantage
 Advent
 Adventure
 Adventurous
+Advert
 Advertising
 Advice
 Advise
@@ -3395,6 +3401,7 @@ Aldana
 Aldean
 Alden
 Aldens
+Alder
 Alderman
 Aldermen
 Aldi
@@ -4140,6 +4147,7 @@ Arzakantsyan
 Arze
 As
 Asa
+Asaba
 Asahina
 Asare
 Asbury
@@ -4258,6 +4266,7 @@ Athletics
 Athletics-UK
 Athukorala
 Atichai
+Atkin
 Atkins
 Atkinson
 Atla
@@ -4685,6 +4694,7 @@ Bakke
 Bakrid
 Baktash
 Balaji
+Balakrishnan
 Balance
 Balanchine
 Balancing
@@ -5059,6 +5069,7 @@ Belichick
 Belichicks
 Believe
 Believed
+Believer
 Believes
 Believing
 Bell
@@ -5136,6 +5147,7 @@ Berkshire
 Berlanga
 Berlangas
 Berlin
+Berlinale
 Berlins
 Berman
 Bermuda
@@ -5447,6 +5459,7 @@ Blazing
 Bleach
 Bleak
 BleepingComputers
+Blemished
 Blend
 Blended
 Blender
@@ -8332,6 +8345,7 @@ Creepy
 Creme
 Crenshaw
 Cresco
+Cressida
 Crest
 Cresting
 Crestline
@@ -8379,6 +8393,7 @@ Criticized
 Criticizes
 Criticizing
 Critics
+Critiques
 Critter
 Croatia
 Croc
@@ -9081,6 +9096,7 @@ Delivering
 Delivers
 Delivery
 Dellbee
+Dellinger
 Dellow
 Dellwood
 Delphin-Rittmon
@@ -9697,6 +9713,7 @@ Domkonzerte
 Domnguez
 Don
 Donald
+Donalds
 Donate
 Donated
 Donatella
@@ -9838,6 +9855,7 @@ Dratch
 Draughts
 Draw
 Drawbridge
+Drawdown
 DrawerAnd
 Drawing
 Draws
@@ -10280,6 +10298,7 @@ Educate
 Educates
 Education
 Educator
+Educomp
 Edward
 Edwards
 Edwin
@@ -10962,6 +10981,7 @@ Exclusive
 Exclusive-GM
 Exclusive-Robinhood
 Exclusive-Soccer-Breakaway
+Exclusive-Trump
 Exclusively
 Excoriates
 Excuse
@@ -11035,6 +11055,7 @@ Explainer
 Explainer-How
 Explaining
 Explains
+Explanation
 Exploit
 Exploitation
 Exploited
@@ -12212,6 +12233,7 @@ GARY
 GB
 GBI
 GBTC
+GBs
 GCHQ
 GDP
 GDPR
@@ -12483,6 +12505,7 @@ Geist
 Gelatinous
 Gelato
 Gellars
+Gelsinger
 Gelsons
 Gem
 Gemini
@@ -13178,6 +13201,7 @@ Gurus
 Gurzanski
 Gus
 Gustafsson
+Gustav
 Gustavian
 Gustavo
 Gusto
@@ -13482,6 +13506,7 @@ Hardy
 Harel
 Harewood
 Hari
+Harington
 Harkless
 Harlan
 Harlem
@@ -13495,6 +13520,7 @@ Harmful
 Harmohinder
 Harmony
 Harness
+Harnoncourt
 Harold
 Harper
 Harpers
@@ -13911,6 +13937,7 @@ Hippo
 Hiqma
 Hirasawa
 Hire
+Hired
 Hires
 Hiring
 Hirono
@@ -14868,6 +14895,7 @@ Integrity
 Intel
 Intellectual
 Intelligence
+Intels
 Intends
 Intense
 Intensifies
@@ -14914,6 +14942,7 @@ Interscope
 Intersection
 Intersex
 Interstate
+Interstate-35E
 Intervene
 Intervention
 Interview
@@ -14993,6 +15022,7 @@ Irina
 Iris
 Irish
 Irishman
+Irma
 Iron
 Ironbottom
 Irons
@@ -15185,6 +15215,7 @@ Jaime
 Jain
 Jaipur
 Jair
+Jaisalmer
 Jaishankar
 Jakarta
 Jake
@@ -15680,6 +15711,7 @@ Kaag
 Kaaway
 Kaboom
 Kabul
+Kabza2022
 Kacey
 Kachhiyana
 Kacijanar
@@ -16462,6 +16494,7 @@ Lacy
 Ladd
 Ladder
 Ladies
+Ladislaja
 Ladue
 Lady
 Ladybug
@@ -16685,6 +16718,7 @@ Leads
 Leaf
 Leafs
 League
+LeagueUefa
 Leaguers
 Leagues
 Leah
@@ -16754,7 +16788,9 @@ Legislative
 Legislature
 Legislatures
 Legit
+Legnavsky
 Lego
+Lego-inspired
 Legoland
 Legs
 Lehigh
@@ -17021,6 +17057,7 @@ Lionel
 Lions
 Lip
 Lipa
+Lipetsk
 Lipman
 Lipper
 Lips
@@ -17682,6 +17719,7 @@ Major
 Majorca
 Majority
 Majors
+Majury
 Makar
 Make
 Make-A-Wish
@@ -18097,6 +18135,7 @@ Mawr
 Max
 Maxey
 Maxim
+Maxime
 Maximizes
 Maximum
 Maxine
@@ -18208,6 +18247,7 @@ McNeese
 McNuggets
 McPeeks
 McPhee
+McPherson
 McQueen
 McRaes
 McRorys
@@ -19375,6 +19415,7 @@ NYCs
 NYDIG
 NYE
 NYFC
+NYFW
 NYPD
 NYS
 NYSE
@@ -19393,6 +19434,7 @@ Nachos
 Nacional
 Nadal
 Nadals
+Nadav
 Nadezhda
 Nadu
 Nael
@@ -19529,6 +19571,7 @@ Navalnaya
 Navalny
 Navalnys
 Navan
+Navients
 Navigate
 Navigating
 Navod
@@ -19631,6 +19674,7 @@ Netball
 Netflix
 Netflixs
 Netherlands
+Netimagine
 Neto
 Nets
 Nets-Knicks
@@ -19717,6 +19761,7 @@ Nicola
 Nicolae
 Nicolas
 Nicole
+Nidam
 NieR
 Nieces
 Nielsen
@@ -19827,6 +19872,7 @@ Nomad
 Nomadland
 Nomads
 Nombil
+Nombri
 Nominated
 Nominates
 Nomination
@@ -19873,6 +19919,7 @@ Nope
 NorCal
 Nora
 Nord
+Nordea
 Norder
 Nordic
 Nordics
@@ -20797,6 +20844,7 @@ Pakistani-American
 Pakistans
 Pakka
 Palace
+Palantir
 Palatine-Based
 Palau
 Palazzo
@@ -20867,6 +20915,7 @@ Papa
 Papageorgakopoulou
 Paparazzi
 Paparazzis
+Paparo
 Paper
 Papers
 Pappur
@@ -20895,6 +20944,7 @@ Paramveer
 Paranavithana
 Paranormal
 Paraprofessional
+Parasitic
 Parc
 Pardi
 Pardoned
@@ -21104,6 +21154,7 @@ Peavy
 Pech
 Pecina
 Peckham
+Pedagogical
 Pedal
 Pedestrian
 Pediatric
@@ -21301,6 +21352,7 @@ Pfizers
 Pfleger
 PhD
 Phaeno
+Phalaenopsis
 Phanatics
 Phanpy
 Phantasma
@@ -21422,6 +21474,7 @@ Pillow
 Pilot
 Pimp
 Pimping
+Pin
 Pina
 Pinatar
 Pinch
@@ -21438,6 +21491,7 @@ Pino
 Pinole
 Pinot
 Pinpoint
+Pinsk
 Pinsky
 Pinskys
 Pinso
@@ -22054,6 +22108,7 @@ Pro-Abortion
 Pro-Chinese
 Pro-Democracy
 Pro-GOP
+Pro-Russian
 Pro-Touring
 Pro-vaccine
 Probable
@@ -22112,6 +22167,7 @@ Projectile
 Projections
 Projects
 Prokopov
+Prokopyevsk
 Prolific
 Prologis
 Prom
@@ -22499,6 +22555,7 @@ REvils
 RF
 RFC
 RFID
+RFL
 RFU
 RHOBH
 RHONJ
@@ -23419,6 +23476,7 @@ Revoked
 Revokes
 Revolt
 Revolution
+Revolutionary
 Revs
 Revue
 Reward
@@ -24316,6 +24374,7 @@ Salt
 Salt-N-Pepa
 Salterns
 Saltofte
+Saltwater
 Salud
 Salute
 Salvador
@@ -24357,6 +24416,7 @@ Samson
 Samsung
 Samsungs
 Samuel
+Samuels
 Samuelsson
 Samurai
 San
@@ -24551,6 +24611,7 @@ Schlesinger
 Schmauch
 Schmeichel
 Schmick
+Schmid
 Schmidt-Gertenbach
 Schmitt
 Schneider
@@ -24597,6 +24658,7 @@ Scientific
 Scientist
 Scientists
 Scientology
+Sciuto
 Sclerococcum
 Sclerosis
 Scones
@@ -24679,6 +24741,7 @@ Seahawks
 Seal
 Sealed
 Sean
+Seaplane
 Search
 Searched
 Searches
@@ -24791,6 +24854,7 @@ Semeru
 Semester
 Semi
 Semi-Truck
+Semi-truck
 Semiconductor
 Semifinals
 Seminary
@@ -24833,6 +24897,7 @@ Sentient
 Sentiment
 Sentinel
 Sentinels
+Sentosa
 Senzatelas
 Seobit
 Seoul
@@ -24842,6 +24907,7 @@ Separate
 Separated
 Separates
 Separation
+Separatist
 Sephora
 Seppl
 Sept
@@ -25797,6 +25863,7 @@ Soon-Yi
 Sooner
 Sooners
 Sooo
+Sooper
 Soopers
 Soothe
 Sophia
@@ -27555,6 +27622,7 @@ Tidal
 Tide
 Tides
 Tie
+Tiebreaker
 Tied
 Tiekso
 Tier
@@ -28313,6 +28381,7 @@ USHeres
 USL
 USMNT
 USMNTs
+USOPC
 USPS
 USRC
 USS
@@ -28444,6 +28513,7 @@ Underwater
 Underway
 Underwear
 Underwear-clad
+Underwhelms
 Underwood
 Underwoods
 Underwriter
@@ -28510,6 +28580,7 @@ Unlock
 Unlocks
 Unlucky
 Unmarked
+Unmasked
 Unmasking
 Unmatchables
 Unnao
@@ -28659,6 +28730,7 @@ VALORANT
 VANGUARD
 VAR
 VARIABLE
+VASPs
 VAX
 VAs
 VC
@@ -28790,6 +28862,7 @@ Vandalized
 Vandals
 VanderMeer
 Vanderbilt
+Vandermeulen
 Vandeventer
 Vandy
 Vanessa
@@ -29354,6 +29427,7 @@ Walt
 Walter
 Walters
 Waltham
+Walther
 Walton
 Walygator
 Walz
@@ -29433,6 +29507,7 @@ Washington
 Washingtonians
 Washingtons
 Wasnt
+Wasp
 Wassell
 Waste
 Wasted
@@ -29459,6 +29534,7 @@ Watermelons
 Waterproof
 Waters
 Waterss
+Waterston
 Waterways
 Watford
 Watissart
@@ -29846,6 +29922,7 @@ Wishmas
 Wishropp
 Wisma
 Wissahickon
+Wissinoming
 Witch
 Witcher
 WitcherCon
@@ -29855,6 +29932,7 @@ Withdraw
 Withdrawal
 Withdrew
 Witherspoon
+Withheld
 Within
 Without
 Witness
@@ -29866,6 +29944,7 @@ Wizards
 Wizkid
 Wlazlo
 WoW
+Wochenblick
 Woda
 Woes
 Wojciech
@@ -30165,6 +30244,7 @@ Yaxin
 Yayoi
 Yazidi
 Ye
+Yeadon
 Year
 Year-Long
 Year-Old
@@ -30985,6 +31065,7 @@ anti-cop
 anti-corruption
 anti-coup
 anti-crypto
+anti-disinfo
 anti-doxxing
 anti-government
 anti-graft
@@ -31255,6 +31336,7 @@ attendees
 attending
 attends
 attention
+attest
 attire
 attorney
 attorneys
@@ -31693,6 +31775,7 @@ birth
 birthday
 birthdays
 birthrate
+bisexual
 bison
 bit
 bitcoin
@@ -31883,6 +31966,7 @@ booted
 booth
 boots
 booze
+boozy
 bop
 border
 borders
@@ -31953,6 +32037,7 @@ brainpower
 brains
 brake
 brakes
+braking
 bralette
 branch
 branches
@@ -32218,6 +32303,7 @@ came
 cameo
 cameos
 camera
+cameraman
 cameras
 camerawoman
 camp
@@ -32421,6 +32507,7 @@ cedar
 ceiling
 celeb
 celeb-filled
+celebensis
 celebrate
 celebrated
 celebrates
@@ -32595,6 +32682,7 @@ chilling
 chills
 chilly
 china
+chinsalensis
 chip
 chipmaker
 chipping
@@ -33555,6 +33643,7 @@ curfews
 curing
 curious
 curler
+curlers
 curling
 curly
 currencies
@@ -34368,6 +34457,7 @@ domestic-violence
 dominance
 dominant
 dominate
+dominated
 dominates
 dominatrix
 domino
@@ -34506,6 +34596,7 @@ drown
 drowned
 drowning
 drowns
+drubbing
 drug
 drug-banned
 drug-dealing
@@ -34634,6 +34725,7 @@ eco-warriors
 ecological
 ecologist
 ecology
+ecommerce
 economic
 economics
 economies
@@ -35248,6 +35340,7 @@ extravagant
 extreme
 extremism
 extremist
+extremists
 exuberant
 eye
 eye-catching
@@ -35889,6 +35982,7 @@ freely
 frees
 freeski
 freeskiers
+freeskiing
 freestyle
 freeway
 freeways
@@ -36005,6 +36099,7 @@ gain
 gains
 galaxy
 galaxys
+gale-force
 gall
 galleries
 gallery
@@ -36686,6 +36781,7 @@ highs
 highway
 highways
 hijab
+hijack
 hijacked
 hijacking
 hike
@@ -37072,6 +37168,7 @@ in-game
 in-person
 in-season
 in-state
+inFirst
 inability
 inaction
 inactives
@@ -37387,6 +37484,7 @@ intruder
 intrusion
 inundating
 invade
+invaded
 invader
 invades
 invading
@@ -37856,6 +37954,7 @@ leisure
 leisurely
 lemonade
 lender
+lending
 lengthened
 lengths
 lengthy
@@ -38556,6 +38655,7 @@ millionin
 millions
 mind
 mind-blowing
+mind-boggling
 mindless
 minds
 mine
@@ -38597,6 +38697,7 @@ misconduct
 miserable
 misery
 misfiring
+misfortune
 misgendered
 misgendering
 misguided
@@ -38970,6 +39071,7 @@ neo-Nazism
 neobank
 neon
 nephew
+nerds
 nerf
 nerfing
 nerfs
@@ -39358,6 +39460,7 @@ orders
 ordinance
 ordinariness
 ore
+organisation
 organise
 organised
 organisers
@@ -39392,6 +39495,7 @@ ourselves
 oust
 ousted
 ouster
+ousters
 ousts
 out
 out-of-staters
@@ -39824,6 +39928,7 @@ petrol
 petroleum
 pets
 peyniri
+phantom
 pharma
 pharmaceutical
 pharmacist
@@ -39904,6 +40009,7 @@ pinch-hit
 pinching
 pink
 pinned
+pinning
 pinpoint
 pinpoints
 pioneer
@@ -40219,6 +40325,7 @@ pre-COVID-19
 pre-IPO
 pre-NFL
 pre-draft
+pre-emptive
 pre-evacuations
 pre-opening
 pre-pandemic
@@ -40229,6 +40336,7 @@ preaching
 precarious
 precaution
 precautions
+precede
 precedent
 precinct
 precincts
@@ -40347,6 +40455,7 @@ princes
 princess
 principal
 principle
+principled
 principles
 printable
 printed
@@ -41188,6 +41297,7 @@ removed
 removes
 removing
 remuneration
+renaissance
 rename
 renamed
 renames
@@ -41719,6 +41829,7 @@ s
 saad
 saber
 sabotage
+sack
 sacked
 sacking
 sacks
@@ -41956,6 +42067,7 @@ season-ticket
 seasonal
 seasons
 seat
+seated
 seating
 seats
 seaweed
@@ -42376,6 +42488,7 @@ silly
 silver
 silverware
 similar
+simmer
 simmering
 simple
 simplest
@@ -42435,6 +42548,7 @@ sketch
 sketchy
 ski
 ski-cross
+skicross
 skid
 skids
 skier
@@ -42442,6 +42556,7 @@ skiers
 skies
 skiing
 skiing-Gu
+skiing-Kenworthy
 skiing-Krueger
 skiing-Shiffrin
 skiing-Snow
@@ -43300,6 +43415,7 @@ suo
 super
 super-emitters
 super-popular
+super-rich
 superb
 supercar
 supercars
@@ -43659,6 +43775,7 @@ tempted
 tempting
 temptresses
 ten
+ten-year
 tenant
 tenants
 tendency
@@ -43696,6 +43813,7 @@ test
 test-and-trace
 test-fly
 tested
+testers
 testified
 testifies
 testify

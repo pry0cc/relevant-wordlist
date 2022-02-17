@@ -1778,6 +1778,7 @@
 25m
 25th
 26
+26-percent
 26-year-old
 260
 260000
@@ -2071,6 +2072,7 @@
 410000
 410lb
 416
+416000
 417
 418
 419
@@ -2103,6 +2105,7 @@
 435
 436
 43b
+43k
 44
 44-10
 440
@@ -2164,6 +2167,7 @@
 4th-quarter
 4th-tier
 5
+5-0
 5-1
 5-10
 5-11
@@ -2586,6 +2590,7 @@
 97m
 98
 98-year-old
+987
 99
 99-75
 996m
@@ -3319,6 +3324,7 @@ aldana
 aldean
 alden
 aldens
+alder
 alderman
 aldermans
 aldermen
@@ -3841,6 +3847,7 @@ anti-cop
 anti-corruption
 anti-coup
 anti-crypto
+anti-disinfo
 anti-doxxing
 anti-elite
 anti-esl
@@ -4257,6 +4264,7 @@ arzakantsyan
 arze
 as
 asa
+asaba
 asahina
 asap
 asare
@@ -4416,6 +4424,7 @@ athletics
 athletics-uk
 athukorala
 atichai
+atkin
 atkins
 atkinson
 atl
@@ -4465,6 +4474,7 @@ attendees
 attending
 attends
 attention
+attest
 attic
 attire
 attitude
@@ -4845,6 +4855,7 @@ bakke
 bakrid
 baktash
 balaji
+balakrishnan
 balance
 balanced
 balances
@@ -5309,6 +5320,7 @@ belief
 beliefs
 believe
 believed
+believer
 believes
 believing
 bell
@@ -5400,6 +5412,7 @@ berkshire
 berlanga
 berlangas
 berlin
+berlinale
 berlins
 berman
 bermuda
@@ -5673,6 +5686,7 @@ bisa
 bisaccia
 biscuit
 biscuits
+bisexual
 bishnu
 bishop
 bishops
@@ -5780,6 +5794,7 @@ bleach-gate
 bleak
 bled
 bleepingcomputers
+blemished
 blend
 blended
 blender
@@ -6249,6 +6264,7 @@ brainwash
 brainwashed
 brake
 brakes
+braking
 bralette
 bralettes
 braman
@@ -6937,6 +6953,7 @@ cameo
 cameos
 camera
 cameracensium
+cameraman
 cameras
 camerawoman
 cameron
@@ -7431,6 +7448,7 @@ celaleddin
 celeb
 celeb-filled
 celeb-loved
+celebensis
 celebrate
 celebrated
 celebrates
@@ -7839,6 +7857,7 @@ chinese-american
 chinese-australian
 chinese-language
 chino
+chinsalensis
 chip
 chipamaunga
 chipmaker
@@ -9313,6 +9332,7 @@ crematoriums
 creme
 crenshaw
 cresco
+cressida
 crest
 cresting
 crestline
@@ -9567,6 +9587,7 @@ curing
 curiosity
 curious
 curler
+curlers
 curling
 curling-injury-scarred
 curling-us
@@ -10194,6 +10215,7 @@ delivering
 delivers
 delivery
 dellbee
+dellinger
 dellow
 dellwood
 delphin-rittmon
@@ -11089,6 +11111,7 @@ domkonzerte
 domnguez
 don
 donald
+donalds
 donate
 donated
 donatella
@@ -11358,6 +11381,7 @@ drowns
 drpankaj
 drs
 dru
+drubbing
 drug
 drug-banned
 drug-dealing
@@ -11662,6 +11686,7 @@ ecoboost
 ecological
 ecologist
 ecology
+ecommerce
 economic
 economics
 economicsh
@@ -11724,6 +11749,7 @@ education
 educational
 educator
 educators
+educomp
 edward
 edwards
 edwin
@@ -12690,6 +12716,7 @@ exclusive
 exclusive-gm
 exclusive-robinhood
 exclusive-soccer-breakaway
+exclusive-trump
 exclusively
 excoriates
 excruciating
@@ -14053,6 +14080,7 @@ freeridge
 frees
 freeski
 freeskiers
+freeskiing
 freestyle
 freestyle-flying
 freetown
@@ -14335,6 +14363,7 @@ galaxy
 galaxys
 galdo
 gale
+gale-force
 galen
 galetto
 galina
@@ -14500,6 +14529,7 @@ gb
 gbagboreturns
 gbajabiamila
 gbi
+gbs
 gbtc
 gchq
 gdp
@@ -14526,6 +14556,7 @@ geist
 gelatinous
 gelato
 gellars
+gelsinger
 gelsons
 gem
 gemini
@@ -15398,6 +15429,7 @@ gus
 gushi
 gushing
 gustafsson
+gustav
 gustavian
 gustavo
 gusto
@@ -15687,6 +15719,7 @@ hardy
 harel
 harewood
 hari
+harington
 harkless
 harlan
 harlem
@@ -15704,6 +15737,7 @@ harmoniously
 harmony
 harness
 harnesses
+harnoncourt
 harold
 harper
 harpers
@@ -16164,6 +16198,7 @@ highways
 higuains
 hiha
 hijab
+hijack
 hijacked
 hijacking
 hike
@@ -17235,6 +17270,7 @@ infinite
 infinity
 infinitys
 infirmed
+infirst
 inflame
 inflamed
 inflames
@@ -17426,6 +17462,7 @@ integrity-
 intel
 intellectual
 intelligence
+intels
 intended
 intends
 intense
@@ -17500,6 +17537,7 @@ interscope
 intersection
 intersex
 interstate
+interstate-35e
 interstellar
 interval
 intervene
@@ -17625,6 +17663,7 @@ irina
 iris
 irish
 irishman
+irma
 iron
 ironbottom
 ironclad
@@ -17813,6 +17852,7 @@ jaime
 jain
 jaipur
 jair
+jaisalmer
 jaishankar
 jakarta
 jake
@@ -18306,6 +18346,7 @@ kaag
 kaaway
 kaboom
 kabul
+kabza2022
 kacey
 kachhiyana
 kacijanar
@@ -19083,6 +19124,7 @@ ladd
 ladder
 ladders
 ladies
+ladislaja
 ladonna
 ladue
 lady
@@ -19376,6 +19418,7 @@ leafs
 league
 leaguers
 leagues
+leagueuefa
 leah
 leak
 leakages
@@ -19475,7 +19518,9 @@ legislatures
 legit
 legitimacy
 legitimate
+legnavsky
 lego
+lego-inspired
 legoland
 legos
 legs
@@ -19808,6 +19853,7 @@ lionel
 lions
 lip
 lipa
+lipetsk
 lipman
 lipper
 lips
@@ -20448,6 +20494,7 @@ major
 majorca
 majority
 majors
+majury
 makar
 make
 make-a-wish
@@ -20927,6 +20974,7 @@ mawr
 max
 maxey
 maxim
+maxime
 maximise
 maximizes
 maximum
@@ -21047,6 +21095,7 @@ mcneese
 mcnuggets
 mcpeeks
 mcphee
+mcpherson
 mcqueen
 mcraes
 mcrorys
@@ -21649,6 +21698,7 @@ misdemeanor
 miserable
 misery
 misfiring
+misfortune
 misgendered
 misgendering
 misguided
@@ -22406,6 +22456,7 @@ nachos
 nacional
 nadal
 nadals
+nadav
 nadezhda
 nadie
 nadu
@@ -22574,6 +22625,7 @@ navalny
 navalnys
 navan
 navi
+navients
 navigate
 navigated
 navigates
@@ -22701,6 +22753,7 @@ nepomniachtchi
 nepotism
 neptunes
 nerd
+nerds
 nerdwallet
 nerf
 nerfed
@@ -22731,6 +22784,7 @@ netflix
 netflixs
 netgear
 netherlands
+netimagine
 neto
 nets
 nets-knicks
@@ -22865,6 +22919,7 @@ nicolae
 nicolas
 nicole
 nicotine
+nidam
 niece
 nieces
 nielsen
@@ -23003,6 +23058,7 @@ nomadic
 nomadland
 nomads
 nombil
+nombri
 nominate
 nominated
 nominates
@@ -23071,6 +23127,7 @@ nope
 nora
 norcal
 nord
+nordea
 norder
 nordic
 nordics
@@ -23282,6 +23339,7 @@ nydig
 nye
 nyers
 nyfc
+nyfw
 nyiragongo
 nypd
 nys
@@ -23725,6 +23783,7 @@ orellana
 oreo
 oreos
 organigram
+organisation
 organise
 organised
 organiser
@@ -23824,6 +23883,7 @@ ourselves
 oust
 ousted
 ouster
+ousters
 ousts
 out
 out-of-state
@@ -24090,6 +24150,7 @@ pakka
 pal
 palace
 palaces
+palantir
 palatine-based
 palau
 palazzo
@@ -24178,6 +24239,7 @@ papageorgakopoulou
 papal
 paparazzi
 paparazzis
+paparo
 paper
 paperbacks
 papers
@@ -24217,6 +24279,7 @@ paramveer
 paranavithana
 paranormal
 paraprofessional
+parasitic
 paratrooper
 parc
 pardi
@@ -24497,6 +24560,7 @@ pecb
 pech
 pecina
 peckham
+pedagogical
 pedal
 pedestrian
 pedestrians
@@ -24748,6 +24812,7 @@ pgdm-wp
 pge
 pha
 phaeno
+phalaenopsis
 phanatics
 phanpy
 phantasma
@@ -24922,12 +24987,14 @@ pink
 pinks
 pinnacles
 pinned
+pinning
 pino
 pinole
 pinot
 pinpoint
 pinpoints
 pins
+pinsk
 pinsky
 pinskys
 pinso
@@ -25552,6 +25619,7 @@ pre-covid-19
 pre-dawn
 pre-departure
 pre-draft
+pre-emptive
 pre-evacuations
 pre-ipo
 pre-k
@@ -25568,6 +25636,7 @@ precarious
 precaution
 precautionary
 precautions
+precede
 precedent
 precinct
 precincts
@@ -25736,6 +25805,7 @@ princeton
 principal
 principe
 principle
+principled
 principles
 pringletown
 print
@@ -25790,6 +25860,7 @@ pro-law
 pro-mask
 pro-navalny
 pro-police
+pro-russian
 pro-touring
 pro-trump
 pro-vaccine
@@ -25876,6 +25947,7 @@ projections
 projector
 projects
 prokopov
+prokopyevsk
 proliferate
 prolific
 prologis
@@ -27223,6 +27295,7 @@ rempell
 remuneration
 remy
 ren
+renaissance
 rename
 renamed
 renames
@@ -27607,6 +27680,7 @@ rezoning
 rf
 rfc
 rfid
+rfl
 rfu
 rgger
 rhamondre
@@ -28314,6 +28388,7 @@ sachin
 sachkov
 sachs
 sachsen-meiningen
+sack
 sacked
 sacking
 sackler
@@ -28440,6 +28515,7 @@ salt-n-pepa
 salterns
 saltofte
 salts
+saltwater
 salud
 salute
 salutes
@@ -28487,6 +28563,7 @@ samson
 samsung
 samsungs
 samuel
+samuels
 samuelsson
 samurai
 san
@@ -28733,6 +28810,7 @@ schlumberger
 schmauch
 schmeichel
 schmick
+schmid
 schmidt-gertenbach
 schmitt
 schneider
@@ -28791,6 +28869,7 @@ scientists
 scientology
 scion
 scisparc
+sciuto
 sclerococcum
 sclerosis
 scm
@@ -28911,6 +28990,7 @@ sealy
 seamaac
 seamlessly
 sean
+seaplane
 search
 searchable
 searched
@@ -28934,6 +29014,7 @@ seasonal
 seasons
 seat
 seatbelts
+seated
 seating
 seaton
 seats
@@ -29119,6 +29200,7 @@ sentient
 sentiment
 sentinel
 sentinels
+sentosa
 sentry
 senzatelas
 seobit
@@ -29752,6 +29834,7 @@ similar
 simionato
 simkhai
 simm
+simmer
 simmering
 simmons
 simms
@@ -29889,6 +29972,7 @@ sketch
 sketchy
 ski
 ski-cross
+skicross
 skid
 skids
 skier
@@ -29896,6 +29980,7 @@ skiers
 skies
 skiing
 skiing-gu
+skiing-kenworthy
 skiing-krueger
 skiing-shiffrin
 skiing-snow
@@ -30378,6 +30463,7 @@ soon-yi
 sooner
 sooners
 sooo
+sooper
 soopers
 soothe
 soothes
@@ -31509,6 +31595,7 @@ super-cute
 super-easy
 super-emitters
 super-popular
+super-rich
 superb
 supercar
 supercars
@@ -32255,6 +32342,7 @@ temptresses
 tempur
 tems
 ten
+ten-year
 tenant
 tenants
 tencent
@@ -32339,6 +32427,7 @@ testament
 testard
 tested
 tester
+testers
 testified
 testifies
 testify
@@ -32630,6 +32719,7 @@ tie
 tie-breaker
 tie-breaking
 tie-up
+tiebreaker
 tied
 tiekso
 tienne
@@ -33695,6 +33785,7 @@ underway
 underwear
 underwear-clad
 underwhelming
+underwhelms
 underwood
 underwoods
 underwriter
@@ -33813,6 +33904,7 @@ unlucky
 unlv
 unmarked
 unmask
+unmasked
 unmasking
 unmatchables
 unnao
@@ -34036,6 +34128,7 @@ usmans
 usmnt
 usmnts
 usoni
+usopc
 usps
 usrc
 uss
@@ -34183,6 +34276,7 @@ vandalizes
 vandals
 vanderbilt
 vandermeer
+vandermeulen
 vandeventer
 vandy
 vanessa
@@ -34223,6 +34317,7 @@ vas
 vasectomies
 vashishta
 vasilevskiys
+vasps
 vasquez
 vassal
 vast
@@ -34788,6 +34883,7 @@ walt
 walter
 walters
 waltham
+walther
 walton
 walygator
 walz
@@ -34884,6 +34980,7 @@ washington
 washingtonians
 washingtons
 wasnt
+wasp
 wassell
 wastage
 waste
@@ -34921,6 +35018,7 @@ waters
 watershed
 waterslide
 waterss
+waterston
 waterways
 watford
 watissart
@@ -35403,6 +35501,7 @@ wishmas
 wishropp
 wisma
 wissahickon
+wissinoming
 witch
 witchcraft
 witcher
@@ -35418,6 +35517,7 @@ withdraws
 withdrew
 withering
 witherspoon
+withheld
 withhold
 within
 without
@@ -35441,6 +35541,7 @@ wns
 wobble
 wobbled
 wobbles
+wochenblick
 woda
 woe
 woebegone
@@ -35798,6 +35899,7 @@ yaxin
 yayoi
 yazidi
 ye
+yeadon
 yeah
 year
 year-long
