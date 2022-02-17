@@ -1261,6 +1261,7 @@
 142
 142246
 142nd
+143
 1431
 143600
 144
@@ -1473,9 +1474,11 @@
 1950s
 1952
 195253
+1953
 1954
 1955
 1956
+195657
 195758
 1958
 195859
@@ -1682,6 +1685,7 @@
 2069
 208
 2086
+209
 2096
 20k
 20m
@@ -1809,6 +1813,7 @@
 265m
 2666
 2681
+269
 26b
 26m
 26th
@@ -1841,6 +1846,7 @@
 2839
 2864
 288
+289g
 28m
 29
 29-year-olds
@@ -1942,6 +1948,7 @@
 33
 33-year
 330
+3300
 332000
 333
 3330480
@@ -2503,10 +2510,12 @@
 8000
 80000
 800000
+800bn
 80k
 80m
 80s
 81
+81-year-old
 81133
 812
 819
@@ -2526,6 +2535,7 @@
 83-71
 83-year-old
 8300-mile
+831
 837
 84
 84-year-old
@@ -3051,6 +3061,7 @@ advocacy
 advocate
 advocates
 ae
+aegean
 aegialoalaimus
 aegius
 aegon
@@ -3179,6 +3190,7 @@ agony
 agp
 agpawa
 agpawas
+agrafka
 agraphia
 agree
 agreed
@@ -3303,6 +3315,7 @@ al-bishi
 al-farouqi
 al-khelaifi
 al-mihmandar
+al-musayyab
 al-muzaini
 al-qitt
 al-saggaf
@@ -4106,6 +4119,7 @@ ar
 ar-15
 arab
 arabia
+arabic
 arabs
 arackar
 arad
@@ -4355,6 +4369,7 @@ asians
 asias
 asic
 aside
+asiedu-larbi
 asif
 asjc
 ask
@@ -4527,6 +4542,7 @@ attest
 attic
 attire
 attitude
+attitudes
 attiyahs
 attleboro
 attorney
@@ -4725,6 +4741,7 @@ awkwafina
 awkward
 awol
 aws
+awuah
 awulo
 ax
 axalta
@@ -4753,6 +4770,7 @@ ayorinde
 aytonomous
 ayyldz
 az
+azakami
 azalea
 azarow
 azerbaijan
@@ -4936,6 +4954,7 @@ ballabhgarh
 ballachulish
 ballad
 ballard
+ballerina
 ballerinas
 ballerini
 ballet
@@ -5065,6 +5084,7 @@ bargain
 bargaining
 bargains
 barger
+barima
 barista
 bark
 barker
@@ -5158,6 +5178,7 @@ basque
 basquiats
 bass
 bassak
+bassali
 bassem
 bassin
 bassitt
@@ -5417,6 +5438,7 @@ bemoans
 ben
 bench
 benching
+benchmark
 benchmarks
 bencic
 bend
@@ -5658,6 +5680,7 @@ bilbao
 biles
 bilge
 bilingual
+bilked
 bilking
 bilks
 bill
@@ -5739,6 +5762,7 @@ bird-watching
 birdies
 birds
 birdwatching
+birikorang
 birkin
 birks
 birmingham
@@ -6137,6 +6161,7 @@ bookmaker
 bookmark
 books
 bookshop
+bookstore
 bookwatch
 boom
 boomers
@@ -6523,6 +6548,7 @@ brings
 brink
 brisard
 brisbane
+bristles
 bristol
 bristow
 bristowe
@@ -6552,6 +6578,7 @@ broadcasters
 broadcasting
 broadcom
 broader
+broads
 broadview
 broadway
 brock
@@ -6695,6 +6722,7 @@ buenos
 buff
 buffalo
 buffalo-palooza
+buffaloes
 buffer
 buffet
 buffeted
@@ -7720,6 +7748,7 @@ changzheng
 channel
 channels
 channi
+channing
 channis
 chant
 chanted
@@ -7908,6 +7937,7 @@ chick
 chick-fil-a
 chicken
 chicks
+chidekh
 chiding
 chido
 chief
@@ -8922,6 +8952,7 @@ conserve
 consider
 considerable
 considerably
+consideration
 considered
 considering
 considers
@@ -9126,6 +9157,7 @@ corcos
 cord
 cordae
 cordani
+cordeiro
 corden
 cordens
 cordial
@@ -9136,10 +9168,12 @@ core
 corecivic
 corejj
 corella
+coreta
 corey
 corgi
 cori
 corinne
+corinnes
 cork
 corleen
 cormack
@@ -9434,6 +9468,7 @@ credited
 creditors
 credits
 cree
+creed
 creek
 creeks
 creem
@@ -9689,6 +9724,7 @@ cuomos
 cup
 cupcakes
 cupcakke
+cuphead
 cupp
 cups
 curaao
@@ -9846,6 +9882,7 @@ dairy
 daisy
 daiwatari
 dak
+daka
 dakar
 dakota
 daktronics
@@ -9930,6 +9967,7 @@ daos
 dapper
 dapps
 dar
+darcy
 dardoch
 dare
 dared
@@ -9981,6 +10019,7 @@ data-disinformation
 database
 date
 date-rape
+dated
 dates
 datesh
 dath
@@ -10018,6 +10057,7 @@ daxton
 day
 day-by-day
 day-long
+day-to-day
 daybell
 daycare
 daylight
@@ -10200,6 +10240,7 @@ deducted
 deduction
 deductions
 dee
+deed
 deeds
 deemed
 deeming
@@ -10726,6 +10767,7 @@ dichotomophthora
 dick
 dickens
 dicker
+dickerson
 dickinson
 dicko
 dicks
@@ -11249,6 +11291,7 @@ donald
 donalds
 donate
 donated
+donatell
 donatella
 donates
 donating
@@ -11379,6 +11422,7 @@ downturn
 downward
 dows
 doxa
+doxxing
 doyle
 dozen
 dozens
@@ -11861,6 +11905,7 @@ edf
 edgar
 edge
 edges
+edgewood
 edgier
 edging
 edgy
@@ -12051,6 +12096,7 @@ elijah
 eliminate
 eliminated
 eliminates
+eliminating
 elimination
 elina
 elinav
@@ -12306,6 +12352,7 @@ engulfed
 engulfs
 enhance
 enhanced
+enhancements
 enhances
 enix
 enixs
@@ -12528,6 +12575,7 @@ essay
 essent
 essential
 essentials
+essex
 essien
 essingtoni
 establish
@@ -12932,6 +12980,7 @@ exit
 exits
 exlservice
 exodus
+exohood
 exoplanets
 exotic
 exp
@@ -13548,6 +13597,7 @@ feyi-waboso
 fezcos
 ffa
 ffany
+fia
 fianc
 fiance
 fiancee
@@ -13727,6 +13777,7 @@ first-generation
 first-graders
 first-half
 first-inning
+first-of-its-kind
 first-place
 first-quarter
 first-round
@@ -13952,6 +14003,7 @@ fluker
 flumeride
 fluminense
 flunks
+fluorescens
 fluoride
 flurona
 flurries
@@ -14153,6 +14205,7 @@ fouz
 fowlers
 fox
 fox-creek
+fox2
 fox31
 foxboro
 foxconn
@@ -14521,6 +14574,7 @@ gadget
 gadgets
 gadot
 gadots
+gaetano
 gaethje
 gaetz
 gaetzs
@@ -14977,6 +15031,7 @@ givens
 gives
 giving
 gizzard
+glaad
 glacially
 glacier
 glad
@@ -15478,6 +15533,7 @@ grows
 growth
 growth-stimulating
 grrrl
+grrrls
 grt
 grtner
 gru
@@ -15708,6 +15764,7 @@ hadnt
 hadrian
 hae
 haeckel
+haematomma
 hafez
 hagedorn
 hagel
@@ -15902,6 +15959,7 @@ harassment
 harbaugh
 harbinger
 harbor
+harborview
 harbour
 harckham
 hard
@@ -16078,6 +16136,7 @@ hazelden
 hazelwood
 hazing
 hazmat
+hazul
 hazy
 hbcu
 hbcus
@@ -16089,6 +16148,7 @@ hcso
 hctor
 hd
 hdb
+hdr
 he
 head
 head-bite
@@ -16207,6 +16267,7 @@ heineken
 heinrich
 heinz
 heir
+heirlooms
 heishan
 heisserer
 heist
@@ -16377,6 +16438,7 @@ high-fidelity
 high-flying
 high-grade
 high-intensity
+high-level
 high-momentum
 high-powered
 high-profile
@@ -16748,6 +16810,7 @@ hotez
 hotline
 hotlines
 hotness
+hotpatching
 hots
 hotshot
 hotshots
@@ -18042,6 +18105,7 @@ jacket
 jackets
 jackie
 jackknifed
+jacknjellify
 jackpot
 jackson
 jacksons
@@ -18061,6 +18125,7 @@ jagadish
 jagannath
 jager
 jagger
+jags
 jaguars
 jah
 jahan
@@ -18297,6 +18362,7 @@ jiangan
 jiangping
 jiangsu
 jibesh
+jiciir
 jid
 jiexi
 jig
@@ -18547,6 +18613,7 @@ juror
 jurors
 jury
 jurys
+jusan
 just
 justice
 justiceforcairo
@@ -19163,6 +19230,7 @@ kombats
 komeutyuyam
 komoroski
 kompasu
+kon
 konare
 kondo
 kong
@@ -19250,6 +19318,7 @@ kristen
 kristi
 kristin
 kristjan
+kristof
 krlek
 kroenke
 kroenkes
@@ -19278,6 +19347,7 @@ kudagodage
 kudela
 kudos
 kudravets
+kuemper
 kueng
 kuiper
 kulesh
@@ -19328,6 +19398,7 @@ kyei
 kyi
 kyiv
 kyle
+kyler
 kylian
 kylie
 kylniemi
@@ -19486,6 +19557,7 @@ langur
 lanka
 lankan
 lannion-trgor
+lansing
 lansing-area
 lantern
 lanternflies
@@ -19549,6 +19621,7 @@ late-night
 late-season
 late-stage
 lately
+latency
 later
 lateral
 laternatus
@@ -19797,6 +19870,7 @@ leit
 leiter
 leja
 lela
+lemaigre
 lemi
 lemmings
 lemon
@@ -20060,6 +20134,7 @@ limp
 lin
 lin-manuel
 lina
+linaria
 linby
 lincoln
 lincoln-sudbury
@@ -20443,6 +20518,7 @@ lowertown
 lowery
 lowes
 lowest
+lowest-ever
 lowkey
 lowries
 lowry
@@ -20771,6 +20847,7 @@ majorca
 majority
 majors
 majury
+mak
 makar
 make
 make-a-wish
@@ -21023,6 +21100,7 @@ marisa
 marisnick
 marital
 maritime
+marjan
 marjorie
 mark
 marked
@@ -21228,6 +21306,7 @@ matthiessen
 matthus
 mattress
 mattresses
+mature
 matvey
 matz
 mau
@@ -21787,6 +21866,7 @@ midfielder
 midfielders
 midflight
 midgard
+midland
 midlands
 midlothian
 midnight
@@ -22275,6 +22355,7 @@ montanas
 montanus
 montao
 montas
+montauban
 montbello
 montclare
 monte
@@ -22320,6 +22401,7 @@ mora
 morag
 moral
 morales
+morality
 moran
 morant
 morants
@@ -22336,6 +22418,7 @@ moreish
 morejon
 morel
 moreland
+morelos
 moreno
 morenos
 moretti
@@ -22435,6 +22518,7 @@ motorcycles
 motorcycling
 motorcycling-rabat
 motorcyclist
+motorist
 motorists
 motorized
 motors
@@ -22552,6 +22636,7 @@ muffled
 muffler
 mufti
 mug
+muganga
 muggy
 mugisha
 mugs
@@ -22700,6 +22785,7 @@ mutated
 mutation
 mute
 muted
+mutluer
 mutual
 muwonge
 muzammil
@@ -23189,6 +23275,7 @@ ngannou
 ngavedr
 ngc
 ngee
+ngo
 ngos
 nguen
 nguyen
@@ -23269,6 +23356,7 @@ nil-by-mouth
 nile
 niles
 nilfer
+niloy
 nils
 nilsson
 nimby
@@ -23761,6 +23849,7 @@ oceansheres
 ocg
 ochiltree
 oconnell
+oconnells
 oconnor
 oconnors
 ocs
@@ -23832,6 +23921,7 @@ offsets
 offshore
 offside
 offspring
+ofosu
 often
 ogier
 ogilby
@@ -24135,6 +24225,7 @@ origins
 oriole
 orioles
 orion
+orionis
 oriordan
 orlando
 orleans
@@ -24193,6 +24284,7 @@ otherwise
 otis
 otmar
 ots
+otsuka
 ottawa
 otter
 otters
@@ -24808,6 +24900,7 @@ paulo-sabesp
 paulos
 pauls
 paulsen
+paupyrnes
 pause
 paused
 pauses
@@ -24900,6 +24993,7 @@ pecina
 peckham
 pedagogical
 pedal
+pedersons
 pedestrian
 pedestrians
 pediatric
@@ -25094,6 +25188,7 @@ perths
 peru
 pervasive
 pescatori
+pesce
 peshawar
 peskin
 peskovs
@@ -25134,6 +25229,7 @@ petrusenko
 pets
 pett
 petter
+pettine
 petty
 peugeot
 peyae
@@ -25981,6 +26077,7 @@ pre-nfl
 pre-opening
 pre-ordering
 pre-pandemic
+pre-race
 pre-register
 pre-show
 preachers
@@ -26295,6 +26392,7 @@ progressives
 prohibit
 prohibited
 prohibiting
+prohibitions
 project
 projected
 projectile
@@ -26952,6 +27050,7 @@ ranchers
 rancho
 rand
 randall
+randers
 randii
 randle
 randolph
@@ -28225,6 +28324,7 @@ rivals
 rivard
 river
 rivera
+riverdale
 riverhead
 rivers
 riversails
@@ -28293,6 +28393,7 @@ robinhood
 robins
 robinson
 roblox
+robocall
 robocalls
 robot
 robotic
@@ -28363,6 +28464,7 @@ rohingya
 rohit
 roi
 rojas
+rokia
 roks
 roku
 roland
@@ -28590,6 +28692,7 @@ rudely
 rudenya
 rudest
 rudi
+rudiger
 rudimentary
 rudin
 rudins
@@ -29062,6 +29165,7 @@ satisfying
 satishs
 sato
 satoshi
+satti
 sattler
 saturation
 saturday
@@ -29080,6 +29184,7 @@ saudis
 saugus
 sauk
 sauli
+saulkalne
 saunders
 sausalito
 savage
@@ -29334,6 +29439,7 @@ screwdriver
 scripps
 script
 scrolls
+scrub
 scrubbing
 scruff
 scrum-half
@@ -29383,6 +29489,7 @@ seamaac
 seamlessly
 sean
 seaplane
+seaport
 search
 searchable
 searched
@@ -30776,6 +30883,7 @@ sofi
 sofia
 sofis
 soft
+soft-shell
 softball
 softbank
 softening
@@ -30859,6 +30967,7 @@ song
 songbird
 songbirds
 songbook
+songl
 songs
 songwriter
 songwriting
@@ -31295,6 +31404,7 @@ staffords
 stage
 stagecoach
 staged
+stages
 staggering
 stagnant
 stainless
@@ -31495,6 +31605,7 @@ stepdad
 stepdads
 stepdaughter
 stepfather
+stepfathers
 steph
 stephanie
 stephanopoulos
@@ -32067,6 +32178,7 @@ superstars
 superstitious
 supertanker
 supertool
+supervised
 supervision
 supervisor
 supervisors
@@ -32271,6 +32383,7 @@ sweet-tart
 sweetened
 sweetest
 sweetheart
+sweets
 swell
 swelling
 swells
@@ -32295,6 +32408,7 @@ swings
 swinley
 swinton
 swipe
+swiped
 swipes
 swirl
 swish
@@ -32577,6 +32691,7 @@ tarleton
 tarnawa
 tarnishes
 tarnowski
+tarnw
 taroko
 tarot
 tarp
@@ -32718,6 +32833,7 @@ tedros
 tee
 teen
 teenage
+teenaged
 teenager
 teenagers
 teens
@@ -32755,6 +32871,7 @@ telescope
 telescopes
 televised
 television
+telfars
 tell
 tell-tale
 teller
@@ -32824,6 +32941,7 @@ tequila
 terablock
 tercera
 terence
+terga
 terim
 teritori
 terjung
@@ -32897,6 +33015,7 @@ texas-mexico
 texasmexico
 text
 textile
+textiles
 texting
 texts
 tezos
@@ -33003,6 +33122,7 @@ thickness
 thief
 thiefs
 thiel
+thiel-backed
 thiessen
 thieves
 thigh
@@ -33981,6 +34101,7 @@ twelfth
 twelve
 twenties
 twenty
+twerking
 twice
 twigs
 twilight
@@ -34057,6 +34178,7 @@ ubercom
 uberviolent
 ubi
 ubisoft
+ubisofts
 ubs
 ubsi
 ubuntu
@@ -34067,6 +34189,7 @@ uchida
 uci
 ucl
 ucla
+uclas
 uconn
 ucsf
 udara
@@ -34219,6 +34342,7 @@ underestimated
 underfunded
 undergo
 undergoes
+undergone
 undergraduate
 underground
 undergrounds
@@ -34300,6 +34424,7 @@ unheard
 unhinged
 unhoused
 uni
+unia
 unicef
 unicolor
 unicom
@@ -34392,6 +34517,7 @@ unraveled
 unravels
 unrecognizable
 unregistered
+unrelated
 unreleased
 unrelenting
 unreliable
@@ -34497,6 +34623,7 @@ uptick
 upton
 uptons
 uptown
+upturn
 upward
 urania
 uranium
@@ -34640,6 +34767,7 @@ uzoka
 v
 v-01
 v-8
+v1005
 v12
 v1794
 v2
@@ -34675,6 +34803,7 @@ vadamadurai
 vader
 vadis
 vagina
+vaginal
 vagrant
 vahi
 vail
@@ -35102,6 +35231,7 @@ visitors
 visits
 vista
 vistara
+visteon
 visualises
 visualising
 visually
@@ -35142,6 +35272,7 @@ vlog
 vlogger
 vmax
 vmi
+vms
 vmware
 vo
 vocabulary
@@ -35170,6 +35301,7 @@ volcano
 volcano-hit
 volcanoes
 vole
+volgensis
 volker
 volkov
 volkswagen
@@ -36336,6 +36468,7 @@ yaeger
 yahoo
 yahsinn
 yahya
+yajin
 yak-40
 yakama
 yakovlev
@@ -36430,6 +36563,7 @@ yeuns
 yews
 yg
 ygg-backed
+yhei
 yi
 yiddish
 yield
@@ -36490,6 +36624,7 @@ youn
 young
 younger
 youngest
+youngkin
 youngs
 youngster
 youngsters
