@@ -1012,6 +1012,7 @@
 1-u
 1-us
 1-vehicle
+1-word
 1-year
 1-year-old
 10
@@ -1252,6 +1253,7 @@
 140
 1400
 140712
+140k
 142
 142246
 142nd
@@ -1367,6 +1369,7 @@
 18
 18-
 18-19
+18-20
 18-ka
 18-month-old
 18-wheeler
@@ -1406,6 +1409,7 @@
 1895
 1897
 18th
+18th-century
 19
 19-10
 19-17
@@ -1750,6 +1754,7 @@
 246000
 2467b
 247
+248000
 249
 24f-2nt
 24k29k
@@ -2072,6 +2077,7 @@
 410
 410000
 410lb
+415
 416
 416000
 417
@@ -2473,6 +2479,7 @@
 8-year-olds
 80
 80-76
+80-minute
 80-year-old
 800
 8000
@@ -3004,6 +3011,7 @@ adversity
 advert
 advertisers
 advertising
+adverts
 advice
 advise
 advised
@@ -3045,6 +3053,7 @@ afar
 afc
 afcon
 afd
+aff
 affair
 affairs
 affect
@@ -3121,6 +3130,7 @@ agent
 agents
 agenus
 ages
+aggie
 agglomerations
 agglomration
 agglopolys
@@ -3313,6 +3323,7 @@ album
 albums
 albuquerque
 alcaria
+alcarrs
 alcee
 alces
 alchemist
@@ -3838,6 +3849,7 @@ anthems
 anthony
 anthropological
 anthropologie
+anthropologies
 anthropology
 anti-aging
 anti-aircraft
@@ -3968,6 +3980,7 @@ apkg
 apkpure
 apl
 apna
+apnea
 apocalypse
 apocalyptic
 apocryphal
@@ -4627,6 +4640,7 @@ avatar
 avax
 avdija
 ave
+avec
 avedre
 avelline
 avenatti
@@ -4721,6 +4735,7 @@ azusa
 b
 b-day
 b-nl
+b-real
 b4u
 ba
 baa
@@ -4915,6 +4930,7 @@ bamford
 bamfords
 bampoe
 ban
+banal
 banana
 bananas
 banat
@@ -4964,6 +4980,7 @@ banner
 banners
 banning
 bannon
+banquet
 bans
 bantamweight
 bantering
@@ -5061,6 +5078,7 @@ bart
 bartali
 bartees
 bartender
+bartle
 bartlett
 bartolomeo
 barton
@@ -5138,6 +5156,7 @@ batten
 batter
 battered
 batteries
+battering
 batters
 battery
 battery-powered
@@ -5403,6 +5422,7 @@ benzema
 bequaerti
 bequette
 beran
+berandette
 berardi
 berardis
 berating
@@ -5521,6 +5541,7 @@ bhatgaon
 bhattacharjee
 bhattacharya
 bhavana
+bheeshm
 bhekizizwe
 bhitali
 bhojpuri
@@ -5534,6 +5555,7 @@ bianca
 bianco
 bias
 biased
+biasi
 biathlete
 biathlon
 bibaa
@@ -5736,6 +5758,7 @@ bla
 blac
 black
 black-owned
+black-tie
 blackbear
 blackberry
 blackburn
@@ -5951,6 +5974,7 @@ bobsled
 bobsledders
 bobsleigh
 bobsleigh-brazils
+bobsleigh-brits
 bobsleigh-weight
 boca
 bocchi
@@ -6106,6 +6130,7 @@ bordeaux
 border
 borderline
 borders
+bore
 bored
 borgata
 borgen
@@ -6586,6 +6611,7 @@ btstu
 buat
 bubba
 bubble
+bubbles
 buccaneers
 buccaneers-patriots
 buchanan
@@ -7683,6 +7709,7 @@ charlottes
 charlottesville
 charlton
 charly
+charm
 charming
 charms
 charmss
@@ -7823,6 +7850,7 @@ chick-fil-a
 chicken
 chicks
 chiding
+chido
 chief
 chiefs
 chiellini
@@ -8004,6 +8032,7 @@ ciclavia
 cicley
 cielito
 cielo
+ciena
 cigar
 cigarette
 cigarettes
@@ -8119,6 +8148,7 @@ classic
 classical
 classics
 classifies
+classiq
 classmate
 classmates
 classroom
@@ -8803,6 +8833,7 @@ conquering
 conqueror
 conquers
 conquests
+conrads
 conroe
 cons
 consecutive
@@ -8821,6 +8852,7 @@ conservative
 conservatives
 conservator
 conservatorship
+conservatorships
 conserve
 consider
 considerable
@@ -9212,6 +9244,7 @@ cove
 covenant
 coventry
 cover
+cover-ups
 coverage
 coveralls
 covered
@@ -9310,6 +9343,7 @@ crawling
 craze
 crazy
 crdoba
+cre
 cream
 creamery
 creamy
@@ -9347,6 +9381,7 @@ cremations
 crematoriums
 creme
 crenshaw
+crescentville
 cresco
 cressida
 crest
@@ -9600,6 +9635,7 @@ curfew
 curfew-breaking
 curfews
 curing
+curio
 curiosity
 curious
 curler
@@ -9812,6 +9848,7 @@ daniel
 daniela
 danielle
 daniels
+danis
 danish
 dank
 danny
@@ -9843,6 +9880,7 @@ darkling
 darkness
 darktrace
 darling
+darlings
 darnell
 darnella
 darnold
@@ -10912,6 +10950,7 @@ disproportionately
 dispute
 disputed
 disputes
+disputing
 disqualified
 disqualify
 disquiet
@@ -11734,6 +11773,7 @@ edelmans
 eden
 edens
 edey
+edf
 edgar
 edge
 edges
@@ -11834,6 +11874,7 @@ einstein
 eip-1559
 eirwen
 eisenhower
+eiswelt
 either
 ej
 ejected
@@ -12301,10 +12342,12 @@ equerry
 equinox
 equip
 equipment
+equipping
 equisetacea
 equitable
 equities
 equity
+equitys
 equivalent
 equusearch
 er
@@ -12738,8 +12781,10 @@ exclusionist
 exclusive
 exclusive-gm
 exclusive-robinhood
+exclusive-sen
 exclusive-soccer-breakaway
 exclusive-trump
+exclusive-universal
 exclusively
 excoriates
 excruciating
@@ -12963,6 +13008,7 @@ f-5
 f-bomb
 f-word
 f1
+f1s
 f5
 fa
 faa
@@ -13233,6 +13279,7 @@ fbar
 fbi
 fbis
 fc
+fcc
 fck
 fckers
 fcs
@@ -13360,6 +13407,7 @@ fernndez
 fernndezs
 feroka
 ferrari
+ferraris
 ferraro
 ferrata
 ferrell
@@ -13988,6 +14036,7 @@ four-alarm
 four-day
 four-game
 four-goal
+four-man
 four-month
 four-pack
 four-timer
@@ -14352,6 +14401,7 @@ gabbitas
 gabby
 gabbys
 gabe
+gabeira
 gabelli
 gables
 gabonese
@@ -14414,6 +14464,7 @@ galore
 galpagos
 galvanises
 galveston
+galvestons
 galvis
 galwan
 galway
@@ -14678,6 +14729,7 @@ gerrard
 gerrit
 gerry
 gerrymandering
+gersson
 gerth
 gertrud
 gervais
@@ -14896,6 +14948,7 @@ go-tos
 goa
 goaded
 goal
+goalball
 goalie
 goalkeeper
 goalless
@@ -15377,6 +15430,7 @@ guess
 guest
 guest-hosting
 guests
+guggenbichler
 guggenheim
 gugu
 gui
@@ -15728,6 +15782,7 @@ harassed
 harasses
 harassing
 harassment
+harbaugh
 harbinger
 harbor
 harbour
@@ -15942,6 +15997,7 @@ heads
 headset
 headsets
 headspace
+headwinds
 heal
 healdsburg
 healey
@@ -15998,6 +16054,7 @@ heatwave
 heave
 heaven
 heavens
+heaviest
 heavily
 heavy
 heavy-duty
@@ -16059,6 +16116,7 @@ helm
 helmet
 helmets
 helms
+helmsdale
 helmstatt
 help
 helped
@@ -16094,6 +16152,7 @@ hensoldt
 heolgerrig
 hepatitis
 hepburn
+hepburns
 hephaestine
 her
 heralds
@@ -16234,6 +16293,7 @@ highways
 higuains
 hiha
 hijab
+hijabs
 hijack
 hijacked
 hijacking
@@ -16443,6 +16503,7 @@ homoeopathy
 homophobia
 homophobic
 homosexuality
+homre
 honda
 hondas
 honduran
@@ -16996,6 +17057,7 @@ illegally
 illegitimate
 illiberal
 illicit
+illicitly
 illini
 illinois
 illinoisan
@@ -17528,6 +17590,7 @@ interactive
 interagency
 intercepted
 interception
+interchain
 interchange
 intercontinental
 intercounty
@@ -17665,6 +17728,7 @@ involvement
 involves
 involving
 inwood
+inzpira
 ioa
 ioana
 ioc
@@ -17960,6 +18024,7 @@ jarlath
 jarlin
 jarman
 jarnkrok
+jaroslav
 jarring
 jarrn
 jarrod
@@ -18078,6 +18143,7 @@ jeters
 jetley
 jetoile
 jets
+jett
 jetta
 jew
 jewel
@@ -18382,6 +18448,7 @@ k-pops
 k31
 k9
 ka
+ka-yan
 kaag
 kaaway
 kaboom
@@ -18764,6 +18831,7 @@ killer
 killers
 killing
 killings
+killington
 kills
 kilmarnock
 kilmer
@@ -18971,6 +19039,7 @@ kongs
 koning
 konrad
 koonce
+koorman
 koperski
 koppal
 korda
@@ -19486,6 +19555,7 @@ learns
 learnt
 lease
 leased
+leases
 leash
 leasing
 least
@@ -19586,6 +19656,7 @@ leiter
 leja
 lela
 lemi
+lemmings
 lemon
 lemon-honey
 lemonade
@@ -19630,6 +19701,7 @@ leontovych
 leopold
 leos
 lepas
+leppard
 leproplaca
 leptoseris
 leroy
@@ -20003,6 +20075,7 @@ lobbyist
 lobbyists
 lobos
 local
+localish
 locally
 locally-developed
 locals
@@ -20014,6 +20087,7 @@ location
 locations
 loch
 lochburn
+lochwinnoch
 lock
 lockdown
 lockdown-championing
@@ -20079,6 +20153,7 @@ lone
 loneliest
 loneliness
 lonely
+lones
 long
 long-awaited
 long-haul
@@ -20404,6 +20479,7 @@ mackenzie
 mackie
 mackworth
 maclean
+macnab
 macos
 macpherson
 macquarie
@@ -20636,6 +20712,7 @@ manchester
 manchin
 manchins
 mancini
+mandal
 mandalay
 mandarin
 mandate
@@ -20897,6 +20974,7 @@ masculinity
 maserati
 mash
 mashawn
+masi
 masjid
 mask
 mask-burning
@@ -21091,6 +21169,7 @@ mcconaughey
 mcconaugheys
 mcconnell
 mccord
+mccormick
 mccrory
 mcdaniel
 mcdaniels
@@ -21439,6 +21518,7 @@ methodical
 methodist
 methodology
 methods
+methuen
 meting
 metoo
 metra
@@ -21817,8 +21897,10 @@ mitski
 mitsubishi
 mitt
 mitten
+mittmannsgruber
 mitty
 mix
+mix-and-mingle
 mix-match
 mix-up
 mixed
@@ -21853,6 +21935,7 @@ mo
 mo3
 moa
 moab
+moakler
 moaning
 mob
 mobap
@@ -22154,6 +22237,7 @@ mosquitoes
 moss
 mossad
 most
+most-expensive
 most-watched
 mostly
 mosul
@@ -22278,6 +22362,7 @@ mta
 mtas
 mtes
 mtgs
+mtley
 mtume
 mtv
 mtvs
@@ -22287,6 +22372,7 @@ much
 much-hyped
 much-loved
 much-needed
+much-younger
 mud
 mudalige
 mudaria
@@ -22363,6 +22449,7 @@ mumia
 mummers
 mummy
 mums
+mumtaz
 mumu
 munaf
 munan
@@ -22662,6 +22749,7 @@ naturally
 nature
 natureactivists
 natures
+natwest
 naughtiest
 naughton
 naughty
@@ -22855,6 +22943,7 @@ neuroscientist
 neutered
 neutral
 neutralises
+neutrality
 nevada
 never
 neverland
@@ -22863,6 +22952,7 @@ nevers
 neville
 new
 new-era
+new-home
 new-look
 new-vehicle
 newark
@@ -23307,6 +23397,7 @@ nsa
 nsab
 nsai
 nsfw
+nsg
 nso
 nsw
 nsx
@@ -23425,6 +23516,7 @@ oatly
 oatmeal
 oawa
 ob-gyns
+obadeyi
 obaji
 obama
 obama-era
@@ -23668,6 +23760,7 @@ omicrons
 omission
 omissions
 omisure
+omits
 omkar
 omloop
 omx
@@ -23905,6 +23998,7 @@ osman
 osn
 ospreys
 ossetian
+ossoff
 ostovich
 ostriches
 osullivan
@@ -24023,6 +24117,7 @@ over-promised
 over-unders
 overall
 overblown
+overboard
 overcame
 overcome
 overcomes
@@ -24261,6 +24356,7 @@ pandemic-related
 pandemic-style
 pandemicand
 pandemics
+panditayan
 pandora
 paneer
 panel
@@ -24286,6 +24382,7 @@ pantones
 pantry
 pants
 pantsuit
+panuka
 pao
 paok
 paola
@@ -24338,6 +24435,7 @@ paranormal
 paraprofessional
 parasitic
 paratrooper
+parbatia
 parc
 pardi
 pardon
@@ -25265,6 +25363,7 @@ plum
 plumas
 plumbella
 plumbing
+plumes
 plummer
 plummet
 plummeted
@@ -25430,6 +25529,7 @@ pool
 poole
 pools
 poolside
+poon
 poopcoin
 poops
 poor
@@ -25802,6 +25902,7 @@ prestige
 prestigious
 presto
 preston
+presumes
 presumption
 pretend
 pretended
@@ -26389,6 +26490,7 @@ quarantine
 quarantine-free
 quarantined
 quarantines
+quarantining
 quarries
 quart
 quarter
@@ -26894,6 +26996,7 @@ rebellion
 rebels
 rebillet
 rebirth
+rebny
 rebook
 reboot
 rebooting
@@ -27285,6 +27388,7 @@ releasing
 relegated
 relegation
 relent
+relenting
 relentless
 relevant
 reliability
@@ -27366,6 +27470,7 @@ renaissance
 rename
 renamed
 renames
+renaming
 renault
 render
 rendered
@@ -27617,6 +27722,7 @@ retailers
 retain
 retained
 retains
+retake
 retaliate
 retaliation
 retaliatory
@@ -28026,6 +28132,7 @@ rodgers
 rodn
 rodney
 rodrguez
+rodrigo
 rodrigos
 rodriguez
 rodriguezs
@@ -28107,6 +28214,7 @@ ronaldo
 ronan
 ronda
 rondale
+rondeau
 rongming
 ronks
 ronna
@@ -28261,6 +28369,7 @@ rubbish
 rubbishes
 rubble
 ruben
+rubens
 rubicon
 rubin
 rubins
@@ -28342,6 +28451,7 @@ runaway
 rune
 runets
 runner
+runner-by-runner
 runner-up
 runners
 running
@@ -28367,6 +28477,7 @@ ruskin
 russas
 russell
 russia
+russia-backed
 russia-controlled
 russia-led
 russia-ukraine
@@ -28651,11 +28762,13 @@ sandbag
 sandbox
 sandefjord
 sanders
+sanderson
 sandford
 sandhills
 sandhu
 sandland
 sandlots
+sandman
 sandown
 sandra
 sandro
@@ -29145,9 +29258,11 @@ seekers
 seeking
 seeks
 seem
+seemapuri
 seemingly
 seems
 seen
+seeping
 seeps
 sees
 seesaw
@@ -29484,6 +29599,7 @@ shangrilaensis
 shanley
 shanmugasundaram
 shann
+shanna
 shannen
 shape
 shaped
@@ -29532,6 +29648,7 @@ shawnmaster
 shaymin
 shayne
 shc
+shcherbakova
 she
 shea
 shebelieves
@@ -29631,6 +29748,7 @@ shipwrecks
 shipwright
 shipyard
 shirai
+shireen
 shirley
 shirt
 shirtless
@@ -29912,6 +30030,7 @@ simmering
 simmons
 simms
 simon
+simonds
 simone
 simonyan
 simple
@@ -30342,6 +30461,7 @@ snoop
 snooping
 snoots
 snooze
+snoring
 snow
 snow-capped
 snow-covered
@@ -30365,6 +30485,7 @@ snowy
 snowyes
 snp
 snps
+snub
 snubbed
 snuffs
 snx
@@ -30385,6 +30506,7 @@ sober
 sobol
 sobrante
 sobriety
+soc
 socal
 soccer
 soccer-arteta
@@ -30440,6 +30562,7 @@ sofis
 soft
 softball
 softbank
+softening
 softens
 softer
 softest
@@ -30685,6 +30808,7 @@ spawning
 spawns
 spca
 speacht
+speacial
 speak
 speakeasy
 speaker
@@ -30873,6 +30997,7 @@ sprint
 sprinters
 sprinting
 sprints
+sprites
 spruce
 spruyt
 spur
@@ -31029,6 +31154,7 @@ stardance
 stardom
 stare
 stares
+stargate
 stargazing
 staria
 stark
@@ -31058,6 +31184,7 @@ starve
 starved
 starving
 stash
+stashed
 stasi
 stat
 stat-breaking
@@ -31193,6 +31320,7 @@ sticking
 sticks
 sticky
 stiff
+stiffed
 stiffer
 stifle
 stifled
@@ -31350,6 +31478,7 @@ streams
 strebl
 street
 streetcar
+streetcode
 streetlights
 streeton
 streets
@@ -31450,6 +31579,7 @@ studying
 stuff
 stuffed
 stumble
+stumbles
 stumbling
 stun
 stung
@@ -31594,6 +31724,7 @@ suitable
 suitcase
 suitcases
 suite
+suites
 suits
 sukhdarshan
 suki
@@ -31705,6 +31836,7 @@ supermodel
 supermolecule
 supermoon
 supernova
+supernuclear
 supersize
 superski
 supersonic
@@ -32037,6 +32169,7 @@ ta2541
 taabbu
 taal
 taarak
+taavetti
 tab
 table
 table-top
@@ -32376,6 +32509,7 @@ tekkes
 teknik
 teknofest
 tel
+tel-aviv
 telecast
 telecom
 telegram
@@ -32910,6 +33044,7 @@ tlaibs
 tlc
 tlvision
 tm
+tmeeniobanke
 tmz
 tnt
 to
@@ -33402,6 +33537,7 @@ trivigno
 troendle
 trojan
 trojanized
+trojans
 troll
 trolley
 trolls
@@ -33465,6 +33601,7 @@ trumpworld
 trunc
 trunk
 trupanion
+trusova
 truss
 trust
 trusted
@@ -33669,6 +33806,7 @@ tyrone
 tyson
 tzu
 u
+u-18
 u-23
 u-haul
 u-turn
@@ -33764,6 +33902,7 @@ umbilical
 umbrella
 umg
 umphang
+umpqua
 un
 un-american
 un-backed
@@ -34015,6 +34154,7 @@ unravels
 unrecognizable
 unregistered
 unreleased
+unrelenting
 unreliable
 unreservedly
 unrest
@@ -34189,6 +34329,7 @@ use
 use-cases
 use-of-force
 used
+used-vehicle
 useful
 useless
 user
@@ -34555,6 +34696,7 @@ viacomcbs
 vials
 vibe
 vibes
+vibrant
 vic
 vicarious
 vice
@@ -34978,6 +35120,7 @@ wandavision
 wanderer
 wanderers
 wandering
+wane
 wanes
 wang
 waning
@@ -35046,6 +35189,7 @@ warrington
 warrior
 warriors
 wars
+warsaw
 warsawshore
 warship
 warships
