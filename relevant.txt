@@ -1054,6 +1054,7 @@
 100000
 100000-Mile
 100000-a-year
+1000m
 100K
 100M
 100k
@@ -1185,6 +1186,7 @@
 121
 121-105
 121-107
+121-year-old
 122
 122-104
 122-116
@@ -1534,6 +1536,7 @@
 1993
 1994
 1995
+199596
 1996
 199798
 1998
@@ -1923,6 +1926,7 @@
 300k
 303
 306
+30757
 308
 3080
 30Jan
@@ -2099,6 +2103,7 @@
 40Healthy
 40K
 40M
+40per
 40s
 40th
 40th-anniversary
@@ -2435,6 +2440,7 @@
 70
 70-45
 70-64
+70-Year-Old
 70-year-old
 700
 700-meter-deep
@@ -2567,6 +2573,7 @@
 8574
 86
 86-61
+86-66
 87
 87-73
 87-Year-Old
@@ -3280,6 +3287,7 @@ Aircon
 Aircraft
 Aires
 Airfares
+Airfield
 Airflow
 Airing
 Airline
@@ -5471,6 +5479,7 @@ Bluebird
 Bluerock
 Blues
 Bluetooth
+Blunck
 Blunt
 Blunt-Smoking
 Blunts
@@ -5640,6 +5649,7 @@ Borough
 Borregales
 Borromeo
 BorrowMoneycom
+Borselen
 Bos
 Bosa
 Bosch
@@ -5794,6 +5804,7 @@ Brawlhallas
 Brawls
 Brawn
 Braxton
+Brazeau
 Brazen
 Brazil
 Brazilian
@@ -6110,6 +6121,7 @@ Burglarize
 Burglarized
 Burglars
 Burglary
+Burguete
 Burial
 Buried
 Burke
@@ -6258,6 +6270,7 @@ CDPHE
 CDU
 CDUCSU
 CDUs
+CE
 CECO
 CEL
 CEMEX
@@ -6424,6 +6437,7 @@ Cactus
 Cadden
 Caddy
 Cadence
+Cadet
 Cadilas
 Cadillac
 Cadillacs
@@ -6957,6 +6971,7 @@ Chaetus
 Chahatein
 Chai
 Chain
+Chainalysis
 Chainlink
 Chains
 Chainsaw
@@ -7090,6 +7105,7 @@ Chaumont
 Chauvin
 Chauvins
 Chavez
+Chawla
 Che
 Cheap
 Cheaper
@@ -8446,6 +8462,7 @@ Curfews
 Curiosity
 Curious
 Curling
+Curling-Injury-scarred
 Curran
 Currencies
 Current
@@ -8598,6 +8615,7 @@ DMX
 DMXs
 DMs
 DNA
+DNF
 DNR
 DNS
 DO
@@ -8694,6 +8712,7 @@ Damalie
 Damari
 Damasak
 Damascus
+Dame
 Damian
 Daml
 Damn
@@ -8722,6 +8741,7 @@ Dangers
 Dani
 Danica
 Daniel
+Daniela
 Danielle
 Daniels
 Danish
@@ -10189,6 +10209,7 @@ Edgier
 Edgy
 Edhi
 Edibles
+Edin
 Edina
 Edinburgh
 Edith
@@ -11182,6 +11203,7 @@ Failures
 Faina
 Faint
 Fair
+FairPrice
 Fairbrother
 Fairfax
 Fairfield
@@ -12201,6 +12223,7 @@ GSH
 GSP
 GT
 GT3
+GTA-obsessed
 GTE
 GTX
 GTY
@@ -12586,6 +12609,7 @@ Girls
 Giroux
 Gis
 Gisele
+Gisin
 GitHub
 Giudice
 Giuffre
@@ -13141,6 +13165,7 @@ HBO
 HBOs
 HC
 HCSO
+HCs
 HD
 HDB
 HEADLANDS
@@ -13874,6 +13899,7 @@ Hodgson
 Hodlers
 Hofdemel
 Hoffman
+Hoffos
 Hogan
 Hoggett
 Hoggs
@@ -14204,6 +14230,7 @@ Huston
 Hutch
 Hutchins
 Hutchinson
+Huts
 Hutsona
 Huya
 Huzaif
@@ -14899,6 +14926,7 @@ Irregularities
 Irreparable
 Irreparably
 Irresistibly
+Irrigation
 Irv
 Irvine
 Irving
@@ -15877,6 +15905,7 @@ Khoshnur
 Khoua
 Khutsishvili
 Kia
+Kian
 Kianna
 Kiara
 Kiche
@@ -16068,6 +16097,7 @@ Kolko
 Kollwitz
 Kombat
 Kombats
+Komeutyuyam
 Komoroski
 Kompasu
 Konare
@@ -16680,6 +16710,7 @@ Leno
 Lenovos
 Lenox
 Lens
+LensCultures
 Lent
 Lenten
 Lenwood
@@ -16963,6 +16994,7 @@ Ljubo
 Llama
 Llorente
 Lloyd
+Lneburg
 Lo
 LoCascio
 LoL
@@ -16997,6 +17029,7 @@ Lockdowns
 Locke
 Locked
 Locker
+Lockes
 Lockfisher
 Locking
 Locklear
@@ -17228,6 +17261,7 @@ Luring
 Lurk
 Lusk
 Lust
+Luster
 Lutful
 Luther
 Luthuli
@@ -17530,6 +17564,7 @@ Mahmut
 Mahomes
 Maid
 Maidan
+Maier
 Mail
 Mail-In
 Mailata
@@ -17652,6 +17687,7 @@ Mane
 Manea
 Maneuver
 Maneuvers
+Manglam
 Mangoplah
 Mangy
 Manhattan
@@ -17724,6 +17760,7 @@ Mardoche
 Mare
 Maren
 Mares
+Marfeil
 Margaret
 Margareta
 Margarethe
@@ -17836,6 +17873,7 @@ Martn
 Martnez
 Marty
 Martyrs
+Marun
 Marvel
 Marvel-Themed
 Marvelous
@@ -18671,6 +18709,7 @@ Moldy
 Molek
 Molestation
 Molestor
+Moliga
 Molina
 Moline
 Mollema
@@ -18842,6 +18881,7 @@ Mose
 Moses
 Mosesson
 Mosh
+Moskau
 Mosley
 Mosque
 Mosquera
@@ -19252,6 +19292,7 @@ Nadals
 Nadezhda
 Nadu
 Nael
+Naeslund
 Naether
 Nagamura
 Nagashima
@@ -19306,6 +19347,7 @@ Napheesa
 Napoleon
 Napoli
 Napping
+Naqqash
 Naraka
 Narasimha
 Narcotics
@@ -19490,6 +19532,7 @@ Network
 Networks
 Netzero
 Neumann
+Neuralink
 NeuroPace
 Neurological
 Neuroscientist
@@ -19786,6 +19829,7 @@ Notice
 Notices
 Notoriety
 Notorious
+Notre
 Nots
 Notting
 Nottingham
@@ -19981,6 +20025,7 @@ Obsession
 Obsolete
 Obstacles
 Obtain
+Ocado
 Ocala
 Ocasio-Cortez
 Occasion
@@ -20147,6 +20192,7 @@ One-quarter
 One-third
 One-word
 OneGram
+OnePlus
 Ones
 Ong
 Ongoing
@@ -20879,6 +20925,7 @@ Paul-Askren
 Paula
 Paulina
 Pauline
+Paulistania
 Paulo
 Paulos
 Pauls
@@ -21010,6 +21057,7 @@ People8217
 Peoples
 Pep
 Pepper
+Pepperdine
 Pepperdine-bound
 Pepperell
 Peppers
@@ -21069,6 +21117,7 @@ Perpetuate
 Perplexed
 Perry
 Perrys
+Perse
 Persecuted
 Persepolis
 Perseverance
@@ -21122,10 +21171,12 @@ Petronas
 Petros
 Petrusenko
 Pets
+Pett
 Petter
 Petty
 Peugeot
 Peyae
+Pfarr
 Pfeiffer
 Pfizer
 Pfizer-jabbed
@@ -21833,6 +21884,7 @@ Priceless
 Prices
 Pricey
 Priciest
+Pricing
 Pride
 Prides
 Priest
@@ -22621,6 +22673,7 @@ Raven
 Ravens
 Ravenswood
 Ravi
+Ravidas
 Ravka
 Ravkoo
 Ravnsborg
@@ -23885,6 +23938,7 @@ SFL
 SFPOA
 SFUSD
 SFs
+SGL
 SH
 SH-288
 SHANE
@@ -24487,6 +24541,7 @@ Seagate
 Seager
 Seagers
 Seagrams
+Seah
 Seahawks
 Seal
 Sealed
@@ -24852,6 +24907,7 @@ Shawn
 ShawnMaster
 Shayne
 She
+SheBelieves
 Shea
 Shed
 Shedd
@@ -26365,6 +26421,7 @@ Sulaiman
 Sulanga
 Suldaan
 Suleiman
+Suleman
 Sulli
 Sullivan
 Sultan
@@ -26619,6 +26676,7 @@ Swoopin
 Sword
 Sword-Wielding
 Swordfish
+Swordmaster
 Sworn
 Swyftx
 Sy
@@ -26668,6 +26726,7 @@ Systems
 Szrnka
 T
 T-AKR-5069
+T-AKR-5077
 T-Mobile
 T-Rex
 T-Shirts
@@ -27529,6 +27588,7 @@ Torres
 Torreyes
 Tortelier
 Tortilla
+Tortoises
 Torture
 Tory
 Toscano-Anderson
@@ -28373,6 +28433,7 @@ Uranium
 Uras
 Urban
 Urbanization
+Urfeil
 Urge
 Urged
 Urgency
@@ -28832,6 +28893,7 @@ Violent
 Violently
 Violet
 Viper
+Vipul
 Virafin
 Viral
 Virgen
@@ -29528,6 +29590,7 @@ Wildfire
 Wildfire-fighting
 Wildfires
 Wildflower
+Wildland
 Wildlife
 Wildomar
 Wilds
@@ -29653,6 +29716,7 @@ Wokeness
 Wokeristas
 Wold
 Wolf
+Wolfert
 Wolff
 Wolfhard
 Wolford
@@ -30162,6 +30226,7 @@ Zhang
 Zhao
 Zhaos
 Zhaoxiang
+Zhejiang
 Zheng
 Zhengtu
 Zhilans
@@ -30792,6 +30857,7 @@ antiviral
 anxiety
 anxious
 any
+anybody
 anymore
 anyone
 anyones
@@ -31282,6 +31348,7 @@ batteries
 batters
 battery
 battery-powered
+batting
 battle
 battlefield
 battles
@@ -31515,6 +31582,7 @@ blighted
 blind
 blinders
 blindfolded
+blindness
 blinked
 blister
 blistering
@@ -31601,6 +31669,7 @@ bolster
 bolt
 bolts
 bomb
+bomb-making
 bombarded
 bombastic
 bomber
@@ -32369,6 +32438,7 @@ choking
 choose
 chooses
 choosing
+chopper
 chopping
 choppy
 chops
@@ -32551,6 +32621,7 @@ coaches
 coaching
 coal
 coal-fired
+coal-reliant
 coalition
 coalitions
 coast
@@ -35169,6 +35240,7 @@ federally
 federation
 feds
 fee
+fee-payment
 feed
 feedback
 feeder
@@ -36566,6 +36638,7 @@ hotter
 hottest
 hour
 hours
+hours-long
 house
 house-price
 housebuilders
@@ -37122,6 +37195,7 @@ invention
 inventor
 inventories
 inventors
+inventory
 invest
 investigate
 investigated
@@ -37962,6 +38036,7 @@ manatee
 manatees
 mandate
 mandates
+mandating
 mandatory
 maneuverable
 manga
@@ -38103,6 +38178,7 @@ meaty
 mechanism
 mecidiye
 medal
+medalist
 medallions
 medallist
 medals
@@ -38943,6 +39019,7 @@ offices
 official
 officially
 officials
+offline
 offload
 offloaded
 offseason
@@ -39068,6 +39145,7 @@ ordering
 orders
 ordinance
 ordinariness
+ore
 organise
 organised
 organisers
@@ -39382,6 +39460,7 @@ patent
 patents
 paternity
 path
+pathetic
 pathologist
 pathos
 paths
@@ -40389,6 +40468,7 @@ quits
 quitting
 quiz
 quizzed
+quota
 quotas
 quote
 quotes
@@ -41913,6 +41993,7 @@ shipping
 ships
 shipwreck
 shipwrecks
+shipwright
 shirt
 shirtless
 shock
@@ -41986,6 +42067,7 @@ showcasing
 showdown
 showed
 shower
+showered
 showers
 showing
 shown
@@ -42130,8 +42212,11 @@ skiers
 skies
 skiing
 skiing-Gu
+skiing-Krueger
 skiing-Shiffrin
 skiing-Snow
+skiing-Swedens
+skiing-Swiss
 skill
 skills
 skimming
@@ -42412,6 +42497,7 @@ sparked
 sparking
 sparkle
 sparkling
+sparkly
 sparks
 spars
 spat
@@ -43202,6 +43288,7 @@ taking
 tale
 talent
 talent-rich
+talents
 tales
 talk
 talkCs
@@ -43561,6 +43648,7 @@ times
 timetable
 timing
 tinderbox
+tinker
 tinkering
 tiny
 tip
@@ -44322,6 +44410,7 @@ veiled
 vendor
 vendors
 venerated
+venereal
 venomous
 vented
 ventosicola
@@ -44673,6 +44762,7 @@ wetter
 weve
 whacked
 whale
+whales
 whammy
 what
 what-if
@@ -44808,6 +44898,7 @@ woebegone
 woeful
 woes
 woke
+woken
 wokeness
 wolf
 wolves
