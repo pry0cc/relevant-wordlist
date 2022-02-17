@@ -1074,6 +1074,7 @@
 103-89
 103-91
 104
+1040
 1041
 104795
 104M
@@ -1262,6 +1263,7 @@
 13G
 13GA
 13K
+13M
 13th
 14
 14-12
@@ -1458,6 +1460,7 @@
 191011
 191112
 1912
+1913
 1915
 1916
 1917
@@ -1498,6 +1501,7 @@
 1954
 1955
 1956
+195758
 1958
 195859
 1959
@@ -1703,6 +1707,7 @@
 2042s
 2045
 2050
+205M
 206
 20673
 2069
@@ -2065,6 +2070,7 @@
 3D-printed
 3G
 3K
+3KMonth
 3M
 3Weed
 3bn
@@ -2196,6 +2202,7 @@
 46
 46-18
 46000
+462-day
 464
 466
 46K
@@ -2427,6 +2434,7 @@
 672
 6733
 675
+677-horsepower
 6781
 67th
 68
@@ -2448,6 +2456,7 @@
 6ix9ine
 6pm
 6th
+6th-grader
 7
 7-0
 7-1
@@ -2597,6 +2606,7 @@
 83
 83-71
 83-Year-Old
+8300-mile
 837
 84
 84-year-old
@@ -3410,6 +3420,7 @@ Albemarle
 Albert
 Alberto
 Albin
+Alborada
 Albrecht-Payton
 Album
 Albums
@@ -3473,6 +3484,7 @@ Algerias
 Algorand
 Ali
 Ali-Reza
+AliExpress
 Alia
 Aliartos
 Alibaba
@@ -4244,6 +4256,7 @@ Assembly
 Assemblywoman
 Assen
 Assessing
+Assessment
 Asset
 Assets
 Assist
@@ -5476,6 +5489,7 @@ Blacktop
 Bladepoint
 Blades
 Blah
+Blaine
 Blair
 Blairs
 Blaise
@@ -5552,6 +5566,7 @@ Bloody
 BloodyStealer
 Bloom
 Bloomberg
+Bloomfield
 Bloomin
 Bloomingdale
 Blossom
@@ -5575,6 +5590,7 @@ Blunt
 Blunt-Smoking
 Blunts
 Blurred
+Blutwurstia
 Bmouth
 Bndchen
 Bo
@@ -5642,6 +5658,7 @@ Boggs
 Bogislaw
 Bogot
 Bohannan
+Bohdan
 Bohjalian
 Bohm
 Boi
@@ -5870,6 +5887,7 @@ Branches
 Brand
 Brandi
 Brandin
+Brandishes
 Brandishing
 Brandon
 Brands
@@ -6046,6 +6064,7 @@ Broiler
 Broke
 Broken
 Brokerage
+Brokerages
 Brom
 Bromberg
 Bromhead
@@ -6102,6 +6121,7 @@ Brunson
 Brunswick
 Brush
 Brussels
+Brut
 Brutal
 Brutality
 Brute-Force
@@ -6170,6 +6190,7 @@ Bulgarians
 Bulgarias
 Bulking
 Bull
+Bullard
 Bulldog
 Bulldogs
 Bullet
@@ -6217,6 +6238,7 @@ Burglarize
 Burglarized
 Burglars
 Burglary
+Burgos
 Burguete
 Burial
 Buried
@@ -6295,6 +6317,7 @@ Bway
 By
 ByYellow
 Bybit
+Bychkov
 Byculla
 Bydgoszcz
 Bylaws
@@ -7051,6 +7074,7 @@ Century-Old
 Century-old
 Cerami
 Cercetes
+Cerci
 Cereal
 Cerebral
 Ceremonies
@@ -7451,15 +7475,18 @@ Cicero
 Cicley
 Cielito
 Cielo
+Ciemupe
 Ciena
 Cigar
 Cigna
 Cilantro-Lime
 Cilfrew
+Cillizza
 Cima
 Cincinnati
 Cinco
 Cincy
+Cinderella
 Cindy
 Cinema
 Cinematic
@@ -7575,6 +7602,7 @@ Cleaver
 Cleer
 Clement
 Clemente
+Clementi
 Clene
 Clent
 Clerk
@@ -7817,6 +7845,7 @@ Colvill
 Colville
 ComEd
 Coma
+Comal
 Coman
 Comatorium
 Combat
@@ -8235,6 +8264,7 @@ Corrections
 Correia
 Corridor
 Corrin
+Corrosella
 Corrupt
 Corruption
 Corrwg
@@ -8748,6 +8778,7 @@ DMXs
 DMs
 DNA
 DNF
+DNFs
 DNR
 DNS
 DO
@@ -9141,6 +9172,7 @@ Deightoniella
 Deion
 Deja
 Del
+Delaunay
 Delaware
 Delawares
 Delay
@@ -9216,6 +9248,7 @@ Demos
 Dems
 Den
 Denali
+Dendrrijs
 Denelle
 Deneuve
 Deng
@@ -9356,6 +9389,7 @@ Detox
 Detroit
 Detroits
 Detto
+Deundra
 Deutsch
 Deutsche
 Deux
@@ -10035,6 +10069,7 @@ Dubais
 Dubey
 Dublin
 Dubn
+Dubrova
 Dubrow
 Ducey
 Duceys
@@ -10107,6 +10142,7 @@ Durarara
 Duration
 Durbin
 Durham
+Durhams
 During
 Durk
 Durks
@@ -10569,6 +10605,7 @@ Embarrassing
 Embassy
 Embattled
 Embedded
+Embezzling
 Embiid
 Embiids
 Embiya
@@ -10653,6 +10690,7 @@ Endanger
 Endangered
 Endeavor
 Ended
+Endemic
 Ender
 Enders
 Endgame
@@ -10670,6 +10708,7 @@ Endtroducing
 Endurance
 Endured
 Enduring
+Enel
 Enemy
 Eneos
 Energy
@@ -10883,6 +10922,7 @@ Eugenia
 Eul-bun
 Eulogized
 Eulogy
+Eunice
 Euphorbia
 Euphoria
 Eurasian
@@ -11012,6 +11052,7 @@ Ex-Michigan
 Ex-NASA
 Ex-NBC
 Ex-NFL
+Ex-NY
 Ex-Officer
 Ex-PBOC
 Ex-PM
@@ -11306,6 +11347,7 @@ FP
 FPXs
 FRANCE
 FRANKLIN
+FREDA
 FREDERICK
 FREE
 FREEDOM
@@ -11395,6 +11437,7 @@ Faith
 Faiths
 Fajardo
 Fake
+Fakenham
 Faker
 Falcon
 Falconer
@@ -12037,6 +12080,7 @@ Forms
 Formula
 Forrat
 Forrest
+Forrie
 Forsberg
 Forselles
 Forsstrm
@@ -12903,6 +12947,7 @@ Gohmert
 Going
 Going-Out
 Gojira
+Golang-Based
 Golang-based
 Gold
 Golda
@@ -12947,6 +12992,7 @@ GoodmanShop
 Goodness
 Goodnow
 Goods
+Goodson
 Goodwin
 Goodwood
 Google
@@ -13185,6 +13231,7 @@ Grooming
 Groot
 Groping
 Gross
+Grosse
 Ground
 Groundbreaking
 Grounded
@@ -13283,6 +13330,7 @@ Gulval
 Gumbo
 Gumbu
 Gummadi
+Gummies
 Gummy
 Gun
 Gun-Buying
@@ -13673,6 +13721,7 @@ Harvin
 Haryana
 Has
 Hasbro
+Hasenhuettl
 Hasenhuttl
 Hasenhuttls
 Hash
@@ -14406,6 +14455,7 @@ Humphreys
 Humpty
 Humvee
 Hun
+Hundon
 Hundreds
 Hunedoara
 Hungary
@@ -14474,6 +14524,7 @@ Hydrogen
 Hydropunctaria
 Hydrow
 Hygiene
+Hyland
 Hyndman
 Hyo-won
 Hypericum
@@ -14813,6 +14864,7 @@ Inclusive
 Inclusivity
 Income
 Incomplete
+Inconsolable
 Inconvenience
 Inconvenient
 Incorporate
@@ -16058,6 +16110,7 @@ Kelechi
 Keller
 Kelley
 Kellie
+Kells
 Kelly
 Kellys
 Kelsea
@@ -16284,6 +16337,7 @@ Kjartan
 Kka
 Klamath
 Klan
+Klassical
 Klay
 Klein
 Klein-Knight
@@ -16308,6 +16362,7 @@ Knew
 Knicks
 Knife
 Knife-Wielding
+Knife-wielding
 Knifeman
 Knight
 Knighton
@@ -16500,6 +16555,7 @@ Kwame
 Kweli
 Kwity
 Kwofe
+Kyei
 Kyi
 Kyiv
 Kyle
@@ -16690,6 +16746,7 @@ Lamet
 Laminilabrum
 Lamore
 Lampard
+Lampards
 Lamprecht
 Lamproxynella
 Lams
@@ -16697,6 +16754,7 @@ Lamsweerde
 Lana
 Lancashire
 Lancaster
+Lancasters
 Lance
 Lancelot
 Lances
@@ -16870,6 +16928,7 @@ Leaguers
 Leagues
 Leah
 Leak
+Leake
 Leaked
 Leakey
 Leaking
@@ -17086,6 +17145,7 @@ Libyas
 Liccardo
 License
 Licenses
+Licensing
 Lichtenstein
 Licorice
 Liddell
@@ -17206,6 +17266,7 @@ Lions
 Lip
 Lipa
 Lipetsk
+Lipinski
 Lipman
 Lipper
 Lips
@@ -17925,6 +17986,7 @@ Malibus
 Malicious
 Malik
 Malinek
+Malinga
 Malins
 Malis
 Mall
@@ -17985,6 +18047,7 @@ Mane
 Manea
 Maneuver
 Maneuvers
+Manfred
 Manglam
 Mangoplah
 Mangy
@@ -18784,6 +18847,7 @@ Militarys
 Militia
 Milk
 Mill
+Milledge
 Millennia
 Millennial
 Millennium
@@ -19205,6 +19269,7 @@ Mosquito
 Mosquitoes
 Moss
 Mossad
+Mossman
 Most
 Most-Watched
 Mostly
@@ -19320,6 +19385,7 @@ Mukherjea
 Mukhtar
 Mukti
 Mulan
+Muldakmens
 Mule
 Mules
 Mulitalo
@@ -19670,6 +19736,7 @@ Naomi
 Napa
 Naperville
 Napheesa
+Naples
 Napoleon
 Napoli
 Napping
@@ -19803,6 +19870,7 @@ Negotiations
 Negotiators
 Negro
 Nehls
+Nehrus
 Neighbor
 Neighborhood
 Neighborhoods
@@ -20063,6 +20131,7 @@ Nomination
 Nominations
 Nominee
 Nominees
+Nomthandazo
 Nomura
 Nomvelo
 Non
@@ -20196,6 +20265,7 @@ Nowhere
 Nowrozabad
 Nows
 Nsab
+Ntiri
 Nu
 NuGet
 Nubank
@@ -20211,6 +20281,7 @@ Nuke
 Number
 Numbered-node
 Numbers
+Numerous
 Nun
 Nunes
 Nungu
@@ -20370,6 +20441,7 @@ Obsession
 Obsolete
 Obstacles
 Obtain
+Obtains
 Ocado
 Ocala
 Ocasio-Cortez
@@ -20467,6 +20539,7 @@ Okoroji
 Okri
 Okubo
 Olaf
+Olam
 Olamide
 Old
 Older
@@ -20494,6 +20567,7 @@ Olsen
 Olsens
 Olson
 Oluseye
+Oluyemi
 Olympiad
 Olympian
 Olympians
@@ -20551,6 +20625,7 @@ Onions
 Online
 Only
 OnlyFans
+Ono
 Onos
 Onramp
 Onscreen
@@ -20607,6 +20682,7 @@ Optimism
 Optimistic
 Opting
 Option
+Optional
 Options
 Opts
 Or
@@ -20641,6 +20717,7 @@ Oreo
 Oreos
 Organigram
 Organiser
+Organixx
 Organization
 Organizations
 Organize
@@ -20697,6 +20774,7 @@ Otello
 Other
 Others
 Otis
+Otmar
 Ottawa
 Otters
 Otto
@@ -21683,6 +21761,7 @@ Pineapple
 Pinellas
 Piney
 Ping
+Pingshan
 Pink
 Pinks
 Pinnacles
@@ -21713,6 +21792,7 @@ Pirates
 Pirlo
 Piroshky
 Pirro
+Pisa
 Pisani
 Piscadera
 Pisces
@@ -21867,6 +21947,7 @@ PlusMinus
 Pluto
 Plutonium
 Plymouth
+Poached
 Poaching
 Poch
 Pocket
@@ -21886,6 +21967,7 @@ Poh
 Pohlman
 Poikilolaimus
 Point
+Pointe
 Pointed
 Pointers
 Pointing
@@ -22090,6 +22172,7 @@ Potlikker
 Potrero
 Potter
 Potterman
+Potters
 Potts
 Potty
 Poulin
@@ -22272,6 +22355,7 @@ Prigueux
 Primal
 Primary
 Prime
+Primero
 Primes
 Primeshow
 Prince
@@ -22453,6 +22537,7 @@ Providing
 Province
 Provincetown
 Provincial
+Proviso
 Provocative
 Provost
 Prowses
@@ -22546,6 +22631,7 @@ Purefoy
 Purge
 Puri
 Puris
+Purity
 Purle
 Purnima
 Purnmasi
@@ -23495,6 +23581,7 @@ Repeats
 Replace
 Replaced
 Replacement
+Replenish
 Replica
 Replicant
 Replicas
@@ -23554,6 +23641,7 @@ ReserveCOVID
 ReserveCOVID-19
 Reserves
 Reservoir
+Reservoirs
 Resets
 Reshape
 Reshaped
@@ -24277,6 +24365,7 @@ SAB
 SACHS
 SAD
 SAFE
+SAG
 SAILFISH
 SALESFORCECOM
 SALT
@@ -24412,6 +24501,7 @@ SONIM
 SOPs
 SOS
 SOUL
+SOUR
 SOUTHERN
 SOUTHWEST
 SOV
@@ -25069,6 +25159,7 @@ SelfWealth
 Selfie
 Selfless
 Seli
+Selina
 Selinus
 Sell
 Selleck
@@ -25148,6 +25239,7 @@ Sequel
 Sequences
 Sequencing
 Sequestered
+Sequoia
 Serai
 Serbia
 Serbian
@@ -25217,6 +25309,7 @@ Seven-Seater
 Seven-year-old
 Seventh
 Several
+Severance
 Severe
 SevereHeres
 Severed
@@ -25520,6 +25613,7 @@ Shrout
 Shrug
 Shtisel
 Shuai
+Shuichiro
 Shukre
 Shukri
 Shulas
@@ -25651,6 +25745,7 @@ Simonds
 Simone
 Simonyan
 Simple
+Simpler
 Simplest
 Simplify
 Simply
@@ -25852,6 +25947,7 @@ Slow
 Slow-Motion
 Slowdown
 Slowed
+Slowing
 Slowly
 Slows
 Slug
@@ -26826,6 +26922,7 @@ Suburb
 Suburban
 Suburban-based
 Suburbs
+Subvariant
 Subway
 Subways
 Subwoofer
@@ -26937,6 +27034,7 @@ Sunrun
 Suns
 Sunset
 Sunshine
+Sununu
 Suomi
 Suozzi
 Super
@@ -27189,6 +27287,7 @@ SysAdmin
 System
 Systemic
 Systems
+Szafnauer
 Sze-wa
 Szrnka
 T
@@ -27416,6 +27515,7 @@ Tanker
 Tankers
 Tanner
 Tanners
+Tantrums
 Tanya
 Tanzania
 Taos
@@ -27465,6 +27565,7 @@ Taskforce
 Tasks
 Taslim
 Tasmania
+Tasos
 Tasso
 Taste
 Taste-Off
@@ -28221,6 +28322,7 @@ Travis
 Traxamillion
 Tray
 Traylor
+Trayvon
 Trbovi
 Trea
 Tread
@@ -28395,6 +28497,7 @@ Tsirkon
 Tsitsipas
 Tsunami
 Tsushima
+Tsz-ting
 TuSimple
 Tua
 Tuam
@@ -28703,6 +28806,7 @@ Ukraine-Russian
 Ukraines
 Ukrainian
 Ukrainians
+Uliana
 Uljay
 Ulster
 Ultimate
@@ -28738,6 +28842,7 @@ Unbelievably
 Unblocked
 Uncertain
 Uncertainty
+Uncharted
 Unchecked
 Unclaimed
 Uncle
@@ -29000,6 +29105,7 @@ VARIABLE
 VASPs
 VAX
 VAs
+VBA
 VC
 VCS
 VCT
@@ -29799,6 +29905,7 @@ Waterboy
 Waterfall
 Waterfalls
 Waterford
+Waterfort
 Waterfront
 Watergate
 Watering
@@ -29837,6 +29944,7 @@ Wayne
 Ways
 Wayside
 We
+WeChat
 WeHo
 WePlay
 WeTrade
@@ -30000,6 +30108,7 @@ Whampoa
 Whams
 Wharton
 What
+Whataburger
 Whatever
 Whats
 WhatsApp
@@ -30546,6 +30655,7 @@ Yemeni
 Yemens
 Yen
 Yenn
+Yeomanry
 Yeomans
 Yerbal
 Yerevan
@@ -30601,6 +30711,7 @@ Yorkshire
 Yosemite
 Yoshiaki
 Yoshihide
+Yoshino
 Yossifor
 Yosuke
 Yota
@@ -30675,6 +30786,7 @@ Zabu
 Zac
 Zach
 Zachary
+Zachopoulos
 Zack
 Zagir
 Zagitova
@@ -30764,6 +30876,7 @@ Zimbabwe
 Zimbabwes
 Zimmer
 Zimmerman
+Zimmermans
 Zimmers
 Zimon
 Zina
@@ -30850,6 +30963,7 @@ above
 abroad
 abrupt
 absence
+absences
 absolute
 absolutely
 absorbs
@@ -31354,6 +31468,7 @@ anti-coup
 anti-crypto
 anti-disinfo
 anti-doxxing
+anti-dumping
 anti-government
 anti-graft
 anti-immigration
@@ -31380,6 +31495,7 @@ anticipated
 anticipation
 anticompetitive
 antifa
+antiperspirant
 antisemitic
 antiterrorist
 antitrust
@@ -31985,6 +32101,7 @@ benefitrisk
 benefits
 benefitting
 benevolent
+benzene
 bequaerti
 berating
 berth
@@ -32286,6 +32403,7 @@ botanist
 botch
 botched
 both
+bothered
 bots
 bottle
 bottlenecking
@@ -32455,6 +32573,7 @@ buckle
 buckles
 bucks
 buddy
+budged
 budget
 budget-friendly
 budgets
@@ -32703,6 +32822,7 @@ carbonara
 carbs
 card
 cardboard
+carded
 cardiac
 cards
 care
@@ -32727,6 +32847,7 @@ carmaker
 carmaking
 carnage
 carnival
+carolinense
 carpet
 carpool
 carriage
@@ -33131,6 +33252,7 @@ clings
 clinic
 clinics
 clip
+clips
 clock
 clocked
 clocks
@@ -33533,6 +33655,7 @@ consulate
 consult
 consultant
 consultations
+consulting
 consumer
 consumers
 consumes
@@ -34367,6 +34490,7 @@ des
 desalination
 descend
 descendants
+descenso
 descent
 describe
 described
@@ -34688,6 +34812,7 @@ disruptive
 dissent
 disses
 dissidents
+dissipate
 dissociates
 dissociative
 dissolution
@@ -35251,6 +35376,8 @@ endured
 enduring
 enemies
 enemy
+energetic
+energised
 energy
 energy-boosting
 energy-focused
@@ -35395,6 +35522,7 @@ estimated
 estimates
 estranged
 eternity
+ethereum
 ethic
 ethical
 ethics
@@ -35461,6 +35589,7 @@ ex-Estonian
 ex-Goldman
 ex-Heisman
 ex-Liverpool
+ex-MI6
 ex-Madrid
 ex-Mazda
 ex-NFL
@@ -35543,6 +35672,7 @@ exec
 execs
 execute
 executed
+executes
 executing
 execution
 executioners
@@ -35811,6 +35941,7 @@ fast-growing
 fast-moving
 fast-track
 fastball
+fasteners
 faster
 fasterthanlight
 fastest
@@ -36462,6 +36593,7 @@ game-changer
 game-changing
 game-ending
 gameplay
+gamer
 games
 gaming
 gang
@@ -36492,6 +36624,7 @@ gasoline
 gastroenteritis
 gate
 gates
+gateways
 gather
 gathering
 gatherings
@@ -36504,6 +36637,7 @@ gay
 gays
 gaze
 gear
+gearing
 gears
 geeky
 gem
@@ -36681,6 +36815,7 @@ graduation
 graffiti
 graft
 grain
+gran
 grand
 grandchilds
 granddaughter
@@ -36689,6 +36824,7 @@ grandeur
 grandfather
 grandialata
 grandkids
+grandma
 grandmother
 grandparents
 grandson
@@ -36763,6 +36899,7 @@ grooms
 groove
 groped
 groping
+grossly
 ground
 grounded
 grounder
@@ -37613,6 +37750,7 @@ industries
 industry
 industrys
 ineffective
+ineligible
 inequality
 inequities
 inequity
@@ -37695,6 +37833,7 @@ injury
 injury-depleted
 injustice
 ink
+inks
 inland
 inmate
 inmates
@@ -38376,6 +38515,7 @@ licanantay
 license
 licenses
 licensing
+lid
 lidar
 lie
 lied
@@ -38481,6 +38621,7 @@ livestream
 livestreamed
 living
 lizards
+lluvia
 lo
 loaded
 loadout
@@ -38540,6 +38681,7 @@ longs
 longstanding
 longtime
 look
+look-alike
 looked
 looking
 lookouts
@@ -38612,6 +38754,7 @@ luck
 lucky
 lucrative
 ludicrous
+luego
 lull
 lumber
 luminaries
@@ -39119,6 +39262,7 @@ mix-and-mingle
 mix-match
 mixed
 mixtape
+mnemonics
 moaning
 mob
 mobbed
@@ -39197,6 +39341,7 @@ months-long
 monument
 monumental
 monuments
+mood
 moon
 moonBut
 moors
@@ -39608,6 +39753,7 @@ noticeable
 notifications
 notify
 notifying
+notion
 notorious
 novel
 novelist
@@ -39999,6 +40145,7 @@ owned
 owner
 owners
 ownership
+owning
 oxygen
 oysters
 ozone
@@ -41448,6 +41595,7 @@ reconciled
 reconsider
 reconsiders
 reconstruction
+reconversion
 record
 record-breaking
 record-equaling
@@ -41624,6 +41772,7 @@ rejection
 rejects
 rejoices
 rejoin
+rejuvenation
 relapsed
 relapses
 related
@@ -42418,6 +42567,7 @@ scored
 scoreless
 scores
 scoring
+scorn
 scotia
 scourge
 scouting
@@ -42510,6 +42660,7 @@ secures
 securing
 securities
 security
+sedan
 sedan-first
 sedans
 sedition
@@ -43330,8 +43481,10 @@ spin
 spin-off
 spin-offs
 spinach
+spine
 spinning
 spinoff
+spinoffs
 spinosus
 spinouts
 spins
@@ -43664,6 +43817,7 @@ stressed
 stresses
 stressful
 stretch
+stretched
 stretchered
 stretches
 stricken
@@ -44112,6 +44266,8 @@ target
 targeted
 targeting
 targets
+tariffs
+tarnishes
 tased
 task
 taskbar
@@ -44192,6 +44348,7 @@ tell-tale
 telling
 tells
 temper
+temperatura
 temperature
 temperatures
 tempers
@@ -44686,6 +44843,7 @@ treasures
 treasury
 treat
 treated
+treating
 treatment
 treatments
 treats
@@ -44878,6 +45036,7 @@ unbearable
 unbeaten
 unblemished
 unbroken
+uncalled
 uncancelable
 uncanny
 unceremonious
@@ -44999,6 +45158,7 @@ units
 unity
 universal
 universe
+universes
 universities
 university
 unjustified
@@ -45255,6 +45415,7 @@ victory
 video
 videogame
 videos
+viene
 view
 viewers
 viewing
@@ -45729,6 +45890,7 @@ wordless
 words
 wore
 work
+work-life
 work-related
 workaround
 worked
@@ -45828,6 +45990,7 @@ yen
 yes
 yesand
 yesterday
+yesterdays
 yet
 yield
 yielded
