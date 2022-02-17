@@ -8,6 +8,7 @@
 -WH
 -White
 -advisor
+-chair
 -dpa
 -finance
 -held
@@ -1290,6 +1291,7 @@
 15-Year-Old
 15-month
 15-team
+15-week
 15-year
 15-year-old
 15-year-olds
@@ -1390,6 +1392,7 @@
 18-year
 18-year-old
 18-year-olds
+1800
 18000
 1806
 1809
@@ -1603,6 +1606,7 @@
 200304
 2004
 200405
+2005
 2005-7
 20052006
 2006
@@ -1897,6 +1901,7 @@
 3-decade
 3-hit
 3-point
+3-pointer
 3-row
 3-run
 3-story
@@ -2195,6 +2200,8 @@
 4M
 4th
 4th-Best
+4th-Quarter
+4th-quarter
 4th-tier
 5
 5-1
@@ -2317,6 +2324,7 @@
 6-year-old
 60
 60-52
+60-57
 60-Year-Old
 60-day
 60-foot
@@ -2361,6 +2369,7 @@
 6455
 6489
 65
+65-60
 65-year-old
 650
 65000
@@ -2551,6 +2560,7 @@
 843
 845
 85
+85-59
 85-year-old
 8500
 850K
@@ -3027,6 +3037,7 @@ Actual
 Actually
 Acua
 Acuna
+Acupuncturist
 Acura
 Ad
 Ada
@@ -3537,6 +3548,7 @@ Alwyn
 Aly
 Alysa
 Alysha
+Alyssa
 Alzheimers
 Am
 AmEx
@@ -3764,6 +3776,7 @@ Anson
 Answer
 Answered
 Answering
+Answerly
 Answers
 Ant
 Antagonisms
@@ -4328,6 +4341,7 @@ Authors
 Autism
 Auto
 AutoNation
+AutoStore
 Autobiographical
 Autocrat
 Autocrats
@@ -4414,6 +4428,7 @@ Ayanghosh
 Ayanna
 Ayans
 Ayato
+Ayatos
 Aydh
 Ayers
 Ayesha
@@ -4929,6 +4944,7 @@ Beaumont-Thomass
 Beautiful
 Beautifully
 Beauty
+Beautyblender
 Beauvillier
 Became
 Because
@@ -5044,6 +5060,7 @@ Bencic
 Bend
 Bender
 Bendong
+Beneath
 Benedict
 Benefit
 Benefits
@@ -5226,6 +5243,7 @@ Bikers
 Bikes
 Bikini
 Bikkhov
+Bikroo
 Bilal
 Bilbao
 Biles
@@ -5255,6 +5273,7 @@ BinanceUS
 Binances
 Bind
 Bindi
+Bindilatti
 Binding
 Bing
 Binge
@@ -5302,6 +5321,7 @@ Birsinghpur
 Birth
 Birthday
 Birthplace
+Bisa
 Bisaccia
 Biscuit
 Biscuits
@@ -5488,6 +5508,7 @@ Bobcats
 Bobsled
 Bobsledders
 Bobsleigh
+Bobsleigh-Brazils
 Boca
 Bocchi
 Bocek
@@ -5707,6 +5728,7 @@ Boycott
 Boycotts
 Boyd
 Boyfriend
+Boyfriends
 Boyko
 Boyle
 Boylston
@@ -6005,6 +6027,7 @@ Bucks
 Bucs
 Bud
 Budaun
+Buddhist
 Buddika
 Buddy
 Budgam
@@ -6443,6 +6466,7 @@ Caldwells
 Cale
 Caleb
 Caledonia
+Caleigh
 Calendar
 Calhoun
 Cali
@@ -6461,6 +6485,7 @@ Caltech
 Caltrans
 Calusa
 Calvaria
+Calvary
 Calverley
 Calvin
 Calzones
@@ -6912,6 +6937,7 @@ Ceremonies
 Ceremony
 Cerevel
 Cerezo
+Cerrito
 Cerritos
 Certain
 Certificate
@@ -7953,6 +7979,7 @@ Contract
 Contracted
 Contracting
 Contractor
+Contractors
 Contracts
 Contradiction
 Contradicts
@@ -8279,6 +8306,7 @@ Crisp
 Crispiest
 Crispoldi
 Crispy
+Crist
 Cristian
 Cristin
 Cristina
@@ -9040,6 +9068,7 @@ Deniers
 Denies
 Denis
 Denise
+Deniz
 Denmark
 Dennis
 Denounce
@@ -9455,6 +9484,7 @@ Disposing
 Dispute
 Disputed
 Disputes
+Disqualified
 Disregarding
 Disrespect
 Disrobed
@@ -9835,6 +9865,7 @@ Dubai
 Dubais
 Dublin
 Dubn
+Dubrow
 Ducey
 Duceys
 Duchenne
@@ -10215,6 +10246,7 @@ Ehrengard
 Ehrlichman
 Ehrsam
 Ei
+Eichels
 Eid-ul-Adha
 Eidevall
 Eight
@@ -10333,6 +10365,7 @@ Elsa
 Elsas
 Elsdon
 Else
+Elsewhere
 Elsie
 Elsinore
 Elton
@@ -10456,6 +10489,7 @@ Endurance
 Endured
 Enduring
 Enemy
+Eneos
 Energy
 Enes
 Enforce
@@ -11220,6 +11254,7 @@ Far-right
 Farage
 Fare
 Faree
+Fareed
 Farewell
 Fargas
 Fargo
@@ -11234,6 +11269,7 @@ Farm
 FarmVille
 Farmer
 Farmers
+Farmi
 Farming
 Farmington
 Farmstead
@@ -11556,6 +11592,7 @@ Fiscal
 Fiscella
 Fischer
 Fish
+Fishbowl
 Fisher
 Fisherman
 Fishermen
@@ -12424,6 +12461,7 @@ Georgiev
 Georgievs
 Gerald
 Geraldine
+Geraldo
 Gerasimov
 Gerber
 Gerd
@@ -12638,6 +12676,7 @@ Goers
 Goes
 Goetschy
 Gofers
+Goggias
 Gogh
 Gogoro
 Gohmert
@@ -14174,6 +14213,7 @@ Hyannisport
 Hyatt
 Hybrid
 Hybrid-Electric
+Hyde
 Hyder
 Hyderabad
 Hydration
@@ -14475,6 +14515,7 @@ Impreza
 Imprisoned
 Impromptu
 Improve
+Improved
 Improvement
 Improvements
 Improves
@@ -15593,6 +15634,7 @@ Kanga
 Kangaroos
 Kani
 Kankakee
+Kanpur
 Kansan
 Kansas
 Kante
@@ -16169,6 +16211,7 @@ Kyle
 Kylian
 Kylie
 Kylniemi
+Kyndryl
 Kyoto
 Kyotto
 Kyra
@@ -16826,6 +16869,7 @@ Lindells
 Linden
 Lindenhurst
 Lindenwold
+Lindholm
 Lindner
 Lindo
 Lindor
@@ -17011,6 +17055,7 @@ Long-time
 Longer
 Longest
 Longest-Living
+Longgang
 Longhi
 Longhorn
 Longhorns
@@ -18191,6 +18236,7 @@ Mental
 Mentality
 Mentally
 Mention
+Mentioning
 Mentor
 Menu
 Menus
@@ -18435,6 +18481,7 @@ Minecraft
 Mineral
 Miners
 Minersville
+Mineta
 Ming
 Mingo
 Mini
@@ -18443,6 +18490,7 @@ Minifie
 Minimalists
 Minimize
 Minimizes
+Minimum
 Mining
 Minis
 Miniseries
@@ -18902,6 +18950,7 @@ Muellerella
 Muffin
 Muffled
 Muffler
+Mufti
 Mug
 Muggy
 Mugisha
@@ -19083,6 +19132,7 @@ NC
 NC-SC
 NCAA
 NCAAs
+NCS
 NDA
 NDAs
 NDRNTA
@@ -19208,6 +19258,7 @@ Nagashima
 Nagelsmann
 Nagoke
 Nagornyy
+Nagpur
 Nagy
 Nahavandi
 Naheda
@@ -19618,6 +19669,7 @@ Noida
 Noidas
 Noir
 Noise
+Nokia
 Nola
 Nolan
 Nole
@@ -19679,6 +19731,7 @@ Nordstroms
 Norington-Reaves
 Norm
 Normal
+Normalize
 Normally
 Norman
 Normandy
@@ -19711,6 +19764,7 @@ Northwestern
 Norton
 Norwalk
 Norway
+Norways
 Norwegian
 Norwich
 Norwood
@@ -20054,6 +20108,8 @@ Olympian
 Olympians
 Olympic
 Olympics
+Olympics-Biathlon-Weather
+Olympics-Bobsleigh-Brazils
 Olympics-Mens
 Olympics-Womens
 Olympique
@@ -20434,6 +20490,7 @@ PHP
 PHS
 PI
 PICCIRILLO
+PICS
 PICTURES
 PIE
 PIMS
@@ -20893,7 +20950,9 @@ Pedro
 Peel
 Peele
 Peeling
+Peeps
 Peers
+Peet
 Peete
 Pegasus
 Pegasus-like
@@ -21058,6 +21117,7 @@ Petland
 Petraea
 PetroChina
 Petrol
+Petroleum
 Petronas
 Petros
 Petrusenko
@@ -21504,6 +21564,7 @@ Pops
 Popular
 Popularity
 Population
+Populi
 Popup
 Porch
 Pore
@@ -21841,6 +21902,7 @@ Proctor
 Procurement
 Produce
 Producer
+ProducerJill
 Producers
 Produces
 Producing
@@ -22032,6 +22094,7 @@ Punish
 Punished
 Punishing
 Punjab
+Punjabi
 Punk
 Punter
 Pup
@@ -22759,6 +22822,7 @@ Reed
 Reelection
 Reeling
 Reels
+Reena
 Reenactors
 Reenacts
 Rees-Mogg
@@ -24699,6 +24763,7 @@ Shackle
 Shackling
 Shade
 Shaded
+Shadeshifter
 Shadow
 ShadowPad
 Shadowlands
@@ -24713,6 +24778,7 @@ Shahedul
 Shaheed
 Shaheen
 Shai
+Shailene
 Shaina
 Shaji
 Shake
@@ -24779,6 +24845,7 @@ Shatner
 Shatter
 Shattered
 Shauna
+Shaver
 Shaw
 Shawkat
 Shawn
@@ -25007,6 +25074,7 @@ Sideshow
 Sidewalk
 Sidewalks
 Sidharth
+Sidhus
 Sidi
 Sidner
 Sidney
@@ -25727,6 +25795,7 @@ Spoils
 Spoke
 Spoken
 Spokesperson
+Sponge
 Spongebob
 Sponsor
 Sponsored
@@ -25776,6 +25845,7 @@ Spruce
 Spruyt
 Spur
 Spurred
+Spurring
 Spurs
 Sputnik
 Spy
@@ -25827,6 +25897,7 @@ Stage
 Stagecoach
 Stair
 Staircase
+Stairs
 Stake
 Stakes
 Staleys
@@ -25845,6 +25916,7 @@ Stamp
 Stampacchia
 Stampede
 Stan
+StanChart
 Stand
 Stand-Alone
 Stand-Up
@@ -26073,6 +26145,7 @@ Storms
 Stormtrooper
 Stormy
 Story
+Storyliving
 Storzmy
 Stowaway
 Strachan
@@ -26342,6 +26415,7 @@ Sunrun
 Suns
 Sunset
 Sunshine
+Suomi
 Suozzi
 Super
 Super-Creative
@@ -26479,6 +26553,7 @@ Swag
 Swagger
 Swahilis
 Swallow
+Swalwell
 Swamp
 Swamped
 Swan
@@ -26883,6 +26958,7 @@ Tauktae
 Taunton
 Taunts
 Taurus
+Tavares
 Tavern
 Tavernier
 Taviu
@@ -27963,6 +28039,7 @@ UNICEF
 UNICOM
 UNITED
 UNIVERSITY
+UNLV
 UNT
 UNs
 UP
@@ -28171,6 +28248,7 @@ Unfortunate
 Unfortunately
 Unfriendly
 Unhappy
+Unhealthiest
 Unhealthy
 Unheard
 Unhoused
@@ -28432,6 +28510,7 @@ Vaccines
 Vaccum
 Vacuum
 Vacuums
+Vadamadurai
 Vader
 Vadis
 Vagina
@@ -28439,6 +28518,7 @@ Vaishnaw
 Vakaria
 Val
 Valderrama
+Valdes
 Valdez
 Valdosta
 Valdz
@@ -28867,6 +28947,7 @@ Voting
 Vow
 Vowed
 Vows
+Vox
 Voxs
 Voya
 Vrabel
@@ -29304,6 +29385,7 @@ Werewolf
 Werner
 Wes
 Wesbrook
+Wesfarmers
 Wesley
 Wessel
 Wessels
@@ -29557,6 +29639,7 @@ Witness
 Witnesses
 Witney
 Witt
+Wives
 Wizards
 Wizkid
 Wlazlo
@@ -29608,12 +29691,14 @@ Woodgate
 Woodland
 Woodlands
 Woodlawn
+Woodley
 Woodman
 Woodmansterne
 Woodridge
 Woodrow
 Woodruff
 Woods
+Woodside
 Woodstock
 Woodward
 Woodwards
@@ -30060,6 +30145,7 @@ Zeneca
 Zeneli
 Zenetic
 Zeng
+Zenith
 Zenobia
 Zep
 Zephyr
@@ -30280,6 +30366,7 @@ activists
 activities
 activity
 actor
+actor-activists
 actors
 actress
 actress-artist
@@ -30373,6 +30460,7 @@ aequabilis
 aerial
 aero
 aeroscreen
+aerospace
 af
 afar
 affair
@@ -30623,6 +30711,7 @@ animal
 animals
 animated
 animation
+animations
 animator
 ankle
 annihilate
@@ -31202,6 +31291,7 @@ bay
 be
 beach
 beaches
+beachhead
 beacon
 beak
 beans
@@ -31279,6 +31369,7 @@ beneficial
 beneficiaries
 beneficiary
 benefit
+benefited
 benefitrisk
 benefits
 benefitting
@@ -31310,6 +31401,7 @@ bhaiye
 bi-state
 bias
 biased
+biathlon
 bicycle
 bicyclists
 bid
@@ -31562,6 +31654,7 @@ born
 borough
 borrerina
 borrowing
+borrows
 boss
 bosses
 bossing
@@ -31658,6 +31751,7 @@ breakthrough
 breakthroughs
 breakup
 breakupand
+breakups
 breast
 breastfeeding
 breath
@@ -31835,6 +31929,7 @@ buying
 buys
 buzz
 buzzer-beater
+buzzer-beating
 buzzing
 buzzkill
 buzzword
@@ -31888,6 +31983,7 @@ cameras
 camerawoman
 camp
 campaign
+campaigners
 campaigns
 camper
 campers
@@ -32083,6 +32179,7 @@ cease
 ceasefire
 cedar
 ceiling
+celeb
 celeb-filled
 celebrate
 celebrated
@@ -32439,6 +32536,7 @@ co-founder
 co-founders
 co-infection
 co-leader
+co-op
 co-ops
 co-owner
 co-signer
@@ -32690,6 +32788,7 @@ conduct
 conducted
 conducting
 conductor
+conductors
 conducts
 cone
 conference
@@ -33025,6 +33124,7 @@ cradle
 craft
 crane
 cranes
+cranks
 crash
 crash-landing
 crash-lands
@@ -33961,6 +34061,7 @@ dives
 divest
 divide
 divided
+dividend
 divides
 diving
 division
@@ -34195,6 +34296,7 @@ dump
 dumped
 dumping
 dumplings
+dumps
 dungeon
 dunk
 dunked
@@ -34872,6 +34974,7 @@ extent
 external
 externally
 extinct
+extinction
 extinguish
 extinguished
 extort
@@ -35787,6 +35890,7 @@ glow
 glowing
 glue
 glut
+gney
 gnome
 go
 go-ahead
@@ -35935,6 +36039,7 @@ grip
 gripping
 grips
 griseolobulata
+grisly
 grizzlies
 grizzly
 grocer
@@ -36674,6 +36779,7 @@ impressive
 imprint
 imprisoned
 imprisonment
+improbable
 impromptu
 improper
 improperly
@@ -37047,6 +37153,7 @@ ire
 iris
 iron
 ironclad
+ironic
 irregular
 irresponsible
 irrigation
@@ -37331,6 +37438,7 @@ lanes
 language
 languishing
 lanternflies
+lanterns
 lapses
 laptop
 laptops
@@ -37887,6 +37995,7 @@ marathon
 march
 marches
 margin
+margins
 mariachi
 marijuana
 marina
@@ -37934,6 +38043,7 @@ massacre
 massacres
 masses
 massive
+massively
 master
 masterclass
 mastermind
@@ -38585,6 +38695,7 @@ net-zero
 nets
 netted
 network
+networking
 networks
 neuroscience
 neutered
@@ -38671,6 +38782,7 @@ non-event
 non-human
 non-paper
 non-profit
+non-profits
 non-religious
 non-resident
 non-residents
@@ -39016,6 +39128,7 @@ outlawed
 outlawing
 outlet
 outlets
+outline
 outlines
 outlook
 outpacing
@@ -40265,6 +40378,7 @@ quickens
 quickly
 quiet
 quietly
+quilt-making
 quilters
 quintuple
 quintuplet
@@ -41551,6 +41665,7 @@ secretary
 secretive
 secretly
 secrets
+sect
 section
 sector
 sectors
@@ -41620,6 +41735,7 @@ semi-finals
 semi-professional
 semi-trailer
 semi-truck
+semiconductor
 semifinal
 semifinals
 semis
@@ -42026,6 +42142,7 @@ skip
 skipper
 skipping
 skips
+skis
 skulls
 skunk
 sky
@@ -42362,6 +42479,7 @@ spin-off
 spin-offs
 spinach
 spinning
+spinoff
 spinosus
 spinouts
 spins
@@ -42378,6 +42496,7 @@ splits
 splitter
 splurge
 splurges
+spoil
 spoiler
 spoke
 spokesman
@@ -42531,6 +42650,7 @@ states
 statewide
 stating
 station
+stationed
 stations
 statistical
 stats
@@ -42667,6 +42787,7 @@ streak
 streaked
 streaker
 streaking
+streaks
 stream
 streaming
 streams
@@ -42770,6 +42891,7 @@ submit
 submits
 suborbital
 subpar
+subpoena
 subpoenaed
 subpoenas
 subs
@@ -42780,6 +42902,7 @@ subscriptions
 subsidies
 subsidy
 substance
+substances
 substantial
 substantially
 substation
@@ -43517,6 +43640,7 @@ toppling
 tops
 torch
 torched
+torches
 torching
 tore
 tormented
@@ -43526,6 +43650,7 @@ tornadoes
 torpedoed
 torquatus
 torrent
+torrential
 torso
 torta
 torture
@@ -43572,12 +43697,14 @@ town
 towns
 toxic
 toxicity
+toy
 toys
 trace
 traced
 traces
 tracing
 track
+track-Schulting
 tracked
 tracker
 trackers
@@ -43941,6 +44068,7 @@ unending
 unentitled
 unequal
 uneven
+unexamined
 unexpected
 unexpectedly
 unexplained
@@ -44227,6 +44355,7 @@ vexing
 via
 viable
 vials
+vibes
 vice
 vice-chairman
 vicious
@@ -44509,6 +44638,7 @@ weekends
 weekly
 weeknight
 weeks
+weeks-long
 weigh
 weigh-in
 weighed
@@ -44621,6 +44751,7 @@ window
 windows
 winds
 windshield
+windshields
 windy
 wine
 wine-loving
