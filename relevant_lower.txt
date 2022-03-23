@@ -15,6 +15,7 @@
 -sharpton
 -source
 -sources
+-study
 -wh
 -white
 -yonhap
@@ -988,6 +989,7 @@
 021
 029
 04
+040
 042021
 042321
 044
@@ -1321,6 +1323,7 @@
 150k
 150m
 151
+154m
 155
 156
 156m
@@ -1703,6 +1706,7 @@
 2024
 2025
 2026
+2028
 203
 2030
 2030-31
@@ -1986,6 +1990,7 @@
 3212021
 322
 32222
+32322
 325
 325k
 327k
@@ -2102,6 +2107,7 @@
 4-day-old
 4-game
 4-goal
+4-month
 4-pound
 4-run
 4-star
@@ -2334,6 +2340,7 @@
 55
 55-day
 55-year-old
+550-750sh
 556
 557
 5584
@@ -2478,6 +2485,7 @@
 7-4
 7-5
 7-6
+7-9sh
 7-day
 7-eleven
 7-figure
@@ -2712,6 +2720,7 @@
 96-60
 96-78
 96-82
+96-year-old
 963
 968
 96b
@@ -3165,6 +3174,7 @@ aegius
 aegon
 aehr
 aemetis
+aeolacris
 aequabilis
 aerial
 aerie
@@ -3353,6 +3363,7 @@ airasia
 airbag
 airbnb
 airbnbs
+airboat
 airborne
 airbus
 aircastle
@@ -3383,6 +3394,7 @@ airtag
 airtags
 airways
 airways-owner
+airy
 ais
 aisha
 aishaarticle
@@ -3538,6 +3550,7 @@ algerian
 algerias
 algorand
 algorithm
+algorithmic
 algorithms
 algos
 ali
@@ -3594,6 +3607,7 @@ all-star
 all-stars
 all-stock
 all-time
+all-weather
 all-white
 all-women
 all-you-can-eat
@@ -3837,6 +3851,7 @@ amyema
 an
 ana
 anaconda
+anaesthesiology
 anaheim
 anais
 analogies
@@ -3859,6 +3874,7 @@ anastasia
 anatomy
 anc
 ancalle
+ancestors
 ancestral
 anchor
 anchorage
@@ -4223,6 +4239,7 @@ appointees
 appointment
 appointments
 appoints
+appraisals
 appreciate
 appreciates
 appreciation
@@ -4335,6 +4352,7 @@ arge
 argentaria
 argentina
 argentinas
+argentine
 argentinian
 argillander
 argillosa
@@ -4486,6 +4504,7 @@ asbury
 asc
 ascendant
 ascension
+ascoidea
 ascot
 asean
 aseans
@@ -4535,6 +4554,7 @@ asks
 asl
 asleep
 asml
+asmussen
 asparagus
 aspen
 aspergerautism
@@ -5770,6 +5790,7 @@ beth
 bethenny
 bethlehem
 bethpage
+bethune
 betis
 betmgm
 beto
@@ -6116,6 +6137,7 @@ blanketed
 blanketing
 blankets
 blanks
+blao
 blasio
 blasphemy
 blast
@@ -6667,6 +6689,7 @@ brassard
 brasserie
 brata
 bratkowski
+bratsenis
 brauchler
 braun
 braunwyn
@@ -7783,6 +7806,7 @@ catea
 categories
 category
 catering
+caternaultii
 caterpillar
 caterpillars
 caters
@@ -8337,6 +8361,7 @@ chipmaker
 chipolos
 chipotle
 chipotles
+chipped
 chipper
 chipping
 chips
@@ -8865,6 +8890,7 @@ coin
 coinbase
 coinbases
 coincheck
+coined
 coins
 coinshares
 coinsuper
@@ -8926,6 +8952,7 @@ college
 collegefest
 colleges
 collegiate
+coller
 colleyville
 collide
 collided
@@ -8941,6 +8968,7 @@ collision
 collison
 colman
 colmar
+colmont
 colo
 cologne
 colombi
@@ -9172,6 +9200,8 @@ concealer
 concede
 concedes
 conceived
+concentrated
+concentration
 concepcion
 concept
 conception
@@ -9322,6 +9352,7 @@ conquests
 conrads
 conroe
 cons
+conscription
 conscripts
 consecutive
 consensual
@@ -9481,6 +9512,7 @@ converters
 convertible
 convertibles
 conveyor
+conveys
 convict
 convicted
 convicting
@@ -9578,6 +9610,7 @@ corinne
 corinnes
 cork
 corleen
+cormac
 cormack
 cormier
 corn
@@ -9646,6 +9679,7 @@ cosmos
 cosquer
 cost
 cost-cutting
+cost-of-living
 costa
 costco
 costello
@@ -9787,6 +9821,7 @@ covington
 covishield
 cow
 cowan
+cowania
 cowardice
 cowards
 cowboy
@@ -9893,6 +9928,7 @@ creeping
 creeps
 creepshow
 creepy
+creich
 cremated
 cremation
 cremations
@@ -10158,6 +10194,7 @@ cupp
 cups
 curaao
 curator
+curators
 curb
 curbs
 curdiest
@@ -10738,6 +10775,7 @@ defenseman
 defensemen
 defenses
 defensive
+deferral
 deferred
 defers
 defi
@@ -11702,6 +11740,7 @@ docu-soap
 document
 documentaries
 documentary
+documented
 documents
 docuseries
 dodge
@@ -12478,6 +12517,7 @@ eeveeloution
 ef3
 effect
 effective
+effectively
 effectiveness
 effects
 efficacy
@@ -12992,6 +13032,7 @@ eos
 ep
 ep7
 epa
+epanovi
 epassports
 ephrat
 epic
@@ -13029,6 +13070,7 @@ equally
 equals
 equating
 equation
+equator
 equatorial
 equerry
 equinox
@@ -13606,6 +13648,7 @@ expert-approved
 expertise
 expertly
 experts
+expion360
 expiration
 expire
 expired
@@ -15646,6 +15689,7 @@ gilmore
 gilmores
 gilula
 gimme
+gimmick
 gimnez
 gin
 gina
@@ -15719,6 +15763,7 @@ glazed
 glazer
 glazers
 glb
+glc
 gleaming
 glee
 glees
@@ -16971,6 +17016,7 @@ hechavarra
 heckingbottom
 heckled
 heckles
+hectic
 hed
 hedera
 hedge
@@ -17450,6 +17496,7 @@ honestly
 honey
 honeymoon
 honeymoon-leave
+honeysuckle
 hong
 honking
 honky-tonk
@@ -17581,6 +17628,7 @@ hotter
 hottest
 hou
 houellebecq
+houghtonii
 houghtons
 houlihan
 hounslow
@@ -18099,6 +18147,7 @@ imperative
 imperator
 imperial
 imperil
+imperils
 impersonates
 impersonating
 impersonation
@@ -18152,6 +18201,7 @@ impunity
 impurity
 imran
 in
+in-app
 in-class
 in-court
 in-custody
@@ -18494,6 +18544,7 @@ instability
 instagram
 instagram-friendly
 instagrammers
+instagrams
 install
 installation
 installations
@@ -18806,6 +18857,7 @@ islam
 islamic
 islamist
 islamists
+islamophobia
 islampur
 islams
 island
@@ -19808,6 +19860,7 @@ khaal
 khabib
 khabibs
 khai
+khair
 khairy
 khais
 khaja
@@ -20848,6 +20901,7 @@ leto
 letonoff
 letos
 lets
+letsgetfree
 letter
 letter-writing
 lettering
@@ -22811,6 +22865,7 @@ microplastics
 microsoft
 microsofts
 microstrategy
+microtik
 microwave
 mid
 mid-2022
@@ -23292,6 +23347,7 @@ moms
 mon
 mona
 monaco
+monaghan
 monahan
 monarch
 monarchs
@@ -23887,6 +23943,7 @@ nadu
 nael
 naeslund
 naether
+naga
 nagamura
 nagashima
 nagelsmann
@@ -24100,6 +24157,7 @@ ndefo
 ndefos
 ndikumana
 ndombele
+ndoro
 ndp
 ndrangheta
 ndrnta
@@ -24117,6 +24175,7 @@ nearing
 nearly
 nears
 neath
+neatly
 nebraska
 nebraskas
 nebulas
@@ -24409,6 +24468,7 @@ nikola
 nikolai
 nikolay
 nikolli
+nikolskoye
 nil
 nil-by-mouth
 nile
@@ -24427,6 +24487,7 @@ nine-man
 nine-nine
 nine-year
 nine-year-old
+ninepin
 nineteen-year-old
 nineties
 ninfo
@@ -24807,6 +24868,7 @@ nwsl
 nxivm
 nxt
 ny
+ny-nj-pa
 nya
 nyan
 nyatsime
@@ -24879,6 +24941,7 @@ objects
 oblast
 obligation
 obligations
+obligatory
 obliterating
 oblivious
 oblongifolia
@@ -25055,6 +25118,7 @@ okoroji
 okri
 oks
 okta
+oktyabrsky
 okubo
 ol
 olaf
@@ -25260,6 +25324,7 @@ optanda
 opted
 optima
 optimism
+optimist
 optimistic
 opting
 option
@@ -26300,6 +26365,7 @@ permission
 permit
 permitless
 permits
+permitted
 permodica
 permuy
 pernicious
@@ -27081,6 +27147,7 @@ poses
 posey
 poseys
 posh
+poshmark
 posing
 position
 positioning
@@ -27390,6 +27457,7 @@ presiding
 press
 pressed
 presses
+pressing
 pressley
 pressure
 pressured
@@ -27693,6 +27761,7 @@ prospect
 prospects
 prosper
 prosperity
+prostatic
 prostitution
 prosus
 protagonist
@@ -28931,6 +29000,7 @@ rejected
 rejecting
 rejection
 rejects
+rejig
 rejoice
 rejoices
 rejoin
@@ -28988,6 +29058,7 @@ relive
 relives
 reliving
 rellenos
+reloaded
 relocate
 relocated
 relocating
@@ -29059,6 +29130,7 @@ rendered
 rendon
 rene
 renegade
+renege
 renesas
 renew
 renewable
@@ -29368,6 +29440,7 @@ reuss
 reuten
 reuter
 reutericyclin
+reuters
 rev
 revamp
 revamped
@@ -29451,6 +29524,7 @@ rf
 rfc
 rfid
 rfl
+rfp
 rfu
 rgger
 rhamondre
@@ -29509,6 +29583,7 @@ richmond
 richmonds
 richter
 rick
+ricketts
 rickie
 rickles
 rickshaw
@@ -29802,6 +29877,7 @@ romain
 roman
 roman-vod
 romance
+romanchenko
 romandie
 romania
 romanian
@@ -30096,6 +30172,7 @@ russia
 russia-backed
 russia-controlled
 russia-led
+russia-linked
 russia-ukraine
 russiagate
 russian
@@ -30416,6 +30493,7 @@ sandy
 sane
 saneamento
 sanford
+sang-ji
 sangamon
 sangrampur
 sangria
@@ -30795,6 +30873,7 @@ scs
 scsp
 scst
 scuba-diving
+scud
 scudder
 scudders
 scuffle
@@ -31236,6 +31315,7 @@ shaft
 shafts
 shah
 shahadat-e
+shahbaz
 shahcheraghi
 shahed
 shahedul
@@ -31405,6 +31485,7 @@ shift4
 shifted
 shifting
 shifts
+shigiri
 shih
 shihlun
 shilling
@@ -31781,6 +31862,7 @@ single-engine
 single-serving
 single-story
 single-use
+single-verse
 singles
 singleton
 singoli
@@ -31832,6 +31914,7 @@ sivaram
 siwa
 six
 six-
+six-cylinder
 six-game
 six-hitter
 six-hour-long
@@ -32600,6 +32683,7 @@ speedy
 spell
 spell-bounding
 spellbound
+spellcasting
 spelling
 spellman
 spells
@@ -32854,6 +32938,7 @@ stalker
 stalker-plagued
 stalking
 stall
+stallard
 stalled
 stalling
 stallion
@@ -33539,6 +33624,7 @@ summers
 summertime
 summit
 summit1g
+summits
 summon
 summoned
 summoner
@@ -34199,6 +34285,7 @@ tasks
 taslim
 tasmania
 tasos
+tass
 tasso
 taste
 taste-off
@@ -34767,6 +34854,7 @@ tianjin
 tibet
 tiburones
 tick
+tick-borne
 tickboom
 ticker
 ticket
@@ -35011,6 +35099,7 @@ topkapi
 topless
 topluca
 topped
+topper
 toppers
 toppin
 topping
@@ -35490,12 +35579,14 @@ trusty
 truth
 truths
 truvision
+trx
 trxade
 try
 trying
 tryon
 tryout
 tryouts
+ts
 tsa
 tsai
 tsarukyan
@@ -36275,6 +36366,7 @@ users
 usersersemtemp
 uses
 usf
+usfl
 usgs
 ushakova
 usher
@@ -36631,6 +36723,7 @@ vetri
 vets
 vettel
 vettori
+veve
 vexing
 vff
 vfl
@@ -38265,6 +38358,7 @@ yonkers
 yoon-su
 yorba
 york
+york-newark-jersey
 yorke
 yorker
 yorkers
@@ -38444,6 +38538,7 @@ zhejiang
 zheng
 zhengtu
 zhilans
+zhongxian
 zhu
 zhuang
 zhuchen
@@ -38496,6 +38591,7 @@ zrchersmhle
 zsl
 zte
 ztrk
+zubair
 zubarevich
 zuber
 zuccarelli
