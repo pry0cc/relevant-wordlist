@@ -1625,6 +1625,7 @@
 2-Year-Old
 2-child
 2-day
+2-foot
 2-game
 2-hitter
 2-metre
@@ -2029,6 +2030,7 @@
 32000
 321
 321-101
+3212021
 322
 32222
 325
@@ -2069,6 +2071,7 @@
 35-year-old
 350
 350-Pound
+35000
 350000
 350M
 350MPH
@@ -2201,6 +2204,7 @@
 410000
 410lb
 411
+4112021
 415
 416
 416000
@@ -2328,6 +2332,7 @@
 5-game
 5-minute
 5-month
+5-pound
 5-star
 5-vehicle
 5-year
@@ -3796,6 +3801,7 @@ Amin
 Amir
 Amirsoleimani
 Amish
+Amistad
 Amit
 Amityville
 Amlia
@@ -3922,6 +3928,7 @@ Animal-Testing
 Animals
 Animated
 Anime
+Animoca
 Animosity
 Anin
 Aniston
@@ -4358,6 +4365,7 @@ Ashland
 Ashleigh
 Ashley
 Ashli
+Ashmuji
 Ashore
 Ashs
 Ashton
@@ -4806,6 +4814,7 @@ BTS
 BTSTU
 BTSs
 BVSD
+BYD
 Baalbek
 Baar
 Babariko
@@ -4902,6 +4911,8 @@ Baiou
 Bairstow
 Baisch
 Baja
+Bajadda
+Bajarwan
 Bajin
 Bak
 Bakalova
@@ -5238,6 +5249,7 @@ Beautifully
 Beauty
 Beautyblender
 Beauvillier
+Beaxy
 Became
 Because
 Beck
@@ -5294,6 +5306,8 @@ Begonia
 Begram
 Begs
 Behar
+Behave
+Behaving
 Behavior
 Behavioral
 Behind
@@ -5628,6 +5642,7 @@ Biotics
 Bioweapon
 Bipartisan
 Bipolar
+Bir
 Biracial
 Birch
 Bircher
@@ -5987,6 +6002,7 @@ Boring
 Boris
 Borissov
 Bork
+Borka
 Born
 Borno
 Boro
@@ -6131,6 +6147,7 @@ Brandin
 Brandishes
 Brandishing
 Brandon
+Brandos
 Brands
 Brandt
 Brandus
@@ -6376,6 +6393,7 @@ Bruins-Rangers
 Brunch
 Brunches
 Brundle
+Brundles
 Bruno
 Brunson
 Brunswick
@@ -6564,6 +6582,7 @@ Buthelezi
 Butler
 Butt
 Butt-lifting
+Butte
 Butter
 Butterfield
 Butterflies
@@ -6647,6 +6666,7 @@ CBP
 CBS
 CBS3
 CBSNLA
+CC10
 CCL
 CCO
 CCP
@@ -7096,6 +7116,7 @@ Carell
 Cares
 Carey
 Cargo
+Carian
 Caribbean
 Caring
 Carintana
@@ -7497,6 +7518,7 @@ Charging
 Charismatic
 Charithra
 Charities
+Charitra
 Charity
 Charles
 Charleston
@@ -7764,6 +7786,7 @@ Chubb
 Chuck
 Chugani
 Chumash
+Chumney
 Chumpy
 Chun
 Chunky
@@ -8250,6 +8273,7 @@ Commuters
 Como
 Comorian
 Comoros
+Compact
 Companies
 Company
 Companys
@@ -8374,6 +8398,7 @@ Congenital
 Congestion
 Congo
 Congolese
+Congos
 Congrats
 Congratulate
 Congratulates
@@ -10239,6 +10264,7 @@ Dolton
 Dolya
 Domain
 Dome
+Domenicali
 Domenico
 Domestic
 Dominance
@@ -10362,6 +10388,7 @@ Downgrades
 Downing
 Downloaded
 Downloads
+Downpour
 Downs
 Downstream
 Downtime
@@ -10846,6 +10873,7 @@ Edelman
 Edelmans
 Eden
 Edens
+Ederts
 Edey
 Edgar
 Edge
@@ -11698,6 +11726,7 @@ Expired
 Explain
 Explained
 Explainer
+Explainer-Can
 Explainer-How
 Explaining
 Explains
@@ -12651,6 +12680,7 @@ Foske
 Fossil
 Foster
 Fosters
+Fosun
 Fotball
 Fought
 Found
@@ -13991,6 +14021,7 @@ Guyger
 Guys
 Guyton
 Gwaramari
+Gwen
 Gwendolyn
 Gweneth
 Gwynedd
@@ -14174,6 +14205,7 @@ Halls
 Hallucination
 Halo
 Halopseudomonas
+Halsey
 Halston
 Halt
 Halted
@@ -14730,6 +14762,7 @@ Hills
 Hillsborough
 Hillside
 Hillsman
+Hillsong
 Hillsongs
 Hilltop
 Hilton
@@ -16052,6 +16085,7 @@ Jacket
 Jackets
 Jackie
 Jackknifed
+Jackman
 Jacknjellify
 Jackpot
 Jacksboro
@@ -17030,6 +17064,7 @@ Kinnaman
 Kinney
 Kinshasa
 Kinter
+Kintetsu
 Kintsugi
 Kinzinger
 Kioxia
@@ -17076,6 +17111,7 @@ Kiwi
 Kiz
 Kjartan
 Kka
+Kkky
 Klamath
 Klan
 Klassical
@@ -17558,6 +17594,7 @@ Lannion-Trgor
 Lansing
 Lansing-Area
 Lantern
+Lanvin
 Laos
 Lapeer
 Lapland
@@ -18349,6 +18386,7 @@ Lubbock
 Luca
 Lucas
 Lucerne
+Lucia
 Luciana
 Lucidity
 Lucien
@@ -19020,6 +19058,7 @@ Marlene
 Marley
 Marlin
 Marlins
+Marlon
 Marlow
 Marmont
 Marner
@@ -19630,6 +19669,7 @@ Michiganders
 Michigans
 Michle
 Mick
+Mickelson
 Mickey
 Mickie
 Micro
@@ -20087,6 +20127,7 @@ Morag
 Moral
 Morales
 Morality
+Morally
 Moran
 Morant
 Morants
@@ -20211,6 +20252,7 @@ Mountaintops
 Mountbatten
 Mounted
 Mounts
+Mouratoglou
 Mourinho
 Mourinho-Levy
 Mourinhos
@@ -20348,6 +20390,7 @@ Murkowski
 Murphy
 Murphys
 Murray
+Murray-Lendl
 Murrieta
 Murutar
 Musawenkosi
@@ -21405,6 +21448,7 @@ Occidentale
 Ocean
 Oceanator
 Oceania
+Oceanic
 Oceans
 OceansHeres
 Ochiltree
@@ -22413,6 +22457,7 @@ Paysafe
 Paytm
 Payton
 Paz
+Pazar
 Pazienza
 Pcresse
 Pe
@@ -22792,6 +22837,7 @@ Pina
 Pinatar
 Pinch
 Pinch-Hit
+Pinda
 Pine
 Pineapple
 Pineda
@@ -25291,6 +25337,7 @@ Roskomnadzor
 Roslindale
 Ross
 Rossi
+Rossiter
 Rosso
 Rosstat
 Roster
@@ -25469,6 +25516,7 @@ Russo
 Rust
 Rustic
 Rusty
+Ruta
 Rutgers
 Ruth
 Rutherford
@@ -26344,6 +26392,7 @@ Self-Care
 Self-Driving
 Self-Inflicted
 Self-Tan
+Self-proclaimed
 SelfWealth
 Selfie
 Selfless
@@ -26527,6 +26576,7 @@ Sexuality
 Sexually
 Sexy
 Seydoux
+Seyfarth
 Seyfried
 Seymour
 Sfntu
@@ -26954,6 +27004,7 @@ Simm
 Simmons
 Simmonss
 Simms
+Simo
 Simon
 Simonds
 Simone
@@ -27470,6 +27521,7 @@ Soucy
 Soufan
 Soufrire
 Sought
+Souksu
 Soul
 Soul-Searching
 Soulard
@@ -27888,6 +27940,7 @@ Steers
 Stefan
 Stefanie
 Stefanik
+Stefanis
 Stefano
 Stefanski
 Stein
@@ -28456,6 +28509,7 @@ Swag
 Swagger
 Swahilis
 Swallow
+Swallows
 Swalwell
 Swami
 Swamp
@@ -29632,6 +29686,7 @@ Transpasses
 Transplant
 Transport
 Transportation
+Transported
 Transporting
 Transvaal
 Transylvania
@@ -29838,6 +29893,7 @@ Tryon
 Tryout
 Tsai
 Tsarukyan
+Tschentscher
 Tse
 Tsinghua
 Tsirkon
@@ -31784,6 +31840,7 @@ Wolfs
 Wolfsburg
 Wolfson
 Wolters
+Wolverine
 Wolverines
 Wolves
 Woman
@@ -31950,6 +32007,7 @@ X
 X-17A-5
 X-Ray
 X-factor
+X-rated
 X-rays
 X3
 XC90s
@@ -32036,6 +32094,7 @@ Yak-40
 Yakama
 Yakovlev
 Yaku
+Yakult
 Yale
 Yalgoo
 Yall
@@ -34810,6 +34869,7 @@ clinching
 clinging
 clings
 clinic
+clinical
 clinics
 clip
 clips
@@ -35364,6 +35424,7 @@ corporation
 corporations
 corps
 corpse
+corpses
 corral
 correct
 corrected
@@ -35524,6 +35585,7 @@ creepy
 cremated
 cremation
 cremations
+crematoria
 crematoriums
 crest
 crew
@@ -35692,6 +35754,7 @@ customers
 customs
 cut
 cut-and-pasted
+cut-out
 cut-throat
 cutbacks
 cute
@@ -35884,6 +35947,7 @@ decomposed
 decomposing
 decor
 decorates
+decorum
 decoupling
 decrease
 decreased
@@ -37072,6 +37136,7 @@ enterprise
 enters
 entertainers
 entertainment
+enthralled
 enthusiasm
 enthusiast
 enthusiastic
@@ -37906,6 +37971,7 @@ flicker
 fliers
 flies
 flight
+flight-ban
 flights
 flings
 flip
@@ -38686,6 +38752,7 @@ hackers
 hacking
 hackneyed
 hacks
+hacktivists
 had
 hail
 hailed
@@ -39106,6 +39173,7 @@ hopefuls
 hopes
 hoping
 hops
+hormonal
 hormones
 horn
 horneri
@@ -39188,6 +39256,7 @@ humidifier
 humidifiers
 humiliating
 humiliation
+humility
 humor
 humorist
 humpback
@@ -39635,6 +39704,7 @@ insurers
 insurgency-hit
 insurgents
 insurrection
+insurrectionist
 integrate
 integration
 integrity
@@ -39881,6 +39951,7 @@ jumping
 jumps
 jumpstart
 jumpstarts
+jumpsuit
 jumpsuits
 jungle
 jungler
@@ -39969,6 +40040,7 @@ kite
 kits
 kitten
 kittens
+kiztepe
 knee
 knee-jerk
 kneeing
@@ -40329,6 +40401,7 @@ lingering
 lingers
 lining
 link
+link-up
 linked
 links
 lion
@@ -40585,6 +40658,7 @@ makeup
 making
 malaria
 male
+male-dominated
 males
 malfunction
 malicious
@@ -40916,6 +40990,7 @@ milestones
 militancy
 militants
 militarize
+militarized
 military
 military-trained
 militarys
@@ -40941,6 +41016,7 @@ minds
 mine
 minecraft
 mined
+minefield
 miner
 mineral
 miners
@@ -41442,6 +41518,7 @@ ninth
 ninth-inning
 nixes
 no
+no-build
 no-doubt
 no-exam
 no-hitter
@@ -41698,6 +41775,7 @@ one-size-fits-most
 one-third
 one-time
 one-vs-one
+one-way
 one-week
 one-year
 onerous
@@ -42025,6 +42103,7 @@ parades
 paradise
 parallel
 parallels
+paralysed
 paralysis
 paralyzed
 paramedics
@@ -42848,6 +42927,7 @@ prize-winning
 prizes
 pro
 pro-American
+pro-Israel
 pro-Navalny
 pro-Putin
 pro-Trump
@@ -42905,6 +42985,7 @@ profiling
 profit
 profiting
 profits
+profound
 profundity
 program
 programme
@@ -44612,6 +44693,7 @@ semifinal
 semifinals
 semis
 semitruck
+senate
 senator
 senators
 send
@@ -46764,6 +46846,7 @@ trap
 trapped
 traps
 trash
+trash-talking
 trashes
 trashing
 trauma

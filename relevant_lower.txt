@@ -1588,6 +1588,7 @@
 2-child
 2-day
 2-eu
+2-foot
 2-ftse
 2-g7
 2-game
@@ -1978,6 +1979,7 @@
 32000
 321
 321-101
+3212021
 322
 32222
 325
@@ -2017,6 +2019,7 @@
 35-year-old
 350
 350-pound
+35000
 350000
 350m
 350mph
@@ -2142,6 +2145,7 @@
 410000
 410lb
 411
+4112021
 415
 416
 416000
@@ -2264,6 +2268,7 @@
 5-minute
 5-month
 5-point
+5-pound
 5-star
 5-vehicle
 5-year
@@ -3772,6 +3777,7 @@ amin
 amir
 amirsoleimani
 amish
+amistad
 amit
 amityville
 aml
@@ -3924,6 +3930,7 @@ animation
 animations
 animator
 anime
+animoca
 animosity
 anin
 aniston
@@ -4485,6 +4492,7 @@ ashland
 ashleigh
 ashley
 ashli
+ashmuji
 ashore
 ashs
 ashton
@@ -5065,7 +5073,9 @@ baiou
 bairstow
 baisch
 baja
+bajadda
 bajamaja
+bajarwan
 bajin
 bak
 bakalova
@@ -5477,6 +5487,7 @@ beautifully
 beauty
 beautyblender
 beauvillier
+beaxy
 bec
 became
 because
@@ -5547,6 +5558,7 @@ begun
 behalf
 behar
 behave
+behaving
 behavior
 behavioral
 behaviour
@@ -5953,6 +5965,7 @@ bipartisan
 bipartisanship
 bipoc
 bipolar
+bir
 biracial
 birch
 bircher
@@ -6424,6 +6437,7 @@ boring
 boris
 borissov
 bork
+borka
 born
 borno
 boro
@@ -6606,6 +6620,7 @@ brandin
 brandishes
 brandishing
 brandon
+brandos
 brands
 brandt
 brandus
@@ -6888,6 +6903,7 @@ bruised
 brunch
 brunches
 brundle
+brundles
 bruneata
 bruno
 brunson
@@ -7130,6 +7146,7 @@ buthelezi
 butler
 butt
 butt-lifting
+butte
 butter
 butterfield
 butterflies
@@ -7165,6 +7182,7 @@ by-pass
 bybit
 bychkov
 byculla
+byd
 bydgoszcz
 bye
 byfield
@@ -7548,6 +7566,7 @@ cares
 caretaker
 carey
 cargo
+carian
 caribbean
 caricature
 caring
@@ -7808,6 +7827,7 @@ cbp
 cbs
 cbs3
 cbsnla
+cc10
 ccl
 cco
 ccp
@@ -8075,6 +8095,7 @@ charismatic
 charitable
 charithra
 charities
+charitra
 charity
 charles
 charleston
@@ -8391,6 +8412,7 @@ chuck
 chucks
 chugani
 chumash
+chumney
 chumpy
 chun
 chunk
@@ -9032,6 +9054,7 @@ como
 comorian
 comoros
 comp
+compact
 companhia
 companies
 company
@@ -9222,6 +9245,7 @@ congenital
 congestion
 congo
 congolese
+congos
 congrats
 congratulate
 congratulates
@@ -9548,6 +9572,7 @@ corporation
 corporations
 corps
 corpse
+corpses
 corral
 correa
 correct
@@ -9837,6 +9862,7 @@ creepy
 cremated
 cremation
 cremations
+crematoria
 crematoriums
 creme
 crenshaw
@@ -10148,6 +10174,7 @@ customizers
 customs
 cut
 cut-and-pasted
+cut-out
 cut-throat
 cutbacks
 cute
@@ -10609,6 +10636,7 @@ decor
 decorated
 decorates
 decorations
+decorum
 decoupling
 decrease
 decreased
@@ -11692,6 +11720,7 @@ dolton
 dolya
 domain
 dome
+domenicali
 domenico
 domestic
 domestic-terror
@@ -11845,6 +11874,7 @@ downloaded
 downloads
 downplay
 downplays
+downpour
 downs
 downsize
 downstream
@@ -12351,6 +12381,7 @@ edelman
 edelmans
 eden
 edens
+ederts
 edey
 edf
 edgar
@@ -12877,6 +12908,7 @@ enters
 entertain
 entertainers
 entertainment
+enthralled
 enthusiasm
 enthusiast
 enthusiastic
@@ -13537,6 +13569,7 @@ expiry
 explain
 explained
 explainer
+explainer-can
 explainer-how
 explaining
 explains
@@ -14458,6 +14491,7 @@ flicker
 fliers
 flies
 flight
+flight-ban
 flights
 flings
 flink
@@ -14721,6 +14755,7 @@ fossilised
 foster
 fostering
 fosters
+fosun
 fotball
 fought
 foul
@@ -16327,6 +16362,7 @@ guyger
 guys
 guyton
 gwaramari
+gwen
 gwendolyn
 gweneth
 gwn
@@ -16374,6 +16410,7 @@ hacking
 hackley
 hackneyed
 hacks
+hacktivists
 had
 hadestown
 hadid
@@ -16461,6 +16498,7 @@ halls
 hallucination
 halo
 halopseudomonas
+halsey
 halston
 halt
 halted
@@ -17146,6 +17184,7 @@ hills
 hillsborough
 hillside
 hillsman
+hillsong
 hillsongs
 hilltop
 hilo
@@ -17405,6 +17444,7 @@ horizon
 horizons
 horizontec
 hormiga
+hormonal
 hormones
 horn
 hornbeck
@@ -17619,6 +17659,7 @@ humidifiers
 humiliate
 humiliating
 humiliation
+humility
 hummer
 hummingbird
 hummingbirds
@@ -17894,6 +17935,7 @@ iis
 ike
 ikea
 ikeas
+ikiztepe
 ikon
 il
 il-78
@@ -18433,6 +18475,7 @@ insurgency
 insurgency-hit
 insurgents
 insurrection
+insurrectionist
 integrate
 integration
 integrity
@@ -18805,6 +18848,7 @@ jacket
 jackets
 jackie
 jackknifed
+jackman
 jacknjellify
 jackpot
 jacksboro
@@ -19818,6 +19862,7 @@ kinnaman
 kinney
 kinshasa
 kinter
+kintetsu
 kintsugi
 kinzinger
 kioxia
@@ -19871,6 +19916,7 @@ kjartan
 kka
 kkk
 kkks
+kkky
 kkr
 klamath
 klan
@@ -20327,6 +20373,7 @@ lansing-area
 lantern
 lanternflies
 lanterns
+lanvin
 laos
 lapd
 lapeer
@@ -20967,6 +21014,7 @@ lingonberry
 lingui
 lining
 link
+link-up
 linked
 linkedin
 links
@@ -21354,6 +21402,7 @@ lubbock
 luca
 lucas
 lucerne
+lucia
 luciana
 lucidity
 lucien
@@ -21699,6 +21748,7 @@ malcolm
 maldives
 maldonado
 male
+male-dominated
 males
 malfunction
 malfunctioning
@@ -21955,6 +22005,7 @@ marlene
 marley
 marlin
 marlins
+marlon
 marlow
 marmont
 marner
@@ -22668,6 +22719,7 @@ michiganders
 michigans
 michle
 mick
+mickelson
 mickey
 mickie
 micro
@@ -22784,6 +22836,7 @@ milica
 militancy
 militants
 militarize
+militarized
 military
 military-trained
 militarys
@@ -22840,6 +22893,7 @@ mindset
 mine
 minecraft
 mined
+minefield
 miner
 mineral
 miners
@@ -23280,6 +23334,7 @@ morag
 moral
 morales
 morality
+morally
 moran
 morant
 morants
@@ -23424,6 +23479,7 @@ mountbatten
 mounted
 mounting
 mounts
+mouratoglou
 mourinho
 mourinho-levy
 mourinhos
@@ -23629,6 +23685,7 @@ murky
 murphy
 murphys
 murray
+murray-lendl
 murrieta
 murutar
 musawenkosi
@@ -24338,6 +24395,7 @@ nn
 nnabeszter
 no
 no-brainer
+no-build
 no-burn
 no-doubt
 no-exam
@@ -24783,6 +24841,7 @@ occurred
 ocean
 oceanator
 oceania
+oceanic
 oceanographer
 oceans
 oceansheres
@@ -25017,6 +25076,7 @@ one-size-fits-most
 one-third
 one-time
 one-vs-one
+one-way
 one-week
 one-word
 one-year
@@ -25679,6 +25739,7 @@ paralympian
 paralympians
 paralympic
 paralympics
+paralysed
 paralysis
 paralyzed
 paralyzes
@@ -25938,6 +25999,7 @@ paysafe
 paytm
 payton
 paz
+pazar
 pazienza
 pbe
 pboc
@@ -26431,6 +26493,7 @@ pinatar
 pinch
 pinch-hit
 pinching
+pinda
 pine
 pineapple
 pineda
@@ -27361,6 +27424,7 @@ pro-choice
 pro-democracy
 pro-family
 pro-gop
+pro-israel
 pro-kremlin
 pro-law
 pro-mask
@@ -29706,6 +29770,7 @@ roskomnadzor
 roslindale
 ross
 rossi
+rossiter
 rosso
 rosstat
 roster
@@ -29935,6 +30000,7 @@ rustic
 rustica
 rusting
 rusty
+ruta
 rutgers
 ruth
 rutherford
@@ -30787,6 +30853,7 @@ self-help
 self-inflicted
 self-isolate
 self-isolation
+self-proclaimed
 self-sufficient
 self-tan
 self-test
@@ -31009,6 +31076,7 @@ sexualization
 sexually
 sexy
 seydoux
+seyfarth
 seyfried
 seymour
 sf
@@ -31541,6 +31609,7 @@ simmering
 simmons
 simmonss
 simms
+simo
 simon
 simonds
 simone
@@ -32237,6 +32306,7 @@ soucy
 soufan
 soufrire
 sought
+souksu
 soul
 soul-searching
 soul-sellers
@@ -32816,6 +32886,7 @@ steers
 stefan
 stefanie
 stefanik
+stefanis
 stefano
 stefanski
 stegosaur
@@ -33591,6 +33662,7 @@ swagger
 swahilis
 swallow
 swallowed
+swallows
 swalwell
 swami
 swamp
@@ -35023,6 +35095,7 @@ transphobic
 transplant
 transport
 transportation
+transported
 transporting
 transports
 transunion
@@ -35036,6 +35109,7 @@ trapped
 trappeniers
 traps
 trash
+trash-talking
 trashes
 trashing
 trashman
@@ -35284,6 +35358,7 @@ tsa
 tsai
 tsarukyan
 tscan
+tschentscher
 tse
 tsinghua
 tsirkon
@@ -37816,6 +37891,7 @@ wyszogrd
 x
 x-17a-5
 x-factor
+x-rated
 x-ray
 x-rays
 x3
@@ -37894,6 +37970,7 @@ yak-40
 yakama
 yakovlev
 yaku
+yakult
 yale
 yalgoo
 yall
