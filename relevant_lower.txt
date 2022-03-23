@@ -20,6 +20,7 @@
 0
 0-0
 0-1
+0-16
 0-3
 0-day
 0000003197
@@ -1217,6 +1218,7 @@
 1299
 12b
 12m
+12per
 12th
 13
 13-1
@@ -1371,6 +1373,7 @@
 17-19
 17-and-a-half
 17-game
+17-hour
 17-year-old
 17-year-olds
 170
@@ -1839,6 +1842,7 @@
 261
 261000
 2614
+2634per
 264
 2641
 265
@@ -2030,6 +2034,7 @@
 360000
 3648936
 365
+366
 37
 370
 3700
@@ -2619,6 +2624,7 @@
 87
 87-73
 87-year-old
+87000
 870000
 8704
 871
@@ -2789,6 +2795,7 @@ abeywickrama
 abhorrent
 abide
 abigail
+abilene
 abilities
 ability
 abington
@@ -2818,6 +2825,7 @@ abraham
 abrahams
 abramovich
 abrams
+abrao
 abreu
 abroad
 abrupt
@@ -3386,6 +3394,7 @@ akhilesh
 akimbo
 akin
 akinfenwas
+akira
 akivas
 akoya
 aksentijevi
@@ -3395,6 +3404,7 @@ al
 al-badr
 al-bishi
 al-farouqi
+al-jarud
 al-khelaifi
 al-mihmandar
 al-musayyab
@@ -4797,6 +4807,7 @@ automated
 automatic
 automatic-promotion
 automatically
+automobile
 automobiles
 automotive
 autonation
@@ -5197,6 +5208,7 @@ baptist
 bar
 bar-quality
 bar22
+barabanov
 barack
 baraclough
 baranovskaya
@@ -5259,6 +5271,7 @@ barney
 barnsley
 barnstormer
 baron
+baroness
 baronet
 barr
 barrage
@@ -5716,6 +5729,7 @@ bet
 bet365
 beta
 betancourt
+betcha
 betfair
 beth
 bethenny
@@ -5948,6 +5962,7 @@ birdies
 birds
 birdwatching
 birikorang
+birkenstocks
 birkin
 birks
 birmingham
@@ -6668,6 +6683,7 @@ breathe
 breathes
 breathing
 breathless
+breathlessness
 breathtaking
 bree
 breed
@@ -6803,6 +6819,7 @@ broadview
 broadway
 brock
 brockhampton
+brockport
 brockton
 brodds
 broderick
@@ -7150,6 +7167,7 @@ bychkov
 byculla
 bydgoszcz
 bye
+byfield
 bygone
 bylaws
 byline
@@ -7386,6 +7404,7 @@ cane
 canelo
 canes
 canine
+canines
 canister
 canisters
 cannabis
@@ -7518,6 +7537,7 @@ cared
 career
 careers
 careful
+carefully
 caregiver
 caregivers
 caregiving
@@ -8008,6 +8028,7 @@ changeup
 changgong
 changing
 changsha
+changyong
 changzhao
 changzheng
 channel
@@ -8191,6 +8212,7 @@ chewy
 chewys
 chhota
 chia
+chiarelli
 chiarot
 chiarotti
 chic
@@ -8569,6 +8591,7 @@ clene
 clent
 clentlex
 clergy
+clerical
 clerics
 clerk
 cletus
@@ -8921,6 +8944,7 @@ combine
 combined
 combined-austria
 combines
+combing
 combining
 combo
 combs
@@ -9283,6 +9307,7 @@ conspiracy
 constana
 constant
 constant-mathurin
+constantino
 constantly
 constellation
 constellium
@@ -9581,6 +9606,7 @@ cotton
 couch
 couch-in-a-box
 cougars
+cough
 coughed
 could
 couldnt
@@ -10030,6 +10056,7 @@ cucumbers
 cudahy
 cuddle
 cuddling
+cuddly
 cudi
 cue
 cuenca
@@ -10394,6 +10421,7 @@ davids
 davidson
 davidsons
 davies
+daviesia
 davion
 davis
 davontae
@@ -11618,6 +11646,7 @@ dodges
 dodging
 dodgy
 doe
+doechii
 doekov
 does
 doesnt
@@ -11817,6 +11846,7 @@ downloads
 downplay
 downplays
 downs
+downsize
 downstream
 downtime
 downton
@@ -14004,6 +14034,7 @@ feltonville
 fema
 fema-run
 female
+females
 femicide
 feminine
 feminism
@@ -14103,6 +14134,7 @@ fidelity
 fidels
 fido
 fiebre
+fiel
 field
 field-deployable
 fielder
@@ -14469,6 +14501,7 @@ florida
 florida-based
 floridas
 floridians
+florio
 florissant
 flossers
 flossmoor
@@ -14518,7 +14551,9 @@ fly
 flyer
 flyers
 flying
+flynn
 flyover
+flyr
 flyvende
 fm
 fmao
@@ -15162,6 +15197,7 @@ game
 game-changer
 game-changing
 game-ending
+game-winner
 gameplay
 gamer
 gamers
@@ -15670,6 +15706,7 @@ goblins
 god
 god-awful
 godbout
+godown
 godoy
 gods
 godsend
@@ -15799,6 +15836,7 @@ gouging
 gould
 goulding
 gourde
+gourgel
 gous
 gov
 gove
@@ -16681,6 +16719,7 @@ haul
 hauler
 haulers
 hauls
+haun
 haunt
 haunted
 haunting
@@ -17107,6 +17146,7 @@ hills
 hillsborough
 hillside
 hillsman
+hillsongs
 hilltop
 hilo
 hilton
@@ -17825,6 +17865,7 @@ iger
 iggy
 igloo
 ignacio
+ignazio
 ignite
 ignited
 ignites
@@ -18700,6 +18741,7 @@ issuing
 istanbul
 istanbuls
 istrus
+isumi
 iswaran
 it
 italian
@@ -18943,6 +18985,7 @@ jeans
 jeb
 jecheon
 jed
+jedi
 jeen-yuhs
 jeep
 jeff
@@ -19271,6 +19314,7 @@ june
 juned
 junes
 juneteenth
+jung-woo
 jungle
 jungler
 junhui
@@ -19425,6 +19469,7 @@ kaprizov
 kara
 karachi
 karan
+kararaina
 karate
 karatsev
 karavanska
@@ -19577,6 +19622,7 @@ kelvin
 kemba
 kemerovo
 kemp
+kempe
 kempski
 kemsley
 ken
@@ -19598,6 +19644,7 @@ kensington
 kent
 kenta
 kenton
+kents
 kentucky
 kentuckys
 kenworthy
@@ -19929,6 +19976,7 @@ kollwitz
 kombat
 kombats
 komeutyuyam
+kominato
 komoroski
 kompasu
 kon
@@ -20366,6 +20414,7 @@ lattimore
 lattin
 latvian
 lau
+laucke
 laud
 lauded
 lauderdale
@@ -20488,6 +20537,7 @@ leaky
 lean
 leander
 leandro
+leaning
 leann
 leap
 leapfrog
@@ -21649,6 +21699,7 @@ malcolm
 maldives
 maldonado
 male
+males
 malfunction
 malfunctioning
 mali
@@ -22053,6 +22104,7 @@ maternity
 math
 matharu
 mathematician
+mather
 matheus
 mathews
 mathilde
@@ -22065,8 +22117,10 @@ matildas
 matima
 matinee
 matisse
+matrix
 matriz
 matsuda
+matsumoto
 matsuyama
 matt
 mattarella
@@ -22794,6 +22848,7 @@ mines
 mineta
 ming
 mingo
+minh
 mini
 mini-lockdown
 mini-nato
@@ -22823,6 +22878,7 @@ minneapolis
 minneapolis-based
 minnehaha
 minnesota
+minnesota-grown
 minnesotans
 minnesotas
 minnetonka
@@ -23229,6 +23285,7 @@ morant
 morants
 morata
 moratorium
+morave
 moray
 morbidly
 morbius
@@ -23744,6 +23801,7 @@ nanda
 nandapal
 nanggala
 nanjiani
+nankai
 nanni
 nannine
 nanning
@@ -24015,6 +24073,7 @@ nesse
 nessel
 nest
 nesterenko
+nesters
 nesting
 nestl
 nestle
@@ -24613,6 +24672,7 @@ nyc
 nyc-based
 nycfc
 nycfcs
+nycisback
 nycs
 nydig
 nye
@@ -25497,6 +25557,7 @@ palau
 palazzo
 paleoanthropologist
 paleontologists
+palermo
 palestinian
 palestinians
 palia
@@ -25902,6 +25963,7 @@ peacekeeper
 peacekeepers
 peacemaker
 peach
+peaches
 peachtree
 peacock
 peak
@@ -25932,6 +25994,7 @@ pediatrician
 pednekar
 pedophile
 pedro
+pedunculata
 peed
 peek
 peel
@@ -26897,6 +26960,7 @@ post-george
 post-giroux
 post-holiday
 post-incarceration
+post-infection
 post-merkel
 post-ncaas
 post-pandemic
@@ -27371,6 +27435,7 @@ profits
 profound
 profoundly
 profundity
+prog-metal
 program
 programme
 programmed
@@ -27697,6 +27762,7 @@ put-out
 putin
 putins
 putney
+putra
 puts
 putsage
 putting
@@ -28072,6 +28138,7 @@ randall
 randers
 randii
 randle
+randle-related
 randolph
 random
 randomly
@@ -28119,6 +28186,7 @@ rapporteur
 raptor
 raptors
 rare
+rarely
 rarified
 rarity
 rarri
@@ -28565,6 +28633,7 @@ refresh
 refreshes
 refreshing
 refrigerator
+refs
 refuel
 refueling
 refuge
@@ -28862,6 +28931,7 @@ repaving
 repay
 repaying
 repeal
+repealed
 repeals
 repeat
 repeated
@@ -31821,6 +31891,7 @@ smartphones
 smarts
 smartstop
 smash
+smash-and
 smash-and-grab
 smash-and-grabs
 smashed
@@ -32162,6 +32233,7 @@ sos
 soths
 soto
 sotomayor
+soucy
 soufan
 soufrire
 sought
@@ -32303,6 +32375,7 @@ specialty
 species
 specific
 specifically
+specifics
 specs
 spectacle
 spectacles
@@ -32643,6 +32716,7 @@ stargazing
 staria
 stark
 starless
+starline
 starling
 starlink
 starmer
@@ -32741,6 +32815,7 @@ steering
 steers
 stefan
 stefanie
+stefanik
 stefano
 stefanski
 stegosaur
@@ -33305,6 +33380,7 @@ sunset
 sunshine
 suntrust
 sununu
+suny
 suo
 suomi
 suozzi
@@ -35413,6 +35489,7 @@ u2s
 uae
 uae-funded
 uaes
+uak
 uanl
 uber
 uber-viral
@@ -35801,6 +35878,7 @@ unseen
 unsent
 unsettled
 unsheltered
+unsold
 unsolved
 unstable
 unstoppable
@@ -35835,6 +35913,7 @@ unveils
 unverified
 unwanted
 unwelcome
+unwell
 unwind
 unwitting
 unwoke
@@ -36898,6 +36977,8 @@ wasted
 wasteful
 wastewater
 wasting
+watanabe
+watarase
 watauga
 watch
 watchable
@@ -37169,6 +37250,7 @@ wfp
 wfts
 wgc
 wgc-dell
+wgc-match
 wh
 whacked
 whale
@@ -37264,6 +37346,7 @@ wichita
 wicker
 wickersham
 wicket
+wickets
 wickramasinghe
 wicks
 wide
@@ -37419,6 +37502,7 @@ wipe
 wiped
 wipes
 wiping
+wira-kohu
 wire
 wirecard
 wired

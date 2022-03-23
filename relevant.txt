@@ -20,6 +20,7 @@
 0
 0-0
 0-1
+0-16
 0-3
 0-Day
 0-day
@@ -1232,6 +1233,7 @@
 12B
 12M
 12m
+12per
 12th
 13
 13-1
@@ -1394,6 +1396,7 @@
 17-And-A-Half
 17-Year-Old
 17-game
+17-hour
 17-year-old
 17-year-olds
 170
@@ -1879,6 +1882,7 @@
 261
 261000
 2614
+2634per
 264
 2641
 265
@@ -2083,6 +2087,7 @@
 360000
 3648936
 365
+366
 37
 370
 3700
@@ -2705,6 +2710,7 @@
 87-73
 87-Year-Old
 87-year-old
+87000
 870000
 8704
 871
@@ -3045,6 +3051,7 @@ Abetting
 Abeyratne
 Abeywickrama
 Abigail
+Abilene
 Abilities
 Ability
 Abington
@@ -3065,6 +3072,7 @@ Abraham
 Abrahams
 Abramovich
 Abrams
+Abrao
 Abreu
 Abroad
 Abruptly
@@ -3130,6 +3138,7 @@ Accreditation
 Accrington
 Accuracy
 Accurate
+Accurately
 Accusations
 Accuse
 Accused
@@ -3474,6 +3483,7 @@ Akhilesh
 Akimbo
 Akin
 Akinfenwas
+Akira
 Akivas
 Akoya
 Aksentijevi
@@ -3483,6 +3493,7 @@ Al
 Al-Badr
 Al-Bishi
 Al-Farouqi
+Al-Jarud
 Al-Khelaifi
 Al-Muzaini
 Al-Saggaf
@@ -4585,6 +4596,7 @@ Autom
 Automaker
 Automakers
 Automatic
+Automobile
 Automotive
 Autonomous
 Autopilot
@@ -5006,6 +5018,7 @@ Baptist
 Bar
 Bar-Quality
 Bar22
+Barabanov
 Barack
 Baraclough
 Baranovskaya
@@ -5061,6 +5074,7 @@ Barnett
 Barney
 Barnsley
 Baron
+Baroness
 Baronet
 Barr
 Barragn
@@ -5435,6 +5449,7 @@ Bet
 BetMGM
 Beta
 Betancourt
+Betcha
 Betfair
 Beth
 Bethenny
@@ -5622,6 +5637,7 @@ Birdies
 Birds
 Birdwatching
 Birikorang
+Birkenstocks
 Birkin
 Birks
 Birmingham
@@ -6174,6 +6190,7 @@ Breasts
 Breath
 Breathe
 Breathless
+Breathlessness
 Breathtaking
 Bree
 Breed
@@ -6295,6 +6312,7 @@ Broadview
 Broadway
 Brock
 Brockhampton
+Brockport
 Brockton
 Brodds
 Broderick
@@ -6378,6 +6396,7 @@ Bryn
 Brynderwyn
 Bryson
 Brzezinski
+Btch
 Bthune
 Buat
 Bubba
@@ -6569,6 +6588,7 @@ Bybit
 Bychkov
 Byculla
 Bydgoszcz
+Byfield
 Bylaws
 Byndoor
 Bynes
@@ -7071,6 +7091,7 @@ Care
 CareCloud
 Career
 Careers
+Carefully
 Carell
 Cares
 Carey
@@ -7211,6 +7232,7 @@ Castro
 Castroneves
 Castros
 Casts
+Casualties
 Casualty
 Cat
 Catalan
@@ -7434,6 +7456,7 @@ Changes
 Changgong
 Changing
 Changsha
+Changyong
 Changzhao
 Changzheng
 Channel
@@ -7589,6 +7612,7 @@ Chewy
 Chewys
 Chhota
 Chia
+Chiarelli
 Chiarot
 Chiarotti
 Chic
@@ -7897,6 +7921,7 @@ Clementi
 Clene
 Clent
 Clentlex
+Clerical
 Clerk
 Cletus
 Cleveland
@@ -8412,6 +8437,7 @@ Conspiracy
 Constana
 Constant
 Constant-Mathurin
+Constantino
 Constellation
 Constitution
 ConstitutionDAO
@@ -8678,6 +8704,7 @@ Cousins
 Coustan
 Coutinho
 Couto
+Couture
 Couzens
 Cov
 Covarrubias
@@ -9333,6 +9360,7 @@ Davids
 Davidson
 Davidsons
 Davies
+Daviesia
 Davion
 Davis
 Davontae
@@ -10174,6 +10202,7 @@ Dodgers-Giants
 Dodgers-Padres
 Dodges
 Dodgy
+Doechii
 Doekov
 Does
 Doesnt
@@ -11479,6 +11508,7 @@ Evolving
 Evonne
 Evos
 Ewan
+Ex
 Ex-49ers
 Ex-Air
 Ex-Alameda
@@ -12201,6 +12231,7 @@ Fictional
 Fidelity
 Fidels
 Fiebre
+Fiel
 Field
 Field-Deployable
 FieldPro
@@ -12470,6 +12501,7 @@ Florida
 Florida-based
 Floridas
 Floridians
+Florio
 Florissant
 Flossers
 Flossmoor
@@ -12505,6 +12537,7 @@ Fly
 Flyer
 Flyers
 Flying
+Flynn
 Flyvende
 Fmr
 Foca-class
@@ -13587,6 +13620,7 @@ Gouging
 Gould
 Goulding
 Gourde
+Gourgel
 Gous
 Gov
 Gove
@@ -14343,6 +14377,7 @@ Haugen
 Hauksdttir
 Hauler
 Hauls
+Haun
 Haunt
 Haunted
 Haunting
@@ -14695,6 +14730,7 @@ Hills
 Hillsborough
 Hillside
 Hillsman
+Hillsongs
 Hilltop
 Hilton
 Him
@@ -15347,6 +15383,7 @@ Iger
 Iggy
 Igloo
 Ignacio
+Ignazio
 Ignite
 Ignited
 Ignites
@@ -15923,6 +15960,7 @@ Issues
 Istanbul
 Istanbuls
 Istrus
+Isumi
 Iswaran
 It
 ItaUnibanco
@@ -16177,6 +16215,7 @@ Jeans
 Jeb
 Jecheon
 Jed
+Jedi
 Jeen-Yuhs
 Jeep
 Jeff
@@ -16463,6 +16502,7 @@ June
 Juned
 Junes
 Juneteenth
+Jung-woo
 Jungle
 Junhui
 Junio
@@ -16674,6 +16714,7 @@ Kaprizov
 Kara
 Karachi
 Karan
+Kararaina
 Karatsev
 Karavanska
 Kardashian
@@ -16808,6 +16849,7 @@ Kelvin
 Kemba
 Kemerovo
 Kemp
+Kempe
 Kempski
 Kemsley
 Ken
@@ -16829,6 +16871,7 @@ Kensington
 Kent
 Kenta
 Kenton
+Kents
 Kentucky
 Kentuckys
 Kenworthy
@@ -17114,6 +17157,7 @@ Kollwitz
 Kombat
 Kombats
 Komeutyuyam
+Kominato
 Komoroski
 Kompasu
 Kon
@@ -17581,6 +17625,7 @@ Lattimore
 Lattin
 Latvian
 Lau
+Laucke
 Lauderdale
 Lauenstein
 Lauer
@@ -17670,6 +17715,7 @@ Leaks
 Lean
 Leander
 Leandro
+Leaning
 Lear
 Learn
 Learned
@@ -19059,6 +19105,7 @@ Mass
 MassDOT
 Massachusetts
 Massacre
+Massacres
 Massage
 Massalongia
 Masse
@@ -19100,6 +19147,7 @@ Material
 Materials
 Maternity
 Matharu
+Mather
 Matheus
 Mathews
 Mathilde
@@ -19112,8 +19160,10 @@ Matildas
 Matima
 Matinee
 Matisse
+Matrix
 Matriz
 Matsuda
+Matsumoto
 Matsuyama
 Matt
 Mattarella
@@ -19715,6 +19765,7 @@ Minersville
 Mineta
 Ming
 Mingo
+Minh
 Mini
 Mini-lockdown
 Minifie
@@ -19736,6 +19787,7 @@ Minneapolis
 Minneapolis-based
 Minnehaha
 Minnesota
+Minnesota-Grown
 Minnesotans
 Minnesotas
 Minnetonka
@@ -20040,6 +20092,7 @@ Morant
 Morants
 Morata
 Moratorium
+Morave
 Moray
 Morbius
 Mordecai
@@ -20515,6 +20568,7 @@ NYC
 NYC-based
 NYCFC
 NYCFCs
+NYCisBack
 NYCs
 NYDIG
 NYE
@@ -20592,6 +20646,7 @@ Nanda
 Nandapal
 Nanggala
 Nanjiani
+Nankai
 Nanni
 Nannine
 Nanning
@@ -22062,6 +22117,7 @@ Palantir
 Palatine-Based
 Palau
 Palazzo
+Palermo
 Palestinian
 Palestinians
 Palia
@@ -22367,6 +22423,7 @@ Peacekeeper
 Peacekeepers
 Peacemaker
 Peach
+Peaches
 Peachtree
 Peacock
 Peak
@@ -23258,6 +23315,7 @@ Preckwinkle
 Predator
 Predators
 Predicand
+Predict
 Predicted
 Predictions
 Predictive
@@ -23455,6 +23513,7 @@ Profit
 Profits
 Profound
 Profoundly
+Prog-Metal
 Program
 Programme
 Programmes
@@ -23681,6 +23740,7 @@ Put
 Putin
 Putins
 Putney
+Putra
 Puts
 Putsage
 Putting
@@ -24098,6 +24158,7 @@ Rand
 Randall
 Randers
 Randle
+Randle-Related
 Randolph
 Random
 Randy
@@ -24137,6 +24198,7 @@ Rapper
 Raptor
 Raptors
 Rare
+Rarely
 Rarri
 Ras-I
 Rasa
@@ -25640,6 +25702,7 @@ STUDIO
 SUISSE
 SUMMIT
 SUNPOWER
+SUNY
 SUPERNOVA
 SURGICAL
 SUS
@@ -27141,6 +27204,7 @@ Smartphone
 Smarts
 Smash
 Smash-And-Grab
+Smash-and
 Smash-and-Grab
 Smash-and-grabs
 Smashed
@@ -27402,6 +27466,7 @@ Sorts
 Soths
 Soto
 Sotomayor
+Soucy
 Soufan
 Soufrire
 Sought
@@ -27753,6 +27818,7 @@ Stargate
 Staria
 Stark
 Starless
+Starline
 Starling
 Starlink
 Starmer
@@ -27821,6 +27887,7 @@ Steering
 Steers
 Stefan
 Stefanie
+Stefanik
 Stefano
 Stefanski
 Stein
@@ -28548,6 +28615,7 @@ TE
 TEA
 TECHNOLOGIES
 TECHNOLOGY
+TEE
 TEGNA
 TEI
 TELL
@@ -29432,6 +29500,7 @@ Tortelier
 Tortilla
 Tortoises
 Torture
+Tortured
 Tory
 Toscano-Anderson
 Toshiba
@@ -30058,6 +30127,7 @@ UW
 UWS
 UWs
 UY
+Uak
 Uber
 Uber-Viral
 Ubercom
@@ -30280,6 +30350,7 @@ Unscripted
 Unsealed
 Unseen
 Unsheltered
+Unsold
 Unsolved
 Unstable
 Unstuck
@@ -30706,6 +30777,7 @@ Vets
 Vettel
 Vettori
 VfL
+Vi
 Via
 Viable
 ViacomCBS
@@ -30996,6 +31068,7 @@ WFP
 WFTs
 WGC
 WGC-Dell
+WGC-Match
 WH
 WHAT
 WHITEPAPER
@@ -31233,6 +31306,8 @@ Waste
 Wasted
 Wasteful
 Wastewater
+Watanabe
+Watarase
 Watauga
 Watch
 WatchOS
@@ -31652,6 +31727,7 @@ Wintry
 Winx
 Wipe
 Wiping
+Wira-Kohu
 Wire
 Wirecard
 Wireless
@@ -34230,6 +34306,7 @@ candlelight
 candles
 candy
 canine
+canines
 canister
 cannabis
 cannabis-laced
@@ -34883,6 +34960,7 @@ combination
 combine
 combined
 combined-Austria
+combing
 combustion
 come
 comeback
@@ -35318,6 +35396,7 @@ cottages
 cotton
 couch
 couch-in-a-box
+cough
 coughed
 could
 couldnt
@@ -35562,6 +35641,7 @@ cuckoo
 cucumbers
 cuddle
 cuddling
+cuddly
 cue
 cues
 cuff
@@ -36465,6 +36545,7 @@ donations
 done
 donor
 donors
+dons
 dont
 donts
 doofus
@@ -36514,6 +36595,7 @@ downhill
 downplay
 downplays
 downs
+downsize
 downtown
 downturn
 doxxing
@@ -36711,6 +36793,7 @@ easing
 east
 eastbound
 eastern
+eastward
 easy
 eat
 eaten
@@ -37587,6 +37670,7 @@ felon
 felony
 felt
 female
+females
 femicide
 feminine
 feminist
@@ -37877,6 +37961,7 @@ flyer
 flyers
 flying
 flyover
+flyr
 foam
 focus
 focused
@@ -38182,6 +38267,7 @@ game
 game-changer
 game-changing
 game-ending
+game-winner
 gameplay
 gamer
 games
@@ -38342,6 +38428,7 @@ goals
 goats
 goblins
 god
+godown
 gods
 godsend
 godspeed
@@ -40356,6 +40443,7 @@ loopholes
 loose
 loosen
 loosens
+loot
 looted
 looting
 lop
@@ -40497,6 +40585,7 @@ makeup
 making
 malaria
 male
+males
 malfunction
 malicious
 mall
@@ -40934,6 +41023,7 @@ mitigate
 mix
 mix-and-mingle
 mix-match
+mix-up
 mixed
 mixtape
 mnemonics
@@ -41287,6 +41377,7 @@ nerfs
 nerve
 nerves
 nervous
+nesters
 nesting
 net
 net-zero
@@ -41850,6 +41941,7 @@ oximeter
 oxygen
 oysters
 ozone
+p
 pace
 paceman
 paces
@@ -42075,6 +42167,7 @@ pedestrian
 pedestrians
 pediatric
 pedophile
+pedunculata
 peed
 peek
 peeling
@@ -42516,6 +42609,7 @@ post-earthquake
 post-fight
 post-genesis
 post-incarceration
+post-infection
 post-pandemic
 post-vaccination
 post-vaccine
@@ -43451,6 +43545,7 @@ refrains
 refresh
 refreshes
 refrigerator
+refs
 refuel
 refueling
 refuge
@@ -43656,6 +43751,7 @@ repatriated
 repay
 repaying
 repeal
+repealed
 repeals
 repeat
 repeated
@@ -44743,6 +44839,7 @@ shorter
 shortest
 shortfall
 shortfalls
+shorthanded
 shortlist
 shortlists
 shortly
@@ -45187,6 +45284,7 @@ sort
 sorts
 sought
 soul
+soul-searching
 soul-sellers
 sound
 soundbar
@@ -45251,6 +45349,7 @@ specialty
 species
 specific
 specifically
+specifics
 specs
 spectacle
 spectacles
@@ -47102,6 +47201,7 @@ unveils
 unverified
 unwanted
 unwelcome
+unwell
 unwind
 unwitting
 up
@@ -47664,6 +47764,7 @@ whos
 whose
 whove
 why
+wickets
 wide
 widely
 widened
