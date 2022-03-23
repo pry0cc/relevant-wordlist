@@ -1140,6 +1140,7 @@
 113-112
 113-91
 113-99
+113-pound
 114-103
 114-106
 114-110
@@ -1196,6 +1197,8 @@
 122-116
 122-119
 12223
+123
+123-run
 1236
 124
 124-105
@@ -1543,6 +1546,7 @@
 19801983
 1980s
 1981
+1982s
 1983
 1984
 19841992
@@ -1856,6 +1860,7 @@
 265
 265m
 2666
+268
 2681
 269
 26b
@@ -2263,6 +2268,7 @@
 4th-best
 4th-quarter
 4th-tier
+4zergrand
 5
 5-0
 5-1
@@ -2292,6 +2298,7 @@
 50-mile
 50-minute
 50-person
+50-year-old
 500
 500-a-month
 500-goal
@@ -2408,6 +2415,7 @@
 606
 607
 60k
+60mph
 60s
 60th
 61
@@ -2565,6 +2573,7 @@
 777
 777-300er
 777x
+77b
 77k
 78
 78-67
@@ -2595,6 +2604,7 @@
 80
 80-76
 80-minute
+80-pound
 80-year-old
 800
 8000
@@ -2622,6 +2632,7 @@
 8216sinhalese-only
 82360
 825
+826
 83
 83-71
 83-year-old
@@ -2767,6 +2778,7 @@ aasmund
 aasy
 aat
 aave
+aavo
 aaye
 ab
 ab127
@@ -3084,6 +3096,7 @@ adile
 adirondack
 aditya
 adityanath
+adjei
 adjourns
 adjust
 adjustable
@@ -3128,6 +3141,8 @@ adopts
 adorable
 adorably
 adoree
+adores
+adp
 adr
 adrian
 adrianne
@@ -3319,6 +3334,7 @@ aguilar
 aguirre
 agustn
 agut
+agyei
 agyenim
 ahead
 ahem
@@ -3514,6 +3530,7 @@ aldon
 aldridge
 alec
 aledo
+aleida
 alejandra
 alejandro
 aleksandrs
@@ -3611,6 +3628,7 @@ all-weather
 all-white
 all-women
 all-you-can-eat
+alla
 allaho
 allahr
 allahu
@@ -3874,6 +3892,7 @@ anastasia
 anatomy
 anc
 ancalle
+ancer
 ancestors
 ancestral
 anchor
@@ -4338,6 +4357,7 @@ ardr
 are
 area
 areas
+areej
 arena
 arenas
 arendss
@@ -4378,6 +4398,7 @@ ariz
 arizona
 arjun
 ark
+arkady
 arkansas
 arkell
 arkoosh
@@ -4594,6 +4615,7 @@ assets
 assigned
 assignment
 assimilation
+assisi
 assist
 assistance
 assistant
@@ -5000,6 +5022,7 @@ babes
 babies
 babola
 baby
+baby-faced
 baby-making
 babylon
 babys
@@ -5221,6 +5244,7 @@ bangladeshi
 bangs
 bangsamoro
 banished
+baniya
 banjo
 bank
 bank-backed
@@ -5424,6 +5448,7 @@ baton
 batras
 bats
 batsirai
+batsman
 batsmen
 battalion
 batten
@@ -5576,6 +5601,7 @@ beet
 beethoven
 beethovens
 before
+before-and-after
 befores
 befriended
 befriending
@@ -5872,6 +5898,7 @@ bibipur
 bible
 biblical
 bibox
+bichette
 bickers
 bickerstaff
 bicknells
@@ -6030,6 +6057,7 @@ birsinghpur
 birth
 birthday
 birthdays
+birthing
 birthplace
 birthrate
 bis
@@ -6104,6 +6132,7 @@ blackmon
 blackmons
 blackness
 blackout
+blackpeopleare
 blackpinks
 blackpool
 blackriders
@@ -6402,6 +6431,7 @@ bombs
 bombshell
 bompton
 bon
+bonafides
 bonanza
 bonaventure
 boncath
@@ -6539,6 +6569,7 @@ bottoming
 bottoms
 boucher
 boudin
+bouffier
 bought
 bouhaddi
 bouie
@@ -6621,6 +6652,7 @@ bp
 bpa
 bpc
 bpmd
+bra
 bracco
 brace
 braces
@@ -7013,6 +7045,7 @@ bucks-wolves
 bucs
 bud
 budaun
+budde
 buddhist
 buddhists
 buddika
@@ -7415,6 +7448,7 @@ campaigning
 campaigns
 campbell
 campeche
+campeonato
 camper
 campers
 campground
@@ -7538,6 +7572,7 @@ capitol
 capitols
 capitulate
 capitulation
+capped
 capping
 capri
 capricorn
@@ -8029,6 +8064,7 @@ chael
 chaetus
 chahatein
 chai
+chailang
 chain
 chain-reaction
 chainalysis
@@ -8314,6 +8350,7 @@ chiellini
 chiellinis
 chiesas
 chika
+chikonji
 child
 child-sex
 child-themed
@@ -9017,6 +9054,7 @@ coma
 comal
 coman
 comatorium
+comb
 combat
 combat-hardened
 combatants
@@ -9691,6 +9729,7 @@ costs
 costume
 costumes
 cosy
+cota
 cotillard
 cottage
 cottages
@@ -10196,6 +10235,7 @@ curaao
 curator
 curators
 curb
+curbing
 curbs
 curdiest
 cure
@@ -10659,6 +10699,7 @@ decades
 decades-long
 decades-old
 decal
+decameron
 decapitated
 decarbonisation
 decatur
@@ -11009,6 +11050,7 @@ deploying
 deployment
 deploys
 deportation
+deportations
 deported
 deports
 depose
@@ -11171,6 +11213,7 @@ detox
 detroit
 detroits
 detto
+deuce
 deundra
 deutsch
 deutsche
@@ -11724,6 +11767,7 @@ dobbs
 dobie
 dobrev
 doc
+dochartaigh
 dock
 docked
 docker
@@ -12770,6 +12814,7 @@ emerged
 emergence
 emergencies
 emergency
+emergencyis
 emergent
 emerges
 emerging
@@ -13982,6 +14027,7 @@ farrow
 farther
 farts
 farysia
+fas
 fascinated
 fascinating
 fascination
@@ -14208,6 +14254,7 @@ ferry
 fertility
 fertilizer
 fest
+fester
 festival
 festivals
 festivities
@@ -14259,6 +14306,7 @@ fiel
 field
 field-deployable
 fielder
+fielding
 fieldpro
 fields
 fierce
@@ -14476,6 +14524,7 @@ five-game
 five-minute
 five-month
 five-star
+five-week
 five-year
 five-year-old
 fix
@@ -15263,7 +15312,9 @@ gaetz
 gaetzs
 gaffar
 gaffe
+gag
 gaga
+gagandeep
 gagatophorus
 gagged
 gags
@@ -15277,6 +15328,7 @@ gaines
 gaining
 gains
 gait
+gajab
 gaji
 gal
 gala
@@ -15451,6 +15503,7 @@ gay
 gaya
 gayle
 gayley
+gayo
 gayron
 gays
 gaza
@@ -15854,6 +15907,7 @@ gogh
 gogoro
 gohl
 gohmert
+goiano
 going
 going-out
 gojira
@@ -16295,6 +16349,7 @@ gs-6
 gsh
 gsp
 gt
+gt-line
 gt3
 gt4
 gta-obsessed
@@ -16308,6 +16363,7 @@ guac
 guadalupe
 guadeloupe
 guadeloupes
+guajardo
 guam
 guanaja
 guangming
@@ -16489,6 +16545,7 @@ h3
 h5n1
 haah
 haaland
+haans
 haas
 haatif
 habeck
@@ -16610,6 +16667,7 @@ ham
 hamas
 hamas-tied
 hambrick
+hamburg
 hamdok
 hamdoks
 hamid
@@ -17290,11 +17348,13 @@ hillsong
 hillsongs
 hilltop
 hilo
+hilreth
 hilton
 him
 himalayan
 himself
 hindering
+hinders
 hindi
 hindmarsh
 hinds
@@ -17394,6 +17454,7 @@ hodgkinson
 hodgson
 hodlers
 hodling
+hodur
 hofdemel
 hoffman
 hoffos
@@ -17784,6 +17845,7 @@ hundred
 hundreds
 hunedoara
 hung
+hungarian
 hungary
 hungarys
 hunger
@@ -18421,6 +18483,7 @@ informants
 information
 informer
 informs
+infowars
 infrared
 infrastructure
 infringement
@@ -19038,6 +19101,7 @@ james
 jameson
 jamess
 jamet
+jamhuri
 jami
 jamie
 jamies
@@ -19079,6 +19143,7 @@ jari
 jarl
 jarlath
 jarlin
+jarly
 jarman
 jarnkrok
 jaroslav
@@ -19298,6 +19363,7 @@ jogger
 joggers
 jogging
 johann
+johanna
 johannes
 johansson
 john
@@ -19350,6 +19416,7 @@ joo
 joo-myung
 joon-hos
 jordan
+jordan-only
 jordanian
 jordanians
 jordans
@@ -19527,6 +19594,7 @@ k-dramas
 k-pop
 k-pops
 k31
+k5
 k9
 ka
 ka-yan
@@ -19867,12 +19935,14 @@ khaja
 khaki
 khaled
 khalid
+khalil
 khamis
 khan
 khan-brook
 khanduri
 khang
 khangoshvili
+khans
 khao
 kharkiv
 khas
@@ -20019,6 +20089,7 @@ kitchee
 kitchen
 kitchens
 kite
+kitkat
 kits
 kitsch
 kitten
@@ -20704,6 +20775,7 @@ leaks
 leaky
 lean
 leander
+leandras
 leandro
 leaning
 leann
@@ -20822,6 +20894,7 @@ leiter
 leja
 lela
 lemaigre
+lemercier
 lemi
 lemmings
 lemon
@@ -20864,6 +20937,7 @@ leonard
 leonardo
 leone
 leonel
+leoni
 leonid
 leonora
 leontovych
@@ -21324,6 +21398,7 @@ lokuhettige
 lol
 lolas
 lollapalooza
+lollapaloozas
 lollipop
 lollipops
 loltyler1
@@ -21470,6 +21545,7 @@ loving
 low
 low-80s
 low-cost
+low-dose
 low-energy
 low-fat
 low-flying
@@ -21561,6 +21637,7 @@ lujan
 lujn
 luka
 lukaku
+lukas
 lukashenko
 luke
 lukid
@@ -21592,6 +21669,7 @@ lunico
 luo
 lupica
 lupin
+lurching
 lure
 lured
 lurie
@@ -21857,6 +21935,7 @@ makhi
 makhia
 making
 makkal
+makonde
 makrahi
 makwayiba
 mal
@@ -21866,6 +21945,7 @@ malaria
 malary
 malawi
 malay
+malayalam
 malaysia
 malaysia8217s
 malaysian
@@ -21976,6 +22056,7 @@ mania
 manifest
 manifested
 manifesto
+manik
 manipulates
 manipulating
 manipulation
@@ -22295,6 +22376,7 @@ matildas
 matima
 matinee
 matisse
+matopeni
 matrix
 matriz
 matsuda
@@ -22379,6 +22461,7 @@ mazie
 mazumdar
 mazzucchi
 mbala
+mbanja
 mbapp
 mbappe
 mbatha-raw
@@ -22869,6 +22952,7 @@ microtik
 microwave
 mid
 mid-2022
+mid-30s
 mid-70s
 mid-air
 mid-atlantic
@@ -22948,6 +23032,7 @@ mikkelsen
 mikko
 mikls
 mikrotik
+mikumbi
 mila
 milachs
 milad
@@ -23305,6 +23390,7 @@ mohapatra
 mohawk
 mohosin
 mohr
+mohyudin
 moira
 moise
 moisturizer
@@ -23498,6 +23584,7 @@ morgana
 morgane
 morgans
 morgue
+morgues
 mori
 moria
 moriarty
@@ -23877,6 +23964,7 @@ mvg
 mvp
 mvrn
 mwebaze
+mwenge
 mx
 mx-30
 mxico
@@ -24054,6 +24142,7 @@ nasty
 natal
 natalia
 natalie
+nataliya
 natanz
 natascha
 natasha
@@ -24267,6 +24356,7 @@ nerves
 nervous
 neser
 neshaminy
+nesquik
 ness
 nesse
 nessel
@@ -24888,6 +24978,7 @@ nyn
 nypd
 nys
 nyse
+nysp
 nyt
 nyu
 nyy
@@ -25766,6 +25857,7 @@ pakka
 pal
 palace
 palaces
+palacios
 palantir
 palatine-based
 palau
@@ -25797,6 +25889,7 @@ paloma
 palomar
 palos
 palou
+palpable
 pals
 palsy
 paltrow
@@ -26052,6 +26145,7 @@ paterson
 path
 pathbreaking
 pathetic
+pathogen
 pathogens
 pathologist
 pathos
@@ -26180,6 +26274,7 @@ peaceful
 peacefully
 peacekeeper
 peacekeepers
+peacekeeping
 peacemaker
 peach
 peaches
@@ -26616,6 +26711,7 @@ pier
 pierce
 pierna
 piero
+pierogi
 pierre
 pierre-andr
 piers
@@ -26917,6 +27013,7 @@ pmpl
 pmqs
 pms
 pnc
+po
 poached
 poacher
 poachers
@@ -26945,6 +27042,7 @@ pogacar
 pogba
 pogbas
 pogona
+pogorely
 poh
 pohlman
 poikilolaimus
@@ -27034,7 +27132,11 @@ polnyi
 polo
 polokwane
 pols
+poluyanov
+poluyanova
 poly
+polyakov
+polyakova
 polycauliona
 polygon
 polyipnus
@@ -27054,6 +27156,7 @@ ponder
 ponders
 ponds
 ponies
+ponomaryov
 pons
 pont-sainte-maxence
 ponte
@@ -27371,6 +27474,7 @@ predate
 predator
 predators
 predecessors
+predeparture
 predicament
 predicand
 predict
@@ -27509,6 +27613,7 @@ priced
 priceless
 prices
 pricey
+pricier
 priciest
 pricing
 pride
@@ -27616,6 +27721,7 @@ probes
 probing
 problem
 problematic
+problematics
 problems
 proc
 procedure
@@ -27692,6 +27798,7 @@ projections
 projector
 projects
 prokopov
+prokopyev
 prokopyevsk
 proliferate
 proliferating
@@ -27839,6 +27946,7 @@ psd
 pseudopsephos
 psg
 psl
+psn
 psu
 psy-op
 psychedelia
@@ -28137,6 +28245,7 @@ quick
 quicken
 quickening
 quickens
+quicker
 quickly
 quidd
 quiet
@@ -28659,6 +28768,7 @@ recalling
 recalls
 recap
 recapture
+recchias
 recedes
 receivables
 receive
@@ -28794,6 +28904,7 @@ redmayne
 redmissing
 redmond
 redo
+redon
 redonda
 redondo
 reds
@@ -28848,6 +28959,7 @@ refers
 refi
 refillable
 refinance
+refineries
 refiners
 refinery
 refinery29
@@ -28872,6 +28984,7 @@ refrains
 refresh
 refreshes
 refreshing
+refrigerated
 refrigerator
 refs
 refuel
@@ -28924,6 +29037,7 @@ registers
 registrar
 registration
 registrations
+registry
 regius
 regress
 regret
@@ -29161,6 +29275,7 @@ reopened
 reopening
 reopenings
 reopens
+reorganisation
 reorganization
 reorganize
 rep
@@ -29546,6 +29661,7 @@ rhodiumiv
 rhonj
 rhoslc
 rhp
+rhs
 rhubarb
 rhys
 rhythm
@@ -29693,6 +29809,7 @@ ritu
 ritz
 ritz-carlton
 rival
+rivalries
 rivalry
 rivals
 rivard
@@ -30321,6 +30438,7 @@ saget
 sagets
 saginaw
 sagittarius
+saha
 sahara
 saharan
 sahel
@@ -30388,6 +30506,7 @@ salivating
 salle
 salleh
 salma
+salman
 salmon
 salmond
 salmonella
@@ -30471,6 +30590,7 @@ sanctuary
 sand
 sand233
 sandals
+sandalsand
 sandbag
 sandbox
 sandefjord
@@ -30947,6 +31067,7 @@ seattle-area
 seattles
 seaweed
 seawolves
+seaworlds
 seawright
 sec
 sec-reporting
@@ -31454,6 +31575,7 @@ shelved
 shelves
 shen
 shenanigans
+shenyang
 shenzhen
 shepherd
 sherelle
@@ -31595,6 +31717,7 @@ shortly
 shorts
 shortsjust
 shortstop
+shortstops
 shot
 shot-making
 shotgun
@@ -31786,6 +31909,7 @@ silicone
 silja
 silkiest
 silla
+sillandi
 sillanp
 silliness
 silly
@@ -31887,6 +32011,7 @@ sirens
 siri
 sirianni
 siriannis
+sisan
 sisca
 sisenandus
 sister
@@ -32002,6 +32127,7 @@ skips
 skipwith-halatau
 skirts
 skis
+skittle
 skne
 skoglands
 skogstad
@@ -32098,6 +32224,7 @@ slides
 slight
 slightly
 slim
+slimdown
 slime
 slinger
 slingsby
@@ -32128,6 +32255,7 @@ slowdown
 slowed
 slower
 slowest
+slowest-ever
 slowing
 slowly
 slows
@@ -32423,6 +32551,7 @@ solitude
 solo
 solo-vehicle
 solomon
+solomonseriously
 solos
 solovey
 sols
@@ -32610,6 +32739,7 @@ spanking
 spanning
 spans
 spar
+spare
 spared
 spark
 sparked
@@ -32992,6 +33122,7 @@ stara
 starboard
 starbucks
 starbuckss
+starc
 stardance
 stardom
 stare
@@ -33202,6 +33333,7 @@ stir
 stirred
 stirring
 stirs
+stitchlite
 stivers
 stl
 sto
@@ -33463,6 +33595,7 @@ styles
 styling
 stylish
 stylists
+stymie
 su
 sub
 sub-four-minute
@@ -34389,6 +34522,7 @@ teasing
 tebboune
 tech
 techies
+technic
 technical
 technically
 technicals
@@ -34513,6 +34647,7 @@ tents
 tenuicephalus
 tenzs
 teo
+tepid
 tequila
 terablock
 tercera
@@ -34818,6 +34953,7 @@ thrown
 throws
 thru
 thruspace
+thruway
 thug
 thugs
 thumb
@@ -34856,6 +34992,7 @@ tiburones
 tick
 tick-borne
 tickboom
+ticked
 ticker
 ticket
 ticket-sale
@@ -35134,6 +35271,7 @@ torso
 torta
 tortelier
 tortilla
+tortilla-makers
 tortoises
 torture
 tortured
@@ -35263,6 +35401,7 @@ trailblazer
 trailblazers
 trailblazing
 trailer
+trailers
 trailing
 trails
 train
@@ -35839,6 +35978,7 @@ ufo
 ufos
 ufp
 uft
+ug
 uganda
 ugandan
 ugandas
@@ -36000,6 +36140,7 @@ understanding
 understands
 understated
 understood
+undertone
 undervaccinated
 undervalued
 undervaluing
@@ -36757,6 +36898,7 @@ victoria
 victorian
 victorias
 victories
+victorvictoria
 victorville
 victory
 video
@@ -36783,6 +36925,7 @@ viewership
 viewing
 viewpoint
 views
+vig
 vigil
 vigilant
 vigilante
@@ -37414,6 +37557,7 @@ wechat
 wed
 wedding
 weddings
+wedge
 wedged
 wedgie
 wednesday
@@ -37573,6 +37717,7 @@ wh
 whacked
 whale
 whale-watching
+whaler
 whales
 whalley
 whammy
@@ -37601,6 +37746,7 @@ wheldon
 when
 where
 whereabouts
+whered
 wheres
 wherever
 whether
@@ -37645,6 +37791,7 @@ whoa
 whod
 whole
 whole-person
+wholesale
 wholesome
 wholistic
 whom
@@ -37763,6 +37910,7 @@ winchester
 wind
 wind-fueled
 windchill
+windey
 windfall
 windham
 windham-burke
@@ -38043,6 +38191,7 @@ wrangler
 wrangling
 wrap
 wrap-up
+wrapped
 wrapper
 wrapping
 wraps
@@ -38155,6 +38304,7 @@ xenarthran
 xenia
 xeppa
 xfinity
+xhaka
 xi
 xi8217s
 xian
@@ -38593,6 +38743,7 @@ zte
 ztrk
 zubair
 zubarevich
+zubayr
 zuber
 zuccarelli
 zucker

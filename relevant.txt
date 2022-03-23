@@ -1152,6 +1152,7 @@
 113-112
 113-91
 113-99
+113-pound
 114-103
 114-106
 114-110
@@ -1210,6 +1211,8 @@
 122-116
 122-119
 12223
+123
+123-run
 1236
 124
 124-105
@@ -1568,6 +1571,7 @@
 19801983
 1980s
 1981
+1982s
 1983
 1984
 19841992
@@ -1896,6 +1900,7 @@
 265
 265M
 2666
+268
 2681
 269
 26B
@@ -2318,6 +2323,7 @@
 4K
 4M
 4Q
+4ZERGRAND
 4th
 4th-Best
 4th-Quarter
@@ -2356,6 +2362,7 @@
 50-Minute
 50-mile
 50-person
+50-year-old
 500
 500-Goal
 500-a-month
@@ -2477,6 +2484,7 @@
 606
 607
 60K
+60mph
 60s
 60th
 61
@@ -2646,6 +2654,7 @@
 777-300ER
 777X
 777x
+77B
 77K
 78
 78-67
@@ -2681,6 +2690,7 @@
 80-76
 80-Minute
 80-Year-Old
+80-pound
 800
 8000
 80000
@@ -2707,6 +2717,7 @@
 8216Sinhalese-Only
 82360
 825
+826
 83
 83-71
 83-Year-Old
@@ -2881,6 +2892,7 @@ ADA
 ADAC
 ADHD
 ADL
+ADP
 ADR
 ADVANCED
 ADVISERS
@@ -3041,6 +3053,7 @@ Aasmund
 Aasy
 Aat
 Aave
+Aavo
 Aaye
 Ab
 AbCellera
@@ -3268,6 +3281,7 @@ Adile
 Adirondack
 Aditya
 Adityanath
+Adjei
 Adjustable
 Adjusting
 Adjustment
@@ -3335,6 +3349,7 @@ Advocates
 Aegean
 Aegialoalaimus
 Aegius
+Aegon
 Aeolacris
 AerSale
 Aerial
@@ -3432,6 +3447,7 @@ Aguilar
 Aguirre
 Agustn
 Agut
+Agyei
 Agyenim
 Ahead
 Ahem
@@ -3596,6 +3612,7 @@ Aldon
 Aldridge
 Alec
 Aledo
+Aleida
 Alejandra
 Alejandro
 Aleksandrs
@@ -3675,6 +3692,7 @@ All-Star
 All-Stars
 All-Time
 All-in-One
+Alla
 Allaho
 Allahr
 Allahu
@@ -3882,6 +3900,7 @@ Anarcho-feminists
 Anastasia
 Anatomy
 Ancalle
+Ancer
 Ancestors
 Anchorage
 Ancient
@@ -4197,6 +4216,7 @@ Arapahoe
 Arashi
 Arbery
 Arberys
+Arbitration
 Arbitrum
 Arbix
 Arbor
@@ -4234,6 +4254,7 @@ Are
 AreThe
 Area
 Areas
+Areej
 Arena
 Arenas
 Arendss
@@ -4268,6 +4289,7 @@ Ariz
 Arizona
 Arjun
 Ark
+Arkady
 Arkansas
 Arkell
 Arkoosh
@@ -4448,6 +4470,7 @@ Assessment
 Asset
 Assets
 Assigned
+Assisi
 Assist
 Assistance
 Assistant
@@ -5573,6 +5596,7 @@ Bibipur
 Bible
 Biblical
 Bibox
+Bichette
 Bickers
 Bickerstaff
 Bicknells
@@ -5704,6 +5728,7 @@ Birolini
 Birsinghpur
 Birth
 Birthday
+Birthing
 Birthplace
 Bisa
 Bisaccia
@@ -5760,6 +5785,7 @@ Blackmon
 Blackmons
 Blackness
 Blackout
+Blackpeopleare
 Blackpinks
 Blackpool
 Blacks
@@ -5982,6 +6008,7 @@ Bombers
 Bombing
 Bompton
 Bon
+Bonafides
 Bonanza
 Bonaventure
 Boncath
@@ -6089,6 +6116,7 @@ Bottom
 Bottoms
 Boucher
 Boudin
+Bouffier
 Bought
 Bouhaddi
 Bouie
@@ -6484,6 +6512,7 @@ Bucks-Wolves
 Bucs
 Bud
 Budaun
+Budde
 Buddhist
 Buddhists
 Buddika
@@ -6829,6 +6858,7 @@ CORPORATE
 CORSTAR
 CORTLAND
 CORVEL
+COTA
 COTTER
 COVAX
 COVAXs
@@ -7011,6 +7041,7 @@ Campaigning
 Campaigns
 Campbell
 Campeche
+Campeonato
 Camper
 Campground
 Campillai
@@ -7464,6 +7495,7 @@ Chael
 Chaetus
 Chahatein
 Chai
+Chailang
 Chain
 Chainalysis
 Chainlink
@@ -7710,6 +7742,7 @@ Chiellini
 Chiellinis
 Chiesas
 Chika
+Chikonji
 Child
 Child-themed
 Childcare
@@ -8151,6 +8184,7 @@ Cohesion
 Coignet
 Coimbatore
 Coin
+CoinShares
 Coinbase
 Coinbases
 Coincheck
@@ -9568,6 +9602,7 @@ Decade-Old
 Decades
 Decades-Old
 Decal
+Decameron
 Decatur
 Decauville
 Decaying
@@ -9797,6 +9832,7 @@ Deployment
 Deploys
 Deportation
 Deported
+Deposed
 Deposit
 Depositor
 Depot
@@ -10281,6 +10317,7 @@ Dobbs
 Dobie
 Dobrev
 Doc
+Dochartaigh
 Docker
 Dockers
 Docs
@@ -11397,6 +11434,7 @@ Equinox
 Equipment
 Equipping
 Equitable
+Equities
 Equity
 Equivalent
 EquuSearch
@@ -11905,6 +11943,7 @@ FARGO
 FARMERS
 FATE
 FAW
+FAs
 FBAR
 FBI
 FBIs
@@ -12649,6 +12688,7 @@ Flying
 Flynn
 Flyvende
 Fmr
+Foam
 Foca-class
 Focani
 Focus
@@ -13127,6 +13167,7 @@ GS-6
 GSH
 GSP
 GT
+GT-Line
 GT3
 GT4
 GTA-obsessed
@@ -13164,6 +13205,7 @@ Gaetz
 Gaetzs
 Gaffar
 Gaga
+Gagandeep
 Gagatophorus
 Gahan
 Gahora
@@ -13174,6 +13216,7 @@ Gained
 Gaines
 Gains
 Gait
+Gajab
 Gaji
 Gal
 Gala
@@ -13315,6 +13358,7 @@ Gay
 Gaya
 Gayle
 Gayley
+Gayo
 Gayron
 Gaza
 Gaza-Israel
@@ -13644,6 +13688,7 @@ Gogh
 Gogoro
 Gohl
 Gohmert
+Goiano
 Going
 Going-Out
 Gojira
@@ -13981,6 +14026,7 @@ Guac
 Guadalupe
 Guadeloupe
 Guadeloupes
+Guajardo
 Guam
 Guanaja
 Guangming
@@ -14207,6 +14253,7 @@ HUT
 HVNB
 HYCROFT
 Haaland
+Haans
 Haas
 Haatif
 Habeck
@@ -14306,6 +14353,7 @@ Ham
 Hamas
 Hamas-tied
 Hambrick
+Hamburg
 Hamdok
 Hamdoks
 Hamilton
@@ -14357,6 +14405,7 @@ Handy
 Hanford
 Hang
 Hang-tung
+HangOut
 Hanging
 Hangovers
 Hangs
@@ -14857,11 +14906,13 @@ Hillsman
 Hillsong
 Hillsongs
 Hilltop
+Hilreth
 Hilton
 Him
 Himalayan
 Himself
 Hindering
+Hinders
 Hindi
 Hindmarsh
 Hinds
@@ -14936,6 +14987,7 @@ Hodges
 Hodgkinson
 Hodgson
 Hodlers
+Hodur
 Hofdemel
 Hoffman
 Hoffos
@@ -15240,6 +15292,7 @@ Hun
 Hundon
 Hundreds
 Hunedoara
+Hungarian
 Hungary
 Hungarys
 Hunger
@@ -15764,6 +15817,7 @@ Inform
 Informants
 Information
 Informer
+Infowars
 Infrastructure
 Infringement
 InfuSystem
@@ -16255,6 +16309,7 @@ James
 Jameson
 Jamess
 Jamet
+Jamhuri
 Jami
 Jamie
 Jamies
@@ -16295,6 +16350,7 @@ Jari
 Jarl
 Jarlath
 Jarlin
+Jarly
 Jarman
 Jarnkrok
 Jaroslav
@@ -16488,6 +16544,7 @@ Jogger
 Joggers
 Jogging
 Johann
+Johanna
 Johannes
 Johansson
 John
@@ -16536,6 +16593,7 @@ Joo
 Joo-myung
 Joon-Hos
 Jordan
+Jordan-only
 Jordanian
 Jordanians
 Jordans
@@ -16686,6 +16744,7 @@ K-Dramas
 K-pop
 K-pops
 K31
+K5
 K9
 KANSAS
 KARA
@@ -17064,12 +17123,14 @@ Khaja
 Khaki
 Khaled
 Khalid
+Khalil
 Khamis
 Khan
 Khan-Brook
 Khanduri
 Khang
 Khangoshvili
+Khans
 Khao
 Kharkiv
 Khas
@@ -17202,6 +17263,7 @@ Kissed
 Kissimmee
 Kiszla
 Kit
+KitKat
 Kitchee
 Kitchen
 Kitchens
@@ -17603,6 +17665,7 @@ Ladislaja
 Ladue
 Lady
 Ladybug
+Ladys
 Lae
 Laevidentaliidae
 Lafayette
@@ -17859,6 +17922,7 @@ Leaking
 Leaks
 Lean
 Leander
+Leandras
 Leandro
 Leaning
 Lear
@@ -17945,6 +18009,7 @@ Leiter
 Leja
 Lela
 Lemaigre
+Lemercier
 Lemi
 Lemon
 Lemon-Honey
@@ -17982,6 +18047,7 @@ Leonard
 Leonardo
 Leone
 Leonel
+Leoni
 Leonid
 Leonora
 Leontovych
@@ -18228,6 +18294,7 @@ Listeners
 Listening
 Listeria
 Listing
+Listings
 Lists
 Litchfield
 Lite
@@ -18345,6 +18412,7 @@ Lokuhettige
 LolTyler1
 Lolas
 Lollapalooza
+Lollapaloozas
 Lollipop
 Lollipops
 Loma
@@ -18467,6 +18535,7 @@ Loveseats
 Lovin
 Loving
 Low
+Low-Dose
 Low-Flying
 Low-Key
 Lowe
@@ -18527,6 +18596,7 @@ Lujan
 Lujn
 Luka
 Lukaku
+Lukas
 Lukashenko
 Luke
 Lukid
@@ -18933,6 +19003,7 @@ Makhi
 Makhia
 Making
 Makkal
+Makonde
 Makrahi
 Makwayiba
 Mal
@@ -18942,6 +19013,7 @@ Malaria
 Malary
 Malawi
 Malay
+Malayalam
 Malaysia
 Malaysia8217s
 Malaysian
@@ -19037,6 +19109,7 @@ Manhunt
 Manifest
 Manifested
 Manifesto
+Manik
 Manipulation
 Manipur
 Manitoba
@@ -19314,6 +19387,7 @@ Matildas
 Matima
 Matinee
 Matisse
+Matopeni
 Matrix
 Matriz
 Matsuda
@@ -19391,6 +19465,7 @@ Mazie
 Mazumdar
 Mazzucchi
 Mbala
+Mbanja
 Mbapp
 Mbappe
 Mbatha-Raw
@@ -19855,6 +19930,7 @@ Mikkelsen
 Mikko
 Mikls
 MikroTik
+Mikumbi
 Mila
 Milachs
 Milad
@@ -20112,6 +20188,7 @@ Mohapatra
 Mohawk
 Mohosin
 Mohr
+Mohyudin
 Moira
 Moise
 Moisturizer
@@ -20555,6 +20632,7 @@ Muwonge
 Muzammil
 MvG
 Mwebaze
+Mwenge
 Mxico
 Mxolisi
 My
@@ -20744,6 +20822,7 @@ NYN
 NYPD
 NYS
 NYSE
+NYSP
 NYT
 NYU
 NYY
@@ -20866,6 +20945,7 @@ NatWest
 Natal
 Natalia
 Natalie
+Nataliya
 Natanz
 Natascha
 Natasha
@@ -21006,6 +21086,7 @@ Nero
 Nervous
 Neser
 Neshaminy
+Nesquik
 Ness
 Nesse
 Nessel
@@ -22164,6 +22245,7 @@ PMPL
 PMQs
 PMs
 PNC
+PO
 PODCAST
 POINTS
 POLITICAL
@@ -22210,6 +22292,7 @@ PSA
 PSD
 PSG
 PSL
+PSN
 PSU
 PTC
 PTD
@@ -22296,6 +22379,7 @@ Pakistanis
 Pakistans
 Pakka
 Palace
+Palacios
 Palantir
 Palatine-Based
 Palau
@@ -22968,6 +23052,7 @@ Pilipenko
 Pill
 Pillar
 Pillow
+Pillows
 Pilot
 Pilots
 Pimblett
@@ -23055,6 +23140,7 @@ Pizookie-flavored
 Pizza
 Pizzas
 Pizzeria
+Pl
 Plaas
 Place
 Placed
@@ -23080,6 +23166,7 @@ Plane
 Planes
 Planet
 Planet-warming
+Planets
 Planned
 Planner
 Planning
@@ -23198,6 +23285,7 @@ Pogacar
 Pogba
 Pogbas
 Pogona
+Pogorely
 Poh
 Pohlman
 Poikilolaimus
@@ -23230,6 +23318,7 @@ Polar
 Polarized
 Polaroid
 Pole
+Poles
 Polestar
 Polettis
 Police
@@ -23263,7 +23352,11 @@ Polnyi
 Polo
 Polokwane
 Pols
+Poluyanov
+Poluyanova
 Poly
+Polyakov
+Polyakova
 Polycauliona
 Polygon
 Polyipnus
@@ -23279,6 +23372,7 @@ Ponce
 Ponchos
 Pond
 Ponds
+Ponomaryov
 Pons
 Pont-Sainte-Maxence
 Ponte
@@ -23667,6 +23761,7 @@ Probably
 Probation
 Probe
 Problem
+Problematics
 Problems
 Procedure
 Procedures
@@ -23721,6 +23816,7 @@ Projectile
 Projections
 Projects
 Prokopov
+Prokopyev
 Prokopyevsk
 Proliferating
 Prolific
@@ -24143,6 +24239,7 @@ RHOBH
 RHONJ
 RHOSLC
 RHP
+RHS
 RIGHT
 RIP
 RISK
@@ -24555,6 +24652,7 @@ Recalling
 Recalls
 Recap
 Recapture
+Recchias
 Receivables
 Receive
 Received
@@ -24644,6 +24742,7 @@ Redmans
 Redmayne
 Redmond
 Redo
+Redon
 Redonda
 Redondo
 Reds
@@ -24694,6 +24793,7 @@ Reforming
 Reforms
 Refresh
 Refreshing
+Refrigerated
 Refuge
 Refugee
 Refugees
@@ -26002,6 +26102,7 @@ Saget
 Sagets
 Saginaw
 Sagittarius
+Saha
 Sahara
 Saharan
 Sahel
@@ -26055,6 +26156,7 @@ Saliu
 Salle
 Salleh
 Salma
+Salman
 Salmon
 Salmond
 Salmonella
@@ -26128,6 +26230,7 @@ Sanctuary
 Sand
 Sand233
 Sandals
+Sandalsand
 Sandbag
 Sandbox
 Sandefjord
@@ -26447,6 +26550,7 @@ Scuttles
 Scytinium
 Se
 Sea
+SeaWorlds
 Seabound
 Seabra
 Seafair
@@ -26893,6 +26997,7 @@ Shelton
 Shelves
 Shen
 Shenanigans
+Shenyang
 Shenzhen
 Shepherd
 Sherelle
@@ -27007,6 +27112,7 @@ Shortly
 Shorts
 ShortsJust
 Shortstop
+Shortstops
 Shot
 Shot-Making
 Shotgun
@@ -27157,6 +27263,7 @@ Silhouette
 Silicon
 Silja
 Silkiest
+Sillandi
 Sillanp
 Silly
 Silo
@@ -27243,6 +27350,7 @@ Sirens
 Siri
 Sirianni
 Siriannis
+Sisan
 Sisca
 Sisenandus
 Sister
@@ -27376,6 +27484,7 @@ Sledgehammer
 Sledgehammer-wielding
 Sleek
 Sleep
+Sleeper
 Sleepers
 Sleeping
 Sleepless
@@ -27619,6 +27728,7 @@ Solitary
 Solo
 Solo-Vehicle
 Solomon
+Solomonseriously
 Solos
 Solovey
 Sols
@@ -28045,6 +28155,7 @@ Stara
 Starboard
 Starbucks
 Starbuckss
+Starc
 Stardom
 Stares
 Stargate
@@ -28198,6 +28309,7 @@ Stipe
 Stiprais
 Stirring
 Stirs
+Stitchlite
 Stivers
 Stock
 Stock-market
@@ -28882,6 +28994,7 @@ THOUSANDS
 THRICE
 THUT
 TIERRA
+TIM
 TIME
 TIMES
 TIMOTHY
@@ -29186,6 +29299,7 @@ Teaser
 Teases
 Tebboune
 Tech
+Technic
 Technical
 Technically
 Technician
@@ -29513,6 +29627,7 @@ Throwing
 Thrown
 Throws
 ThruSpace
+Thruway
 Thug
 Thump
 Thumping
@@ -30273,6 +30388,7 @@ UFO
 UFOs
 UFP
 UFT
+UG
 UH
 UIC
 UK
@@ -30755,6 +30871,7 @@ VI
 VICIS
 VIDEO
 VIDEOS
+VIG
 VII
 VIII
 VIRT
@@ -30837,6 +30954,7 @@ Valery
 Valet
 Valets
 Valhalla
+Valid
 Valiente
 Valieva
 Valievas
@@ -31054,6 +31172,7 @@ Vicki
 Victim
 Victims
 Victor
+VictorVictoria
 Victoria
 Victorian
 Victorias
@@ -31810,6 +31929,7 @@ Wheldon
 When
 Where
 Whereabouts
+Whered
 Wheres
 Wherever
 Whether
@@ -31942,6 +32062,7 @@ Winchester
 Wind
 Wind-Fueled
 Windchill
+Windey
 Windfall
 Windham
 Windham-Burke
@@ -32156,6 +32277,7 @@ Wrangler
 Wrangling
 Wrap
 Wrap-Up
+Wrapped
 Wraps
 Wrath
 Wreath
@@ -32247,6 +32369,7 @@ Xenarthran
 Xenia
 Xeppa
 Xfinity
+Xhaka
 Xi
 Xi8217s
 Xian
@@ -32652,6 +32775,7 @@ Zoysa
 Zrchersmhle
 Zubair
 Zubarevich
+Zubayr
 Zuber
 Zuccarelli
 Zucker
@@ -32843,6 +32967,7 @@ addition
 additional
 additions
 address
+addressed
 addresses
 addressing
 adds
@@ -32880,6 +33005,7 @@ adoptive
 adopts
 adorable
 adorably
+adores
 ads
 adult
 adult-use
@@ -33628,6 +33754,7 @@ bZ4X
 babble
 babies
 baby
+baby-faced
 baby-making
 babys
 babysitting
@@ -33713,6 +33840,7 @@ bandwagon
 bang
 banged-up
 bangsamoro
+baniya
 banjo
 bank
 bank-backed
@@ -33784,6 +33912,7 @@ bathrooms
 bathtub
 baton
 bats
+batsman
 batsmen
 batten
 batter
@@ -33842,6 +33971,7 @@ beers
 beers-for-vaccine
 bees
 before
+before-and-after
 befriended
 befuddled
 beg
@@ -34250,6 +34380,7 @@ boycotts
 boyfriend
 boyfriends
 boys
+bra
 brace
 braces
 brachypoda
@@ -34621,6 +34752,7 @@ capitalize
 capitalizes
 capitulate
 capitulation
+capped
 capping
 caprifolium
 caps
@@ -35239,6 +35371,7 @@ colt
 column
 columnist
 coma
+comb
 combat
 combat-hardened
 combative
@@ -35248,6 +35381,7 @@ combined
 combined-Austria
 combines
 combing
+combining
 combustion
 come
 comeback
@@ -35641,6 +35775,7 @@ cordial
 cordless
 cords
 core
+corn
 corner
 cornerback
 corny
@@ -35957,6 +36092,7 @@ cupcakes
 cups
 curator
 curb
+curbing
 curbs
 curdiest
 cure
@@ -36335,6 +36471,7 @@ denied
 deniers
 denies
 denim
+denounce
 denounces
 denouncing
 density
@@ -36363,6 +36500,7 @@ deployed
 deploying
 deploys
 deportation
+deportations
 deported
 deports
 depose
@@ -36472,6 +36610,7 @@ determines
 dethroned
 dethrones
 detonates
+deuce
 devastated
 devastates
 devastating
@@ -37245,6 +37384,7 @@ emerged
 emergence
 emergencies
 emergency
+emergencyis
 emerges
 emerging
 emetic
@@ -37737,6 +37877,7 @@ exposure
 express
 expressed
 expresses
+expression
 expressway
 expulsion
 exquisita
@@ -37994,6 +38135,7 @@ ferries
 ferry
 fertility
 fertilizer
+fester
 festival
 festivals
 fetal
@@ -38021,6 +38163,7 @@ fictional
 fictionalised
 field
 fielder
+fielding
 fierce
 fiercely
 fiery
@@ -38145,6 +38288,7 @@ five-game
 five-minute
 five-month
 five-star
+five-week
 five-year
 fix
 fixate
@@ -38240,6 +38384,7 @@ floored
 floors
 flop
 flops
+flour
 flourish
 flourishes
 flouted
@@ -38553,6 +38698,7 @@ gacha
 gadget
 gadgets
 gaffe
+gag
 gagged
 gags
 gain
@@ -39138,6 +39284,7 @@ haunted
 haunting
 have
 haven
+havens
 havent
 having
 havoc
@@ -39429,6 +39576,7 @@ horrendous
 horribilis
 horrible
 horrific
+horrifying
 horror
 horrors
 horse
@@ -40461,6 +40609,7 @@ layout
 lays
 laziest
 lbs
+le
 lead
 leader
 leaderboard
@@ -40810,6 +40959,7 @@ loving
 low
 low-80s
 low-cost
+low-dose
 low-energy
 low-fat
 low-income
@@ -40847,6 +40997,7 @@ lunches
 lung
 lunging
 lungs
+lurching
 lure
 lured
 lurking
@@ -41208,6 +41359,7 @@ microlepidota
 microplastics
 microwave
 mid-2022
+mid-30s
 mid-Atlantic
 mid-January
 mid-July
@@ -41454,6 +41606,7 @@ morbidly
 more
 more-than-expected
 moreish
+morgues
 morning
 mornings
 mortality
@@ -42330,6 +42483,7 @@ paleontologists
 palladium
 pallipes
 palm
+palpable
 pals
 paltry
 pan
@@ -42454,6 +42608,7 @@ patents
 paternity
 path
 pathetic
+pathogen
 pathologist
 pathos
 paths
@@ -42503,6 +42658,7 @@ peace
 peaceful
 peacefully
 peacekeepers
+peacekeeping
 peacemaker
 peach
 peak
@@ -42601,6 +42757,7 @@ personalized
 personally
 personnel
 personnummer
+persons
 perspective
 perspectives
 pertaining
@@ -42678,6 +42835,7 @@ piece
 pieces
 piecing
 pier
+pierogi
 pies
 pig
 piggyback
@@ -43057,6 +43215,7 @@ predate
 predator
 predators
 predecessors
+predeparture
 predicament
 predict
 predictable
@@ -43155,6 +43314,7 @@ price
 priceless
 prices
 pricey
+pricier
 pricing
 pride
 priest
@@ -43522,6 +43682,7 @@ queues
 quick
 quickening
 quickens
+quicker
 quickly
 quiet
 quietly
@@ -43885,6 +44046,7 @@ refers
 refi
 refillable
 refinance
+refineries
 refiners
 refinery
 refit
@@ -43937,6 +44099,7 @@ registers
 registrar
 registration
 registrations
+registry
 regress
 regret
 regrets
@@ -44099,6 +44262,7 @@ reopened
 reopening
 reopenings
 reopens
+reorganisation
 reorganization
 rep
 repackaging
@@ -44448,6 +44612,7 @@ risks
 risky
 risotto
 rival
+rivalries
 rivalry
 rivals
 river
@@ -45410,6 +45575,7 @@ skipper
 skipping
 skips
 skis
+skittle
 skulls
 skunk
 sky
@@ -45463,6 +45629,7 @@ slides
 slight
 slightly
 slim
+slimdown
 slip
 slipped
 slippery
@@ -45479,6 +45646,7 @@ slowdown
 slowed
 slower
 slowest
+slowest-ever
 slowing
 slowly
 slows
@@ -45690,6 +45858,7 @@ span
 spangled
 spanking
 spar
+spare
 spared
 spark
 sparked
@@ -45698,6 +45867,7 @@ sparkle
 sparkling
 sparkly
 sparks
+sparring
 spars
 spas
 spat
@@ -45789,6 +45959,7 @@ splitter
 splurge
 splurges
 spoil
+spoiled
 spoiler
 spoiling
 spoke
@@ -46192,6 +46363,7 @@ style
 styles
 stylish
 stylists
+stymie
 sub
 sub-sector
 subathon
@@ -46294,6 +46466,7 @@ sun-dappled
 sundown
 sunflower
 sunk
+sunken
 sunlight
 sunny
 sunrise
@@ -46313,6 +46486,7 @@ superfecta
 superfight
 supergiant
 superhero
+superheroes
 superhighways
 superintendent
 superionic
@@ -46559,6 +46733,7 @@ tamales
 tame
 tames
 tampering
+tandem
 tangible
 tangle-free
 tangled
@@ -46695,6 +46870,7 @@ tensions
 tent
 tents
 tenuicephalus
+tepid
 tequila
 term
 terminal
@@ -46871,6 +47047,7 @@ thwarts
 thy
 tick
 tick-borne
+ticked
 ticker
 ticket
 ticket-sale
@@ -47010,6 +47187,7 @@ torrential
 torso
 torta
 tortilla
+tortilla-makers
 torture
 tortured
 toss
@@ -47094,6 +47272,7 @@ trail-blazer
 trailblazers
 trailblazing
 trailer
+trailers
 trailing
 trails
 train
@@ -47431,6 +47610,7 @@ understand
 understanding
 understands
 understated
+undertone
 undervaccinated
 undervalued
 underwater
@@ -48056,6 +48236,7 @@ website
 websites
 wed
 wedding
+wedge
 wedged
 wedgie
 weed
@@ -48105,6 +48286,7 @@ wetter
 weve
 whacked
 whale
+whaler
 whales
 whammy
 what
@@ -48143,6 +48325,7 @@ whitewash
 who
 whod
 whole
+wholesale
 wholesome
 whooping
 whopper
