@@ -16,6 +16,7 @@
 -sources
 -wh
 -white
+-yonhap
 0
 0-0
 0-1
@@ -1203,6 +1204,7 @@
 125m
 125mph
 126-120
+126-98
 1263
 1265
 126m
@@ -2514,6 +2516,7 @@
 75
 75-64
 75-70
+75-73
 75-foot
 75-year-old
 750
@@ -2582,6 +2585,7 @@
 819
 81963
 82
+82-69
 820
 820am
 8211
@@ -2719,6 +2723,7 @@ a-rod
 a24s
 a6
 a68
+aa
 aaa
 aac
 aadhaar
@@ -3707,6 +3712,7 @@ amassingarobot
 amateur
 amaya
 amaze
+amazed
 amazement
 amazin
 amazing
@@ -4466,6 +4472,7 @@ ashes
 ashey
 ashish
 ashland
+ashleigh
 ashley
 ashli
 ashore
@@ -5197,6 +5204,7 @@ barbados
 barbara
 barbecue
 barbecues
+barbecuing
 barbee
 barber
 barberae
@@ -5386,6 +5394,7 @@ bayern
 bayerns
 bayfair
 baylah
+bayless
 bayley
 baylon
 baylor
@@ -5683,6 +5692,7 @@ bertans
 berth
 bertha
 bertinelli
+bertinellis
 bertolini
 bertrando
 berw
@@ -6569,6 +6579,7 @@ bralette
 bralettes
 braman
 branagh
+branca
 branch
 branches
 brand
@@ -6685,6 +6696,7 @@ bret
 bretagne
 brett
 breviarticulata
+brew
 brewed
 breweries
 brewers
@@ -6872,6 +6884,7 @@ brutal
 brutality
 brutally
 brute-force
+bruton
 bruyne
 bryan
 bryans
@@ -6964,6 +6977,7 @@ bulgaria
 bulgarian
 bulgarians
 bulgarias
+bulk
 bulking
 bull
 bullard
@@ -7255,6 +7269,7 @@ californias
 calistoga
 call
 call-out
+call-up
 call-ups
 called
 caller
@@ -7560,6 +7575,7 @@ carp
 carpenter
 carpentersville
 carpet
+carpets
 carpinteria
 carpool
 carr
@@ -7607,6 +7623,7 @@ carts
 cartujano
 cartwright
 caruso
+carusos
 carvalhido
 carvalho
 carvana
@@ -7766,6 +7783,7 @@ cbdc
 cbdcs
 cbdmd
 cbdt
+cbi
 cbp
 cbs
 cbs3
@@ -7980,6 +7998,7 @@ chandran
 chandrawal
 chanel
 chang
+chang-yong
 changcheng
 change
 changed
@@ -8805,10 +8824,12 @@ collab
 collaboration
 collaborations
 collaborators
+collagen
 collapse
 collapsed
 collapses
 collapsible
+collapsing
 collar
 collard
 collateral
@@ -8840,6 +8861,7 @@ collingwood
 collins
 collinsville
 collision
+collison
 colman
 colmar
 colo
@@ -8966,6 +8988,7 @@ commonwealth
 commowealth
 communal
 communaut
+commune
 communicate
 communication
 communications
@@ -9017,6 +9040,7 @@ competitors
 compiled
 compiler
 complain
+complained
 complains
 complaint
 complaints
@@ -10582,6 +10606,7 @@ deemed
 deeming
 deems
 deep
+deep-sea
 deepak
 deepen
 deepened
@@ -10695,6 +10720,7 @@ deleting
 delgado
 delhi
 delhi-amritsar
+delhi-gurgaon
 delhi-gurugram
 delhis
 deli
@@ -11194,6 +11220,7 @@ digs
 digvijaya
 dike
 dikeledi
+dil
 dilemma
 dilemmas
 dilip
@@ -12321,6 +12348,7 @@ edler
 edm
 edmond
 edmont
+edmonton
 edmund
 edmunds
 edna
@@ -12479,6 +12507,7 @@ elephants
 eleri
 elevate
 elevated
+elevates
 elevating
 elevator
 elevators
@@ -12530,6 +12559,7 @@ ellisons
 ellson
 ellsworth
 ellum
+ellyse
 elmer
 elmhurst
 elmo
@@ -12986,6 +13016,7 @@ esotericism
 especially
 espinosa
 espionage
+espirito
 esplanade
 espn
 espns
@@ -13988,6 +14019,7 @@ fend
 fender
 fending
 fendley
+fends
 feng
 fengqi
 fentanyl
@@ -14185,6 +14217,7 @@ finish
 finished
 finisher
 finishes
+finishing
 finland
 finn
 finneas
@@ -14247,6 +14280,7 @@ first-swing
 first-time
 first-year
 firstenergy
+firsts
 fis
 fisa
 fiscal
@@ -15252,6 +15286,7 @@ gave
 gavin
 gawri
 gay
+gaya
 gayle
 gayley
 gayron
@@ -15287,6 +15322,7 @@ geeky
 geelong
 geely
 geelys
+geer
 geetas
 geethiya
 gei
@@ -16222,6 +16258,7 @@ guru
 gurugram
 gurung
 gurupada
+guruprasad
 gurus
 gurzanski
 gus
@@ -16233,6 +16270,7 @@ gustavian
 gustavo
 gustern
 gusto
+gusts
 gusty
 gut
 gute
@@ -16350,6 +16388,7 @@ hal
 halaholo
 halcn
 hale
+halen
 halens
 halep
 hales
@@ -16847,6 +16886,7 @@ hell
 hella
 hellbound
 hellcat
+hellebuyck
 heller
 hellman
 hello
@@ -17106,6 +17146,7 @@ hirt
 his
 hisashi
 hisd
+hisle
 hispanic
 histor-e
 historian
@@ -18849,6 +18890,7 @@ jarrott
 jarv
 jarvis
 jas
+jase
 jasiel
 jaslyn
 jasmine
@@ -18890,6 +18932,7 @@ jc
 jd
 jealous
 jean
+jean-arnaud
 jean-baptiste
 jean-marie-alexandre
 jean-philippe
@@ -19309,6 +19352,7 @@ kaia
 kaifeng
 kailash
 kaine
+kaisa
 kaiser
 kaisers
 kaitlin
@@ -19489,6 +19533,7 @@ kc-46
 kck
 kdy
 ke
+kean
 keane
 keaney
 kearsarge
@@ -20174,6 +20219,7 @@ laments
 lamet
 laminilabrum
 lamore
+lamoriello
 lamp
 lampard
 lampards
@@ -21044,6 +21090,7 @@ logistical
 logistics
 logo
 logs
+loh
 lohan
 lohans
 loire
@@ -21165,6 +21212,7 @@ lotta
 lottery
 lotto
 lotus
+lou
 loud
 louder
 loudly
@@ -21403,6 +21451,7 @@ macdonald
 mace
 macedonia
 maces
+mach-hommy
 machete
 machiavellian
 machida-kun
@@ -23010,6 +23059,7 @@ mohammad
 mohammadia
 mohammed
 mohan
+mohapatra
 mohawk
 mohosin
 mohr
@@ -23130,6 +23180,7 @@ montclare
 monte
 montebello
 montecito
+monteiro-riviere
 montenegro
 monterey
 monterey-slo
@@ -23153,6 +23204,7 @@ mood
 moodand
 moody
 moodys
+mookie
 moon
 moonbut
 moonlighting
@@ -23238,6 +23290,7 @@ morya
 mos
 mos-shogbamimu
 mosaic
+moscone
 moscow
 moscow-born
 moscows
@@ -24448,6 +24501,7 @@ novocastrians
 novogratz
 novoselsky
 now
+now-30
 now-abolished
 now-plentiful
 nowakowska
@@ -24462,6 +24516,7 @@ npm
 nport-p
 npr
 nps
+nr
 nra
 nrg
 nri
@@ -24565,6 +24620,7 @@ nyers
 nyfc
 nyfw
 nyiragongo
+nyn
 nypd
 nys
 nyse
@@ -24623,6 +24679,7 @@ obligation
 obligations
 obliterating
 oblivious
+oblongifolia
 obrien
 obrohta
 obs
@@ -25892,6 +25949,7 @@ pei
 peihua
 peirson
 pekarek
+peko
 pel
 pelakon
 pelican
@@ -26694,6 +26752,7 @@ polyipnus
 polymarket
 polymath
 polytechnic
+pomaderris
 pomander
 pomeroy
 pomona
@@ -26913,6 +26972,7 @@ powells
 powelton
 power
 power-play
+power-supply
 powerade
 powerball
 powered
@@ -27673,6 +27733,7 @@ qanon-style
 qanons
 qaraqosh
 qashami
+qasim
 qatar
 qatari
 qataris
@@ -27789,6 +27850,7 @@ quinn
 quinta
 quintella
 quintessential
+quintilla
 quinto
 quinton
 quintuple
@@ -27992,6 +28054,7 @@ rampage
 rampant
 ramping
 ramps
+rampurhat
 rams
 ramsay
 ramsey
@@ -28212,6 +28275,7 @@ real-life
 real-time
 real-world
 realignment
+realised
 realist
 realistic
 realistically
@@ -28321,6 +28385,7 @@ reclaim
 reclaimed
 reclaiming
 reclaims
+reclears
 reclimbs
 recognise
 recognises
@@ -28574,6 +28639,7 @@ rei
 reid
 reids
 reign
+reigning
 reignited
 reignites
 reigniting
@@ -28745,6 +28811,7 @@ rename
 renamed
 renames
 renaming
+renard
 renault
 render
 rendered
@@ -29142,6 +29209,7 @@ rfl
 rfu
 rgger
 rhamondre
+rhee
 rhein
 rhetoric
 rhett
@@ -29992,6 +30060,7 @@ saliu
 salivating
 salle
 salleh
+salma
 salmon
 salmond
 salmonella
@@ -30121,6 +30190,7 @@ santana
 santander
 santiago
 santiment
+santo
 santorum
 santos
 sao
@@ -30143,6 +30213,7 @@ saratoga
 sarawak
 sarcasm
 sarcastic
+sardar
 sardine
 sardinian
 sariara
@@ -30300,6 +30371,7 @@ scheduling
 scheifeles
 scheme
 schemes
+scherzer
 scherzers
 scherzinger
 scheublin
@@ -30358,6 +30430,7 @@ schwarber
 schwartz
 schwartzel
 schwartzie
+schwartzs
 schwarzenegger
 schwausch
 schweikert
@@ -30749,6 +30822,7 @@ septa
 septas
 september
 septic
+sepulcher
 sequel
 sequels
 sequences
@@ -34138,6 +34212,7 @@ tether
 tetiana
 tetravinyltin
 tets
+tettidia
 tetyana
 teva
 tewai
@@ -35593,6 +35668,7 @@ unfortunately
 unfriendliest
 unfriendly
 ungoverned
+ungrading
 unground
 unhappy
 unharmed
@@ -36247,6 +36323,7 @@ vests
 vet
 veteran
 veterans
+veterinarian
 veto
 vetoes
 vetoing
@@ -37334,6 +37411,7 @@ winter
 winters
 wintery
 winthrop
+wintour
 wintrust
 wintry
 winx
@@ -37638,6 +37716,7 @@ wwi-era
 wwii
 wwii-era
 wwll-era
+wwy
 wxpns
 wyandotte
 wyatt
@@ -37825,6 +37904,7 @@ yet
 yeun
 yeuns
 yevgeny
+yew
 yews
 yg
 ygg-backed
@@ -37946,6 +38026,7 @@ yuzefovich
 yuzhi
 yuzhou
 yvan
+yvar
 yves
 yvonne
 yy
@@ -38105,6 +38186,7 @@ zuber
 zuccarelli
 zucker
 zuckerberg
+zuckerberg-funded
 zuckerbergs
 zuckers
 zukerman
