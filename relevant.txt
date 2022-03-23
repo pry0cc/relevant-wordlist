@@ -1030,6 +1030,7 @@
 10-KA
 10-Minute
 10-Minute-Prep
+10-Minutes
 10-Month
 10-Plus
 10-Q
@@ -1156,6 +1157,7 @@
 116-113
 117
 117-105
+117-111
 117-116
 118
 1189
@@ -1224,6 +1226,7 @@
 128
 128-125
 128-127
+1299
 12B
 12M
 12m
@@ -1284,6 +1287,7 @@
 14-year-old
 140
 1400
+140000
 140712
 140K
 142
@@ -1405,6 +1409,7 @@
 179
 179723
 1799
+17M
 17th
 17th-century
 18
@@ -1770,6 +1775,7 @@
 2167
 216M
 2175M
+21M
 21st
 21st-century
 22
@@ -1961,6 +1967,7 @@
 3-alarm
 3-day
 3-decade
+3-game
 3-hit
 3-point
 3-pointer
@@ -2088,6 +2095,7 @@
 37M
 37th
 38
+380
 3800
 38120
 384
@@ -2200,6 +2208,7 @@
 42-Year
 42-year-old
 420
+42000
 42021
 421
 42121
@@ -2213,6 +2222,7 @@
 424B5
 425
 4271
+429
 42K
 42nd
 43
@@ -2526,6 +2536,7 @@
 7-Year-Old
 7-day
 7-figure
+7-foot-4
 7-footer
 7-game
 7-month-old
@@ -2602,6 +2613,7 @@
 77-63
 77100
 773
+777
 777-300ER
 777X
 777x
@@ -2751,6 +2763,7 @@
 93rd
 94
 94-1
+94-90
 94-year-old
 94000
 94766
@@ -4272,6 +4285,7 @@ Arsonists
 Art
 ArtPrize
 Artechouse
+Artemio
 Artenir
 Arteta
 Artful
@@ -4387,6 +4401,7 @@ Association
 Aston
 Astorias
 Astorka
+Astou
 Astoundly
 Astra
 AstraZeneca
@@ -4505,6 +4520,7 @@ Augsburg
 August
 Augusta
 Aukus
+Aulacophora
 Ault
 Aung
 Aunt
@@ -4679,6 +4695,7 @@ BA2
 BAA
 BAC
 BADNEWS
+BAFTA
 BANCFIRST
 BANCO
 BANCORP
@@ -4971,6 +4988,7 @@ Banning
 Bannon
 Banorte
 Bans
+Banten
 Bantering
 Banthra
 Banzi
@@ -5267,6 +5285,7 @@ Beijings
 Being
 Beirut
 Beja
+Bekir
 Bel-Air
 Belarus
 Belarusian
@@ -5298,6 +5317,7 @@ Bellinger
 Bellingham
 Bello
 Bellon
+Belltown
 Bellwood
 Belly
 Belmont
@@ -6152,6 +6172,7 @@ Breeze
 Breeziest
 Breggen
 Bregman
+Breida
 Breland
 Bremen
 Bremens
@@ -9563,6 +9584,7 @@ Demo
 Democracy
 Democrat
 Democratic
+Democratic-controlled
 Democratically
 Democratizing
 Democrats
@@ -10085,6 +10107,7 @@ Division
 Divn
 Divorce
 Diwakar
+Diwas
 Diwigdi
 Dixie
 Dixon
@@ -10227,6 +10250,7 @@ Dorgan
 Dorian
 Dorian-Lawrence
 Dorien
+Dorinda
 Doris
 Dormitory
 Dornan
@@ -10443,6 +10467,7 @@ Ducks
 Duckworth
 Dud
 Dudamel
+Dudi
 Dudley
 Dudnikov
 Due
@@ -10868,6 +10893,7 @@ Ekstraliga
 El
 Elantra
 Elaphoglossum
+Elasticity
 Elbrus
 Eldar
 Elden
@@ -11236,6 +11262,7 @@ Ern
 Ernby
 Ernest
 Ernst
+Ernst-Wilhelm
 Eroding
 Erosion
 Errazuriz
@@ -11500,6 +11527,7 @@ Ex-governor
 Ex-graftbusters
 Ex-inmate
 Ex-lawyer
+Ex-nurse
 Ex-nursing
 Ex-officer
 Ex-peer
@@ -11531,6 +11559,7 @@ Excitement
 Exciting
 Excluded
 Exclusive
+Exclusive-Cannabis
 Exclusive-GM
 Exclusive-Robinhood
 Exclusive-Sen
@@ -12031,6 +12060,7 @@ Fedosova
 Feds
 Fedsurrection
 Feed
+Feedback
 Feeder
 Feeders
 Feeds
@@ -12443,6 +12473,7 @@ Flyers
 Flying
 Flyvende
 Fmr
+Foca-class
 Focani
 Focus
 Focused
@@ -12597,6 +12628,7 @@ France
 Frances
 Francesco
 Franch
+Franchi
 Franchise
 Francine
 Francis
@@ -12787,6 +12819,7 @@ Funday
 Funding
 Fundraise
 Fundraiser
+Fundraising
 Funds
 Funeral
 Funfetti
@@ -13324,6 +13357,7 @@ Gis
 Gisele
 Gisin
 GitHub
+Gitmo
 Gittelson
 Giudice
 Giudices
@@ -13423,6 +13457,7 @@ Gofers
 Goggias
 Gogh
 Gogoro
+Gohl
 Gohmert
 Going
 Going-Out
@@ -13643,6 +13678,7 @@ Greenland
 Greenlane
 Greenman
 Greenogue
+Greenport
 Greens
 Greensboro
 Greensill
@@ -13781,6 +13817,7 @@ Guatemalas
 Gubernatorial
 Gucci
 Guelders
+Guentzel
 Guerneville
 Guernsey
 Guerra
@@ -13846,6 +13883,7 @@ Guns
 Gunshot
 Gunter
 Gunther
+Gunvalson
 Guoquan
 Gupta
 Guptas
@@ -15946,6 +15984,7 @@ Jacobs
 Jacqueline
 Jacques
 Jade
+Jadvyga
 Jae-in
 Jaff
 Jaffa
@@ -16068,6 +16107,7 @@ Jaxon
 Jay
 Jay-Z
 Jay-Zs
+Jaya
 Jayakrishnan
 Jayapal
 Jayaratne
@@ -16350,6 +16390,7 @@ Jugular
 Juice
 Juicy
 Juju
+Jukyt
 Jul
 Jules
 Julia
@@ -16902,6 +16943,7 @@ Kinshasa
 Kinter
 Kintsugi
 Kinzinger
+Kioxia
 Kipchoge
 Kiper
 Kipling
@@ -16971,6 +17013,7 @@ Kneeldowns
 Knelt
 Knew
 Knicks
+Knicks-Hawks
 Knife
 Knife-Wielding
 Knife-wielding
@@ -17387,6 +17430,7 @@ Lance
 Lancelot
 Lances
 Land
+LandPaths
 Landed
 Lander
 Landers
@@ -17476,6 +17520,7 @@ Lathagrium
 Latham
 Latif
 Latifa
+Latife
 Latin
 Latina
 Latino
@@ -17490,6 +17535,7 @@ Latvian
 Lau
 Lauderdale
 Lauenstein
+Lauer
 Lauffer
 Laugh
 Laughing
@@ -18517,6 +18563,7 @@ Madhavan
 Madhya
 Madison
 Madisons
+Madisonville
 Madlib
 Madness
 Madoff
@@ -18601,6 +18648,7 @@ Mailer
 Main
 Maine
 Mainichi
+Mainstream
 Maintain
 Maintenance
 Mainz
@@ -20353,6 +20401,7 @@ NIMBY
 NINFO
 NISSAN
 NIST
+NIT
 NIreland
 NJ
 NJIT
@@ -20597,6 +20646,7 @@ Nazi
 Nazis
 Nbat
 Ndefo
+Ndefos
 Ndikumana
 Ndombele
 Ndrangheta
@@ -20710,6 +20760,7 @@ Neville
 New
 New-Look
 New-home
+New-look
 NewHarry
 NewYorkNico
 Newark
@@ -20752,6 +20803,7 @@ Nexus
 Neymar
 Ngannou
 Ngee
+Ngom
 Nguen
 Nguyen
 Nguyn
@@ -21115,6 +21167,7 @@ OConnells
 OConnor
 OConnors
 OCs
+OD
 OECD
 OF
 OFF
@@ -21335,6 +21388,7 @@ Olaf
 Olam
 Olamide
 Old
+Old-Timers
 Older
 Oldest
 Oldham
@@ -22243,6 +22297,7 @@ Paysafe
 Paytm
 Payton
 Paz
+Pazienza
 Pcresse
 Pea
 Peace
@@ -22351,6 +22406,7 @@ Peppersack
 Pepplers
 Pepsi
 PepsiCo
+Peptide-Packed
 Per
 Percent
 Percentage
@@ -22418,6 +22474,7 @@ Personal
 Personality
 Personnel
 Persons
+Persson
 Persuading
 Persuasion
 Perth
@@ -22926,6 +22983,7 @@ Poodle
 Pooh
 Pool
 Poole
+Pooles
 Pools
 Poolside
 Poon
@@ -23910,6 +23968,7 @@ Raisman
 Raismans
 Rajasthan
 Raje
+Rajguru
 Rajini
 Rajinikanth
 Rajnath
@@ -25617,6 +25676,7 @@ Sajeed
 Sajid
 Saka
 Sake
+Sakhla
 Sakhong
 Sakkari
 Sakubei
@@ -26156,6 +26216,7 @@ Selleck
 Seller
 Sellers
 Selling
+Sellout
 Sells
 Selma
 Selo
@@ -26231,9 +26292,11 @@ Sequencing
 Sequestered
 Sequoia
 Serai
+Serang
 Serbia
 Serbian
 Serbs
+Serdar
 Serena
 Serendipity
 Serene
@@ -26607,6 +26670,7 @@ Shows
 Showtime
 Shraddha
 Shrank
+Shreds
 Shreveport
 Shrews
 Shrewsbury
@@ -26853,6 +26917,7 @@ Sjoerd
 Sjouwerman
 Ska
 Skaggs
+Skagit
 Skanderbeg
 Skate
 Skater
@@ -26939,6 +27004,7 @@ Slavias
 Slayer
 Slaying
 Sledgehammer
+Sledgehammer-wielding
 Sleek
 Sleep
 Sleepers
@@ -26950,6 +27016,7 @@ Sleuth
 Slick
 Slidebean
 Slider
+Slides
 Slight
 Slightly
 Slime
@@ -27254,6 +27321,7 @@ Sorrentino
 Sorrow
 Sorry
 Sort
+Sorts
 Soths
 Soto
 Sotomayor
@@ -28033,6 +28101,7 @@ Suites
 Suits
 Sukeena
 Sukhdarshan
+Sukhdev
 Suki
 Sulaiman
 Sulanga
@@ -28131,6 +28200,7 @@ Supikova
 Suplee
 Supplement
 Supplements
+Suppleness
 Supplier
 Suppliers
 Supplies
@@ -28327,6 +28397,7 @@ Sykov
 Sylas
 Syleena
 Sylhet
+Sylla
 Sylmar
 Sylvies
 Symbiogenesis
@@ -28733,6 +28804,7 @@ Technologies
 Technology
 Techny
 Techs
+Tecklenburg-Schwerin
 Ted
 Teddy
 Tedros
@@ -28983,6 +29055,7 @@ Thinning
 Third
 Third-Party
 Third-largest
+Third-party
 Thirsty
 Thirty-One
 Thiru
@@ -29269,6 +29342,7 @@ Tories
 Torn
 Tornado
 Tornadoes
+Toro
 Toronto
 Torontos
 Torpoint
@@ -29845,6 +29919,7 @@ US-based
 US-born
 US-hosted
 US-led
+US-listed
 US-style
 US10
 US107
@@ -30420,6 +30495,7 @@ Variant
 Variants
 Variety
 Various
+Varlamov
 Varna
 Varnucci
 Varsho
@@ -31006,6 +31082,7 @@ Waple
 War
 War-Torn
 War8217s
+WarTok
 Warburton
 Warby
 Warcraft
@@ -31032,6 +31109,7 @@ Warmth
 Warmup
 Warn
 Warna
+Warne
 Warned
 Warner
 WarnerMedia
@@ -31176,6 +31254,7 @@ Week-long
 Weekend
 Weekend-Long
 Weekends
+Weeklong
 Weekly
 Weeknd
 Weeknds
@@ -31414,6 +31493,7 @@ Wiley
 Wilhelm
 Wilk
 Will
+Willard
 William
 Williams
 Williams-Bulkeley
@@ -31823,6 +31903,7 @@ Yantian
 Yanya
 Yapparova
 Yard
+Yarde
 Yards
 Yarmysh
 Yas
@@ -32002,6 +32083,7 @@ ZF
 ZIONS
 ZIP
 ZSL
+ZTE
 ZYNGA
 ZZ
 Za
@@ -32514,6 +32596,7 @@ alarms
 album
 albums
 alcohol
+alcohol-free
 alcoholic
 alcoholism
 alderman
@@ -32833,6 +32916,7 @@ approximately
 apps
 arbitrage
 arbitration
+arbitration-eligible
 arcade
 arch
 archaeologists
@@ -33392,6 +33476,7 @@ betting
 bettors
 between
 beverage
+beverages
 beware
 beyond
 bhaiyas
@@ -33750,6 +33835,7 @@ brass
 brave
 braved
 brawl
+brazen
 breach
 breached
 breaches
@@ -33913,6 +33999,7 @@ bureaucracy
 bureaucrats
 burger
 burgers
+burglars
 burglary
 burial
 buried
@@ -34074,6 +34161,7 @@ canvases
 canyon
 cap
 cap-and-trade
+capability
 capacity
 capes
 capita
@@ -34387,6 +34475,7 @@ chemicals
 chemistry
 chemists
 chemotherapy
+cheng
 cherry
 chess
 chest
@@ -35754,6 +35843,7 @@ democratic
 democrats
 demolish
 demolished
+demolishing
 demolitions
 demon
 demonetises
@@ -36058,6 +36148,7 @@ discipline
 disciplined
 discloses
 disclosure
+disclosures
 disco
 discography
 discomfort
@@ -36074,6 +36165,7 @@ discovered
 discovering
 discovers
 discovery
+discredited
 discretion
 discriminated
 discriminating
@@ -36599,6 +36691,7 @@ eighth
 either
 ejected
 el
+elaborate
 elated
 elation
 elbow
@@ -37208,6 +37301,7 @@ f
 f---ing
 f-bomb
 fabric
+fabrication
 fabulous
 face
 face-covered
@@ -37278,6 +37372,7 @@ families
 family
 familys
 famine
+famosos
 famous
 famously
 fan
@@ -38690,6 +38785,7 @@ high-profile
 high-ranking
 high-rise
 high-risk
+high-security
 high-speed
 high-stakes
 high-tech
@@ -38716,6 +38812,7 @@ hikes
 hikidanus
 hiking
 hilarious
+hilaris
 hills
 him
 himself
@@ -39296,6 +39393,7 @@ inoculated
 inoculation
 inoculations
 input
+inputs
 inquests
 inquiries
 inquiry
@@ -39367,6 +39465,7 @@ intensified
 intensifies
 intensify
 intensifying
+intensity
 intensive
 intention
 intentional
@@ -39542,6 +39641,7 @@ jeopardy
 jersey
 jet
 jets
+jeweler
 jewellery
 jewelry
 jewels
@@ -39729,6 +39829,8 @@ labeling
 labelled
 labels
 labor
+labor-market
+laboratory
 labour
 labs
 laced
@@ -39862,6 +39964,7 @@ leak
 leakages
 leaked
 leaker
+leakers
 leaking
 leaks
 leaky
@@ -40163,6 +40266,7 @@ lop
 lord
 lorries
 lorry
+los
 lose
 loser
 losers
@@ -40233,6 +40337,7 @@ lure
 lured
 lurking
 lurks
+lust
 luthier
 luxe
 luxury
@@ -41847,6 +41952,7 @@ pay-by-palm
 pay-with-your-hand
 payback
 paycheck
+paychecks
 paycut
 paying
 payment
@@ -41937,6 +42043,7 @@ permit
 permitless
 permits
 permodica
+pernicious
 peroxide
 perpetually
 perplexing
@@ -42153,6 +42260,7 @@ pledge
 pledges
 pledging
 plentiful
+plenty
 plight
 plot
 plots
@@ -43484,6 +43592,7 @@ reprimands
 reprints
 reproductive
 reps
+reptiles
 republicans
 republics
 repudiates
@@ -43989,6 +44098,7 @@ salads
 salaries
 salary
 sale
+sale-and-refund
 sale-ready
 sale-source
 sales
@@ -44123,6 +44233,7 @@ scolds
 scooter
 scope
 scorch
+scorched
 scorches
 scorching
 scorching-hot
@@ -44158,6 +44269,7 @@ screams
 screen
 screened
 screening
+screenplay
 screens
 screwdriver
 script
@@ -44284,6 +44396,7 @@ selfies
 selfish
 sell
 sell-off
+seller
 sellers
 selling
 selloff
@@ -44660,6 +44773,7 @@ sinister
 sink
 sinking
 sinks
+sip
 sipping
 sister
 sister-in-law
@@ -44861,6 +44975,7 @@ snatch
 snatched
 sneak
 sneakers
+sneaks
 sneezing
 sniff
 sniper
@@ -46003,6 +46118,7 @@ term
 terminal
 terminally
 terminate
+terminated
 terminates
 terminations
 terms
@@ -46653,6 +46769,7 @@ ultramarathon
 un
 un-American
 un-suspends
+un-wine
 una
 unabashedly
 unabated
@@ -46690,6 +46807,7 @@ unconscious
 unconstitutional
 uncontained
 uncover
+uncovered
 uncovering
 uncovers
 undemocratic
@@ -46978,6 +47096,7 @@ valid
 validating
 valley
 valuable
+valuables
 valuation
 valuations
 value
@@ -47180,6 +47299,7 @@ vulnerability
 vulnerable
 vultures
 vying
+wAir
 wade
 wading
 waffling
