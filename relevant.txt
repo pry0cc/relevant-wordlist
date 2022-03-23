@@ -16,6 +16,7 @@
 -finance
 -held
 -highlight
+-source
 -sources
 0
 0-0
@@ -991,6 +992,7 @@
 042021
 042321
 044
+050
 067
 0700GMT
 074
@@ -1653,6 +1655,7 @@
 2000
 20000
 200000
+2000s
 2001
 2002
 2003
@@ -3473,6 +3476,7 @@ Aisha
 AishaArticle
 Ait-Nouri
 Aja
+Ajax
 Ajay
 Ajayi
 Ajit
@@ -4545,6 +4549,7 @@ Aug
 Augsburg
 August
 Augusta
+Auguste
 Aukus
 Aulacophora
 Ault
@@ -4702,6 +4707,7 @@ Azakami
 Azalea
 Azarow
 Azerbaijan
+Azhar
 Aziz
 Azizia
 Azizyan
@@ -4790,6 +4796,7 @@ BNB
 BNT
 BOEHNING
 BOJ
+BOK
 BOOK
 BOS
 BOSTON
@@ -5116,6 +5123,7 @@ Bartys
 Baruah
 Barwar
 Barz
+Barzal
 Bas
 Base
 BaseCamp
@@ -5182,6 +5190,7 @@ Bauer
 Bauke
 Baumgartner
 Bausch
+Baussan
 Bauten
 Bautista
 Bawa
@@ -5516,6 +5525,7 @@ Bhekizizwe
 Bhitali
 Bhojpuri
 Bhuria
+Bhushan
 Bhutan
 Bia
 Bialik
@@ -7613,6 +7623,7 @@ Cherchesov
 Chereque
 Cherish
 Chermak
+Chernihiv
 Chernobyl
 Cherokee
 Cherry
@@ -8222,6 +8233,7 @@ Comes
 Comfort
 Comfortable
 Comforter
+Comfy
 Comic
 Coming
 Comit
@@ -9579,6 +9591,7 @@ Defining
 Definite
 Definitely
 Deflating
+Defoes
 Defonte
 Defraud
 Defrauding
@@ -9594,6 +9607,7 @@ Dei
 Deightoniella
 Deion
 Deja
+Dejan
 Del
 Delaunay
 Delaware
@@ -11648,6 +11662,7 @@ Excitement
 Exciting
 Excluded
 Exclusive
+Exclusive-Activist
 Exclusive-Cannabis
 Exclusive-GM
 Exclusive-Robinhood
@@ -12334,6 +12349,7 @@ Financial-Theft
 Financially
 Financials
 Financiers
+Financing
 Finau-Champ
 Finch
 Find
@@ -13074,6 +13090,7 @@ Gabriele
 Gabrielle
 Gabsa
 Gadgets
+Gadkari
 Gadot
 Gadots
 Gaetano
@@ -13381,6 +13398,7 @@ Ghostbusters
 Ghosts
 Ghostwire
 Ghoulish
+Ghulam
 Giada
 Giadas
 Giambi
@@ -13747,6 +13765,7 @@ Grayna
 Grayscale
 Grayscales
 Graze
+Grazia
 Graziosa
 Grbrdretorv
 Grbz
@@ -14944,6 +14963,7 @@ Hood
 Hook
 Hooker
 Hooks
+Hooktusk
 Hooper
 Hooray
 Hoosier
@@ -15071,6 +15091,7 @@ Hozier
 Hrdin
 Hrezi
 Hsien
+Hsu
 Hu
 Huai
 Huaixi
@@ -16073,6 +16094,7 @@ JPMorgans
 JR
 JROTC
 JT
+JV
 Ja
 JaMal
 JaMarr
@@ -16156,6 +16178,7 @@ Jamet
 Jami
 Jamie
 Jamies
+Jamison
 Jamming
 Jammu
 Jamo
@@ -16963,6 +16986,7 @@ Khalid
 Khamis
 Khan
 Khan-Brook
+Khanduri
 Khang
 Khangoshvili
 Khao
@@ -17931,6 +17955,7 @@ Levy
 Levys
 Lewandowski
 Lewd
+Lewington
 Lewinsky
 Lewis
 Lewisville
@@ -18064,6 +18089,7 @@ Linden
 Lindenhurst
 Lindenwold
 Lindholm
+Lindi
 Lindner
 Lindo
 Lindor
@@ -18438,6 +18464,7 @@ Lunches
 Lund
 Lundgren
 Lung
+Lunge
 Lunico
 Luo
 Lupica
@@ -18561,6 +18588,7 @@ MINISTERIAL
 MIS-C
 MISSING
 MIT
+MJ
 MJCCA
 ML
 MLB
@@ -18601,6 +18629,7 @@ MPS
 MPs
 MRI
 MRIs
+MRTT
 MS
 MS-13
 MSF
@@ -20092,6 +20121,7 @@ Montenegro
 Monterey
 Monterey-SLO
 Monterrey
+Monterrey20
 Montes
 Montgomery
 Montgomerys
@@ -20194,6 +20224,7 @@ Moscow
 Moscow-born
 Moscows
 Mose
+Moseleys
 Moses
 Mosesson
 Mosh
@@ -20409,6 +20440,7 @@ Music
 Musical
 Musicals
 Musician
+Musicians
 Musk
 Musks
 Muslim
@@ -20663,6 +20695,7 @@ Naive
 Naiwala
 Najee
 Najib
+Naka
 Nakamoto
 Nakamura
 Nakanjako
@@ -20754,6 +20787,7 @@ Nation
 Nation-State
 Nation-Ticketmaster
 National
+NationalPuppyDay
 Nationalism
 Nationals
 Nations
@@ -21059,6 +21093,7 @@ Nirut
 Nirvana
 Nischelle
 Nissan
+Nitin
 Nitish
 Nitro
 NitroRansomware
@@ -21401,6 +21436,7 @@ Oakridge
 Oaks
 Oaktree
 Oakwoods
+Oasis
 Oasys
 Oates
 Oath
@@ -21466,6 +21502,7 @@ Ode
 Odell
 Odenigbo
 Odenkirk
+Odesa
 Odessa
 Odessas
 Odete
@@ -22274,6 +22311,7 @@ Parc
 Pardi
 Pardoned
 Pardons
+Pareanin
 Parent
 Parenthood
 Parenting
@@ -22643,6 +22681,7 @@ Persuading
 Persuasion
 Perth
 Perths
+Pertiwi
 Peru
 Pervasive
 Pervyshov
@@ -22870,6 +22909,7 @@ Piping
 Pippen
 Pippens
 Piracy
+Pirate
 Pirated
 Pirates
 Pirlo
@@ -23245,6 +23285,7 @@ Post-apocalyptic
 Post-coup
 Post-covid
 Postal
+Postbank
 Postcards
 Postecoglou
 Posted
@@ -23308,6 +23349,7 @@ Powerrr
 Powers
 Powerscourt
 Powwows
+Pozdnyakova
 Pparo
 Prabal
 Prabhakar
@@ -24713,6 +24755,7 @@ Renault
 Rendered
 Rendon
 Rene
+Renesas
 Renew
 Renewable
 Renewal
@@ -25105,6 +25148,7 @@ Rittenhouse
 Rittenhouses
 Ritter
 Rittmanic
+Ritu
 Ritz
 Ritz-Carlton
 Rival
@@ -25633,6 +25677,7 @@ SEVERE
 SF
 SFC
 SFL
+SFPD
 SFPOA
 SFUSD
 SFs
@@ -26369,6 +26414,7 @@ Segars
 Segment
 Segura
 Sehr
+Seiko
 Seine-Eure
 Seinudeen
 Seizans
@@ -26596,6 +26642,7 @@ ShadowPad
 Shadowlands
 Shadows
 Shady
+Shafique
 Shaft
 Shah
 Shahadat-e
@@ -26753,6 +26800,7 @@ Shih
 Shihlun
 Shilling
 Shilovo
+Shiltons
 Shimao
 Shimaos
 Shin
@@ -26992,6 +27040,7 @@ Silvergate
 Silverman
 Silvermine
 Silverthorne
+Silverton
 Silverware
 Silvia
 Silvija
@@ -28352,6 +28401,7 @@ Sunflower
 Sunglasses
 Sunhoe
 Sunk
+Sunken
 Sunniest
 Sunny
 Sunnyvale
@@ -29083,6 +29133,7 @@ Tensei
 Tension-Filled
 Tensions
 Tent
+Tentative
 Tents
 Tenzs
 Teo
@@ -29529,6 +29580,7 @@ Top-Seeded
 Top-ranked
 Topkapi
 Topless
+Topluca
 Topped
 Toppers
 Toppin
@@ -29940,6 +29992,7 @@ Tune
 Tune-Ups
 Tune-Yards
 Tunes
+Tung-chih
 Tunie
 Tunisia
 Tunisian
@@ -30699,6 +30752,7 @@ Vare
 Variable
 Variant
 Variants
+Variations
 Variety
 Various
 Varlamov
@@ -30866,6 +30920,7 @@ Vides
 Videsh
 Vidette
 Vie
+Vieira
 Viejo
 Vienna
 Vienne
@@ -31076,6 +31131,7 @@ Vows
 Vox
 Voxs
 Voya
+Voyage
 Vrabel
 Vrana
 Vries
@@ -31204,6 +31260,7 @@ Wahib
 Wahl
 Wahlberg
 Wahlburgers
+Wahlstrom-Mathew
 Wait
 Waite
 Waiting
@@ -32110,6 +32167,7 @@ Yangon
 Yangs
 Yangtze
 Yanjiao
+Yank
 Yankee
 Yankees
 Yankees-Red
@@ -32194,6 +32252,7 @@ Yinjifu
 Yishun
 Yldrm
 Ymr
+Ynel
 Ynoa
 Yo
 Yobe
@@ -33638,6 +33697,7 @@ begs
 begun
 behalf
 behave
+behaved
 behavior
 behaviour
 beheaded
@@ -33764,6 +33824,7 @@ biopic
 bipartisan
 bipartisanship
 biracial
+birch
 bird
 birds
 birth
@@ -34013,6 +34074,7 @@ bovine
 bow
 bowed
 bowl
+bowlers
 bowling
 box
 box-office
@@ -34270,6 +34332,7 @@ buyback
 buyer
 buyers
 buying
+buyout
 buys
 buzz
 buzzer-beater
@@ -35389,6 +35452,7 @@ cooperate
 cooperating
 cooperation
 cooperations
+coordinate
 coordination
 coordinator
 cop
@@ -38642,6 +38706,7 @@ grills
 grim
 grind
 grinder
+grinding
 grip
 gripping
 grips
@@ -39221,6 +39286,7 @@ hours
 hours-long
 house
 house-price
+houseboat
 housebuilders
 household
 households
@@ -39466,6 +39532,7 @@ inaction
 inactives
 inadequate
 inappropriate
+inappropriately
 inaugural
 inaugurate
 inaugurated
@@ -39539,6 +39606,7 @@ individuals
 indoor
 indoors
 induced
+inducted
 inductionha
 industrial
 industrials
@@ -39720,6 +39788,7 @@ intensify
 intensifying
 intensity
 intensive
+intent
 intention
 intentional
 intentionally
@@ -40041,6 +40110,7 @@ kits
 kitten
 kittens
 kiztepe
+km
 knee
 knee-jerk
 kneeing
@@ -41526,6 +41596,7 @@ no-knock
 no-no
 no-nonsense
 no-show
+no1
 nobody
 nod
 nods
@@ -42516,6 +42587,7 @@ playoff
 playoffs
 plays
 playtest
+plazas
 plc
 plea
 plead
@@ -42766,6 +42838,7 @@ pre-emptive
 pre-evacuations
 pre-opening
 pre-pandemic
+pre-quake
 pre-race
 pre-register
 pre-show
@@ -43165,6 +43238,7 @@ pupil
 pupils
 puppies
 puppy
+pups
 purchase
 purchased
 purchases
@@ -43648,6 +43722,7 @@ regain
 regains
 regarding
 regardless
+reggae
 regime
 regimen
 region
@@ -44459,6 +44534,7 @@ scamming
 scams
 scan
 scandal
+scandalous
 scandals
 scanned
 scanner
@@ -44661,6 +44737,7 @@ selector
 selects
 self
 self-care
+self-defence
 self-defense
 self-driving
 self-government
@@ -45322,12 +45399,14 @@ sold
 soldier
 soldiers
 sole
+solicit
 solicitation
 soliciting
 solid
 solidarity
 solidified
 solitary
+solitude
 solo
 solution
 solutions
@@ -46647,6 +46726,7 @@ toddlers
 toe
 tofu
 together
+toil
 toilet
 toilets
 toke
@@ -46784,6 +46864,7 @@ trader
 traders
 trades
 trading
+tradition
 traditional
 traditions
 traffic
@@ -46991,6 +47072,7 @@ tumbling
 tumour
 tuna
 tune
+tunes
 tunnel
 turban
 turbines
@@ -47245,6 +47327,7 @@ unreservedly
 unresolved
 unrest
 unrestricted
+unretires
 unruly
 unsafe
 unsanitary
@@ -47478,6 +47561,7 @@ videogame
 videos
 viene
 view
+viewed
 viewers
 viewing
 viewpoint
@@ -48019,6 +48103,7 @@ wound
 wounded
 wounds
 wows
+wrangling
 wrapper
 wrapping
 wraps

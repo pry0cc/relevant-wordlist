@@ -13,6 +13,7 @@
 -held
 -highlight
 -sharpton
+-source
 -sources
 -wh
 -white
@@ -990,6 +991,7 @@
 042021
 042321
 044
+050
 067
 0700gmt
 074
@@ -1622,6 +1624,7 @@
 2000
 20000
 200000
+2000s
 2001
 2002
 2003
@@ -3380,6 +3383,7 @@ ait-nouri
 aiv
 aj
 aja
+ajax
 ajay
 ajayi
 ajit
@@ -4743,6 +4747,7 @@ augmented
 augsburg
 august
 augusta
+auguste
 aukus
 aulacophora
 ault
@@ -4932,6 +4937,7 @@ azakami
 azalea
 azarow
 azerbaijan
+azhar
 aziz
 azizia
 azizyan
@@ -5321,6 +5327,7 @@ baruah
 barwar
 barystachys
 barz
+barzal
 bas
 base
 baseball
@@ -5407,6 +5414,7 @@ bauer
 bauke
 baumgartner
 bausch
+baussan
 bauten
 bautista
 bawa
@@ -5558,6 +5566,7 @@ begun
 behalf
 behar
 behave
+behaved
 behaving
 behavior
 behavioral
@@ -5809,6 +5818,7 @@ bhlb
 bhojpuri
 bhp
 bhuria
+bhushan
 bhutan
 bi-state
 bia
@@ -6320,6 +6330,7 @@ boise
 boiz
 boj
 bojo
+bok
 bokaro
 bol
 boland
@@ -6537,6 +6548,7 @@ bowies
 bowl
 bowl-caliber
 bowler
+bowlers
 bowling
 bowls
 bowman
@@ -7165,6 +7177,7 @@ buyback
 buyer
 buyers
 buying
+buyout
 buys
 buzz
 buzzer
@@ -8210,6 +8223,7 @@ cherchesov
 chereque
 cherish
 chermak
+chernihiv
 chernobyl
 cherokee
 cherry
@@ -10725,6 +10739,7 @@ defis
 deflating
 deflecting
 deflections
+defoes
 defonte
 deforestation
 defraud
@@ -10754,6 +10769,7 @@ deightoniella
 deion
 deja
 deja-vu
+dejan
 dejesus
 dejong
 dekalb
@@ -13455,6 +13471,7 @@ excluded
 excludes
 exclusionist
 exclusive
+exclusive-activist
 exclusive-cannabis
 exclusive-gm
 exclusive-robinhood
@@ -15165,6 +15182,7 @@ gabsa
 gacha
 gadget
 gadgets
+gadkari
 gadot
 gadots
 gaetano
@@ -15542,6 +15560,7 @@ ghosts
 ghostwire
 ghoulish
 ghouls
+ghulam
 ghumpty
 gi
 gi-dle
@@ -16009,6 +16028,7 @@ grayscale
 grayscales
 graystone
 graze
+grazia
 graziosa
 grbrdretorv
 grbz
@@ -16115,6 +16135,7 @@ grimsby
 grinch
 grind
 grinder
+grinding
 griner
 griners
 grip
@@ -17413,6 +17434,7 @@ hook
 hooked
 hooker
 hooks
+hooktusk
 hoop
 hooper
 hoops
@@ -17536,6 +17558,7 @@ hours-long
 house
 house-price
 house-style
+houseboat
 housebuilders
 housed
 houseguest
@@ -17585,6 +17608,7 @@ hs
 hs0405
 hsbc
 hsien
+hsu
 html
 https
 hu
@@ -18116,6 +18140,7 @@ inad
 inadequate
 inadvertently
 inappropriate
+inappropriately
 inaugural
 inaugurate
 inaugurated
@@ -18231,6 +18256,7 @@ indore
 indrani
 indrek
 induced
+inducted
 induction
 inductionha
 indulgent
@@ -18928,6 +18954,7 @@ jamet
 jami
 jamie
 jamies
+jamison
 jamming
 jammu
 jamo
@@ -19401,6 +19428,7 @@ juventes
 juventus
 juves
 juzang
+jv
 jyoti
 k
 k-12
@@ -19754,6 +19782,7 @@ khalid
 khamis
 khan
 khan-brook
+khanduri
 khang
 khangoshvili
 khao
@@ -19938,6 +19967,7 @@ klopp
 kluber
 klum
 klux
+km
 kmart
 kmox
 kmr
@@ -20815,6 +20845,7 @@ levy
 levys
 lewandowski
 lewd
+lewington
 lewinsky
 lewis
 lewisville
@@ -20987,6 +21018,7 @@ linden
 lindenhurst
 lindenwold
 lindholm
+lindi
 lindner
 lindo
 lindor
@@ -21461,6 +21493,7 @@ lunches
 lund
 lundgren
 lung
+lunge
 lunging
 lungs
 lunico
@@ -23073,6 +23106,7 @@ mizanin
 mize
 mizuho
 mizzou
+mj
 mjcca
 ml
 mlaga
@@ -23295,6 +23329,7 @@ montenegro
 monterey
 monterey-slo
 monterrey
+monterrey20
 montes
 montgomery
 montgomerys
@@ -23407,6 +23442,7 @@ moscow
 moscow-born
 moscows
 mose
+moseleys
 moses
 mosesson
 mosh
@@ -23531,6 +23567,7 @@ mrna
 mrna-technology
 mrquez
 mrs
+mrtt
 mrum
 ms
 ms-13
@@ -23830,6 +23867,7 @@ naive
 naiwala
 najee
 najib
+naka
 nakamoto
 nakamura
 nakanjako
@@ -23936,6 +23974,7 @@ nationalists
 nationality
 nationalize
 nationally
+nationalpuppyday
 nationals
 nations
 nationwide
@@ -24370,6 +24409,7 @@ nischelle
 nissan
 nist
 nit
+nitin
 nitish
 nitro
 nitroransomware
@@ -24868,6 +24908,7 @@ ode
 odell
 odenigbo
 odenkirk
+odesa
 odessa
 odessas
 odete
@@ -25760,6 +25801,7 @@ pardi
 pardon
 pardoned
 pardons
+pareanin
 parent
 parental
 parenthood
@@ -26247,6 +26289,7 @@ persuasion
 pertaining
 perth
 perths
+pertiwi
 peru
 pervasive
 pervyshov
@@ -26534,6 +26577,7 @@ pippen
 pippens
 pips
 piracy
+pirate
 pirated
 pirates
 pirlo
@@ -26683,6 +26727,7 @@ plays
 playstation
 playtest
 plaza
+plazas
 plby
 plc
 plcido
@@ -27032,6 +27077,7 @@ post-trump
 post-vaccination
 post-vaccine
 postal
+postbank
 postcards
 postecoglou
 posted
@@ -27114,6 +27160,7 @@ powerscourt
 powershell
 pows
 powwows
+pozdnyakova
 pparo
 ppi
 ppots
@@ -27182,6 +27229,7 @@ pre-nfl
 pre-opening
 pre-ordering
 pre-pandemic
+pre-quake
 pre-race
 pre-register
 pre-show
@@ -27776,6 +27824,7 @@ pupils
 puppet
 puppies
 puppy
+pups
 pur
 puran
 purcell
@@ -28727,6 +28776,7 @@ regen
 regenerative
 regeneron
 regents
+reggae
 regger
 reggie
 regild
@@ -28951,6 +29001,7 @@ rendered
 rendon
 rene
 renegade
+renesas
 renew
 renewable
 renewal
@@ -29503,6 +29554,7 @@ rittenhouse
 rittenhouses
 ritter
 rittmanic
+ritu
 ritz
 ritz-carlton
 rival
@@ -30462,6 +30514,7 @@ scams
 scan
 scandal
 scandal-hit
+scandalous
 scandals
 scandinavian
 scanned
@@ -30821,6 +30874,7 @@ segura
 sehr
 sei
 seiffer
+seiko
 seine-eure
 seinudeen
 seismic
@@ -30845,6 +30899,7 @@ selena
 self
 self-assessment
 self-care
+self-defence
 self-defense
 self-driving
 self-government
@@ -31083,6 +31138,7 @@ sf
 sfc
 sfl
 sfntu
+sfpd
 sfpoa
 sfr
 sfs
@@ -31109,6 +31165,7 @@ shadowpad
 shadows
 shadowy
 shady
+shafique
 shaft
 shafts
 shah
@@ -31286,6 +31343,7 @@ shih
 shihlun
 shilling
 shilovo
+shiltons
 shimao
 shimaos
 shin
@@ -31593,6 +31651,7 @@ silvergate
 silverman
 silvermine
 silverthorne
+silverton
 silverware
 silvia
 silvija
@@ -32199,6 +32258,7 @@ soldiers
 sole
 soleil
 solemn
+solicit
 solicitation
 soliciting
 solid
@@ -32207,6 +32267,7 @@ solidified
 solidonia
 solis
 solitary
+solitude
 solo
 solo-vehicle
 solomon
@@ -33438,6 +33499,7 @@ sunflower
 sunglasses
 sunhoe
 sunk
+sunken
 sunlight
 sunniest
 sunny
@@ -34284,6 +34346,7 @@ tension
 tension-filled
 tensions
 tent
+tentative
 tents
 tenuicephalus
 tenzs
@@ -34790,6 +34853,7 @@ together
 togetherness
 togg
 tohokudoc
+toil
 toilet
 toilets
 toke
@@ -34869,6 +34933,7 @@ top-two
 topics
 topkapi
 topless
+topluca
 topped
 toppers
 toppin
@@ -35415,6 +35480,7 @@ tune
 tune-ups
 tune-yards
 tunes
+tung-chih
 tunie
 tunisia
 tunisian
@@ -35937,6 +36003,7 @@ unresolved
 unrest
 unrestricted
 unretirement
+unretires
 unruly
 uns
 unsafe
@@ -36528,6 +36595,7 @@ vides
 videsh
 vidette
 vie
+vieira
 viejo
 viene
 vienna
@@ -36791,6 +36859,7 @@ vows
 vox
 voxs
 voya
+voyage
 voyeur
 voyeurism
 vp
@@ -36860,6 +36929,7 @@ wahib
 wahl
 wahlberg
 wahlburgers
+wahlstrom-mathew
 wair
 waist
 waist-high
@@ -37986,6 +38056,7 @@ yangon
 yangs
 yangtze
 yanjiao
+yank
 yankee
 yankees
 yankees-red
@@ -38085,6 +38156,7 @@ yishun
 yldrm
 ymca
 ymr
+ynel
 ynoa
 yo
 yobe
